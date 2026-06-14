@@ -1,4 +1,4 @@
-const v='20260614-project-atlas-v2';
+const v='20260614-blog-watch-v1';
 const esc=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const idOf=p=>String(p.handle||p.name||'unknown').replace(/^@/,'');
 const normUrl=u=>String(u||'').replace(/\?.*$/,'').replace(/\/$/,'');
