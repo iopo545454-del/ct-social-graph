@@ -15,7 +15,8 @@ function renderMatrix(){
   wrap.innerHTML=`<div class="matrix-corner">Trader</div>${projects.map(p=>`<div class="matrix-col"><span>@${esc(p)}</span></div>`).join('')}`+
     traders.map(t=>`<div class="matrix-row-label">@${esc(t)}</div>`+projects.map(p=>{const c=cells.get(`${t}|${p}`); const level=!c?0:Math.min(3,Math.ceil(c.score/2)); return `<button class="matrix-cell heat h${level}" data-trader="${esc(t)}" data-project="${esc(p)}" title="@${esc(t)} × @${esc(p)}">${c?c.items.length:''}</button>`}).join('')).join('');
   wrap.querySelectorAll('.matrix-cell').forEach(el=>el.addEventListener('click',()=>inspect(el.dataset.trader,el.dataset.project,cells.get(`${el.dataset.trader}|${el.dataset.project}`))));
-  inspect(traders[0],projects[0],cells.get(`${traders[0]}|${projects[0]}`));
+  const first=[...cells.keys()][0]?.split('|') || [traders[0],projects[0]];
+  inspect(first[0],first[1],cells.get(`${first[0]}|${first[1]}`));
 }
 function inspect(t,p,c){
   const prof=data.profiles.find(x=>norm(x.handle)===t);
