@@ -1,0 +1,65 @@
+[
+  {
+    "handle": "coin_casanova",
+    "tier": 1,
+    "kind": "individual",
+    "status": "tracked",
+    "reason": "User-supplied seed account"
+  },
+  {
+    "handle": "0xGeeGee",
+    "tier": 1,
+    "kind": "individual",
+    "status": "tracked",
+    "reason": "User-supplied seed account"
+  },
+  {
+    "handle": "AustinBarack",
+    "tier": 1,
+    "kind": "individual",
+    "status": "tracked",
+    "reason": "User-supplied seed account"
+  },
+  {
+    "handle": "airtightfish",
+    "tier": 1,
+    "kind": "individual",
+    "status": "tracked",
+    "reason": "User-supplied seed account"
+  },
+  {
+    "handle": "game_for_one",
+    "tier": 1,
+    "kind": "individual",
+    "status": "tracked",
+    "reason": "User-supplied seed account"
+  },
+  {
+    "handle": "CryptoTomYT",
+    "tier": 1,
+    "kind": "individual",
+    "status": "tracked",
+    "reason": "User-supplied seed account"
+  },
+  {
+    "handle": "zuqaquz",
+    "tier": 1,
+    "kind": "individual",
+    "status": "tracked",
+    "reason": "User-supplied seed account"
+  },
+  {
+    "handle": "MoneyPrinter0x",
+    "tier": 1,
+    "kind": "individual",
+    "status": "tracked",
+    "reason": "User-supplied seed account"
+  },
+  {
+    "handle": "kelxyz_",
+    "tier": 1,
+    "kind": "individual",
+    "status": "tracked",
+    "reason": "User-supplied seed account"
+  }
+]

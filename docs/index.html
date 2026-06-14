@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CT Social Graph</title>
+  <link rel="stylesheet" href="style.css?v=20260614-v1" />
+</head>
+<body>
+  <header>
+    <p class="eyebrow">Hermes Research</p>
+    <h1>CT Social Graph</h1>
+    <p>Social-first tracker for seed CT accounts, thoughtful interactions, and emerging second-circle accounts/projects.</p>
+  </header>
+  <main>
+    <section class="controls">
+      <input id="search" type="search" placeholder="Filter handles, tiers, kinds, reasons, topics…" />
+      <select id="tier"><option value="">All tiers</option><option value="1">Tier 1</option><option value="2">Tier 2</option></select>
+      <select id="kind"><option value="">All kinds</option><option>individual</option><option>project</option></select>
+    </section>
+    <section class="grid">
+      <div class="panel wide">
+        <div class="panel-head"><div><p class="eyebrow">Network</p><h2>Accounts</h2></div><span id="accountCount">Loading…</span></div>
+        <div id="accounts" class="cards"></div>
+      </div>
+      <div class="panel">
+        <div class="panel-head"><div><p class="eyebrow">Graph evidence</p><h2>Interactions</h2></div><span id="interactionCount">Loading…</span></div>
+        <div id="interactions" class="list"></div>
+      </div>
+      <div class="panel">
+        <div class="panel-head"><div><p class="eyebrow">Social feed</p><h2>Notable posts</h2></div><span id="postCount">Loading…</span></div>
+        <div id="posts" class="list"></div>
+      </div>
+      <div class="panel wide">
+        <div class="panel-head"><div><p class="eyebrow">Expansion queue</p><h2>Candidates</h2></div><span id="candidateCount">Loading…</span></div>
+        <div id="candidates" class="list"></div>
+      </div>
+    </section>
+  </main>
+  <script src="app.js?v=20260614-v1"></script>
+</body>
+</html>
