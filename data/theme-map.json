@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-06-14",
-  "profile_updated_at": "2026-06-14T07:05:00Z",
+  "profile_updated_at": "2026-06-14T11:59:07Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -40,9 +40,11 @@
         "Pluralis",
         "GenLayer",
         "HKEX:2513 / GLM",
-        "open-source models"
+        "open-source models",
+        "EIGEN / EigenCloud",
+        "SERV / OpenServ"
       ],
-      "summary": "Observed X/Twitter evidence spans GeeGee on inference cost/observability, MoneyPrinter0x on deterministic AI-agent harnesses, and kelxyz_ on inference incentives and model-parallel training. These are adjacent but not identical themes, so keep examples close to source posts. MoneyPrinter0x added an explicit GLM/HKEX:2513 open-source-model trade idea tied to Anthropic restrictions.",
+      "summary": "Observed X/Twitter evidence spans GeeGee on inference cost/observability plus a June 14 EIGEN/SERV AI-infra watchlist, MoneyPrinter0x on deterministic AI-agent harnesses, and kelxyz_ on inference incentives and model-parallel training. These are adjacent but not identical themes, so keep examples close to source posts.",
       "evidence_urls": [
         "https://x.com/0xGeeGee/status/2065771227743138126",
         "https://x.com/MoneyPrinter0x/status/2065910048833102118",
@@ -50,7 +52,8 @@
         "https://x.com/kelxyz_/status/2064825463818576107",
         "https://x.com/kelxyz_/status/2063836178990633419",
         "https://x.com/MoneyPrinter0x/status/2065948240198144201",
-        "https://x.com/MoneyPrinter0x/status/2066030025942655219"
+        "https://x.com/MoneyPrinter0x/status/2066030025942655219",
+        "https://x.com/0xGeeGee/status/2066111310916694078"
       ],
       "momentum": "rising",
       "confidence": "medium"
@@ -102,20 +105,23 @@
       "accounts_positive": [
         "coin_casanova",
         "CryptoTomYT",
-        "airtightfish"
+        "airtightfish",
+        "0xGeeGee"
       ],
       "accounts_negative": [],
       "projects": [
         "Derive",
         "Tradexyz",
-        "ProofMarkets"
+        "ProofMarkets",
+        "Variational"
       ],
-      "summary": "Observed posts show coin_casanova arguing for organic crypto options demand, CryptoTomYT highlighting public trading performance around Tradexyz assets, and airtightfish building/promoting ProofMarkets. These are separate infra/venue references rather than one unified thesis.",
+      "summary": "Observed posts show coin_casanova arguing for organic crypto options demand, CryptoTomYT highlighting Tradexyz performance context, airtightfish building/promoting ProofMarkets, and 0xGeeGee naming Variational as his favorite day-to-day short-term venue. These are separate infra/venue references rather than one unified thesis.",
       "evidence_urls": [
         "https://x.com/coin_casanova/status/2063848704499687605",
         "https://x.com/CryptoTomYT/status/2065238474907607090",
         "https://x.com/i/status/2065312922532753505",
-        "https://x.com/airtightfish/status/2064390683440341286"
+        "https://x.com/airtightfish/status/2064390683440341286",
+        "https://x.com/0xGeeGee/status/2066111310916694078"
       ],
       "momentum": "emerging",
       "confidence": "medium"
@@ -174,11 +180,31 @@
       ],
       "momentum": "emerging",
       "confidence": "medium"
+    },
+    {
+      "theme": "RWA / tokenized credit and equities",
+      "accounts_positive": [
+        "0xGeeGee"
+      ],
+      "accounts_negative": [],
+      "projects": [
+        "MORPHO",
+        "Backpack / BP",
+        "Securitize / CEPT",
+        "Variational"
+      ],
+      "summary": "Fresh 2026-06-14 GeeGee thread framed RWA/tokenized equities as a watchable lane: MORPHO for open credit/yield-bearing assets, Backpack/BP for tokenized brokerage on Solana, Securitize/CEPT as reverse-merger context, and Variational adding RWA markets. Single-account bucket for now.",
+      "evidence_urls": [
+        "https://x.com/0xGeeGee/status/2066111310916694078"
+      ],
+      "momentum": "emerging",
+      "confidence": "medium"
     }
   ],
   "open_questions": [
     "game_for_one produced no visible searchable evidence in the window; retry broader/manual scans.",
     "Several reply-only i/status links need counterparties for cleaner interaction graph edges.",
-    "Do not over-read one-off ticker/trade mentions such as SPCX, BB, ZEC, WLD, Maple Classic without recurrence."
+    "Do not over-read one-off ticker/trade mentions such as SPCX, BB, ZEC, WLD, Maple Classic without recurrence.",
+    "Verify whether RWA/tokenized-equity mentions become repeated across other Tier 1 accounts or remain a GeeGee-only June 14 watchlist."
   ]
 }

@@ -151,8 +151,8 @@
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
     "period_end": "2026-06-14",
-    "profile_updated_at": "2026-06-14T07:05:00Z",
-    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with a practical focus on AI inference economics, DeFi's continuing purpose, risk correlations, and second-order AI trades. Interpretation confidence is medium; much of the evidence came from replies.",
+    "profile_updated_at": "2026-06-14T11:59:07Z",
+    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with a practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Interpretation confidence is now medium-high after a detailed June 14 thesis thread.",
     "likes": [
       {
         "theme": "AI inference efficiency and optimization layers",
@@ -179,6 +179,30 @@
           "https://x.com/0xGeeGee/status/2064323000690716869"
         ],
         "confidence": "medium"
+      },
+      {
+        "theme": "AI infrastructure with efficiency/privacy/revenue hooks",
+        "summary": "Detailed thread framed 2026 AI as moving from raw spend to efficiency, observability, privacy, and cheaper open-source/decentralized alternatives; highlighted EIGEN/EigenCloud/DarkBloom and SERV/OpenServ as examples.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2066111310916694078"
+        ],
+        "confidence": "high"
+      },
+      {
+        "theme": "RWA credit and tokenized brokerage rails",
+        "summary": "Named MORPHO as dominant open-credit/yield-bearing-assets player and BP/Backpack/Securitize as watch items for tokenized equities/brokerage.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2066111310916694078"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "Cash-heavy portfolio construction",
+        "summary": "Reply described aiming for roughly 45-55% cash/equivalents, drifting toward 40-45%, and keeping gold capped around 5%.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2066117881079951822"
+        ],
+        "confidence": "medium"
       }
     ],
     "dislikes": [
@@ -203,6 +227,14 @@
         "summary": "Quoted PumpFun buyback discourse and reduced the drawdown to more sellers than buyers, suggesting skepticism toward buyback-only support stories.",
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2066046798893089202"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "Post-inclusion crowded-index trades",
+        "summary": "Short/puts RKLB after Nasdaq-100 inclusion based on historical addition mechanics and a belief the SpaceX proxy catalyst was already priced.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2066111310916694078"
         ],
         "confidence": "medium"
       }
@@ -234,6 +266,60 @@
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2066046798893089202"
         ]
+      },
+      {
+        "name": "EIGEN / EigenCloud",
+        "handle": "eigencloud",
+        "stance": "positive",
+        "summary": "Bought some EIGEN after the EigenLayer pivot to EigenCloud/DarkBloom AI inference; sees lower FDV and possible revenue accrual, while acknowledging restaking disappointment.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2066111310916694078"
+        ]
+      },
+      {
+        "name": "SERV / OpenServ",
+        "handle": "openservai",
+        "stance": "positive",
+        "summary": "Higher-conviction AI-agent reasoning/orchestration layer mention with adoption and buyback/burn-style revenue mechanics; caveat around vocal hype.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2066111310916694078"
+        ]
+      },
+      {
+        "name": "MORPHO",
+        "handle": "Morpho",
+        "stance": "positive",
+        "summary": "Framed as clear leader in open credit/yield-bearing tokenized assets, helped by institutional funding.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2066111310916694078"
+        ]
+      },
+      {
+        "name": "Backpack / BP",
+        "handle": "Backpack",
+        "stance": "watching",
+        "summary": "Watching tokenized brokerage/assets on Solana with low circulating supply; caveated team/usage concerns.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2066111310916694078"
+        ]
+      },
+      {
+        "name": "Variational",
+        "handle": "variational_io",
+        "stance": "positive",
+        "summary": "Favorite exchange for day-to-day short-term trading due to market variety and RWA additions, while noting spreads/offering still imperfect.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2066111310916694078"
+        ]
+      },
+      {
+        "name": "RKLB",
+        "handle": null,
+        "stance": "negative",
+        "summary": "Holds puts/short after Nasdaq-100 inclusion based on post-addition underperformance mechanics and SpaceX-proxy catalyst pricing.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2066111310916694078"
+        ]
       }
     ],
     "people_respected": [],
@@ -244,14 +330,18 @@
     },
     "open_questions": [
       "Need more authored posts to separate personal portfolio preferences from analytical commentary.",
-      "Identify the counterparties/threads behind DeFi and ETH valuation replies for better interaction edges."
+      "Identify the counterparties/threads behind DeFi and ETH valuation replies for better interaction edges.",
+      "Track whether EIGEN/SERV/MORPHO/BP/Variational are durable account preferences or one long-thread watchlist items."
     ],
     "evidence_urls": [
       "https://x.com/0xGeeGee/status/2065771227743138126",
       "https://x.com/0xGeeGee/status/2063156957541003404",
       "https://x.com/0xGeeGee/status/2064323000690716869",
       "https://x.com/0xGeeGee/status/2064955445526303081",
-      "https://x.com/0xGeeGee/status/2066046798893089202"
+      "https://x.com/0xGeeGee/status/2066046798893089202",
+      "https://x.com/0xGeeGee/status/2066111310916694078",
+      "https://x.com/0xGeeGee/status/2066117881079951822",
+      "https://x.com/0xGeeGee/status/2066049704765596033"
     ]
   },
   {

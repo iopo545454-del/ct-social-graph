@@ -174,5 +174,60 @@
     "summary": "Mentioned GenLayer as building a generalized version of AI-council / human-LLM jury settlement ideas from prior prediction market work.",
     "quality": "medium",
     "created_tier2_candidate": true
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "eigencloud",
+    "to_kind": "project",
+    "type": "mention/thread",
+    "date": "2026-06-14",
+    "url": "https://x.com/0xGeeGee/status/2066111310916694078",
+    "summary": "Positive-to-watching EIGEN/EigenCloud mention: bought some after EigenLayer pivot to EigenCloud/DarkBloom AI inference, while acknowledging past restaking disappointment.",
+    "quality": "medium",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "openservai",
+    "to_kind": "project",
+    "type": "mention/thread",
+    "date": "2026-06-14",
+    "url": "https://x.com/0xGeeGee/status/2066111310916694078",
+    "summary": "Positive SERV/OpenServ mention as a higher-conviction AI-agent reasoning/orchestration layer with adoption and market-buy/burn revenue mechanics, with caveat about vocal hype.",
+    "quality": "high",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "Morpho",
+    "to_kind": "project",
+    "type": "mention/thread",
+    "date": "2026-06-14",
+    "url": "https://x.com/0xGeeGee/status/2066111310916694078",
+    "summary": "Positive-to-watching MORPHO mention as the dominant open-credit/yield-bearing-assets player, with recent institutional funding validating the credit/tokenization lane.",
+    "quality": "high",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "Backpack",
+    "to_kind": "project",
+    "type": "mention/thread",
+    "date": "2026-06-14",
+    "url": "https://x.com/0xGeeGee/status/2066111310916694078",
+    "summary": "Watching BP/Backpack for tokenized brokerage/assets on Solana with low circulating supply; caveated that he does not love the team or use the exchange much.",
+    "quality": "medium",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "variational_io",
+    "to_kind": "project",
+    "type": "mention/thread",
+    "date": "2026-06-14",
+    "url": "https://x.com/0xGeeGee/status/2066111310916694078",
+    "summary": "Called Variational his favorite day-to-day short-term trading venue because of market variety and new RWA assets, while noting spreads/offering are still imperfect.",
+    "quality": "high",
+    "created_tier2_candidate": true
   }
 ]

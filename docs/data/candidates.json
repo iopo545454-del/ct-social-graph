@@ -71,5 +71,66 @@
     ],
     "first_seen": "2026-06-14",
     "confidence": "low"
+  },
+  {
+    "handle": "eigencloud",
+    "kind": "project",
+    "status": "candidate",
+    "source": "0xGeeGee EIGEN/EigenCloud AI-inference thesis",
+    "reason": "Detailed positive-to-watching mention from 0xGeeGee, but one current evidence cluster only; keep candidate until repeated/corroborated.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2066111310916694078"
+    ],
+    "first_seen": "2026-06-14",
+    "confidence": "medium"
+  },
+  {
+    "handle": "openservai",
+    "kind": "project",
+    "status": "candidate",
+    "source": "0xGeeGee SERV/OpenServ AI-agent infrastructure thesis",
+    "reason": "Detailed positive SERV/OpenServ mention with business/revenue logic; one current evidence cluster only, so candidate rather than Tier 2.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2066111310916694078"
+    ],
+    "first_seen": "2026-06-14",
+    "confidence": "medium"
+  },
+  {
+    "handle": "Morpho",
+    "kind": "project",
+    "status": "candidate",
+    "source": "0xGeeGee RWA/open-credit thesis",
+    "reason": "Named as dominant open-credit/yield-bearing-assets player in a substantive RWA/tokenization thread; needs repeat evidence before Tier 2.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2066111310916694078"
+    ],
+    "first_seen": "2026-06-14",
+    "confidence": "medium"
+  },
+  {
+    "handle": "Backpack",
+    "kind": "project",
+    "status": "candidate",
+    "source": "0xGeeGee tokenized brokerage watch item",
+    "reason": "Watching BP/Backpack for tokenized assets on Solana but explicitly caveated team/usage; candidate only.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2066111310916694078"
+    ],
+    "first_seen": "2026-06-14",
+    "confidence": "low"
+  },
+  {
+    "handle": "variational_io",
+    "kind": "project",
+    "status": "candidate",
+    "source": "0xGeeGee exchange preference",
+    "reason": "Called Variational favorite day-to-day short-term trading venue with RWA additions; candidate pending repeated social/project significance.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2066111310916694078",
+      "https://x.com/0xGeeGee/status/2066049704765596033"
+    ],
+    "first_seen": "2026-06-14",
+    "confidence": "medium"
   }
 ]

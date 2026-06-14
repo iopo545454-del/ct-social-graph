@@ -1,6 +1,30 @@
 [
   {
     "date": "2026-06-14",
+    "handle": "0xGeeGee",
+    "type": "authored_post/thread",
+    "url": "https://x.com/0xGeeGee/status/2066111310916694078",
+    "summary": "Long market-thesis thread: 2026 AI shifts from raw spend to efficiency/visibility; likes EIGEN/EigenCloud and SERV/OpenServ as AI infrastructure plays, MORPHO/BP/Securitize for RWA/tokenized equities, Variational as a day-trading venue, and is short/put RKLB after Nasdaq-100 inclusion mechanics.",
+    "entities": [
+      "EIGEN",
+      "EigenCloud",
+      "DarkBloom",
+      "SERV",
+      "OpenServ",
+      "MORPHO",
+      "Backpack/BP",
+      "Securitize/CEPT",
+      "Variational",
+      "RKLB",
+      "CRWV",
+      "RWA",
+      "AI inference"
+    ],
+    "why_logged": "High-density Tier 1 thesis post tying AI infra, tokenized credit/equities, exchange preference, and equity-index event trades into one current watchlist.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-14",
     "handle": "coin_casanova",
     "type": "authored_post/reply_thread",
     "url": "https://x.com/coin_casanova/status/2066000974163169390",
