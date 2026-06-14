@@ -1,15 +1,17 @@
 
-const v='20260614-graph-v3';
+const v='20260614-project-atlas-v1';
 const esc=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const norm=x=>String(x||'').replace(/^@/,'');
 const qualityWeight=q=>q==='high'?3:q==='medium'?2:1;
-let state={mode:'all',nodes:[],edges:[],accounts:[],interactions:[]};
+let state={mode:'all',nodes:[],edges:[],accounts:[],interactions:[],profiles:[]};
 function nodeKind(handle, accounts){ const a=accounts.find(x=>norm(x.handle).toLowerCase()===norm(handle).toLowerCase()); return a?.kind || 'individual'; }
-function build(accounts, interactions){
+function build(accounts, interactions, profiles=[]){
   const map=new Map(), edgeMap=new Map();
-  const add=(id,kind,tier=2)=>{id=norm(id); if(!map.has(id)) map.set(id,{id,kind,tier,x:Math.random()*900+80,y:Math.random()*520+80,vx:0,vy:0,degree:0}); return map.get(id)};
+  const add=(id,kind,tier=2)=>{id=norm(id); if(!map.has(id)) map.set(id,{id,kind,tier,x:0,y:0,vx:0,vy:0,degree:0}); return map.get(id)};
+  const putEdge=(source,target,item,weight=1)=>{ const from=add(source,'individual',1); const to=add(target,'project',2); from.degree++; to.degree++; const key=`${from.id}->${to.id}`; const old=edgeMap.get(key)||{source:from.id,target:to.id,count:0,weight:0,items:[]}; old.count++; old.weight+=weight; old.items.push(item); edgeMap.set(key,old); };
   accounts.forEach(a=>add(a.handle,a.kind,a.tier));
-  interactions.forEach(e=>{ const from=add(e.from,'individual',1); const to=add(e.to,nodeKind(e.to,accounts),accounts.find(a=>norm(a.handle).toLowerCase()===norm(e.to).toLowerCase())?.tier||2); from.degree++; to.degree++; const key=`${from.id}->${to.id}`; const old=edgeMap.get(key)||{source:from.id,target:to.id,count:0,weight:0,items:[]}; old.count++; old.weight+=qualityWeight(e.quality); old.items.push(e); edgeMap.set(key,old); });
+  profiles.forEach(prof=>(prof.projects_mentioned||[]).forEach(p=>putEdge(prof.handle,p.handle||p.name,{...p, source:'profile', url:(p.evidence_urls||[])[0], quality:p.stance==='positive'?'high':'medium'}, p.stance==='positive'?2.4:1.4)));
+  interactions.filter(e=>e.to_kind==='project').forEach(e=>putEdge(e.from,e.to,{...e, source:'interaction'},qualityWeight(e.quality)+1));
   return {nodes:[...map.values()],edges:[...edgeMap.values()]};
 }
 function filterGraph(){
@@ -43,6 +45,6 @@ function render(){
 }
 function inspectNode(id){ const links=state.interactions.filter(e=>norm(e.from)===id||norm(e.to)===id); const a=state.accounts.find(x=>norm(x.handle)===id); document.querySelector('#inspector').innerHTML=`<p class="eyebrow">${esc(a?.kind||'node')} · Tier ${esc(a?.tier||'?')}</p><h2>@${esc(id)}</h2><p class="muted">${esc(a?.reason||'Unregistered interaction node')}</p><h3>Connections</h3>${links.map(e=>`<a class="mini-evidence" href="${esc(e.url)}" target="_blank"><b>@${esc(e.from)} → @${esc(e.to)}</b><span>${esc(e.type)} · ${esc(e.date)} · ${esc(e.quality)}</span><p>${esc(e.summary)}</p></a>`).join('')||'<p class="muted">No visible edges.</p>'}`; }
 function inspectEdge(key){ const [s,t]=key.split('|'); const items=state.interactions.filter(e=>norm(e.from)===s&&norm(e.to)===t); document.querySelector('#inspector').innerHTML=`<p class="eyebrow">edge evidence</p><h2>@${esc(s)} → @${esc(t)}</h2>${items.map(e=>`<a class="mini-evidence" href="${esc(e.url)}" target="_blank"><b>${esc(e.type)} · ${esc(e.date)} · ${esc(e.quality)}</b><p>${esc(e.summary)}</p></a>`).join('')}`;}
-Promise.all(['accounts','interactions'].map(n=>fetch(`data/${n}.json?v=${v}`).then(r=>r.json()))).then(([accounts,interactions])=>{state.accounts=accounts;state.interactions=interactions;Object.assign(state,build(accounts,interactions));render();inspectNode('AustinBarack');});
+Promise.all(['accounts','interactions','account-profiles'].map(n=>fetch(`data/${n}.json?v=${v}`).then(r=>r.json()))).then(([accounts,interactions,profiles])=>{state.accounts=accounts;state.interactions=interactions;state.profiles=profiles;Object.assign(state,build(accounts,interactions,profiles));render();inspectNode('AustinBarack');});
 document.querySelectorAll('#graphMode button').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('#graphMode button').forEach(x=>x.classList.remove('active'));b.classList.add('active');state.mode=b.dataset.mode;render();}));
 window.addEventListener('resize',()=>render());
