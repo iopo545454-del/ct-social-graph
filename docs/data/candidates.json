@@ -1,1 +1,75 @@
-[]
+[
+  {
+    "handle": "goodalexander",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "kelxyz_ reply asking for Doom/permanent-underclass thesis read",
+    "reason": "Potential respected/context account for kelxyz_'s macro/culture thesis, but only one evidence point so not promoted to Tier 2 yet.",
+    "evidence_urls": [
+      "https://x.com/kelxyz_/status/2064360494949953681"
+    ],
+    "first_seen": "2026-06-14",
+    "confidence": "low"
+  },
+  {
+    "handle": "crypto_condom",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "MoneyPrinter0x recommendation",
+    "reason": "Recommended trader, but only one recommendation found in this scan; needs repeated/substantive evidence before Tier 2.",
+    "evidence_urls": [
+      "https://x.com/MoneyPrinter0x/status/2059746342457761794"
+    ],
+    "first_seen": "2026-06-14",
+    "confidence": "low"
+  },
+  {
+    "handle": "chamath",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "kelxyz_ tag on shared endgame view",
+    "reason": "Tagged by kelxyz_ as sharing a similar endgame view; one evidence point, needs follow-up before treating as respected edge.",
+    "evidence_urls": [
+      "https://x.com/kelxyz_/status/2064040097175974066"
+    ],
+    "first_seen": "2026-06-14",
+    "confidence": "low"
+  },
+  {
+    "handle": "worldcoin",
+    "kind": "project",
+    "status": "candidate",
+    "source": "AustinBarack WLD/OpenAI integration odds comment",
+    "reason": "Mentioned as a watch item by AustinBarack, but only one evidence point in this scan.",
+    "evidence_urls": [
+      "https://x.com/AustinBarack/status/2065846319378301024"
+    ],
+    "first_seen": "2026-06-14",
+    "confidence": "low"
+  },
+  {
+    "handle": "zcash",
+    "kind": "project",
+    "status": "candidate",
+    "source": "zuqaquz mute/fade and HYPE-over-ZEC comments",
+    "reason": "Repeated enough for mention ledger but stance appears negative/trading-focused, not a follow-worthy Tier 2 project for this taste map yet.",
+    "evidence_urls": [
+      "https://x.com/zuqaquz/status/2063415879971283082",
+      "https://x.com/i/status/2062800810564628694"
+    ],
+    "first_seen": "2026-06-14",
+    "confidence": "medium"
+  },
+  {
+    "handle": "bittensor_",
+    "kind": "project",
+    "status": "candidate",
+    "source": "zuqaquz TAO volatility/cursed reply",
+    "reason": "One unclear TAO/Bittensor mention; keep candidate only for future review.",
+    "evidence_urls": [
+      "https://x.com/i/status/2062727536463777981"
+    ],
+    "first_seen": "2026-06-14",
+    "confidence": "low"
+  }
+]

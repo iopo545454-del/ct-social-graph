@@ -61,5 +61,61 @@
     "kind": "individual",
     "status": "tracked",
     "reason": "User-supplied seed account"
+  },
+  {
+    "handle": "AskVenice",
+    "tier": 2,
+    "kind": "project",
+    "status": "tracked",
+    "reason": "Repeated substantive AustinBarack evidence around Venice/VVV private AI thesis and follow-up replies."
+  },
+  {
+    "handle": "HyperliquidX",
+    "tier": 2,
+    "kind": "project",
+    "status": "tracked",
+    "reason": "Repeated Hyperliquid/HYPE evidence from zuqaquz plus coin_casanova HYPE retest mention and CryptoTomYT trading context."
+  },
+  {
+    "handle": "pluralis",
+    "tier": 2,
+    "kind": "project",
+    "status": "tracked",
+    "reason": "Repeated high-conviction kelxyz_ mentions around Pluralis, model-parallel decentralized training, and AI protocol upside."
+  },
+  {
+    "handle": "ProofMarkets",
+    "tier": 2,
+    "kind": "project",
+    "status": "tracked",
+    "reason": "Repeated airtightfish ProofMarkets operating/project evidence including waitlist, filtering, signup, and feedback replies."
+  },
+  {
+    "handle": "derive_xyz",
+    "tier": 2,
+    "kind": "project",
+    "status": "tracked",
+    "reason": "coin_casanova quoted Derive volume update while making a substantive crypto-options-market thesis."
+  },
+  {
+    "handle": "tradexyz",
+    "tier": 2,
+    "kind": "project",
+    "status": "tracked",
+    "reason": "CryptoTomYT public trading-performance evidence referenced Tradexyz assets; added for mention-ledger visibility with medium confidence."
+  },
+  {
+    "handle": "getgrass_io",
+    "tier": 2,
+    "kind": "project",
+    "status": "tracked",
+    "reason": "AustinBarack named GRASS alongside VVV in an AI/data-token reply; track lightly for follow-up."
+  },
+  {
+    "handle": "GenLayer",
+    "tier": 2,
+    "kind": "project",
+    "status": "tracked",
+    "reason": "0xGeeGee mentioned GenLayer as building generalized AI-council / human-LLM jury settlement infrastructure."
   }
 ]

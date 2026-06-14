@@ -1,1 +1,283 @@
-[]
+[
+  {
+    "date": "2026-06-13",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post",
+    "url": "https://x.com/MoneyPrinter0x/status/2065910048833102118",
+    "summary": "Compared Opus 4.8 on custom harnesses vs Fable without one; argued marginal gains come from systems engineering and deterministic gates around agents.",
+    "entities": [
+      "AI agents",
+      "harnesses",
+      "Fable",
+      "Opus 4.8"
+    ],
+    "why_logged": "High-signal technical thesis on AI-agent workflow design from a Tier 1 account.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-13",
+    "handle": "MoneyPrinter0x",
+    "type": "reply_or_thread",
+    "url": "https://x.com/MoneyPrinter0x/status/2065910906224361829",
+    "summary": "Clarified that orchestration is not the same as vertical deterministic harnesses/gates; naked orchestration remains exposed to model non-determinism.",
+    "entities": [
+      "AI agents",
+      "orchestration",
+      "deterministic gates"
+    ],
+    "why_logged": "Directly refines the account's repeated AI-agent systems thesis.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-13",
+    "handle": "AustinBarack",
+    "type": "authored_post",
+    "url": "https://x.com/AustinBarack/status/2065642988470972861",
+    "summary": "Laid out Venice/VVV thesis around rapid user growth, private AI demand, and a large market for anonymized AI usage.",
+    "entities": [
+      "Venice",
+      "VVV",
+      "private AI"
+    ],
+    "why_logged": "Core repeated project thesis with direct data-oriented claims and follow-up replies.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-13",
+    "handle": "AustinBarack",
+    "type": "reply_or_quote",
+    "url": "https://x.com/AustinBarack/status/2065850799494738189",
+    "summary": "Expanded that Anthropic-style restrictions are bullish for Venice, user privacy/anonymity, decentralized training, and open-source models.",
+    "entities": [
+      "Venice",
+      "Anthropic",
+      "decentralized training",
+      "open-source models"
+    ],
+    "why_logged": "Substantive reply/quote connecting a news catalyst to crypto-AI infrastructure.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-13",
+    "handle": "kelxyz_",
+    "type": "authored_post",
+    "url": "https://x.com/kelxyz_/status/2065782384616780175",
+    "summary": "Called Pluralis exceptionally well-positioned and potentially the next gigantic protocol if it scales models effectively.",
+    "entities": [
+      "Pluralis",
+      "AI protocols",
+      "decentralized training"
+    ],
+    "why_logged": "Clear high-conviction project mention from Tier 1 account.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-12",
+    "handle": "coin_casanova",
+    "type": "authored_post",
+    "url": "https://x.com/coin_casanova/status/2065438838546477385",
+    "summary": "Framed the trade simply as 'low float skam + KOL leader'.",
+    "entities": [
+      "low float",
+      "KOL leader",
+      "speculative trading"
+    ],
+    "why_logged": "Concise expression of trading taste/risk preference.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-12",
+    "handle": "coin_casanova",
+    "type": "authored_post",
+    "url": "https://x.com/coin_casanova/status/2065366923379106118",
+    "summary": "Asked whether SPCX is ready and noted hedging with a VVV short at a possible bearish-continuation area.",
+    "entities": [
+      "SPCX",
+      "VVV",
+      "hedging"
+    ],
+    "why_logged": "Useful tactical stance and cross-account contrast with AustinBarack's VVV bullish thesis.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-12",
+    "handle": "airtightfish",
+    "type": "authored_post",
+    "url": "https://x.com/airtightfish/status/2065567457536831796",
+    "summary": "Said restoring the social contract by giving people access to private companies is one of crypto's strongest emergent use cases, while hard and early.",
+    "entities": [
+      "private company access",
+      "crypto use cases"
+    ],
+    "why_logged": "Substantive project/market-design belief from Tier 1 account.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-12",
+    "handle": "CryptoTomYT",
+    "type": "quote_or_authored_post",
+    "url": "https://x.com/CryptoTomYT/status/2065238474907607090",
+    "summary": "Quoted public trading results around Tradexyz assets: up about 175k in a month from 40k, cashed out 100k, 56% win rate, 8.41 Sharpe; added half was while on vacation.",
+    "entities": [
+      "Tradexyz",
+      "trading performance",
+      "perps"
+    ],
+    "why_logged": "Visible evidence of trading-performance context rather than a generic lifestyle post.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-11",
+    "handle": "coin_casanova",
+    "type": "authored_post",
+    "url": "https://x.com/coin_casanova/status/2064875505099432023",
+    "summary": "Asked why people buy many AI bottleneck trades but ignored NVDA; suggested risk-curve migration resembles crypto alt seasons and said to chart everything against NVDA.",
+    "entities": [
+      "NVDA",
+      "AI bottlenecks",
+      "relative valuation"
+    ],
+    "why_logged": "Connects AI equity market structure to crypto rotation framing.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-10",
+    "handle": "0xGeeGee",
+    "type": "authored_post",
+    "url": "https://x.com/0xGeeGee/status/2065771227743138126",
+    "summary": "Predicted a DeepSeek moment for AI inference in 2026, with focus shifting to cost awareness, observability, memory, skills, harnesses, and optimization layers.",
+    "entities": [
+      "AI inference",
+      "cost observability",
+      "harnesses"
+    ],
+    "why_logged": "Clear AI infra thesis overlapping with other Tier 1 accounts.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-10",
+    "handle": "kelxyz_",
+    "type": "authored_post",
+    "url": "https://x.com/kelxyz_/status/2064825463818576107",
+    "summary": "Argued high-performance workloads may stay on low-cost cloud; a protocol has a narrow window to incentivize inference on performant models and gain share.",
+    "entities": [
+      "inference",
+      "AI protocols",
+      "cloud compute"
+    ],
+    "why_logged": "Substantive AI/crypto infrastructure thesis.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-09",
+    "handle": "kelxyz_",
+    "type": "authored_post",
+    "url": "https://x.com/kelxyz_/status/2064358765340557483",
+    "summary": "Permanent Underclass Index thesis: consumer quality barbell, AI resilience, slop dividends, physical retail vs e-commerce, and recession/AGI scenarios.",
+    "entities": [
+      "Permanent Underclass Index",
+      "AI macro",
+      "consumer equities"
+    ],
+    "why_logged": "Longer-form thesis useful for per-account evidence stream; not a crypto project call.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-09",
+    "handle": "airtightfish",
+    "type": "reply",
+    "url": "https://x.com/airtightfish/status/2064392389016342888",
+    "summary": "Argued there is nuance between outright scams/predatory bundles and traders publicly taking large-cap positions and holding them for months.",
+    "entities": [
+      "scams",
+      "predatory bundles",
+      "trader behavior"
+    ],
+    "why_logged": "High-quality reply clarifying taste/dislike boundary.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-09",
+    "handle": "airtightfish",
+    "type": "quote",
+    "url": "https://x.com/airtightfish/status/2064390683440341286",
+    "summary": "Quoted ProofMarkets waitlist >5100 and said each will be manually reviewed after bot + AI filtering.",
+    "entities": [
+      "ProofMarkets",
+      "waitlist",
+      "AI filtering"
+    ],
+    "why_logged": "Direct project operating evidence and repeated project mention.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-08",
+    "handle": "coin_casanova",
+    "type": "quote",
+    "url": "https://x.com/coin_casanova/status/2063848704499687605",
+    "summary": "Argued crypto participants are ready for a real options market and that current growth feels more organic than airdrop-farmed prior attempts; quoted Derive volume update.",
+    "entities": [
+      "Derive",
+      "crypto options",
+      "hedging"
+    ],
+    "why_logged": "Project mention plus broader market-structure thesis.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-08",
+    "handle": "kelxyz_",
+    "type": "reply",
+    "url": "https://x.com/kelxyz_/status/2063836178990633419",
+    "summary": "Said decentralized training looked weak a year ago but Pluralis model-parallel approach may vindicate it; time will tell.",
+    "entities": [
+      "Pluralis",
+      "decentralized training",
+      "model parallelism"
+    ],
+    "why_logged": "Adds technical context to repeated Pluralis mentions.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-07",
+    "handle": "zuqaquz",
+    "type": "authored_post",
+    "url": "https://x.com/zuqaquz/status/2063748710882738618",
+    "summary": "Posted 'Hyperliquid? Hyperliquid.'",
+    "entities": [
+      "Hyperliquid",
+      "HYPE"
+    ],
+    "why_logged": "Part of a repeated, explicit Hyperliquid/HYPE pattern.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-07",
+    "handle": "zuqaquz",
+    "type": "authored_post",
+    "url": "https://x.com/zuqaquz/status/2063415879971283082",
+    "summary": "Posted mute list: saylor, strc, mstr, dat, zec, zcash.",
+    "entities": [
+      "Saylor",
+      "MSTR",
+      "ZEC",
+      "Zcash"
+    ],
+    "why_logged": "Explicit dislike/fade signal, albeit terse and possibly humorous.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-05",
+    "handle": "zuqaquz",
+    "type": "quote",
+    "url": "https://x.com/zuqaquz/status/2063001072893940119",
+    "summary": "Quoted Jeff at NYU discussing HYPE and contrasted Hyperliquid founder quality favorably.",
+    "entities": [
+      "Hyperliquid",
+      "HYPE",
+      "chameleon_jeff"
+    ],
+    "why_logged": "Shows respect/founder-quality signal tied to the repeated Hyperliquid theme.",
+    "confidence": "high"
+  }
+]
