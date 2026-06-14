@@ -1,0 +1,93 @@
+[
+  {
+    "name": "a16z crypto",
+    "tier": 1,
+    "url": "https://a16zcrypto.com/posts/",
+    "status": "active",
+    "notes": "Confirmed viewable."
+  },
+  {
+    "name": "Multicoin Capital",
+    "tier": 1,
+    "url": "https://multicoin.capital/blog/",
+    "status": "active",
+    "notes": "Corrected from /writings/ to /blog/."
+  },
+  {
+    "name": "Pantera Blockchain Letter",
+    "tier": 1,
+    "url": "https://panteracapital.com/blockchain-letter/",
+    "status": "active",
+    "notes": "Corrected domain from pantera.capital."
+  },
+  {
+    "name": "Paradigm",
+    "tier": 1,
+    "url": "https://www.paradigm.xyz/writing",
+    "status": "active",
+    "notes": "Confirmed viewable."
+  },
+  {
+    "name": "Glassnode Research",
+    "tier": 1,
+    "url": "https://research.glassnode.com/",
+    "status": "active",
+    "notes": "Redirect target for insights.glassnode.com; RSS present."
+  },
+  {
+    "name": "Delphi Digital",
+    "tier": 1,
+    "url": "https://members.delphidigital.io/",
+    "status": "active",
+    "notes": "Index loads; individual member research may be gated."
+  },
+  {
+    "name": "Electric Capital",
+    "tier": 2,
+    "url": "https://www.electriccapital.com/content/",
+    "status": "active",
+    "notes": "Confirmed viewable."
+  },
+  {
+    "name": "Bankless",
+    "tier": 2,
+    "url": "https://www.bankless.com/read",
+    "status": "active",
+    "notes": "Article index loads; some content/member features may be gated."
+  },
+  {
+    "name": "Token Terminal",
+    "tier": 2,
+    "url": "https://tokenterminal.com/resources",
+    "status": "active",
+    "notes": "Corrected to resources page."
+  },
+  {
+    "name": "Messari Research",
+    "tier": 1,
+    "url": "https://messari.io/research",
+    "status": "blocked",
+    "notes": "429 rate-limited from this environment."
+  },
+  {
+    "name": "Variant Fund",
+    "tier": 2,
+    "url": "https://variant.fund/writing/",
+    "status": "blocked",
+    "notes": "403 forbidden from this environment."
+  },
+  {
+    "name": "Blockworks Research",
+    "tier": 2,
+    "url": "https://www.blockworksresearch.com/",
+    "status": "gated",
+    "notes": "Signup/subscription landing page, not public research content."
+  },
+  {
+    "name": "Dragonfly",
+    "tier": 2,
+    "url": "https://www.dragonfly.xyz/blog",
+    "status": "unavailable",
+    "notes": "Blog URL resolves to 404 page from this environment."
+  }
+]

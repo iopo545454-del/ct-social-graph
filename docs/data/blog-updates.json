@@ -1,0 +1,1345 @@
+{
+  "last_checked": "2026-06-14T20:07:56Z",
+  "new_count": 81,
+  "sources": [
+    {
+      "name": "a16z crypto",
+      "tier": 1,
+      "source_url": "https://a16zcrypto.com/posts/",
+      "final_url": "https://a16zcrypto.com/posts/",
+      "status": 200,
+      "page_title": "All Content - a16z crypto",
+      "error": null,
+      "feed_urls": [],
+      "items": [
+        {
+          "title": "state of crypto",
+          "url": "https://a16zcrypto.com/posts/article/state-of-crypto-report-2025",
+          "published": null
+        },
+        {
+          "title": "policy",
+          "url": "https://a16zcrypto.com/posts/focus-areas/policy",
+          "published": null
+        },
+        {
+          "title": "engineering",
+          "url": "https://a16zcrypto.com/posts/focus-areas/code-engineering",
+          "published": null
+        },
+        {
+          "title": "research",
+          "url": "https://a16zcrypto.com/posts/focus-areas/research",
+          "published": null
+        },
+        {
+          "title": "podcasts",
+          "url": "https://a16zcrypto.com/posts/podcast",
+          "published": null
+        },
+        {
+          "title": "7 Charts: Tokenized assets have proved the concept. Now comes the hard part.",
+          "url": "https://a16zcrypto.com/posts/article/tokenized-asset-rwa-market-data-charts",
+          "published": null
+        },
+        {
+          "title": "tech trends",
+          "url": "https://a16zcrypto.com/posts/focus-areas/tech-trends",
+          "published": null
+        },
+        {
+          "title": "Arcade tokens: The most underappreciated token type",
+          "url": "https://a16zcrypto.com/posts/article/arcade-tokens",
+          "published": null
+        },
+        {
+          "title": "company building",
+          "url": "https://a16zcrypto.com/posts/focus-areas/company-building",
+          "published": null
+        },
+        {
+          "title": "After the foundation era: Tokens, policy, and startup structures",
+          "url": "https://a16zcrypto.com/posts/podcast/foundation-era-tokens-policy-startup-structures",
+          "published": null
+        },
+        {
+          "title": "3 product-market fit patterns that are working in crypto right now",
+          "url": "https://a16zcrypto.com/posts/article/product-market-fit-3-patterns-working-in-crypto-today",
+          "published": null
+        },
+        {
+          "title": "Why Wall Street is moving onchain",
+          "url": "https://a16zcrypto.com/posts/article/why-wall-street-is-moving-onchain",
+          "published": null
+        }
+      ],
+      "checked_at": "2026-06-14T20:07:53Z"
+    },
+    {
+      "name": "Multicoin Capital",
+      "tier": 1,
+      "source_url": "https://multicoin.capital/blog/",
+      "final_url": "https://multicoin.capital/blog/",
+      "status": 200,
+      "page_title": "Insights - Multicoin Capital",
+      "error": null,
+      "feed_urls": [
+        "https://multicoin.capital/rss.xml"
+      ],
+      "items": [
+        {
+          "title": "Investing for the Long Haul",
+          "url": "https://multicoin.capital/2026/03/24/investing-for-the-long-haul",
+          "published": "Tue, 24 Mar 2026 00:00:00 GMT"
+        },
+        {
+          "title": "RWAs Are Just Built Different",
+          "url": "https://multicoin.capital/2026/03/19/rwas-are-just-built-different",
+          "published": "Thu, 19 Mar 2026 00:00:00 GMT"
+        },
+        {
+          "title": "Internet Labor Markets",
+          "url": "https://multicoin.capital/2026/03/10/internet-labor-markets",
+          "published": "Tue, 10 Mar 2026 00:00:00 GMT"
+        },
+        {
+          "title": "Adverse Selection Rules Everything Around Me",
+          "url": "https://multicoin.capital/2026/02/17/adverse-selection-rules-everything-around-me",
+          "published": "Tue, 17 Feb 2026 00:00:00 GMT"
+        },
+        {
+          "title": "ACE is the place with the helpful value capture",
+          "url": "https://multicoin.capital/2026/02/10/ace-is-the-place-with-the-helpful-value-capture",
+          "published": "Tue, 10 Feb 2026 00:00:00 GMT"
+        },
+        {
+          "title": "Multicoin Capital\u2019s Investment Thesis",
+          "url": "https://multicoin.capital/2026/02/06/multicoin-capitals-investment-thesis",
+          "published": "Fri, 06 Feb 2026 00:00:00 GMT"
+        },
+        {
+          "title": "Recapping Crypto\u2019s Most Consequential Year",
+          "url": "https://multicoin.capital/2025/12/12/recapping-cryptos-most-consequential-year",
+          "published": "Fri, 12 Dec 2025 00:00:00 GMT"
+        },
+        {
+          "title": "Specialized Stablecoin Fintechs",
+          "url": "https://multicoin.capital/2025/12/10/specialized-stablecoin-fintechs",
+          "published": "Wed, 10 Dec 2025 00:00:00 GMT"
+        },
+        {
+          "title": "Ethena: Synthetic Dollars Challenge Stablecoin Duopoly",
+          "url": "https://multicoin.capital/2025/11/13/ethena-synthetic-dollars-challenge-stablecoins-duopoly",
+          "published": "Thu, 13 Nov 2025 00:00:00 GMT"
+        },
+        {
+          "title": "Building The Attention Economy",
+          "url": "https://multicoin.capital/2025/10/23/building-the-attention-economy",
+          "published": "Thu, 23 Oct 2025 00:00:00 GMT"
+        },
+        {
+          "title": "IBRL",
+          "url": "https://multicoin.capital/2025/10/02/double-zero-ibrl",
+          "published": "Thu, 02 Oct 2025 00:00:00 GMT"
+        },
+        {
+          "title": "No title",
+          "url": "https://multicoin.capital/2025/09/11/creating-the-worlds-leading-solana-treasury-company",
+          "published": "Thu, 11 Sep 2025 00:00:00 GMT"
+        }
+      ],
+      "checked_at": "2026-06-14T20:07:54Z"
+    },
+    {
+      "name": "Pantera Blockchain Letter",
+      "tier": 1,
+      "source_url": "https://panteracapital.com/blockchain-letter/",
+      "final_url": "https://panteracapital.com/blockchain-letter/",
+      "status": 200,
+      "page_title": "Blockchain Letters | Pantera",
+      "error": null,
+      "feed_urls": [
+        "https://panteracapital.com/blockchain-letter/feed/"
+      ],
+      "items": [
+        {
+          "title": "The Convergence of AI and Blockchain",
+          "url": "https://panteracapital.com/blockchain-letter/the-convergence-ai-and-blockchain",
+          "published": "Thu, 28 May 2026 20:07:22 +0000"
+        },
+        {
+          "title": "Navigating Crypto in 2026",
+          "url": "https://panteracapital.com/blockchain-letter/navigating-crypto-in-2026",
+          "published": "Wed, 21 Jan 2026 17:35:41 +0000"
+        },
+        {
+          "title": "The Year of Structural Progress",
+          "url": "https://panteracapital.com/blockchain-letter/2025-the-year-of-structural-progress-for-crypto-pantera-capital",
+          "published": "Tue, 16 Dec 2025 19:48:25 +0000"
+        },
+        {
+          "title": "Crypto Markets, Privacy, And Payments",
+          "url": "https://panteracapital.com/blockchain-letter/crypto-markets-privacy-and-payments",
+          "published": "Wed, 12 Nov 2025 16:59:39 +0000"
+        },
+        {
+          "title": "Fund V Closing October 31st",
+          "url": "https://panteracapital.com/blockchain-letter/fund-v-closing-october-31st",
+          "published": "Mon, 06 Oct 2025 14:14:29 +0000"
+        },
+        {
+          "title": "Figure IPO &#8211; Where Capital Markets Meet Blockchain",
+          "url": "https://panteracapital.com/blockchain-letter/figure-ipo-where-capital-markets-meet-blockchain",
+          "published": "Thu, 11 Sep 2025 18:14:06 +0000"
+        },
+        {
+          "title": "DAT Value Creation",
+          "url": "https://panteracapital.com/blockchain-letter/dat-value-creation",
+          "published": "Tue, 12 Aug 2025 14:02:48 +0000"
+        },
+        {
+          "title": "The Great Onchain Migration",
+          "url": "https://panteracapital.com/blockchain-letter/the-great-onchain-migration",
+          "published": "Wed, 23 Jul 2025 14:45:11 +0000"
+        },
+        {
+          "title": "Pantera DAT Fund Closing",
+          "url": "https://panteracapital.com/blockchain-letter/pantera-dat-fund-closing",
+          "published": "Mon, 30 Jun 2025 14:48:37 +0000"
+        },
+        {
+          "title": "A New Frontier For Crypto Exposure",
+          "url": "https://panteracapital.com/blockchain-letter/a-new-frontier-for-crypto-exposure",
+          "published": "Thu, 29 May 2025 16:37:35 +0000"
+        }
+      ],
+      "checked_at": "2026-06-14T20:07:54Z"
+    },
+    {
+      "name": "Paradigm",
+      "tier": 1,
+      "source_url": "https://www.paradigm.xyz/writing",
+      "final_url": "https://www.paradigm.xyz/writing",
+      "status": 200,
+      "page_title": "Writing",
+      "error": null,
+      "feed_urls": [],
+      "items": [
+        {
+          "title": "Introducing the 2026 Paradigm Fellowship",
+          "url": "https://www.paradigm.xyz/2026/04/introducing-the-2026-paradigm-fellowship",
+          "published": null
+        },
+        {
+          "title": "Paradigm Predictions is a tool for exploring the landscape of prediction markets. We aim to make prediction market data intuitive, accessibl",
+          "url": "https://www.paradigm.xyz/2026/02/introducing-paradigm-predictions",
+          "published": null
+        },
+        {
+          "title": "Paradigm is now the steward of the solution to Kryptos, one of the last great cryptography puzzles \u2014 but it's a secret, even to us. Now we\u2019r",
+          "url": "https://www.paradigm.xyz/2026/06/kryptos",
+          "published": null
+        },
+        {
+          "title": "Paradigm Files Comment Letter on the FDIC\u2019s GENIUS Act Stablecoin Rulemaking",
+          "url": "https://www.paradigm.xyz/2026/06/paradigm-files-comment-letter-on-the-fdic-s-genius-act-stablecoin-rulemaking",
+          "published": null
+        },
+        {
+          "title": "Stablecoins are Global - Paradigm\u2019s Response to FCA 26/13",
+          "url": "https://www.paradigm.xyz/2026/06/stablecoins-are-global-paradigm-s-response-to-fca-26-13",
+          "published": null
+        },
+        {
+          "title": "Paradigm raises critical issues on pivotal stablecoin rulemaking",
+          "url": "https://www.paradigm.xyz/2026/06/paradigm-files-comment-letter-on-treasury-s-genius-state-pathway-rulemaking",
+          "published": null
+        },
+        {
+          "title": "Paradigm and Tempo open source Centaur, a Slack-native multiplayer, self-hosted and secure agent for investing, building, and researching.",
+          "url": "https://www.paradigm.xyz/2026/05/open-sourcing-centaur-multiplayer-self-hosted-secure-agents",
+          "published": null
+        },
+        {
+          "title": "Paradigm raises critical issues on pivotal stablecoin rulemaking",
+          "url": "https://www.paradigm.xyz/2026/05/paradigm-files-comment-letter-on-the-occ-s-genius-rulemaking",
+          "published": null
+        },
+        {
+          "title": "PACTs: Protecting Your Bitcoin From a Quantum Sunset",
+          "url": "https://www.paradigm.xyz/2026/05/pacts-protecting-your-bitcoin-from-a-quantum-sunset",
+          "published": null
+        },
+        {
+          "title": "Paradigm Files Comment Letter on the CFTC\u2019s Prediction Markets Rulemaking",
+          "url": "https://www.paradigm.xyz/2026/04/paradigm-files-comment-letter-on-the-cftc-s-prediction-markets-rulemaking",
+          "published": null
+        }
+      ],
+      "checked_at": "2026-06-14T20:07:55Z"
+    },
+    {
+      "name": "Glassnode Research",
+      "tier": 1,
+      "source_url": "https://research.glassnode.com/",
+      "final_url": "https://research.glassnode.com/",
+      "status": 200,
+      "page_title": "Glassnode Research \u2013 Digital Asset Market Intelligence",
+      "error": null,
+      "feed_urls": [
+        "https://research.glassnode.com/rss/"
+      ],
+      "items": [
+        {
+          "title": "Glassnode on Snowflake: Digital Asset Data Delivered Directly to your Warehouse",
+          "url": "https://research.glassnode.com/glassnode-on-snowflake",
+          "published": "Thu, 04 Jun 2026 14:00:00 GMT"
+        },
+        {
+          "title": "Aggregate Analysis Beyond Price: Glassnode Global Metrics",
+          "url": "https://research.glassnode.com/global-metrics",
+          "published": "Thu, 28 May 2026 13:00:00 GMT"
+        },
+        {
+          "title": "Measuring Bitcoin's Quantum-Exposed Supply",
+          "url": "https://research.glassnode.com/measuring-bitcoins-quantum-exposed-supply",
+          "published": "Wed, 20 May 2026 10:00:00 GMT"
+        },
+        {
+          "title": "The Bitcoin Vector #59",
+          "url": "https://research.glassnode.com/the-bitcoin-vector-59",
+          "published": "Thu, 11 Jun 2026 08:45:00 GMT"
+        },
+        {
+          "title": "The Altcoin Vector #58",
+          "url": "https://research.glassnode.com/the-altcoin-vector-58",
+          "published": "Thu, 11 Jun 2026 08:00:00 GMT"
+        },
+        {
+          "title": "Finding a Floor",
+          "url": "https://research.glassnode.com/the-week-onchain-week-23-2026",
+          "published": "Wed, 10 Jun 2026 17:06:26 GMT"
+        },
+        {
+          "title": "BTC Market Pulse: Week 24",
+          "url": "https://research.glassnode.com/btc-market-pulse-week-24",
+          "published": "Mon, 08 Jun 2026 13:11:51 GMT"
+        },
+        {
+          "title": "The Altcoin Vector #57",
+          "url": "https://research.glassnode.com/the-altcoin-vector-57",
+          "published": "Thu, 04 Jun 2026 07:12:27 GMT"
+        },
+        {
+          "title": "The Bitcoin Vector #58",
+          "url": "https://research.glassnode.com/the-bitcoin-vector-58",
+          "published": "Thu, 04 Jun 2026 07:10:15 GMT"
+        },
+        {
+          "title": "The Rally That Wasn't",
+          "url": "https://research.glassnode.com/the-week-onchain-week-22-2026",
+          "published": "Wed, 03 Jun 2026 15:30:52 GMT"
+        },
+        {
+          "title": "Glassnode spinout Cense raises \u20ac6.5 million seed round to transform crypto compliance for banks",
+          "url": "https://research.glassnode.com/glassnode-spinout-cense-raises-seed-round",
+          "published": "Wed, 03 Jun 2026 07:30:09 GMT"
+        },
+        {
+          "title": "BTC Market Pulse: Week 23",
+          "url": "https://research.glassnode.com/btc-market-pulse-week-23-2026",
+          "published": "Mon, 01 Jun 2026 14:00:00 GMT"
+        }
+      ],
+      "checked_at": "2026-06-14T20:07:55Z"
+    },
+    {
+      "name": "Delphi Digital",
+      "tier": 1,
+      "source_url": "https://members.delphidigital.io/",
+      "final_url": "https://members.delphidigital.io/",
+      "status": 200,
+      "page_title": "All Content | Delphi Digital",
+      "error": null,
+      "feed_urls": [],
+      "items": [
+        {
+          "title": "Bitcoin Top Signal Dashboard",
+          "url": "https://members.delphidigital.io/projects/bitcoin?subpage=top-signal",
+          "published": null
+        }
+      ],
+      "checked_at": "2026-06-14T20:07:55Z"
+    },
+    {
+      "name": "Electric Capital",
+      "tier": 2,
+      "source_url": "https://www.electriccapital.com/content/",
+      "final_url": "https://www.electriccapital.com/content/",
+      "status": 200,
+      "page_title": "Electric Capital",
+      "error": null,
+      "feed_urls": [],
+      "items": [],
+      "checked_at": "2026-06-14T20:07:56Z"
+    },
+    {
+      "name": "Bankless",
+      "tier": 2,
+      "source_url": "https://www.bankless.com/read",
+      "final_url": "https://www.bankless.com/read",
+      "status": 200,
+      "page_title": "Browse All Bankless Articles",
+      "error": null,
+      "feed_urls": [],
+      "items": [
+        {
+          "title": "Compare Crypto vs Stocks New",
+          "url": "https://www.bankless.com/crypto-vs-stocks",
+          "published": null
+        },
+        {
+          "title": "Metaversal NFTs, gaming, and crypto culture",
+          "url": "https://www.bankless.com/metaversal",
+          "published": null
+        },
+        {
+          "title": "Mindshare Stay on the frontier of AI x Crypto",
+          "url": "https://www.bankless.com/mindshare",
+          "published": null
+        },
+        {
+          "title": "Ethereum Weekly Everything new in Ethereum",
+          "url": "https://www.bankless.com/ethereum-weekly",
+          "published": null
+        },
+        {
+          "title": "ICO Watch A curated list of public token sales",
+          "url": "https://www.bankless.com/ico-watch",
+          "published": null
+        },
+        {
+          "title": "News",
+          "url": "https://www.bankless.com/read/topic/news",
+          "published": null
+        },
+        {
+          "title": "Ethereum",
+          "url": "https://www.bankless.com/read/topic/ethereum",
+          "published": null
+        },
+        {
+          "title": "Bitcoin",
+          "url": "https://www.bankless.com/read/topic/bitcoin",
+          "published": null
+        },
+        {
+          "title": "DeFi",
+          "url": "https://www.bankless.com/read/topic/defi",
+          "published": null
+        },
+        {
+          "title": "NFTs",
+          "url": "https://www.bankless.com/read/topic/nfts",
+          "published": null
+        },
+        {
+          "title": "Guides",
+          "url": "https://www.bankless.com/read/topic/guides",
+          "published": null
+        },
+        {
+          "title": "News Mastercard Adds Stablecoin Settlement for 24/7 Card Payments Mastercard is using regulated stablecoins to enable intraday, weekend, and",
+          "url": "https://www.bankless.com/read/news/mastercard-adds-stablecoin-settlement-for-24-7-card-payments",
+          "published": null
+        }
+      ],
+      "checked_at": "2026-06-14T20:07:56Z"
+    },
+    {
+      "name": "Token Terminal",
+      "tier": 2,
+      "source_url": "https://tokenterminal.com/resources",
+      "final_url": "https://tokenterminal.com/resources",
+      "status": 200,
+      "page_title": "Data-driven research on crypto | Token Terminal",
+      "error": null,
+      "feed_urls": [],
+      "items": [
+        {
+          "title": "Announcements",
+          "url": "https://tokenterminal.com/resources/articles",
+          "published": null
+        },
+        {
+          "title": "Engineering",
+          "url": "https://tokenterminal.com/resources/engineering",
+          "published": null
+        },
+        {
+          "title": "Newsletter",
+          "url": "https://tokenterminal.com/resources/newsletter",
+          "published": null
+        },
+        {
+          "title": "Introducing Token Terminal MCP 2.0We believe it\u2019s the most powerful MCP for onchain data12 Jun, 2026",
+          "url": "https://tokenterminal.com/resources/newsletter/introducing-token-terminal-mcp-2-0",
+          "published": null
+        },
+        {
+          "title": "tradeXYZ is bringing the real world onchain through perps + data & product updates11 Jun, 2026",
+          "url": "https://tokenterminal.com/resources/newsletter/tradexyz-is-bringing-the-real-world-onchain-through-perps",
+          "published": null
+        },
+        {
+          "title": "These charts explain the tokenized asset boom+ data & product updates4 Jun, 2026",
+          "url": "https://tokenterminal.com/resources/newsletter/these-charts-explain-the-tokenized-asset-boom",
+          "published": null
+        },
+        {
+          "title": "BlackRock\u2019s new tokenized fund puts Ethereum\u2019s institutional thesis to the test+ data & product updates28 May, 2026",
+          "url": "https://tokenterminal.com/resources/newsletter/blackrock-s-new-tokenized-fund-puts-ethereum-s-institutional-thesis-to-the-test",
+          "published": null
+        },
+        {
+          "title": "How we apply dimensional modeling to onchain dataA run-through of Kimball's dimensional modeling applied to Sky's raw smart contract events.",
+          "url": "https://tokenterminal.com/resources/engineering/2026-05-27-how-we-apply-dimensional-modeling-to-onchain-data",
+          "published": null
+        },
+        {
+          "title": "How crypto businesses turn products into platforms+ data & product updates21 May, 2026",
+          "url": "https://tokenterminal.com/resources/newsletter/how-crypto-businesses-turn-products-into-platforms",
+          "published": null
+        },
+        {
+          "title": "Why onchain data needs an entity taxonomy for proper metric standardizationHow we built an entity taxonomy and metric standardization to mak",
+          "url": "https://tokenterminal.com/resources/engineering/2026-05-18-why-onchain-data-needs-an-entity-taxonomy-for-proper-metric-standardization",
+          "published": null
+        },
+        {
+          "title": "Who is going to win the tokenized Treasuries race?+ data & product updates14 May, 2026",
+          "url": "https://tokenterminal.com/resources/newsletter/who-is-going-to-win-the-tokenized-treasuries-race",
+          "published": null
+        },
+        {
+          "title": "Launching the yields datasetWe now track onchain yields for 350+ tokens12 May, 2026",
+          "url": "https://tokenterminal.com/resources/newsletter/launching-the-yields-dataset",
+          "published": null
+        }
+      ],
+      "checked_at": "2026-06-14T20:07:56Z"
+    }
+  ],
+  "articles": [
+    {
+      "id": "ec06ed645b81",
+      "source": "a16z crypto",
+      "tier": 1,
+      "title": "state of crypto",
+      "url": "https://a16zcrypto.com/posts/article/state-of-crypto-report-2025",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://a16zcrypto.com/posts/"
+    },
+    {
+      "id": "605e20380271",
+      "source": "a16z crypto",
+      "tier": 1,
+      "title": "policy",
+      "url": "https://a16zcrypto.com/posts/focus-areas/policy",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://a16zcrypto.com/posts/"
+    },
+    {
+      "id": "ae82d684606a",
+      "source": "a16z crypto",
+      "tier": 1,
+      "title": "engineering",
+      "url": "https://a16zcrypto.com/posts/focus-areas/code-engineering",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://a16zcrypto.com/posts/"
+    },
+    {
+      "id": "b7cd301c6872",
+      "source": "a16z crypto",
+      "tier": 1,
+      "title": "research",
+      "url": "https://a16zcrypto.com/posts/focus-areas/research",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://a16zcrypto.com/posts/"
+    },
+    {
+      "id": "7877ec3f9e99",
+      "source": "a16z crypto",
+      "tier": 1,
+      "title": "podcasts",
+      "url": "https://a16zcrypto.com/posts/podcast",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://a16zcrypto.com/posts/"
+    },
+    {
+      "id": "fe49e15706ab",
+      "source": "a16z crypto",
+      "tier": 1,
+      "title": "7 Charts: Tokenized assets have proved the concept. Now comes the hard part.",
+      "url": "https://a16zcrypto.com/posts/article/tokenized-asset-rwa-market-data-charts",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://a16zcrypto.com/posts/"
+    },
+    {
+      "id": "a119321e5a88",
+      "source": "a16z crypto",
+      "tier": 1,
+      "title": "tech trends",
+      "url": "https://a16zcrypto.com/posts/focus-areas/tech-trends",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://a16zcrypto.com/posts/"
+    },
+    {
+      "id": "a4f62f485b4c",
+      "source": "a16z crypto",
+      "tier": 1,
+      "title": "Arcade tokens: The most underappreciated token type",
+      "url": "https://a16zcrypto.com/posts/article/arcade-tokens",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://a16zcrypto.com/posts/"
+    },
+    {
+      "id": "d1bb97c0e856",
+      "source": "a16z crypto",
+      "tier": 1,
+      "title": "company building",
+      "url": "https://a16zcrypto.com/posts/focus-areas/company-building",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://a16zcrypto.com/posts/"
+    },
+    {
+      "id": "52848f71fa59",
+      "source": "a16z crypto",
+      "tier": 1,
+      "title": "After the foundation era: Tokens, policy, and startup structures",
+      "url": "https://a16zcrypto.com/posts/podcast/foundation-era-tokens-policy-startup-structures",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://a16zcrypto.com/posts/"
+    },
+    {
+      "id": "b7cbf1c4df5d",
+      "source": "a16z crypto",
+      "tier": 1,
+      "title": "3 product-market fit patterns that are working in crypto right now",
+      "url": "https://a16zcrypto.com/posts/article/product-market-fit-3-patterns-working-in-crypto-today",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://a16zcrypto.com/posts/"
+    },
+    {
+      "id": "7bab6ac87640",
+      "source": "a16z crypto",
+      "tier": 1,
+      "title": "Why Wall Street is moving onchain",
+      "url": "https://a16zcrypto.com/posts/article/why-wall-street-is-moving-onchain",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://a16zcrypto.com/posts/"
+    },
+    {
+      "id": "3af4da333771",
+      "source": "Multicoin Capital",
+      "tier": 1,
+      "title": "Investing for the Long Haul",
+      "url": "https://multicoin.capital/2026/03/24/investing-for-the-long-haul",
+      "published": "Tue, 24 Mar 2026 00:00:00 GMT",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://multicoin.capital/blog/"
+    },
+    {
+      "id": "32462541afc0",
+      "source": "Multicoin Capital",
+      "tier": 1,
+      "title": "RWAs Are Just Built Different",
+      "url": "https://multicoin.capital/2026/03/19/rwas-are-just-built-different",
+      "published": "Thu, 19 Mar 2026 00:00:00 GMT",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://multicoin.capital/blog/"
+    },
+    {
+      "id": "ae2dbcda87db",
+      "source": "Multicoin Capital",
+      "tier": 1,
+      "title": "Internet Labor Markets",
+      "url": "https://multicoin.capital/2026/03/10/internet-labor-markets",
+      "published": "Tue, 10 Mar 2026 00:00:00 GMT",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://multicoin.capital/blog/"
+    },
+    {
+      "id": "254d31fe0864",
+      "source": "Multicoin Capital",
+      "tier": 1,
+      "title": "Adverse Selection Rules Everything Around Me",
+      "url": "https://multicoin.capital/2026/02/17/adverse-selection-rules-everything-around-me",
+      "published": "Tue, 17 Feb 2026 00:00:00 GMT",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://multicoin.capital/blog/"
+    },
+    {
+      "id": "4cebaf6de8db",
+      "source": "Multicoin Capital",
+      "tier": 1,
+      "title": "ACE is the place with the helpful value capture",
+      "url": "https://multicoin.capital/2026/02/10/ace-is-the-place-with-the-helpful-value-capture",
+      "published": "Tue, 10 Feb 2026 00:00:00 GMT",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://multicoin.capital/blog/"
+    },
+    {
+      "id": "11c18331911d",
+      "source": "Multicoin Capital",
+      "tier": 1,
+      "title": "Multicoin Capital\u2019s Investment Thesis",
+      "url": "https://multicoin.capital/2026/02/06/multicoin-capitals-investment-thesis",
+      "published": "Fri, 06 Feb 2026 00:00:00 GMT",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://multicoin.capital/blog/"
+    },
+    {
+      "id": "e84ec0d8a72f",
+      "source": "Multicoin Capital",
+      "tier": 1,
+      "title": "Recapping Crypto\u2019s Most Consequential Year",
+      "url": "https://multicoin.capital/2025/12/12/recapping-cryptos-most-consequential-year",
+      "published": "Fri, 12 Dec 2025 00:00:00 GMT",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://multicoin.capital/blog/"
+    },
+    {
+      "id": "3d43b8661cb6",
+      "source": "Multicoin Capital",
+      "tier": 1,
+      "title": "Specialized Stablecoin Fintechs",
+      "url": "https://multicoin.capital/2025/12/10/specialized-stablecoin-fintechs",
+      "published": "Wed, 10 Dec 2025 00:00:00 GMT",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://multicoin.capital/blog/"
+    },
+    {
+      "id": "c341f204abb5",
+      "source": "Multicoin Capital",
+      "tier": 1,
+      "title": "Ethena: Synthetic Dollars Challenge Stablecoin Duopoly",
+      "url": "https://multicoin.capital/2025/11/13/ethena-synthetic-dollars-challenge-stablecoins-duopoly",
+      "published": "Thu, 13 Nov 2025 00:00:00 GMT",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://multicoin.capital/blog/"
+    },
+    {
+      "id": "35513f6f16ab",
+      "source": "Multicoin Capital",
+      "tier": 1,
+      "title": "Building The Attention Economy",
+      "url": "https://multicoin.capital/2025/10/23/building-the-attention-economy",
+      "published": "Thu, 23 Oct 2025 00:00:00 GMT",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://multicoin.capital/blog/"
+    },
+    {
+      "id": "4e2fb908df1b",
+      "source": "Multicoin Capital",
+      "tier": 1,
+      "title": "IBRL",
+      "url": "https://multicoin.capital/2025/10/02/double-zero-ibrl",
+      "published": "Thu, 02 Oct 2025 00:00:00 GMT",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://multicoin.capital/blog/"
+    },
+    {
+      "id": "92e742c93885",
+      "source": "Multicoin Capital",
+      "tier": 1,
+      "title": "No title",
+      "url": "https://multicoin.capital/2025/09/11/creating-the-worlds-leading-solana-treasury-company",
+      "published": "Thu, 11 Sep 2025 00:00:00 GMT",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://multicoin.capital/blog/"
+    },
+    {
+      "id": "30e2426f7a5e",
+      "source": "Pantera Blockchain Letter",
+      "tier": 1,
+      "title": "The Convergence of AI and Blockchain",
+      "url": "https://panteracapital.com/blockchain-letter/the-convergence-ai-and-blockchain",
+      "published": "Thu, 28 May 2026 20:07:22 +0000",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://panteracapital.com/blockchain-letter/"
+    },
+    {
+      "id": "aaeeba554232",
+      "source": "Pantera Blockchain Letter",
+      "tier": 1,
+      "title": "Navigating Crypto in 2026",
+      "url": "https://panteracapital.com/blockchain-letter/navigating-crypto-in-2026",
+      "published": "Wed, 21 Jan 2026 17:35:41 +0000",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://panteracapital.com/blockchain-letter/"
+    },
+    {
+      "id": "1c3a5690b260",
+      "source": "Pantera Blockchain Letter",
+      "tier": 1,
+      "title": "The Year of Structural Progress",
+      "url": "https://panteracapital.com/blockchain-letter/2025-the-year-of-structural-progress-for-crypto-pantera-capital",
+      "published": "Tue, 16 Dec 2025 19:48:25 +0000",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://panteracapital.com/blockchain-letter/"
+    },
+    {
+      "id": "e52d17f86ead",
+      "source": "Pantera Blockchain Letter",
+      "tier": 1,
+      "title": "Crypto Markets, Privacy, And Payments",
+      "url": "https://panteracapital.com/blockchain-letter/crypto-markets-privacy-and-payments",
+      "published": "Wed, 12 Nov 2025 16:59:39 +0000",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://panteracapital.com/blockchain-letter/"
+    },
+    {
+      "id": "ab9a953206dc",
+      "source": "Pantera Blockchain Letter",
+      "tier": 1,
+      "title": "Fund V Closing October 31st",
+      "url": "https://panteracapital.com/blockchain-letter/fund-v-closing-october-31st",
+      "published": "Mon, 06 Oct 2025 14:14:29 +0000",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://panteracapital.com/blockchain-letter/"
+    },
+    {
+      "id": "55ee0b5bb37a",
+      "source": "Pantera Blockchain Letter",
+      "tier": 1,
+      "title": "Figure IPO &#8211; Where Capital Markets Meet Blockchain",
+      "url": "https://panteracapital.com/blockchain-letter/figure-ipo-where-capital-markets-meet-blockchain",
+      "published": "Thu, 11 Sep 2025 18:14:06 +0000",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://panteracapital.com/blockchain-letter/"
+    },
+    {
+      "id": "3fbb263b8ba6",
+      "source": "Pantera Blockchain Letter",
+      "tier": 1,
+      "title": "DAT Value Creation",
+      "url": "https://panteracapital.com/blockchain-letter/dat-value-creation",
+      "published": "Tue, 12 Aug 2025 14:02:48 +0000",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://panteracapital.com/blockchain-letter/"
+    },
+    {
+      "id": "67cab6d5a18e",
+      "source": "Pantera Blockchain Letter",
+      "tier": 1,
+      "title": "The Great Onchain Migration",
+      "url": "https://panteracapital.com/blockchain-letter/the-great-onchain-migration",
+      "published": "Wed, 23 Jul 2025 14:45:11 +0000",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://panteracapital.com/blockchain-letter/"
+    },
+    {
+      "id": "134883e9b534",
+      "source": "Pantera Blockchain Letter",
+      "tier": 1,
+      "title": "Pantera DAT Fund Closing",
+      "url": "https://panteracapital.com/blockchain-letter/pantera-dat-fund-closing",
+      "published": "Mon, 30 Jun 2025 14:48:37 +0000",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://panteracapital.com/blockchain-letter/"
+    },
+    {
+      "id": "4dfbb604d3ad",
+      "source": "Pantera Blockchain Letter",
+      "tier": 1,
+      "title": "A New Frontier For Crypto Exposure",
+      "url": "https://panteracapital.com/blockchain-letter/a-new-frontier-for-crypto-exposure",
+      "published": "Thu, 29 May 2025 16:37:35 +0000",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://panteracapital.com/blockchain-letter/"
+    },
+    {
+      "id": "70c883b55147",
+      "source": "Paradigm",
+      "tier": 1,
+      "title": "Introducing the 2026 Paradigm Fellowship",
+      "url": "https://www.paradigm.xyz/2026/04/introducing-the-2026-paradigm-fellowship",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://www.paradigm.xyz/writing"
+    },
+    {
+      "id": "ba30af1b2e61",
+      "source": "Paradigm",
+      "tier": 1,
+      "title": "Paradigm Predictions is a tool for exploring the landscape of prediction markets. We aim to make prediction market data intuitive, accessibl",
+      "url": "https://www.paradigm.xyz/2026/02/introducing-paradigm-predictions",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://www.paradigm.xyz/writing"
+    },
+    {
+      "id": "e91e58fd3d1d",
+      "source": "Paradigm",
+      "tier": 1,
+      "title": "Paradigm is now the steward of the solution to Kryptos, one of the last great cryptography puzzles \u2014 but it's a secret, even to us. Now we\u2019r",
+      "url": "https://www.paradigm.xyz/2026/06/kryptos",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://www.paradigm.xyz/writing"
+    },
+    {
+      "id": "5b3c7054b701",
+      "source": "Paradigm",
+      "tier": 1,
+      "title": "Paradigm Files Comment Letter on the FDIC\u2019s GENIUS Act Stablecoin Rulemaking",
+      "url": "https://www.paradigm.xyz/2026/06/paradigm-files-comment-letter-on-the-fdic-s-genius-act-stablecoin-rulemaking",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://www.paradigm.xyz/writing"
+    },
+    {
+      "id": "287bd4da6af5",
+      "source": "Paradigm",
+      "tier": 1,
+      "title": "Stablecoins are Global - Paradigm\u2019s Response to FCA 26/13",
+      "url": "https://www.paradigm.xyz/2026/06/stablecoins-are-global-paradigm-s-response-to-fca-26-13",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://www.paradigm.xyz/writing"
+    },
+    {
+      "id": "de5abc8165ec",
+      "source": "Paradigm",
+      "tier": 1,
+      "title": "Paradigm raises critical issues on pivotal stablecoin rulemaking",
+      "url": "https://www.paradigm.xyz/2026/06/paradigm-files-comment-letter-on-treasury-s-genius-state-pathway-rulemaking",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://www.paradigm.xyz/writing"
+    },
+    {
+      "id": "f7173c2cdc19",
+      "source": "Paradigm",
+      "tier": 1,
+      "title": "Paradigm and Tempo open source Centaur, a Slack-native multiplayer, self-hosted and secure agent for investing, building, and researching.",
+      "url": "https://www.paradigm.xyz/2026/05/open-sourcing-centaur-multiplayer-self-hosted-secure-agents",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://www.paradigm.xyz/writing"
+    },
+    {
+      "id": "2636e5560527",
+      "source": "Paradigm",
+      "tier": 1,
+      "title": "Paradigm raises critical issues on pivotal stablecoin rulemaking",
+      "url": "https://www.paradigm.xyz/2026/05/paradigm-files-comment-letter-on-the-occ-s-genius-rulemaking",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://www.paradigm.xyz/writing"
+    },
+    {
+      "id": "9d91d862301b",
+      "source": "Paradigm",
+      "tier": 1,
+      "title": "PACTs: Protecting Your Bitcoin From a Quantum Sunset",
+      "url": "https://www.paradigm.xyz/2026/05/pacts-protecting-your-bitcoin-from-a-quantum-sunset",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://www.paradigm.xyz/writing"
+    },
+    {
+      "id": "f75d5dffaf90",
+      "source": "Paradigm",
+      "tier": 1,
+      "title": "Paradigm Files Comment Letter on the CFTC\u2019s Prediction Markets Rulemaking",
+      "url": "https://www.paradigm.xyz/2026/04/paradigm-files-comment-letter-on-the-cftc-s-prediction-markets-rulemaking",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://www.paradigm.xyz/writing"
+    },
+    {
+      "id": "36536bcb0207",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "Glassnode on Snowflake: Digital Asset Data Delivered Directly to your Warehouse",
+      "url": "https://research.glassnode.com/glassnode-on-snowflake",
+      "published": "Thu, 04 Jun 2026 14:00:00 GMT",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://research.glassnode.com/"
+    },
+    {
+      "id": "c0d73b5b00de",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "Aggregate Analysis Beyond Price: Glassnode Global Metrics",
+      "url": "https://research.glassnode.com/global-metrics",
+      "published": "Thu, 28 May 2026 13:00:00 GMT",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://research.glassnode.com/"
+    },
+    {
+      "id": "d49122e923fd",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "Measuring Bitcoin's Quantum-Exposed Supply",
+      "url": "https://research.glassnode.com/measuring-bitcoins-quantum-exposed-supply",
+      "published": "Wed, 20 May 2026 10:00:00 GMT",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://research.glassnode.com/"
+    },
+    {
+      "id": "50b6726321bc",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "The Bitcoin Vector #59",
+      "url": "https://research.glassnode.com/the-bitcoin-vector-59",
+      "published": "Thu, 11 Jun 2026 08:45:00 GMT",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://research.glassnode.com/"
+    },
+    {
+      "id": "ce8e3f3f246f",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "The Altcoin Vector #58",
+      "url": "https://research.glassnode.com/the-altcoin-vector-58",
+      "published": "Thu, 11 Jun 2026 08:00:00 GMT",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://research.glassnode.com/"
+    },
+    {
+      "id": "a788c8f1b4f4",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "Finding a Floor",
+      "url": "https://research.glassnode.com/the-week-onchain-week-23-2026",
+      "published": "Wed, 10 Jun 2026 17:06:26 GMT",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://research.glassnode.com/"
+    },
+    {
+      "id": "7fd74825d0e5",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "BTC Market Pulse: Week 24",
+      "url": "https://research.glassnode.com/btc-market-pulse-week-24",
+      "published": "Mon, 08 Jun 2026 13:11:51 GMT",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://research.glassnode.com/"
+    },
+    {
+      "id": "a71c82c61895",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "The Altcoin Vector #57",
+      "url": "https://research.glassnode.com/the-altcoin-vector-57",
+      "published": "Thu, 04 Jun 2026 07:12:27 GMT",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://research.glassnode.com/"
+    },
+    {
+      "id": "c902baa8a938",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "The Bitcoin Vector #58",
+      "url": "https://research.glassnode.com/the-bitcoin-vector-58",
+      "published": "Thu, 04 Jun 2026 07:10:15 GMT",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://research.glassnode.com/"
+    },
+    {
+      "id": "83f10bcc6d73",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "The Rally That Wasn't",
+      "url": "https://research.glassnode.com/the-week-onchain-week-22-2026",
+      "published": "Wed, 03 Jun 2026 15:30:52 GMT",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://research.glassnode.com/"
+    },
+    {
+      "id": "682d0ab5a54b",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "Glassnode spinout Cense raises \u20ac6.5 million seed round to transform crypto compliance for banks",
+      "url": "https://research.glassnode.com/glassnode-spinout-cense-raises-seed-round",
+      "published": "Wed, 03 Jun 2026 07:30:09 GMT",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://research.glassnode.com/"
+    },
+    {
+      "id": "c3693a6baa54",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "BTC Market Pulse: Week 23",
+      "url": "https://research.glassnode.com/btc-market-pulse-week-23-2026",
+      "published": "Mon, 01 Jun 2026 14:00:00 GMT",
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://research.glassnode.com/"
+    },
+    {
+      "id": "93ee13105e29",
+      "source": "Delphi Digital",
+      "tier": 1,
+      "title": "Bitcoin Top Signal Dashboard",
+      "url": "https://members.delphidigital.io/projects/bitcoin?subpage=top-signal",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://members.delphidigital.io/"
+    },
+    {
+      "id": "8fa77fc6149a",
+      "source": "Bankless",
+      "tier": 2,
+      "title": "Compare Crypto vs Stocks New",
+      "url": "https://www.bankless.com/crypto-vs-stocks",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://www.bankless.com/read"
+    },
+    {
+      "id": "c9af6d5d23e6",
+      "source": "Bankless",
+      "tier": 2,
+      "title": "Metaversal NFTs, gaming, and crypto culture",
+      "url": "https://www.bankless.com/metaversal",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://www.bankless.com/read"
+    },
+    {
+      "id": "c4e0ab0f21a5",
+      "source": "Bankless",
+      "tier": 2,
+      "title": "Mindshare Stay on the frontier of AI x Crypto",
+      "url": "https://www.bankless.com/mindshare",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://www.bankless.com/read"
+    },
+    {
+      "id": "7b41279b9244",
+      "source": "Bankless",
+      "tier": 2,
+      "title": "Ethereum Weekly Everything new in Ethereum",
+      "url": "https://www.bankless.com/ethereum-weekly",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://www.bankless.com/read"
+    },
+    {
+      "id": "1fca2772f540",
+      "source": "Bankless",
+      "tier": 2,
+      "title": "ICO Watch A curated list of public token sales",
+      "url": "https://www.bankless.com/ico-watch",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://www.bankless.com/read"
+    },
+    {
+      "id": "c0af031a1bb2",
+      "source": "Bankless",
+      "tier": 2,
+      "title": "News",
+      "url": "https://www.bankless.com/read/topic/news",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://www.bankless.com/read"
+    },
+    {
+      "id": "f1611576ff07",
+      "source": "Bankless",
+      "tier": 2,
+      "title": "Ethereum",
+      "url": "https://www.bankless.com/read/topic/ethereum",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://www.bankless.com/read"
+    },
+    {
+      "id": "a4106df504ed",
+      "source": "Bankless",
+      "tier": 2,
+      "title": "Bitcoin",
+      "url": "https://www.bankless.com/read/topic/bitcoin",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://www.bankless.com/read"
+    },
+    {
+      "id": "ab133c0108e3",
+      "source": "Bankless",
+      "tier": 2,
+      "title": "DeFi",
+      "url": "https://www.bankless.com/read/topic/defi",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://www.bankless.com/read"
+    },
+    {
+      "id": "a83e16c64372",
+      "source": "Bankless",
+      "tier": 2,
+      "title": "NFTs",
+      "url": "https://www.bankless.com/read/topic/nfts",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://www.bankless.com/read"
+    },
+    {
+      "id": "b86842c8ddb0",
+      "source": "Bankless",
+      "tier": 2,
+      "title": "Guides",
+      "url": "https://www.bankless.com/read/topic/guides",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://www.bankless.com/read"
+    },
+    {
+      "id": "e2966c8eb211",
+      "source": "Bankless",
+      "tier": 2,
+      "title": "News Mastercard Adds Stablecoin Settlement for 24/7 Card Payments Mastercard is using regulated stablecoins to enable intraday, weekend, and",
+      "url": "https://www.bankless.com/read/news/mastercard-adds-stablecoin-settlement-for-24-7-card-payments",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://www.bankless.com/read"
+    },
+    {
+      "id": "dbab49b25113",
+      "source": "Token Terminal",
+      "tier": 2,
+      "title": "Announcements",
+      "url": "https://tokenterminal.com/resources/articles",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "fcd7bf18a587",
+      "source": "Token Terminal",
+      "tier": 2,
+      "title": "Engineering",
+      "url": "https://tokenterminal.com/resources/engineering",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "238e2be62416",
+      "source": "Token Terminal",
+      "tier": 2,
+      "title": "Newsletter",
+      "url": "https://tokenterminal.com/resources/newsletter",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "fb28fb6b948a",
+      "source": "Token Terminal",
+      "tier": 2,
+      "title": "Introducing Token Terminal MCP 2.0We believe it\u2019s the most powerful MCP for onchain data12 Jun, 2026",
+      "url": "https://tokenterminal.com/resources/newsletter/introducing-token-terminal-mcp-2-0",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "ce328520095f",
+      "source": "Token Terminal",
+      "tier": 2,
+      "title": "tradeXYZ is bringing the real world onchain through perps + data & product updates11 Jun, 2026",
+      "url": "https://tokenterminal.com/resources/newsletter/tradexyz-is-bringing-the-real-world-onchain-through-perps",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "1d2539b3a590",
+      "source": "Token Terminal",
+      "tier": 2,
+      "title": "These charts explain the tokenized asset boom+ data & product updates4 Jun, 2026",
+      "url": "https://tokenterminal.com/resources/newsletter/these-charts-explain-the-tokenized-asset-boom",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "1ad877156ae7",
+      "source": "Token Terminal",
+      "tier": 2,
+      "title": "BlackRock\u2019s new tokenized fund puts Ethereum\u2019s institutional thesis to the test+ data & product updates28 May, 2026",
+      "url": "https://tokenterminal.com/resources/newsletter/blackrock-s-new-tokenized-fund-puts-ethereum-s-institutional-thesis-to-the-test",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "9dfe961eac56",
+      "source": "Token Terminal",
+      "tier": 2,
+      "title": "How we apply dimensional modeling to onchain dataA run-through of Kimball's dimensional modeling applied to Sky's raw smart contract events.",
+      "url": "https://tokenterminal.com/resources/engineering/2026-05-27-how-we-apply-dimensional-modeling-to-onchain-data",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "4ef8cd8c9151",
+      "source": "Token Terminal",
+      "tier": 2,
+      "title": "How crypto businesses turn products into platforms+ data & product updates21 May, 2026",
+      "url": "https://tokenterminal.com/resources/newsletter/how-crypto-businesses-turn-products-into-platforms",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "d768c553c468",
+      "source": "Token Terminal",
+      "tier": 2,
+      "title": "Why onchain data needs an entity taxonomy for proper metric standardizationHow we built an entity taxonomy and metric standardization to mak",
+      "url": "https://tokenterminal.com/resources/engineering/2026-05-18-why-onchain-data-needs-an-entity-taxonomy-for-proper-metric-standardization",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "482bdce005fc",
+      "source": "Token Terminal",
+      "tier": 2,
+      "title": "Who is going to win the tokenized Treasuries race?+ data & product updates14 May, 2026",
+      "url": "https://tokenterminal.com/resources/newsletter/who-is-going-to-win-the-tokenized-treasuries-race",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "c0c505eef6a4",
+      "source": "Token Terminal",
+      "tier": 2,
+      "title": "Launching the yields datasetWe now track onchain yields for 350+ tokens12 May, 2026",
+      "url": "https://tokenterminal.com/resources/newsletter/launching-the-yields-dataset",
+      "published": null,
+      "first_seen": "2026-06-14T20:07:56Z",
+      "source_url": "https://tokenterminal.com/resources"
+    }
+  ]
+}
