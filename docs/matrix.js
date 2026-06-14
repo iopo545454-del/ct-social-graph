@@ -1,5 +1,5 @@
 
-const v='20260614-graph-v1';
+const v='20260614-graph-v2';
 const esc=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const norm=x=>String(x||'').replace(/^@/,'');
 const qWeight=q=>q==='high'?3:q==='medium'?2:1;
