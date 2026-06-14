@@ -1,151 +1,103 @@
 {
-  "period_start": "2026-05-14",
+  "period_start": "2026-05-15",
   "period_end": "2026-06-14",
-  "profile_updated_at": "2026-06-14T03:55:41Z",
   "themes": [
     {
-      "theme": "Private AI / anonymized AI usage",
+      "theme": "Private/uncensored AI",
       "accounts_positive": [
         "AustinBarack"
       ],
       "accounts_negative": [],
       "projects": [
-        "Venice / VVV"
+        "Venice/VVV"
       ],
-      "summary": "Observed X/Twitter posts from AustinBarack repeatedly frame centralized AI restrictions and possible user-data compulsion as a tailwind for Venice/VVV. Keep as direct evidence bucket rather than broad consensus; coin_casanova had a tactical VVV short, so cross-account stance is not uniform.",
+      "summary": "Austin has explicit long thesis; adjacent replies add context around privacy/uncensored stack.",
       "evidence_urls": [
-        "https://x.com/AustinBarack/status/2065642988470972861",
-        "https://x.com/AustinBarack/status/2065850799494738189",
-        "https://x.com/AustinBarack/status/2065790400875356205",
-        "https://x.com/coin_casanova/status/2065366923379106118"
+        "https://x.com/AustinBarack/status/2065828965625798971"
       ],
-      "momentum": "rising",
-      "confidence": "high"
+      "momentum": "rising"
     },
     {
-      "theme": "AI inference / agent systems / model operations",
+      "theme": "Hyperliquid/HYPE conviction",
       "accounts_positive": [
-        "0xGeeGee",
-        "MoneyPrinter0x",
-        "kelxyz_"
-      ],
-      "accounts_negative": [],
-      "projects": [
-        "Pluralis",
-        "GenLayer"
-      ],
-      "summary": "Observed X/Twitter evidence spans GeeGee on inference cost/observability, MoneyPrinter0x on deterministic AI-agent harnesses, and kelxyz_ on inference incentives and model-parallel training. These are adjacent but not identical themes, so keep examples close to source posts.",
-      "evidence_urls": [
-        "https://x.com/0xGeeGee/status/2065771227743138126",
-        "https://x.com/MoneyPrinter0x/status/2065910048833102118",
-        "https://x.com/MoneyPrinter0x/status/2065910906224361829",
-        "https://x.com/kelxyz_/status/2064825463818576107",
-        "https://x.com/kelxyz_/status/2063836178990633419"
-      ],
-      "momentum": "rising",
-      "confidence": "medium"
-    },
-    {
-      "theme": "Decentralized training / crypto-native AI protocols",
-      "accounts_positive": [
-        "AustinBarack",
-        "kelxyz_"
-      ],
-      "accounts_negative": [],
-      "projects": [
-        "Pluralis",
-        "Venice / VVV",
-        "GRASS"
-      ],
-      "summary": "AustinBarack points to long-term need for decentralized training, open-source models, and data protocols; kelxyz_ is explicitly bullish on Pluralis and model-parallel decentralized training. This is a repeated AI/crypto infrastructure bucket with direct project examples.",
-      "evidence_urls": [
-        "https://x.com/AustinBarack/status/2065850799494738189",
-        "https://x.com/AustinBarack/status/2057553290959700413",
-        "https://x.com/kelxyz_/status/2065782384616780175",
-        "https://x.com/kelxyz_/status/2065782544566522156"
-      ],
-      "momentum": "rising",
-      "confidence": "medium"
-    },
-    {
-      "theme": "Hyperliquid / HYPE trader preference",
-      "accounts_positive": [
-        "zuqaquz",
-        "coin_casanova"
-      ],
-      "accounts_negative": [],
-      "projects": [
-        "Hyperliquid / HYPE"
-      ],
-      "summary": "zuqaquz showed repeated, explicit Hyperliquid/HYPE preference across originals and replies. coin_casanova referenced liking HYPE retest dynamics. CryptoTomYT's scan had Hyperliquid in trading-performance context but not enough direct stance for this bucket.",
-      "evidence_urls": [
-        "https://x.com/zuqaquz/status/2063748710882738618",
-        "https://x.com/zuqaquz/status/2063001072893940119",
-        "https://x.com/i/status/2063763994142269636",
-        "https://x.com/coin_casanova/status/2063854403833188821"
-      ],
-      "momentum": "stable",
-      "confidence": "high"
-    },
-    {
-      "theme": "Crypto options, perps, and trader infrastructure",
-      "accounts_positive": [
-        "coin_casanova",
         "CryptoTomYT",
+        "zuqaquz"
+      ],
+      "accounts_negative": [],
+      "projects": [
+        "Hyperliquid",
+        "HYPE"
+      ],
+      "summary": "CryptoTom and zuqaquz show visible HYPE/Hyperliquid-positive evidence; MP is adjacent via HIGHERLIQUID/equity perps.",
+      "evidence_urls": [
+        "https://x.com/CryptoTomYT/status/2060093412565512597",
+        "https://x.com/zuqaquz/status/2063748710882738618"
+      ],
+      "momentum": "stable"
+    },
+    {
+      "theme": "Conditional futures / useful prediction markets",
+      "accounts_positive": [
         "airtightfish"
       ],
       "accounts_negative": [],
       "projects": [
-        "Derive",
-        "Tradexyz",
         "ProofMarkets"
       ],
-      "summary": "Observed posts show coin_casanova arguing for organic crypto options demand, CryptoTomYT highlighting public trading performance around Tradexyz assets, and airtightfish building/promoting ProofMarkets. These are separate infra/venue references rather than one unified thesis.",
+      "summary": "airtightfish repeatedly frames ProofMarkets/conditional futures as useful market design rather than gambling KPIs.",
       "evidence_urls": [
-        "https://x.com/coin_casanova/status/2063848704499687605",
-        "https://x.com/CryptoTomYT/status/2065238474907607090",
-        "https://x.com/i/status/2065312922532753505",
-        "https://x.com/airtightfish/status/2064390683440341286"
+        "https://x.com/airtightfish/status/2064106870453698863",
+        "https://x.com/airtightfish/status/2062958405388488822"
       ],
-      "momentum": "emerging",
-      "confidence": "medium"
+      "momentum": "emerging"
     },
     {
-      "theme": "Scams, predatory bundles, and noisy CT behavior",
-      "accounts_positive": [],
-      "accounts_negative": [
-        "airtightfish",
-        "0xGeeGee"
+      "theme": "AI inference and agentic engineering infrastructure",
+      "accounts_positive": [
+        "0xGeeGee",
+        "MoneyPrinter0x"
       ],
+      "accounts_negative": [],
       "projects": [],
-      "summary": "airtightfish explicitly separated outright scams/predatory bundles from traders taking public positions. GeeGee had a shorter reply calling out a scammer/paid-group P&D context. Keep this as a light caution bucket, not a full fraud map.",
+      "summary": "GeeGee discusses inference cost optimization; MP discusses agentic engineering harnesses and loops.",
       "evidence_urls": [
-        "https://x.com/airtightfish/status/2064392389016342888",
-        "https://x.com/0xGeeGee/status/2063206399044395270"
+        "https://x.com/0xGeeGee/status/2065771227743138126",
+        "https://x.com/MoneyPrinter0x/status/2065922247135756754"
       ],
-      "momentum": "unclear",
-      "confidence": "medium"
+      "momentum": "emerging"
     },
     {
-      "theme": "AI-driven consumer/culture macro theses",
+      "theme": "Decentralized training / permissionless AI protocols",
       "accounts_positive": [
         "kelxyz_"
       ],
       "accounts_negative": [],
-      "projects": [],
-      "summary": "kelxyz_ posted and discussed a Permanent Underclass Index thesis involving AI resilience, slop dividends, cheap physical retail, luxury/underclass barbell dynamics, dopamine/pharma/delivery overlaps. This is a notable individual thesis, not a cross-account consensus yet.",
-      "evidence_urls": [
-        "https://x.com/kelxyz_/status/2064358765340557483",
-        "https://x.com/kelxyz_/status/2064360494949953681",
-        "https://x.com/kelxyz_/status/2064365937927631203"
+      "projects": [
+        "Pluralis"
       ],
-      "momentum": "emerging",
-      "confidence": "medium"
+      "summary": "kelxyz_ argues decentralized training conditions are unusually strong and points to Pluralis.",
+      "evidence_urls": [
+        "https://x.com/kelxyz_/status/2065781464889712875",
+        "https://x.com/kelxyz_/status/2065782384616780175"
+      ],
+      "momentum": "rising"
+    },
+    {
+      "theme": "DeFi governance/stablecoin risk skepticism",
+      "accounts_positive": [],
+      "accounts_negative": [
+        "0xGeeGee"
+      ],
+      "projects": [
+        "Synthetix",
+        "RAAC"
+      ],
+      "summary": "GeeGee critiques Synthetix SIP-423 and RAAC design/docs quality.",
+      "evidence_urls": [
+        "https://x.com/0xGeeGee/status/2065439218298650680",
+        "https://x.com/0xGeeGee/status/2065036421648572665"
+      ],
+      "momentum": "stable"
     }
-  ],
-  "open_questions": [
-    "game_for_one produced no visible searchable evidence in the window; retry broader/manual scans.",
-    "Several reply-only i/status links need counterparties for cleaner interaction graph edges.",
-    "Do not over-read one-off ticker/trade mentions such as SPCX, BB, ZEC, WLD, Maple Classic without recurrence."
   ]
 }

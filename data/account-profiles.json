@@ -1,322 +1,214 @@
 [
   {
     "handle": "coin_casanova",
-    "period_start": "2026-05-14",
+    "period_start": "2026-05-15",
     "period_end": "2026-06-14",
-    "profile_updated_at": "2026-06-14T03:55:41Z",
-    "taste_summary": "Observed X/Twitter evidence shows a short-horizon trader focused on low-float/FDV-style setups, hedging, rotation, options, and relative-value framing between crypto and equities. Interpretation confidence is medium because the scan found several original posts but few substantive replies.",
+    "profile_updated_at": "2026-06-14T04:05:00Z",
+    "taste_summary": "Visible evidence skews toward flow-aware trading, onchain options/DRV, low-float KOL-led setups, and explicit invalidation criteria.",
     "likes": [
       {
-        "theme": "Low-float speculative setups with clear leaders",
-        "summary": "Explicitly framed the trade as low-float scam plus KOL leader; also compared an upcoming IPO/SPCX setup to crypto low-float FDV dynamics.",
+        "theme": "Onchain options / Derive",
+        "summary": "Bullish on organic growth in onchain options; added DRV to long-term holdings with volume/buyback/invalidation framing.",
         "evidence_urls": [
-          "https://x.com/coin_casanova/status/2065438838546477385",
-          "https://x.com/coin_casanova/status/2065366923379106118",
-          "https://x.com/coin_casanova/status/2065242572478722325"
-        ],
-        "confidence": "medium"
-      },
-      {
-        "theme": "Crypto options/hedging infrastructure",
-        "summary": "Argued crypto participants are experienced enough for a real options market and contrasted organic options usage with prior airdrop-farming attempts.",
-        "evidence_urls": [
-          "https://x.com/coin_casanova/status/2063848704499687605"
-        ],
-        "confidence": "medium"
-      }
-    ],
-    "dislikes": [
-      {
-        "theme": "Overthinking simple speculative trades",
-        "summary": "Explicitly advised not to overthink the low-float/KOL-leader trade construction.",
-        "evidence_urls": [
-          "https://x.com/coin_casanova/status/2065438838546477385"
-        ],
-        "confidence": "low"
-      }
-    ],
-    "projects_mentioned": [
-      {
-        "name": "SPCX",
-        "handle": null,
-        "stance": "watching",
-        "summary": "Mentioned as an IPO/low-float-style trade candidate; hedged with VVV short.",
-        "evidence_urls": [
-          "https://x.com/coin_casanova/status/2065366923379106118"
-        ]
-      },
-      {
-        "name": "Venice / VVV",
-        "handle": "AskVenice",
-        "stance": "negative",
-        "summary": "Used VVV short as a hedge and described a bearish-continuation area; this is a trading stance, not necessarily a fundamental fade.",
-        "evidence_urls": [
-          "https://x.com/coin_casanova/status/2065366923379106118"
-        ]
-      },
-      {
-        "name": "HYPE / Hyperliquid",
-        "handle": "HyperliquidX",
-        "stance": "watching",
-        "summary": "Referenced liking HYPE retest dynamics after a crypto drawdown.",
-        "evidence_urls": [
-          "https://x.com/coin_casanova/status/2063854403833188821"
-        ]
-      },
-      {
-        "name": "Derive",
-        "handle": "derive_xyz",
-        "stance": "positive",
-        "summary": "Quoted Derive volume update while arguing crypto options demand is becoming organic.",
-        "evidence_urls": [
-          "https://x.com/coin_casanova/status/2063848704499687605"
-        ]
-      }
-    ],
-    "people_respected": [],
-    "style": {
-      "time_horizon": "short-term",
-      "risk_preference": "early/illiquid",
-      "research_style": "technical"
-    },
-    "open_questions": [
-      "Need more reply/quote context to distinguish tactical shorts from fundamental dislikes.",
-      "SPCX reference needs follow-up once the IPO/trade context is clearer."
-    ],
-    "evidence_urls": [
-      "https://x.com/coin_casanova/status/2065438838546477385",
-      "https://x.com/coin_casanova/status/2065366923379106118",
-      "https://x.com/coin_casanova/status/2064875505099432023",
-      "https://x.com/coin_casanova/status/2063848704499687605"
-    ]
-  },
-  {
-    "handle": "0xGeeGee",
-    "period_start": "2026-05-14",
-    "period_end": "2026-06-14",
-    "profile_updated_at": "2026-06-14T03:55:41Z",
-    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with a practical focus on AI inference economics, DeFi's continuing purpose, risk correlations, and second-order AI trades. Interpretation confidence is medium; much of the evidence came from replies.",
-    "likes": [
-      {
-        "theme": "AI inference efficiency and optimization layers",
-        "summary": "Predicted a 2026 DeepSeek-style moment for inference where cost awareness, observability, and better harnesses/architectures matter more.",
-        "evidence_urls": [
-          "https://x.com/0xGeeGee/status/2065771227743138126"
-        ],
-        "confidence": "medium"
-      },
-      {
-        "theme": "DeFi as core crypto utility",
-        "summary": "Stated that without DeFi crypto is meaningless and boring, while discussing yields, offchain components, and correlated crypto risk.",
-        "evidence_urls": [
-          "https://x.com/0xGeeGee/status/2063156957541003404",
-          "https://x.com/0xGeeGee/status/2064299536408093071",
-          "https://x.com/0xGeeGee/status/2064302045952344142"
+          "https://x.com/coin_casanova/status/2063848704499687605",
+          "https://x.com/coin_casanova/status/2063114592549732671"
         ],
         "confidence": "high"
       },
       {
-        "theme": "Pick-and-shovels second-order AI trades",
-        "summary": "Preferred cybersecurity, UAVs, selected software recovery and other pick-and-shovel exposures before generalized robotics/automation.",
+        "theme": "Low-float KOL-led flow trades",
+        "summary": "Condenses current trade thesis around low-float setups plus a KOL leader.",
         "evidence_urls": [
-          "https://x.com/0xGeeGee/status/2064323000690716869"
+          "https://x.com/coin_casanova/status/2065438838546477385"
         ],
         "confidence": "medium"
       }
     ],
-    "dislikes": [
-      {
-        "theme": "Humanoid robotics at current valuations",
-        "summary": "Said generalized robotics is still quite far away and strongly avoids humanoids at current valuations.",
-        "evidence_urls": [
-          "https://x.com/0xGeeGee/status/2064323000690716869"
-        ],
-        "confidence": "medium"
-      },
-      {
-        "theme": "Overconfident ETH/TVL valuation multiples",
-        "summary": "Accepted TVL anchoring only in part and suggested multiples are likely much lower than commonly assumed, especially for centralized assets.",
-        "evidence_urls": [
-          "https://x.com/0xGeeGee/status/2064955445526303081"
-        ],
-        "confidence": "medium"
-      }
-    ],
+    "dislikes": [],
     "projects_mentioned": [
       {
-        "name": "GenLayer",
-        "handle": "GenLayer",
-        "stance": "watching",
-        "summary": "Mentioned as building a generalized version of AI-council / human-LLM jury settlement ideas used in prior prediction market work.",
+        "name": "Derive / DRV",
+        "handle": "DeriveXYZ",
+        "stance": "positive",
+        "summary": "Long-term holding thesis around options niche, fee accrual/buybacks, TA, and invalidation thresholds.",
         "evidence_urls": [
-          "https://x.com/0xGeeGee/status/2062059018332377274"
-        ]
-      },
-      {
-        "name": "Kelp",
-        "handle": null,
-        "stance": "neutral",
-        "summary": "Referenced post-Kelp yields in a broader reply about crypto risk/yields.",
-        "evidence_urls": [
-          "https://x.com/0xGeeGee/status/2064302045952344142"
+          "https://x.com/coin_casanova/status/2063114592549732671"
         ]
       }
     ],
     "people_respected": [],
     "style": {
       "time_horizon": "mixed",
-      "risk_preference": "mixed",
-      "research_style": "mixed"
+      "risk_preference": "early/illiquid",
+      "research_style": "narrative/flow-led with some market structure"
     },
     "open_questions": [
-      "Need more authored posts to separate personal portfolio preferences from analytical commentary.",
-      "Identify the counterparties/threads behind DeFi and ETH valuation replies for better interaction edges."
-    ],
-    "evidence_urls": [
-      "https://x.com/0xGeeGee/status/2065771227743138126",
-      "https://x.com/0xGeeGee/status/2063156957541003404",
-      "https://x.com/0xGeeGee/status/2064323000690716869",
-      "https://x.com/0xGeeGee/status/2064955445526303081"
+      "Which KOLs are actually driving the low-float setups, and are the calls early or post-hoc?"
     ]
   },
   {
-    "handle": "AustinBarack",
-    "period_start": "2026-05-14",
+    "handle": "0xGeeGee",
+    "period_start": "2026-05-15",
     "period_end": "2026-06-14",
-    "profile_updated_at": "2026-06-14T03:55:41Z",
-    "taste_summary": "Observed X/Twitter evidence is strongly thesis-driven around private/anonymized AI, Venice/VVV, decentralized training, open-source models, and AI data protocols. Interpretation confidence is high for Venice/VVV because multiple authored posts and replies repeat the same framing.",
+    "profile_updated_at": "2026-06-14T04:05:00Z",
+    "taste_summary": "Evidence shows DeFi risk/governance skepticism plus interest in AI inference cost/optimization as a coming infrastructure layer.",
     "likes": [
       {
-        "theme": "Private/anonymized AI usage",
-        "summary": "Repeatedly argued centralized AI-lab restrictions and possible user-data compulsion create a tailwind for Venice as a VPN-like private AI product.",
+        "theme": "AI inference observability / optimization",
+        "summary": "Predicts a 2026 DeepSeek-like moment for inference cost observability, memory/skills/harness layers.",
         "evidence_urls": [
-          "https://x.com/AustinBarack/status/2065642988470972861",
-          "https://x.com/AustinBarack/status/2065850799494738189",
-          "https://x.com/AustinBarack/status/2065790400875356205",
-          "https://x.com/AustinBarack/status/2065867757023817874"
+          "https://x.com/0xGeeGee/status/2065771227743138126"
         ],
         "confidence": "high"
-      },
-      {
-        "theme": "Product traction plus monetization in crypto/AI",
-        "summary": "Emphasized Venice user growth, subscriptions/credit purchases, revenue capture, and possible upside even at a tiny fraction of OpenAI scale.",
-        "evidence_urls": [
-          "https://x.com/AustinBarack/status/2065642988470972861",
-          "https://x.com/AustinBarack/status/2065857217199235306",
-          "https://x.com/AustinBarack/status/2065896883474600034"
-        ],
-        "confidence": "high"
-      },
-      {
-        "theme": "Decentralized/open AI stack",
-        "summary": "Explicitly pointed to long-term needs for decentralized training, open-source models, and data protocols.",
-        "evidence_urls": [
-          "https://x.com/AustinBarack/status/2065850799494738189",
-          "https://x.com/AustinBarack/status/2057843044762710113"
-        ],
-        "confidence": "medium"
       }
     ],
     "dislikes": [
       {
-        "theme": "Centralized AI gatekeeping and nationality-based restrictions",
-        "summary": "Criticized the risk that AI labs compelled to restrict model access by nationality could also be compelled around user data.",
+        "theme": "Weak DeFi/stablecoin/governance design",
+        "summary": "Critiques Synthetix SIP-423 and RAAC docs/stablecoin design quality.",
         "evidence_urls": [
-          "https://x.com/AustinBarack/status/2065790400875356205",
-          "https://x.com/AustinBarack/status/2065850799494738189"
+          "https://x.com/0xGeeGee/status/2065439218298650680",
+          "https://x.com/0xGeeGee/status/2065036421648572665"
         ],
         "confidence": "high"
       }
     ],
     "projects_mentioned": [
       {
-        "name": "Venice / VVV",
-        "handle": "AskVenice",
-        "stance": "positive",
-        "summary": "Core repeated positive thesis: private AI product with rapid user growth, top models, subscriptions/credits, and privacy tailwind from centralized AI restrictions.",
+        "name": "Synthetix / sUSD",
+        "handle": "synthetix_io",
+        "stance": "negative",
+        "summary": "Critiqued legacy sUSD retirement mechanics and governance-token risk.",
         "evidence_urls": [
-          "https://x.com/AustinBarack/status/2065642988470972861",
-          "https://x.com/AustinBarack/status/2065896297010475257",
-          "https://x.com/AustinBarack/status/2065857217199235306"
+          "https://x.com/0xGeeGee/status/2065439218298650680"
         ]
       },
       {
-        "name": "GRASS",
-        "handle": "getgrass_io",
-        "stance": "positive",
-        "summary": "Named VVV and GRASS as two preferred AI/data tokens in a reply.",
+        "name": "RAAC",
+        "handle": null,
+        "stance": "negative",
+        "summary": "Criticized docs/stablecoin design as low-quality LLM-like output.",
         "evidence_urls": [
-          "https://x.com/AustinBarack/status/2057553290959700413"
-        ]
-      },
-      {
-        "name": "Worldcoin / WLD",
-        "handle": "worldcoin",
-        "stance": "watching",
-        "summary": "Raised odds of OpenAI integrating WLD in some form.",
-        "evidence_urls": [
-          "https://x.com/AustinBarack/status/2065846319378301024"
+          "https://x.com/0xGeeGee/status/2065036421648572665"
         ]
       }
     ],
     "people_respected": [],
     "style": {
-      "time_horizon": "long-term",
-      "risk_preference": "infra",
-      "research_style": "fundamental"
+      "time_horizon": "medium-term",
+      "risk_preference": "infra/risk-aware",
+      "research_style": "skeptical technical/protocol-risk"
     },
     "open_questions": [
-      "Need to identify the May 22 AI/data protocol context behind the replies about bank accounts and token/crypto improvements.",
-      "Track whether Venice thesis remains product-traction led or becomes broader decentralized-training thesis."
+      "Which public crypto projects map directly to inference observability/optimization rather than generic AI-token narratives?"
+    ]
+  },
+  {
+    "handle": "AustinBarack",
+    "period_start": "2026-05-15",
+    "period_end": "2026-06-14",
+    "profile_updated_at": "2026-06-14T04:05:00Z",
+    "taste_summary": "Evidence clusters around AI x crypto, private/uncensored AI, tokenized compute, and tokenomics/market-structure expansion.",
+    "likes": [
+      {
+        "theme": "Private/uncensored AI",
+        "summary": "Long VVV/Venice thesis after Anthropic news; frames centralized AI access/data risk as tailwind for private/open alternatives.",
+        "evidence_urls": [
+          "https://x.com/AustinBarack/status/2065828965625798971",
+          "https://x.com/AustinBarack/status/2065642988470972861"
+        ],
+        "confidence": "high"
+      },
+      {
+        "theme": "Tokenized compute",
+        "summary": "Frames DIEM/tokenized compute as a way AI compute access may be traded, hedged, and guaranteed.",
+        "evidence_urls": [
+          "https://x.com/AustinBarack/status/2064472414436692066"
+        ],
+        "confidence": "high"
+      }
     ],
-    "evidence_urls": [
-      "https://x.com/AustinBarack/status/2065642988470972861",
-      "https://x.com/AustinBarack/status/2065850799494738189",
-      "https://x.com/AustinBarack/status/2065896297010475257",
-      "https://x.com/AustinBarack/status/2057553290959700413"
+    "dislikes": [],
+    "projects_mentioned": [
+      {
+        "name": "Venice / VVV",
+        "handle": "AskVenice",
+        "stance": "positive",
+        "summary": "Explicit long thesis tied to private/uncensored AI and centralized lab risk.",
+        "evidence_urls": [
+          "https://x.com/AustinBarack/status/2065828965625798971"
+        ]
+      },
+      {
+        "name": "AERO",
+        "handle": null,
+        "stance": "positive",
+        "summary": "Bullish on expansion to Ethereum mainnet and expected market share surprise.",
+        "evidence_urls": [
+          "https://x.com/AustinBarack/status/2065205170917544261"
+        ]
+      },
+      {
+        "name": "DIEM",
+        "handle": null,
+        "stance": "watching",
+        "summary": "Tokenized compute thesis; compute access as tradable/hedgeable asset.",
+        "evidence_urls": [
+          "https://x.com/AustinBarack/status/2064472414436692066"
+        ]
+      }
+    ],
+    "people_respected": [
+      {
+        "handle": "citrini",
+        "why": "Austin explicitly highlighted @citrini’s role/impact on HYPE/theme discovery.",
+        "evidence_urls": [
+          "https://x.com/AustinBarack/status/2063990665449468106"
+        ]
+      }
+    ],
+    "style": {
+      "time_horizon": "medium-term",
+      "risk_preference": "infra/AI tokens",
+      "research_style": "fundamental/narrative/market-structure"
+    },
+    "open_questions": [
+      "How durable is Venice user growth versus Anthropic-news event-driven attention?",
+      "What are concrete VVV value-accrual mechanics?"
     ]
   },
   {
     "handle": "airtightfish",
-    "period_start": "2026-05-14",
+    "period_start": "2026-05-15",
     "period_end": "2026-06-14",
-    "profile_updated_at": "2026-06-14T03:55:41Z",
-    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, and nuance around trader behavior versus scams. Interpretation confidence is medium; many posts are project/community replies.",
+    "profile_updated_at": "2026-06-14T04:05:00Z",
+    "taste_summary": "Evidence heavily centered on ProofMarkets, conditional futures, prediction-market mechanism quality, and private-company exposure/pricing dislocations.",
     "likes": [
       {
-        "theme": "Crypto access to private companies",
-        "summary": "Called restoring the social contract by giving people access to private companies one of crypto's strongest emergent use cases, while noting it is hard and early.",
+        "theme": "Conditional futures / useful prediction markets",
+        "summary": "Repeatedly discusses ProofMarkets and conditional futures as a broad new market-design surface.",
         "evidence_urls": [
-          "https://x.com/airtightfish/status/2065567457536831796"
+          "https://x.com/airtightfish/status/2062630648922112235",
+          "https://x.com/airtightfish/status/2064106870453698863"
         ],
         "confidence": "high"
       },
       {
-        "theme": "ProofMarkets community/onboarding",
-        "summary": "Repeatedly promoted ProofMarkets, referenced manual waitlist review after bot/AI filtering, and invited feedback/market ideas.",
+        "theme": "Private-company exposure as crypto primitive",
+        "summary": "Highlights SpaceX PreStocks discount and Anduril/Polymarket dislocations as potentially useful diligence signals.",
         "evidence_urls": [
-          "https://x.com/airtightfish/status/2064390683440341286",
-          "https://x.com/airtightfish/status/2064743264691875927",
-          "https://x.com/airtightfish/status/2064562933405736983",
-          "https://x.com/airtightfish/status/2063036560791007584"
+          "https://x.com/airtightfish/status/2065567457536831796",
+          "https://x.com/airtightfish/status/2064093912373805280"
         ],
         "confidence": "high"
-      },
-      {
-        "theme": "AI/social crossover",
-        "summary": "Posted a concise 'ai x friendtech' note; currently too thin to infer more than active interest.",
-        "evidence_urls": [
-          "https://x.com/airtightfish/status/2064464387105046949"
-        ],
-        "confidence": "low"
       }
     ],
     "dislikes": [
       {
-        "theme": "Outright scams and predatory bundles",
-        "summary": "Explicitly distinguished outright scams/predatory bundles from traders publicly taking and holding large-cap positions.",
+        "theme": "Prediction markets drifting into gambling KPIs",
+        "summary": "Argues prediction-market KPIs are drifting toward gambling and ProofMarkets should favor economically meaningful markets.",
         "evidence_urls": [
-          "https://x.com/airtightfish/status/2064392389016342888"
+          "https://x.com/airtightfish/status/2062958405388488822"
         ],
         "confidence": "high"
       }
@@ -326,38 +218,44 @@
         "name": "ProofMarkets",
         "handle": "ProofMarkets",
         "stance": "positive",
-        "summary": "Main repeated project; discussed waitlist, filtering, manual review, signups, feedback, and future markets.",
+        "summary": "Core project repeatedly promoted and positioned around event/conditional futures.",
         "evidence_urls": [
-          "https://x.com/airtightfish/status/2064390683440341286",
-          "https://x.com/airtightfish/status/2064743264691875927",
-          "https://x.com/airtightfish/status/2064562933405736983",
-          "https://x.com/airtightfish/status/2063450933804052934"
+          "https://x.com/airtightfish/status/2062630648922112235",
+          "https://x.com/airtightfish/status/2064390683440341286"
+        ]
+      },
+      {
+        "name": "PreStocks",
+        "handle": null,
+        "stance": "positive",
+        "summary": "Used as evidence for private-company pricing dislocations and emergent crypto use case.",
+        "evidence_urls": [
+          "https://x.com/airtightfish/status/2065567457536831796"
         ]
       }
     ],
-    "people_respected": [],
+    "people_respected": [
+      {
+        "handle": "Treggs6",
+        "why": "Congratulated @Treggs6 on Seedplex launch tied to venture tokens on Solana.",
+        "evidence_urls": [
+          "https://x.com/airtightfish/status/2065298161111892397"
+        ]
+      }
+    ],
     "style": {
       "time_horizon": "medium-term",
-      "risk_preference": "mixed",
-      "research_style": "network-led"
+      "risk_preference": "market-structure/products",
+      "research_style": "mechanism/product-led"
     },
-    "open_questions": [
-      "Need more detail on ProofMarkets market design and the private-company-access thesis.",
-      "AI x friendtech mention needs follow-up before treating it as a real theme."
-    ],
-    "evidence_urls": [
-      "https://x.com/airtightfish/status/2065567457536831796",
-      "https://x.com/airtightfish/status/2064392389016342888",
-      "https://x.com/airtightfish/status/2064390683440341286",
-      "https://x.com/airtightfish/status/2064093914684940791"
-    ]
+    "open_questions": []
   },
   {
     "handle": "game_for_one",
-    "period_start": "2026-05-14",
+    "period_start": "2026-05-15",
     "period_end": "2026-06-14",
-    "profile_updated_at": "2026-06-14T03:55:41Z",
-    "taste_summary": "No visible matching authored posts or replies surfaced in the X/Twitter searches for this 30-day window. Interpretation confidence is low; leave profile mostly blank and treat as needs-review rather than inactive with certainty.",
+    "profile_updated_at": "2026-06-14T04:05:00Z",
+    "taste_summary": "Direct posts did not surface in the 30-day search; only indirect mention/tag graph appeared, mostly AI/privacy/microcap promos. Treat as thin evidence.",
     "likes": [],
     "dislikes": [],
     "projects_mentioned": [],
@@ -368,120 +266,95 @@
       "research_style": "unclear"
     },
     "open_questions": [
-      "X search returned no visible posts for authored or reply queries in the period; account may be inactive, protected, deleted posts, or not surfacing in search.",
-      "Retry with broader semantic search and manual profile inspection in a future scan."
-    ],
-    "evidence_urls": []
+      "No direct posts found in-window; account may be quiet, search coverage incomplete, or relevant activity may be likes/private/deleted."
+    ]
   },
   {
     "handle": "CryptoTomYT",
-    "period_start": "2026-05-14",
+    "period_start": "2026-05-15",
     "period_end": "2026-06-14",
-    "profile_updated_at": "2026-06-14T03:55:41Z",
-    "taste_summary": "Observed X/Twitter evidence is mostly trading-performance/social content, with repeated context around Tradexyz assets, Hyperliquid/perps, PnL transparency, and short community replies. Interpretation confidence is medium-low because many replies are one-word or emoji responses.",
+    "profile_updated_at": "2026-06-14T04:05:00Z",
+    "taste_summary": "Evidence centers on Hyperliquid/HYPE, public perps trading, verifiable PNL/social trading, and mental-bandwidth/edge process notes.",
     "likes": [
       {
-        "theme": "Transparent perps/trading performance",
-        "summary": "Quoted a public trading-results post showing large monthly PnL, cash-out, win rate, and Sharpe; added that half happened while on vacation.",
+        "theme": "Hyperliquid / HYPE",
+        "summary": "Bullish HYPE thesis; frames Hyperliquid as liquid asymmetric crypto bet and weekend stock-price venue narrative.",
         "evidence_urls": [
-          "https://x.com/CryptoTomYT/status/2065238474907607090",
-          "https://x.com/i/status/2065312922532753505"
+          "https://x.com/CryptoTomYT/status/2060093412565512597",
+          "https://x.com/CryptoTomYT/status/2061164162797945111"
         ],
-        "confidence": "medium"
+        "confidence": "high"
       },
       {
-        "theme": "Trading humility / overconfidence awareness",
-        "summary": "Replied 'real' to a detailed post about overconfidence bias, sizing up after wins, and humility in trading.",
+        "theme": "Transparent social perps / anti-LARP trading",
+        "summary": "Posts about Legend/tradexyz public trading and verifiable leaderboard performance.",
         "evidence_urls": [
-          "https://x.com/i/status/2064710767098642823"
+          "https://x.com/CryptoTomYT/status/2059532068535648749",
+          "https://x.com/CryptoTomYT/status/2061891899754262796"
         ],
-        "confidence": "low"
+        "confidence": "high"
       }
     ],
     "dislikes": [],
     "projects_mentioned": [
       {
-        "name": "Tradexyz",
-        "handle": "tradexyz",
-        "stance": "positive",
-        "summary": "Trading-results context referenced Tradexyz assets as the venue/source for much of the monthly performance.",
-        "evidence_urls": [
-          "https://x.com/CryptoTomYT/status/2065238474907607090",
-          "https://x.com/i/status/2065312922532753505"
-        ]
-      },
-      {
-        "name": "Hyperliquid",
-        "handle": "HyperliquidX",
-        "stance": "watching",
-        "summary": "Hyperliquid appeared in surrounding trading-performance context; direct stance from Tom is thin in this scan.",
-        "evidence_urls": [
-          "https://x.com/i/status/2065312922532753505"
-        ]
-      },
-      {
-        "name": "Maple Classic",
+        "name": "Hyperliquid / HYPE",
         "handle": null,
-        "stance": "watching",
-        "summary": "Replied 'run it' to someone planning a degen guild on Maple Classic.",
+        "stance": "positive",
+        "summary": "Core visible market thesis in scanned window.",
         "evidence_urls": [
-          "https://x.com/i/status/2065267795214877120"
+          "https://x.com/CryptoTomYT/status/2060093412565512597"
+        ]
+      },
+      {
+        "name": "Legend",
+        "handle": "legendtrade",
+        "stance": "positive",
+        "summary": "Public perps/social trading and leaderboard performance.",
+        "evidence_urls": [
+          "https://x.com/CryptoTomYT/status/2061891899754262796"
         ]
       }
     ],
-    "people_respected": [],
-    "style": {
-      "time_horizon": "short-term",
-      "risk_preference": "mixed",
-      "research_style": "technical"
-    },
-    "open_questions": [
-      "Need authored strategy posts or longer replies to avoid inferring too much from PnL/social context.",
-      "Check whether Tradexyz/Hyperliquid mentions are durable venue preference or just one public results thread."
+    "people_respected": [
+      {
+        "handle": "ryohhno",
+        "why": "Interaction around transparent trading performance/Legend rewards.",
+        "evidence_urls": [
+          "https://x.com/CryptoTomYT/status/2065238474907607090"
+        ]
+      }
     ],
-    "evidence_urls": [
-      "https://x.com/CryptoTomYT/status/2065238474907607090",
-      "https://x.com/i/status/2065312922532753505",
-      "https://x.com/i/status/2064710767098642823",
-      "https://x.com/i/status/2062842273470283805"
-    ]
+    "style": {
+      "time_horizon": "short-to-medium-term",
+      "risk_preference": "liquid perps/HYPE",
+      "research_style": "trading/process-led"
+    },
+    "open_questions": []
   },
   {
     "handle": "zuqaquz",
-    "period_start": "2026-05-14",
+    "period_start": "2026-05-15",
     "period_end": "2026-06-14",
-    "profile_updated_at": "2026-06-14T03:55:41Z",
-    "taste_summary": "Observed X/Twitter evidence is strongly and repeatedly pro-Hyperliquid/HYPE, with market-volatility humor and a visible fade/mute list around Saylor/MSTR-related and ZEC terms. Interpretation confidence is high for HYPE preference; other themes remain thin.",
+    "profile_updated_at": "2026-06-14T04:05:00Z",
+    "taste_summary": "Evidence is HYPE/Hyperliquid-positive, with a negative privacy-money/ZEC take. Substantive public interaction with other seeds was thin.",
     "likes": [
       {
-        "theme": "Hyperliquid / HYPE concentration",
-        "summary": "Repeated original posts and replies invoke Hyperliquid/HYPE positively, including concentration/borrowing-against-spot-HYPE language and 'God bless Hyperliquid'.",
+        "theme": "Hyperliquid / HYPE",
+        "summary": "Repeated simple pro-Hyperliquid/HYPE framing and HYPE inflow graphic.",
         "evidence_urls": [
           "https://x.com/zuqaquz/status/2063748710882738618",
-          "https://x.com/zuqaquz/status/2063001072893940119",
-          "https://x.com/zuqaquz/status/2062800560558878738",
-          "https://x.com/i/status/2063763994142269636",
-          "https://x.com/i/status/2057806977808400761"
+          "https://x.com/zuqaquz/status/2062726544737312864"
         ],
         "confidence": "high"
-      },
-      {
-        "theme": "Market inefficiency and volatility",
-        "summary": "Bio and posts/replies emphasize volatility, daily trends, market inefficiency, and punchy trading observations.",
-        "evidence_urls": [
-          "https://x.com/zuqaquz/status/2062995409979556240",
-          "https://x.com/i/status/2056872573237899337"
-        ],
-        "confidence": "medium"
       }
     ],
     "dislikes": [
       {
-        "theme": "ZEC/Zcash and MSTR/Saylor discourse",
-        "summary": "Posted a mute list including saylor, strc, mstr, dat, zec, zcash; also replied that it was not too late to swap ZEC for more HYPE.",
+        "theme": "ZEC/privacy-money framing",
+        "summary": "Compared anonymous minting to cartel access to Treasury money printer.",
         "evidence_urls": [
-          "https://x.com/zuqaquz/status/2063415879971283082",
-          "https://x.com/i/status/2062800810564628694"
+          "https://x.com/zuqaquz/status/2062760707444084872"
         ],
         "confidence": "medium"
       }
@@ -489,223 +362,118 @@
     "projects_mentioned": [
       {
         "name": "Hyperliquid / HYPE",
-        "handle": "HyperliquidX",
+        "handle": null,
         "stance": "positive",
-        "summary": "Dominant repeated project/token in original posts and replies; explicit HYPE-over-ZEC preference and founder praise.",
+        "summary": "Clear repeated conviction posts.",
         "evidence_urls": [
-          "https://x.com/zuqaquz/status/2063748710882738618",
-          "https://x.com/zuqaquz/status/2063001072893940119",
-          "https://x.com/i/status/2063763994142269636",
-          "https://x.com/i/status/2057806977808400761"
+          "https://x.com/zuqaquz/status/2063748710882738618"
         ]
       },
       {
-        "name": "ZEC / Zcash",
-        "handle": "zcash",
+        "name": "Zcash / ZEC",
+        "handle": null,
         "stance": "negative",
-        "summary": "Mentioned in mute list and as something to swap for HYPE; there was also a chart/meme quote, so stance is negative-to-trading-focused rather than a deep fundamental fade.",
+        "summary": "Negative privacy-money take.",
         "evidence_urls": [
-          "https://x.com/zuqaquz/status/2063415879971283082",
-          "https://x.com/zuqaquz/status/2062796484966277453",
-          "https://x.com/i/status/2062800810564628694"
-        ]
-      },
-      {
-        "name": "TAO / Bittensor",
-        "handle": "bittensor_",
-        "stance": "unclear",
-        "summary": "Reply said TAO has to be cursed when markets sell off; unclear whether this is a fade or volatility observation.",
-        "evidence_urls": [
-          "https://x.com/i/status/2062727536463777981"
+          "https://x.com/zuqaquz/status/2062760707444084872"
         ]
       }
     ],
-    "people_respected": [
-      {
-        "handle": "chameleon_jeff",
-        "why": "Quoted Jeff/Hyperliquid conference context and contrasted founder quality favorably: 'my founder is busy teaching the next generation'.",
-        "evidence_urls": [
-          "https://x.com/zuqaquz/status/2063001072893940119"
-        ]
-      }
-    ],
+    "people_respected": [],
     "style": {
-      "time_horizon": "short-term",
-      "risk_preference": "mixed",
-      "research_style": "narrative"
+      "time_horizon": "unclear",
+      "risk_preference": "HYPE/large crypto beta",
+      "research_style": "narrative/flow-led"
     },
     "open_questions": [
-      "Need exact counterparties for reply-only i/status links to turn repeated Hyperliquid replies into cleaner interaction edges.",
-      "Clarify whether ZEC/Zcash is a persistent fade or just a short-window joke/trade expression."
-    ],
-    "evidence_urls": [
-      "https://x.com/zuqaquz/status/2063748710882738618",
-      "https://x.com/zuqaquz/status/2063415879971283082",
-      "https://x.com/zuqaquz/status/2063001072893940119",
-      "https://x.com/i/status/2063763994142269636"
+      "How much of the HYPE conviction is market-structure thesis versus momentum/social consensus?"
     ]
   },
   {
     "handle": "MoneyPrinter0x",
-    "period_start": "2026-05-14",
+    "period_start": "2026-05-15",
     "period_end": "2026-06-14",
-    "profile_updated_at": "2026-06-14T03:55:41Z",
-    "taste_summary": "Observed X/Twitter evidence is unusually detailed around production-grade AI agent systems: harnesses, deterministic gates, testing pyramids, observability, and composable subagents. Market evidence also shows active stock/crypto trading, notably repeated positive BB references. Interpretation confidence is high for agent-systems interest and medium for market preferences.",
+    "profile_updated_at": "2026-06-14T04:05:00Z",
+    "taste_summary": "Evidence focuses on agent-native engineering systems, vertical harnesses, and building equity perps/onchain options via HIGHERLIQUID.",
     "likes": [
       {
-        "theme": "AI agent harnesses and deterministic quality gates",
-        "summary": "Repeatedly argued that systems engineering around models can matter more than raw model improvements: state machines, BDD/ATDD, Gherkin, testing pyramids, observability, version pinning, and zero-drift gates.",
+        "theme": "Agentic engineering systems / vertical harnesses",
+        "summary": "Substantive posts on PRD→state machines→Gherkin→BDD/ATDD and composable harnesses for agentic loops.",
         "evidence_urls": [
-          "https://x.com/i/status/2065906609436623012",
-          "https://x.com/MoneyPrinter0x/status/2065910906224361829",
-          "https://x.com/MoneyPrinter0x/status/2065910048833102118"
+          "https://x.com/MoneyPrinter0x/status/2065922247135756754",
+          "https://x.com/MoneyPrinter0x/status/2065907693303591275"
         ],
         "confidence": "high"
       },
       {
-        "theme": "Composable agentic workflows for trading/fintech/security",
-        "summary": "Described building capital-management infrastructure, research workflows, trading/fintech products, risk books, encryption and privacy/security systems as engineered clones of himself.",
+        "theme": "Equity perps / onchain options",
+        "summary": "Bio/build context says building equity perps and onchain options under HIGHERLIQUID.",
         "evidence_urls": [
-          "https://x.com/i/status/2065906609436623012"
-        ],
-        "confidence": "high"
-      },
-      {
-        "theme": "BB market exposure",
-        "summary": "Repeatedly referenced BB calls/position and claimed it was outperforming relevant names; appears positive on the trade.",
-        "evidence_urls": [
-          "https://x.com/MoneyPrinter0x/status/2059694258047816007",
-          "https://x.com/MoneyPrinter0x/status/2064776521026576864",
-          "https://x.com/MoneyPrinter0x/status/2062070134714560749"
+          "https://x.com/i/user/1653080265294757890"
         ],
         "confidence": "medium"
       }
     ],
-    "dislikes": [
-      {
-        "theme": "Naked orchestration without vertical harnesses",
-        "summary": "Explicitly distinguished orchestration from deterministic vertical harnesses and warned naked orchestration still exposes users to model non-determinism.",
-        "evidence_urls": [
-          "https://x.com/MoneyPrinter0x/status/2065910906224361829"
-        ],
-        "confidence": "high"
-      },
-      {
-        "theme": "AI-security fearmongering conflicts",
-        "summary": "Criticized someone as selling AI-security tools that benefit from fearmongering.",
-        "evidence_urls": [
-          "https://x.com/MoneyPrinter0x/status/2059664002612113464"
-        ],
-        "confidence": "low"
-      }
-    ],
+    "dislikes": [],
     "projects_mentioned": [
       {
-        "name": "Opus 4.8 / Fable model comparison",
-        "handle": null,
-        "stance": "neutral",
-        "summary": "Used model comparison to argue harnessing and systems engineering drive the marginal performance gains.",
-        "evidence_urls": [
-          "https://x.com/MoneyPrinter0x/status/2065910048833102118"
-        ]
-      },
-      {
-        "name": "BB",
+        "name": "HIGHERLIQUID",
         "handle": null,
         "stance": "positive",
-        "summary": "Repeated positive trading references, calls entered at $6, outperforming, and increased position.",
+        "summary": "Own build: equity perps and onchain options; private access invites mentioned in bio.",
         "evidence_urls": [
-          "https://x.com/MoneyPrinter0x/status/2059694258047816007",
-          "https://x.com/MoneyPrinter0x/status/2064776521026576864",
-          "https://x.com/MoneyPrinter0x/status/2062070134714560749"
-        ]
-      },
-      {
-        "name": "HYPE / PURR",
-        "handle": null,
-        "stance": "watching",
-        "summary": "Referenced parabolic moves in HYPE, PURR, and BB; scan does not establish a deeper thesis.",
-        "evidence_urls": [
-          "https://x.com/MoneyPrinter0x/status/2060346351154794656"
+          "https://x.com/i/user/1653080265294757890"
         ]
       }
     ],
-    "people_respected": [
-      {
-        "handle": "crypto_condom",
-        "why": "Recommended checking out this trader; one evidence point only, so keep as candidate rather than firm respect edge.",
-        "evidence_urls": [
-          "https://x.com/MoneyPrinter0x/status/2059746342457761794"
-        ]
-      }
-    ],
+    "people_respected": [],
     "style": {
-      "time_horizon": "mixed",
-      "risk_preference": "mixed",
-      "research_style": "mixed"
+      "time_horizon": "medium-term",
+      "risk_preference": "builders/market-structure",
+      "research_style": "engineering/system-led"
     },
     "open_questions": [
-      "Need thread context for i/status harness link and counterparties to classify interactions cleanly.",
-      "Separate BB stock thesis from crypto-facing relevance in future scans."
-    ],
-    "evidence_urls": [
-      "https://x.com/MoneyPrinter0x/status/2065910048833102118",
-      "https://x.com/MoneyPrinter0x/status/2065910906224361829",
-      "https://x.com/i/status/2065906609436623012",
-      "https://x.com/MoneyPrinter0x/status/2064776521026576864"
+      "No product docs or launch details verified in this X-only scan."
     ]
   },
   {
     "handle": "kelxyz_",
-    "period_start": "2026-05-14",
+    "period_start": "2026-05-15",
     "period_end": "2026-06-14",
-    "profile_updated_at": "2026-06-14T03:55:41Z",
-    "taste_summary": "Observed X/Twitter evidence is thesis-heavy around AI/crypto protocols, especially Pluralis, inference-market timing, decentralized/model-parallel training, and broader AI-driven cultural/economic outcomes. Interpretation confidence is high for Pluralis interest and medium for the underclass/equities thesis.",
+    "profile_updated_at": "2026-06-14T04:05:00Z",
+    "taste_summary": "Evidence strongly centers on decentralized training, permissionless protocols, formal verification, and alternatives to centralized frontier-model development.",
     "likes": [
       {
-        "theme": "Pluralis and model-parallel decentralized training",
-        "summary": "Repeatedly described Pluralis as early but potentially a gigantic protocol if it scales models and vindicates model-parallel decentralized training.",
+        "theme": "Decentralized training",
+        "summary": "Argues conditions are unusually strong due to coordination/verification/resource-incentive techniques and backlash to centralized vendor lock-in.",
         "evidence_urls": [
-          "https://x.com/kelxyz_/status/2065782384616780175",
-          "https://x.com/kelxyz_/status/2065782544566522156",
-          "https://x.com/kelxyz_/status/2063836178990633419",
-          "https://x.com/kelxyz_/status/2065801491093348503"
+          "https://x.com/kelxyz_/status/2065781464889712875"
         ],
         "confidence": "high"
       },
       {
-        "theme": "Inference protocols with real market share windows",
-        "summary": "Argued high-performance workloads may remain on low-cost cloud, creating a narrow window where a protocol can incentivize inference on performant models.",
+        "theme": "Pluralis",
+        "summary": "Points to Pluralis as a protocol that could thrive if it scales models to meet decentralized-training demand.",
         "evidence_urls": [
-          "https://x.com/kelxyz_/status/2064825463818576107"
+          "https://x.com/kelxyz_/status/2065782384616780175"
         ],
-        "confidence": "medium"
+        "confidence": "high"
       },
       {
-        "theme": "Macro/culture theses around AI and the underclass",
-        "summary": "Wrote a detailed Permanent Underclass Index equities thesis around consumer quality barbell, AI resilience, slop dividends, physical retail, and dopamine/pharma/delivery overlaps.",
+        "theme": "Formally verified permissionless protocols",
+        "summary": "Claims highest-EV path is formally verified permissionless protocols with a roughly two-year lag.",
         "evidence_urls": [
-          "https://x.com/kelxyz_/status/2064358765340557483",
-          "https://x.com/kelxyz_/status/2064360494949953681",
-          "https://x.com/kelxyz_/status/2064365937927631203"
+          "https://x.com/i/status/2064408123310326162"
         ],
         "confidence": "medium"
       }
     ],
     "dislikes": [
       {
-        "theme": "Dismissive SF anti-crypto priors",
-        "summary": "Framed successful Pluralis scaling as something that would force many in San Francisco to drop negative views on crypto.",
+        "theme": "Centralized model access controls/vendor lock-in",
+        "summary": "Frames need for a path to frontier models beyond centralized development.",
         "evidence_urls": [
-          "https://x.com/kelxyz_/status/2065782384616780175"
-        ],
-        "confidence": "medium"
-      },
-      {
-        "theme": "Upcharged low-quality e-commerce",
-        "summary": "Underclass thesis criticized much of e-commerce as scam-front upcharged Chinese goods and favored physical retail authenticity/price in that frame.",
-        "evidence_urls": [
-          "https://x.com/kelxyz_/status/2064358765340557483"
+          "https://x.com/i/status/2064880178958876827"
         ],
         "confidence": "medium"
       }
@@ -713,46 +481,22 @@
     "projects_mentioned": [
       {
         "name": "Pluralis",
-        "handle": "pluralis",
+        "handle": null,
         "stance": "positive",
-        "summary": "Dominant positive project: potential gigantic protocol, early but well-positioned for model scaling/model-parallel decentralized training.",
+        "summary": "Explicitly singled out as positioned for decentralized training if it can scale.",
         "evidence_urls": [
-          "https://x.com/kelxyz_/status/2065782384616780175",
-          "https://x.com/kelxyz_/status/2065782544566522156",
-          "https://x.com/kelxyz_/status/2063836178990633419"
+          "https://x.com/kelxyz_/status/2065782384616780175"
         ]
       }
     ],
-    "people_respected": [
-      {
-        "handle": "goodalexander",
-        "why": "Asked him to validate/read the Doom thesis framing; one evidence point, so treat as weak/respect-or-context rather than a firm endorsement.",
-        "evidence_urls": [
-          "https://x.com/kelxyz_/status/2064360494949953681"
-        ]
-      },
-      {
-        "handle": "chamath",
-        "why": "Tagged him on a prior long-form piece saying they share a similar endgame view; one evidence point only.",
-        "evidence_urls": [
-          "https://x.com/kelxyz_/status/2064040097175974066"
-        ]
-      }
-    ],
+    "people_respected": [],
     "style": {
       "time_horizon": "long-term",
-      "risk_preference": "infra",
-      "research_style": "narrative"
+      "risk_preference": "AI infra/protocols",
+      "research_style": "technical/philosophical/reflexive"
     },
     "open_questions": [
-      "Track whether Pluralis references continue beyond this cluster or were driven by a single conversation/news cycle.",
-      "Need fuller source context for Permanent Underclass Index to map equities vs crypto relevance."
-    ],
-    "evidence_urls": [
-      "https://x.com/kelxyz_/status/2065782384616780175",
-      "https://x.com/kelxyz_/status/2064825463818576107",
-      "https://x.com/kelxyz_/status/2064358765340557483",
-      "https://x.com/kelxyz_/status/2063836178990633419"
+      "Which decentralized training projects have actual coordination/verification/resource-incentive edge versus narrative exposure?"
     ]
   }
 ]
