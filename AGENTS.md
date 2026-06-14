@@ -18,6 +18,27 @@ This repo is a private, social-driven CT tracking dashboard. It is not project-f
 - Do not add accounts from shallow banter, memes, generic price calls, engagement farming, or low-context replies.
 - Add/log accounts when a tracked account has a thoughtful/substantive reply, quote, or interaction with them.
 
+## Deep trader profile layer
+
+The dashboard should become a people/network-first taste map, not a tweet archive.
+
+Add and maintain these optional-but-preferred files when doing deeper scans:
+
+- `data/account-profiles.json` — one synthesized profile per Tier 1 account covering likes, dislikes/fades, projects mentioned, respected people, style, and open questions.
+- `data/theme-map.json` — cross-account narrative/theme map showing consensus, disagreement, momentum, and evidence.
+- `docs/data/account-profiles.json` and `docs/data/theme-map.json` mirror the canonical files.
+
+Initial deep-search target: compile at least the last 30 days of evidence for each Tier 1 account. Store concise synthesis plus evidence URLs; do not store every tweet.
+
+Minimum dashboard views for this layer:
+
+1. Trader dossiers.
+2. Narrative heatmap.
+3. Project affinity matrix.
+4. Interaction graph.
+5. Taste-overlap / contrarian map.
+6. Timeline / narrative drift view.
+
 ## Scan workflow
 
 1. Load `data/accounts.json`.
@@ -25,8 +46,9 @@ This repo is a private, social-driven CT tracking dashboard. It is not project-f
 3. When a Tier 1 account thoughtfully replies to or quotes someone, add an interaction record with `from`, `to`, `to_kind`, `type`, `date`, `url`, `summary`, and `quality`.
 4. If the interacted-with account is worth following, add it to `data/accounts.json` as `tier: 2`, `kind: individual` or `project`, `status: tracked`, and a short reason.
 5. Add notable authored posts/themes to `data/posts.json` when useful for understanding what the network is talking about.
-6. Copy canonical data to `docs/data/`, validate JSON, inspect diffs, commit, and push.
-7. Dashboard only at first: do not send Discord alerts unless the user explicitly changes this.
+6. For profile scans, update `data/account-profiles.json` and `data/theme-map.json` with likes, dislikes/fades, repeated project mentions, respected people, style, and cross-account themes.
+7. Copy canonical data to `docs/data/`, validate JSON, inspect diffs, commit, and push.
+8. Dashboard only at first: do not send Discord alerts unless the user explicitly changes this.
 
 ## Output policy
 
