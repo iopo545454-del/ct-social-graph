@@ -2,6 +2,22 @@
   {
     "date": "2026-06-14",
     "handle": "0xGeeGee",
+    "type": "reply",
+    "url": "https://x.com/0xGeeGee/status/2066154504417054981",
+    "summary": "Explicitly respected Tiza/@Tiza4ThePeople on DeFi/yields while drawing a different risk line: willing to take 20-30% APY if not confident it is a rug, versus more conservative stable-farm framing.",
+    "entities": [
+      "Tiza4ThePeople",
+      "DeFi yields",
+      "stable farms",
+      "risk appetite",
+      "20-30% APY"
+    ],
+    "why_logged": "Good reply-level evidence for GeeGee's DeFi yield taste and a concrete respected-person edge.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-14",
+    "handle": "0xGeeGee",
     "type": "authored_post/thread",
     "url": "https://x.com/0xGeeGee/status/2066111310916694078",
     "summary": "Long market-thesis thread: 2026 AI shifts from raw spend to efficiency/visibility; likes EIGEN/EigenCloud and SERV/OpenServ as AI infrastructure plays, MORPHO/BP/Securitize for RWA/tokenized equities, Variational as a day-trading venue, and is short/put RKLB after Nasdaq-100 inclusion mechanics.",

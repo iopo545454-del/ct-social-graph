@@ -132,5 +132,17 @@
     ],
     "first_seen": "2026-06-14",
     "confidence": "medium"
+  },
+  {
+    "handle": "Tiza4ThePeople",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "0xGeeGee explicit respect in DeFi/yield reply",
+    "reason": "GeeGee explicitly said he respects Tiza a lot and agrees on most DeFi/yield topics; single direct edge, so keep candidate pending repeated interaction/corroboration.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2066154504417054981"
+    ],
+    "first_seen": "2026-06-14",
+    "confidence": "medium"
   }
 ]

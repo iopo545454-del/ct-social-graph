@@ -151,7 +151,7 @@
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
     "period_end": "2026-06-14",
-    "profile_updated_at": "2026-06-14T11:59:07Z",
+    "profile_updated_at": "2026-06-14T16:20:00Z",
     "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with a practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Interpretation confidence is now medium-high after a detailed June 14 thesis thread.",
     "likes": [
       {
@@ -201,6 +201,14 @@
         "summary": "Reply described aiming for roughly 45-55% cash/equivalents, drifting toward 40-45%, and keeping gold capped around 5%.",
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2066117881079951822"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "Risk-priced DeFi yield over purely conservative stable farms",
+        "summary": "Reply suggests willingness to underwrite higher 20-30% APY DeFi opportunities when rug risk is not the main concern, while still respecting conservative stable-yield frameworks.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2066154504417054981"
         ],
         "confidence": "medium"
       }
@@ -322,7 +330,17 @@
         ]
       }
     ],
-    "people_respected": [],
+    "people_respected": [
+      {
+        "name": "Tiza",
+        "handle": "Tiza4ThePeople",
+        "summary": "Explicitly respected on DeFi and yields; GeeGee says they agree on most things but differ in risk/yield game selection.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2066154504417054981"
+        ],
+        "confidence": "medium"
+      }
+    ],
     "style": {
       "time_horizon": "mixed",
       "risk_preference": "mixed",
@@ -331,7 +349,8 @@
     "open_questions": [
       "Need more authored posts to separate personal portfolio preferences from analytical commentary.",
       "Identify the counterparties/threads behind DeFi and ETH valuation replies for better interaction edges.",
-      "Track whether EIGEN/SERV/MORPHO/BP/Variational are durable account preferences or one long-thread watchlist items."
+      "Track whether EIGEN/SERV/MORPHO/BP/Variational are durable account preferences or one long-thread watchlist items.",
+      "Track whether GeeGee's willingness to underwrite 20-30% APY DeFi farms recurs or was specific to one reply thread."
     ],
     "evidence_urls": [
       "https://x.com/0xGeeGee/status/2065771227743138126",
@@ -341,7 +360,8 @@
       "https://x.com/0xGeeGee/status/2066046798893089202",
       "https://x.com/0xGeeGee/status/2066111310916694078",
       "https://x.com/0xGeeGee/status/2066117881079951822",
-      "https://x.com/0xGeeGee/status/2066049704765596033"
+      "https://x.com/0xGeeGee/status/2066049704765596033",
+      "https://x.com/0xGeeGee/status/2066154504417054981"
     ]
   },
   {
