@@ -368,7 +368,7 @@
     "handle": "AustinBarack",
     "period_start": "2026-05-14",
     "period_end": "2026-06-14",
-    "profile_updated_at": "2026-06-14T03:55:41Z",
+    "profile_updated_at": "2026-06-14T20:30:00Z",
     "taste_summary": "Observed X/Twitter evidence is strongly thesis-driven around private/anonymized AI, Venice/VVV, decentralized training, open-source models, and AI data protocols. Interpretation confidence is high for Venice/VVV because multiple authored posts and replies repeat the same framing.",
     "likes": [
       {
@@ -400,6 +400,14 @@
           "https://x.com/AustinBarack/status/2057843044762710113"
         ],
         "confidence": "medium"
+      },
+      {
+        "theme": "AI price/performance and ROI benchmarking",
+        "summary": "Quoted OpenRouter Fusion API as a sign that markets will increasingly benchmark AI by comparable performance at lower price and ROI, not raw model awe/spending.",
+        "evidence_urls": [
+          "https://x.com/AustinBarack/status/2066201233388413272"
+        ],
+        "confidence": "high"
       }
     ],
     "dislikes": [
@@ -442,6 +450,15 @@
         "evidence_urls": [
           "https://x.com/AustinBarack/status/2065846319378301024"
         ]
+      },
+      {
+        "name": "OpenRouter / Fusion API",
+        "handle": "OpenRouter",
+        "stance": "positive",
+        "summary": "Praised Fusion API as a cool achievement and evidence for AI price/performance benchmarking; one quote, not yet a durable project thesis.",
+        "evidence_urls": [
+          "https://x.com/AustinBarack/status/2066201233388413272"
+        ]
       }
     ],
     "people_respected": [],
@@ -452,13 +469,15 @@
     },
     "open_questions": [
       "Need to identify the May 22 AI/data protocol context behind the replies about bank accounts and token/crypto improvements.",
-      "Track whether Venice thesis remains product-traction led or becomes broader decentralized-training thesis."
+      "Track whether Venice thesis remains product-traction led or becomes broader decentralized-training thesis.",
+      "Watch whether Austin's AI ROI/price-performance lens becomes a repeated filter for crypto-AI projects or stays a general AI-market observation."
     ],
     "evidence_urls": [
       "https://x.com/AustinBarack/status/2065642988470972861",
       "https://x.com/AustinBarack/status/2065850799494738189",
       "https://x.com/AustinBarack/status/2065896297010475257",
-      "https://x.com/AustinBarack/status/2057553290959700413"
+      "https://x.com/AustinBarack/status/2057553290959700413",
+      "https://x.com/AustinBarack/status/2066201233388413272"
     ]
   },
   {
@@ -734,7 +753,7 @@
     "handle": "MoneyPrinter0x",
     "period_start": "2026-05-14",
     "period_end": "2026-06-14",
-    "profile_updated_at": "2026-06-14T07:05:00Z",
+    "profile_updated_at": "2026-06-14T20:30:00Z",
     "taste_summary": "Observed X/Twitter evidence is unusually detailed around production-grade AI agent systems: harnesses, deterministic gates, testing pyramids, observability, and composable subagents. Market evidence also shows active stock/crypto trading, notably repeated positive BB references. Interpretation confidence is high for agent-systems interest and medium for market preferences.",
     "likes": [
       {
@@ -774,6 +793,14 @@
           "https://x.com/MoneyPrinter0x/status/2066043375472750643"
         ],
         "confidence": "high"
+      },
+      {
+        "theme": "Public equities as main wealth-creation venue",
+        "summary": "Posted that outsized wealth usually comes through the stock market; replies framed IPO/public-market liquidity, sitting through chaos, and crypto as a shortcut into the larger equity pool.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2066241419287937341"
+        ],
+        "confidence": "medium"
       }
     ],
     "dislikes": [
@@ -869,7 +896,8 @@
     },
     "open_questions": [
       "Need thread context for i/status harness link and counterparties to classify interactions cleanly.",
-      "Separate BB stock thesis from crypto-facing relevance in future scans."
+      "Separate BB stock thesis from crypto-facing relevance in future scans.",
+      "Track whether the stock-market wealth framing continues to explain the account's AI-equity watchlist focus versus crypto-native project attention."
     ],
     "evidence_urls": [
       "https://x.com/MoneyPrinter0x/status/2065910048833102118",
@@ -878,7 +906,8 @@
       "https://x.com/MoneyPrinter0x/status/2064776521026576864",
       "https://x.com/MoneyPrinter0x/status/2066030025942655219",
       "https://x.com/MoneyPrinter0x/status/2065948240198144201",
-      "https://x.com/MoneyPrinter0x/status/2066025387495428131"
+      "https://x.com/MoneyPrinter0x/status/2066025387495428131",
+      "https://x.com/MoneyPrinter0x/status/2066241419287937341"
     ]
   },
   {

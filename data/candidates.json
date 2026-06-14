@@ -144,5 +144,17 @@
     ],
     "first_seen": "2026-06-14",
     "confidence": "medium"
+  },
+  {
+    "handle": "OpenRouter",
+    "kind": "project",
+    "status": "candidate",
+    "source": "AustinBarack quote on Fusion API price/performance",
+    "reason": "Austin quoted OpenRouter's Fusion API as a meaningful AI price/performance and ROI benchmark shift; single evidence point, so keep candidate pending recurrence.",
+    "evidence_urls": [
+      "https://x.com/AustinBarack/status/2066201233388413272"
+    ],
+    "first_seen": "2026-06-14",
+    "confidence": "medium"
   }
 ]

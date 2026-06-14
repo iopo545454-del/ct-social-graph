@@ -240,5 +240,16 @@
     "summary": "Said he respects Tiza a lot and agrees on most DeFi/yield points, while noting they play different yield games and he will take 20-30% APY when not confident a farm is a rug.",
     "quality": "high",
     "created_tier2_candidate": true
+  },
+  {
+    "from": "AustinBarack",
+    "to": "OpenRouter",
+    "to_kind": "project",
+    "type": "quote",
+    "date": "2026-06-14",
+    "url": "https://x.com/AustinBarack/status/2066201233388413272",
+    "summary": "Quoted OpenRouter Fusion API and framed the launch as evidence that AI market benchmarks are shifting toward price/performance and ROI.",
+    "quality": "high",
+    "created_tier2_candidate": true
   }
 ]

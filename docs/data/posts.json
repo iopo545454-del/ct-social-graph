@@ -1,6 +1,39 @@
 [
   {
     "date": "2026-06-14",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/replies",
+    "url": "https://x.com/MoneyPrinter0x/status/2066241419287937341",
+    "summary": "Posted that people get insanely rich mostly through the stock market; surrounding replies framed IPO/public-equity liquidity, being early, sitting through chaos, and crypto as a shortcut into larger public-market wealth pools.",
+    "entities": [
+      "public equities",
+      "IPO liquidity",
+      "wealth creation",
+      "market psychology",
+      "crypto as shortcut"
+    ],
+    "why_logged": "Useful taste/process evidence explaining why a crypto-native account is currently spending attention on AI-equity watchlists and stock-market compounding.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-14",
+    "handle": "AustinBarack",
+    "type": "quote",
+    "url": "https://x.com/AustinBarack/status/2066201233388413272",
+    "summary": "Quoted OpenRouter Fusion API and said AI benchmarking is moving toward 'x level performance at a lower price' and ROI of AI use rather than spend-at-all-costs wonder.",
+    "entities": [
+      "OpenRouter",
+      "Fusion API",
+      "Fable",
+      "AI ROI",
+      "price/performance",
+      "compound models"
+    ],
+    "why_logged": "Adds fresh Austin evidence that complements his decentralized/private-AI thesis with a price-performance/AI ROI lens.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-14",
     "handle": "0xGeeGee",
     "type": "reply",
     "url": "https://x.com/0xGeeGee/status/2066154504417054981",
