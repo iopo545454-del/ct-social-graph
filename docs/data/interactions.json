@@ -1,72 +1,178 @@
 [
   {
     "from": "AustinBarack",
-    "to": "gekko_eth",
-    "to_kind": "individual",
-    "type": "quote/reply cluster",
+    "to": "AskVenice",
+    "to_kind": "project",
+    "type": "mention/reply-thread",
     "date": "2026-06-13",
-    "url": "https://x.com/gekko_eth/status/2065872580104344015",
-    "summary": "gekko.eth amplifies/agrees with Austin’s Venice/private-permissionless AI thesis.",
-    "quality": "medium"
+    "url": "https://x.com/AustinBarack/status/2065850799494738189",
+    "summary": "Substantive Venice discussion: Anthropic restrictions framed as bullish for Venice, private/anonymized AI use, decentralized training, and open-source models.",
+    "quality": "high",
+    "created_tier2_candidate": true
   },
   {
     "from": "AustinBarack",
-    "to": "resdegen",
-    "to_kind": "individual",
-    "type": "reply cluster",
+    "to": "AskVenice",
+    "to_kind": "project",
+    "type": "reply",
     "date": "2026-06-13",
-    "url": "https://x.com/resdegen/status/2065853034786365859",
-    "summary": "Adds technical/contextual correction around Venice privacy/uncensored model stack.",
-    "quality": "medium"
+    "url": "https://x.com/AustinBarack/status/2065896297010475257",
+    "summary": "Argued Venice already has roughly 0.1% AI-user share, is successful, and may have much higher long-term demand; framed disagreement as price discovery.",
+    "quality": "high",
+    "created_tier2_candidate": false
   },
   {
-    "from": "0xGeeGee",
-    "to": "0xcarnation",
-    "to_kind": "individual",
-    "type": "reply",
-    "date": "2026-06-12",
-    "url": "https://x.com/0xcarnation/status/2065441024780968299",
-    "summary": "Pushback/discussion around Synthetix governance-token risk after 0xGeeGee’s SIP-423 critique.",
-    "quality": "medium"
+    "from": "AustinBarack",
+    "to": "getgrass_io",
+    "to_kind": "project",
+    "type": "mention",
+    "date": "2026-05-21",
+    "url": "https://x.com/AustinBarack/status/2057553290959700413",
+    "summary": "Named VVV and GRASS as two AI/data tokens in reply context.",
+    "quality": "medium",
+    "created_tier2_candidate": true
   },
   {
     "from": "airtightfish",
     "to": "ProofMarkets",
     "to_kind": "project",
-    "type": "mention/reply",
+    "type": "quote/reply",
     "date": "2026-06-09",
-    "url": "https://x.com/airtightfish/status/2064743264691875927",
-    "summary": "Points another user to ProofMarkets in prediction/trading venue discussion.",
-    "quality": "medium"
+    "url": "https://x.com/airtightfish/status/2064390683440341286",
+    "summary": "Quoted ProofMarkets waitlist update and described manual review after bot + AI filtering.",
+    "quality": "high",
+    "created_tier2_candidate": true
   },
   {
     "from": "airtightfish",
-    "to": "Treggs6",
+    "to": "ProofMarkets",
+    "to_kind": "project",
+    "type": "reply",
+    "date": "2026-06-10",
+    "url": "https://x.com/airtightfish/status/2064743264691875927",
+    "summary": "Promoted ProofMarkets in reply context ('look into @ProofMarkets as well').",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "airtightfish",
+    "to": "unknown_counterparty",
     "to_kind": "individual",
     "type": "reply",
-    "date": "2026-06-12",
-    "url": "https://x.com/airtightfish/status/2065298161111892397",
-    "summary": "Congratulates Treggs6 on Seedplex launch tied to venture tokens on Solana.",
-    "quality": "medium"
+    "date": "2026-06-09",
+    "url": "https://x.com/airtightfish/status/2064392389016342888",
+    "summary": "Thoughtful reply distinguishing outright scams/predatory bundles from traders who publicly take and hold large-cap positions.",
+    "quality": "high",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "coin_casanova",
+    "to": "derive_xyz",
+    "to_kind": "project",
+    "type": "quote",
+    "date": "2026-06-08",
+    "url": "https://x.com/coin_casanova/status/2063848704499687605",
+    "summary": "Quoted Derive volume update while arguing crypto is ready for organic options/hedging markets.",
+    "quality": "high",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "coin_casanova",
+    "to": "HyperliquidX",
+    "to_kind": "project",
+    "type": "mention",
+    "date": "2026-06-08",
+    "url": "https://x.com/coin_casanova/status/2063854403833188821",
+    "summary": "Referenced liking HYPE retest dynamics after a crypto drawdown.",
+    "quality": "medium",
+    "created_tier2_candidate": true
   },
   {
     "from": "CryptoTomYT",
-    "to": "ryohhno",
-    "to_kind": "individual",
-    "type": "quote/reply",
-    "date": "2026-06-11",
+    "to": "tradexyz",
+    "to_kind": "project",
+    "type": "quote/mention",
+    "date": "2026-06-12",
     "url": "https://x.com/CryptoTomYT/status/2065238474907607090",
-    "summary": "Context around public trading performance on tradexyz/Legend assets.",
-    "quality": "medium"
+    "summary": "Quoted public performance stats mostly on Tradexyz assets; evidence is trading-context heavy but project stance should be treated as medium confidence.",
+    "quality": "medium",
+    "created_tier2_candidate": true
   },
   {
     "from": "zuqaquz",
-    "to": "kelxyz_",
+    "to": "HyperliquidX",
+    "to_kind": "project",
+    "type": "quote/mention",
+    "date": "2026-06-05",
+    "url": "https://x.com/zuqaquz/status/2063001072893940119",
+    "summary": "Quoted Jeff/Hyperliquid conference context and praised founder quality relative to other projects.",
+    "quality": "high",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "zuqaquz",
+    "to": "HyperliquidX",
+    "to_kind": "project",
+    "type": "reply/mention",
+    "date": "2026-06-07",
+    "url": "https://x.com/i/status/2063763994142269636",
+    "summary": "Reply advocated concentrating into spot HYPE, including borrowing against spot HYPE to buy more spot HYPE.",
+    "quality": "high",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "kelxyz_",
+    "to": "pluralis",
+    "to_kind": "project",
+    "type": "mention/reply-thread",
+    "date": "2026-06-13",
+    "url": "https://x.com/kelxyz_/status/2065782384616780175",
+    "summary": "Strongly positive Pluralis mention: potentially next gigantic protocol if it scales models; would change SF's view of crypto.",
+    "quality": "high",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "kelxyz_",
+    "to": "pluralis",
+    "to_kind": "project",
+    "type": "reply",
+    "date": "2026-06-08",
+    "url": "https://x.com/kelxyz_/status/2063836178990633419",
+    "summary": "Argued Pluralis's model-parallel approach may vindicate decentralized training after earlier data-parallel attempts looked weak.",
+    "quality": "high",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "kelxyz_",
+    "to": "goodalexander",
     "to_kind": "individual",
     "type": "reply",
-    "date": "2026-06-05",
-    "url": "https://x.com/zuqaquz/status/2063005093432074323",
-    "summary": "Direct reply in song-guessing thread; logged as shallow/social, not thesis evidence.",
-    "quality": "low"
+    "date": "2026-06-09",
+    "url": "https://x.com/kelxyz_/status/2064360494949953681",
+    "summary": "Asked goodalexander to validate the read on a Doom/permanent-underclass thesis involving digital dopamine, pharmaceuticals, and delivery-heavy companies.",
+    "quality": "medium",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "crypto_condom",
+    "to_kind": "individual",
+    "type": "mention/recommendation",
+    "date": "2026-05-22",
+    "url": "https://x.com/MoneyPrinter0x/status/2059746342457761794",
+    "summary": "Recommended checking out trader crypto_condom; single evidence point, so kept as candidate rather than full account addition.",
+    "quality": "medium",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "GenLayer",
+    "to_kind": "project",
+    "type": "mention/reply",
+    "date": "2026-06-03",
+    "url": "https://x.com/0xGeeGee/status/2062059018332377274",
+    "summary": "Mentioned GenLayer as building a generalized version of AI-council / human-LLM jury settlement ideas from prior prediction market work.",
+    "quality": "medium",
+    "created_tier2_candidate": true
   }
 ]

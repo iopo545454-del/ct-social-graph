@@ -1,74 +1,75 @@
 [
   {
-    "handle": "gekko_eth",
+    "handle": "goodalexander",
     "kind": "individual",
     "status": "candidate",
-    "introduced_by": "AustinBarack",
-    "reason": "Substantive Venice/private AI reply cluster.",
-    "evidence_url": "https://x.com/gekko_eth/status/2065872580104344015",
-    "date": "2026-06-14"
+    "source": "kelxyz_ reply asking for Doom/permanent-underclass thesis read",
+    "reason": "Potential respected/context account for kelxyz_'s macro/culture thesis, but only one evidence point so not promoted to Tier 2 yet.",
+    "evidence_urls": [
+      "https://x.com/kelxyz_/status/2064360494949953681"
+    ],
+    "first_seen": "2026-06-14",
+    "confidence": "low"
   },
   {
-    "handle": "resdegen",
+    "handle": "crypto_condom",
     "kind": "individual",
     "status": "candidate",
-    "introduced_by": "AustinBarack",
-    "reason": "Adds useful context on Venice privacy/uncensored model stack.",
-    "evidence_url": "https://x.com/resdegen/status/2065853034786365859",
-    "date": "2026-06-14"
+    "source": "MoneyPrinter0x recommendation",
+    "reason": "Recommended trader, but only one recommendation found in this scan; needs repeated/substantive evidence before Tier 2.",
+    "evidence_urls": [
+      "https://x.com/MoneyPrinter0x/status/2059746342457761794"
+    ],
+    "first_seen": "2026-06-14",
+    "confidence": "low"
   },
   {
-    "handle": "citrini",
+    "handle": "chamath",
     "kind": "individual",
     "status": "candidate",
-    "introduced_by": "AustinBarack",
-    "reason": "Austin highlighted @citrini impact on HYPE/theme discovery.",
-    "evidence_url": "https://x.com/AustinBarack/status/2063990665449468106",
-    "date": "2026-06-14"
+    "source": "kelxyz_ tag on shared endgame view",
+    "reason": "Tagged by kelxyz_ as sharing a similar endgame view; one evidence point, needs follow-up before treating as respected edge.",
+    "evidence_urls": [
+      "https://x.com/kelxyz_/status/2064040097175974066"
+    ],
+    "first_seen": "2026-06-14",
+    "confidence": "low"
   },
   {
-    "handle": "ProofMarkets",
+    "handle": "worldcoin",
     "kind": "project",
     "status": "candidate",
-    "introduced_by": "airtightfish",
-    "reason": "Core project repeatedly promoted by airtightfish around conditional futures.",
-    "evidence_url": "https://x.com/airtightfish/status/2062630648922112235",
-    "date": "2026-06-14"
+    "source": "AustinBarack WLD/OpenAI integration odds comment",
+    "reason": "Mentioned as a watch item by AustinBarack, but only one evidence point in this scan.",
+    "evidence_urls": [
+      "https://x.com/AustinBarack/status/2065846319378301024"
+    ],
+    "first_seen": "2026-06-14",
+    "confidence": "low"
   },
   {
-    "handle": "PreStocks",
+    "handle": "zcash",
     "kind": "project",
     "status": "candidate",
-    "introduced_by": "airtightfish",
-    "reason": "Appears in private-company access/pricing dislocation thesis.",
-    "evidence_url": "https://x.com/airtightfish/status/2065567457536831796",
-    "date": "2026-06-14"
+    "source": "zuqaquz mute/fade and HYPE-over-ZEC comments",
+    "reason": "Repeated enough for mention ledger but stance appears negative/trading-focused, not a follow-worthy Tier 2 project for this taste map yet.",
+    "evidence_urls": [
+      "https://x.com/zuqaquz/status/2063415879971283082",
+      "https://x.com/i/status/2062800810564628694"
+    ],
+    "first_seen": "2026-06-14",
+    "confidence": "medium"
   },
   {
-    "handle": "legendtrade",
+    "handle": "bittensor_",
     "kind": "project",
     "status": "candidate",
-    "introduced_by": "CryptoTomYT",
-    "reason": "Repeatedly appears in public perps/social trading evidence.",
-    "evidence_url": "https://x.com/CryptoTomYT/status/2061891899754262796",
-    "date": "2026-06-14"
-  },
-  {
-    "handle": "HIGHERLIQUID",
-    "kind": "project",
-    "status": "candidate",
-    "introduced_by": "MoneyPrinter0x",
-    "reason": "Own build around equity perps and onchain options.",
-    "evidence_url": "https://x.com/i/user/1653080265294757890",
-    "date": "2026-06-14"
-  },
-  {
-    "handle": "Pluralis",
-    "kind": "project",
-    "status": "candidate",
-    "introduced_by": "kelxyz_",
-    "reason": "Explicitly named by kelxyz_ as positioned for decentralized training if it scales.",
-    "evidence_url": "https://x.com/kelxyz_/status/2065782384616780175",
-    "date": "2026-06-14"
+    "source": "zuqaquz TAO volatility/cursed reply",
+    "reason": "One unclear TAO/Bittensor mention; keep candidate only for future review.",
+    "evidence_urls": [
+      "https://x.com/i/status/2062727536463777981"
+    ],
+    "first_seen": "2026-06-14",
+    "confidence": "low"
   }
 ]
