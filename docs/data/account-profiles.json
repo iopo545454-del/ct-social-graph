@@ -3,7 +3,7 @@
     "handle": "coin_casanova",
     "period_start": "2026-05-14",
     "period_end": "2026-06-14",
-    "profile_updated_at": "2026-06-14T03:55:41Z",
+    "profile_updated_at": "2026-06-14T07:05:00Z",
     "taste_summary": "Observed X/Twitter evidence shows a short-horizon trader focused on low-float/FDV-style setups, hedging, rotation, options, and relative-value framing between crypto and equities. Interpretation confidence is medium because the scan found several original posts but few substantive replies.",
     "likes": [
       {
@@ -21,6 +21,24 @@
         "summary": "Argued crypto participants are experienced enough for a real options market and contrasted organic options usage with prior airdrop-farming attempts.",
         "evidence_urls": [
           "https://x.com/coin_casanova/status/2063848704499687605"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "Narrative leaders over fragmented basket pumps",
+        "summary": "In the Mythos-news pump, argued that scattering flows across TAO, VVV, POD, and AKT was inferior to concentrating under one leader; follow-up emphasized real-user usability and subscription-burn evidence before deciding the best vehicle.",
+        "evidence_urls": [
+          "https://x.com/coin_casanova/status/2066000974163169390",
+          "https://x.com/coin_casanova/status/2066005931121574382",
+          "https://x.com/coin_casanova/status/2066010501512134674"
+        ],
+        "confidence": "high"
+      },
+      {
+        "theme": "Dashboard-driven sector/factor screening",
+        "summary": "Shared a Fable-generated dashboard for monitoring factors, sectors, and baskets, then used it to discuss Healthcare/XLV rotation and CI as a screened idea.",
+        "evidence_urls": [
+          "https://x.com/coin_casanova/status/2065996363503177739"
         ],
         "confidence": "medium"
       }
@@ -71,6 +89,42 @@
         "evidence_urls": [
           "https://x.com/coin_casanova/status/2063848704499687605"
         ]
+      },
+      {
+        "name": "TAO / Bittensor",
+        "handle": "bittensor_",
+        "stance": "watching",
+        "summary": "Mentioned as one AI-token vehicle that pumped on Mythos news; critique was about fragmented liquidity and relative vehicle selection rather than a standalone TAO thesis.",
+        "evidence_urls": [
+          "https://x.com/coin_casanova/status/2066000974163169390"
+        ]
+      },
+      {
+        "name": "POD",
+        "handle": null,
+        "stance": "watching",
+        "summary": "Mentioned as VVV beta in the Mythos-news AI-token rotation; needs follow-up before promotion.",
+        "evidence_urls": [
+          "https://x.com/coin_casanova/status/2066005931121574382"
+        ]
+      },
+      {
+        "name": "AKT / Akash",
+        "handle": null,
+        "stance": "watching",
+        "summary": "Mentioned as part of the AI-token basket that moved on Mythos news; no direct fundamental stance established.",
+        "evidence_urls": [
+          "https://x.com/coin_casanova/status/2066000974163169390"
+        ]
+      },
+      {
+        "name": "CARDS",
+        "handle": null,
+        "stance": "positive",
+        "summary": "Used CARDS price action climbing a wall of worry as evidence that skepticism around valuation/value accrual may be wrong in the short term.",
+        "evidence_urls": [
+          "https://x.com/coin_casanova/status/2065980497793318928"
+        ]
       }
     ],
     "people_respected": [],
@@ -87,14 +141,17 @@
       "https://x.com/coin_casanova/status/2065438838546477385",
       "https://x.com/coin_casanova/status/2065366923379106118",
       "https://x.com/coin_casanova/status/2064875505099432023",
-      "https://x.com/coin_casanova/status/2063848704499687605"
+      "https://x.com/coin_casanova/status/2063848704499687605",
+      "https://x.com/coin_casanova/status/2066000974163169390",
+      "https://x.com/coin_casanova/status/2065996363503177739",
+      "https://x.com/coin_casanova/status/2065980497793318928"
     ]
   },
   {
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
     "period_end": "2026-06-14",
-    "profile_updated_at": "2026-06-14T03:55:41Z",
+    "profile_updated_at": "2026-06-14T07:05:00Z",
     "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with a practical focus on AI inference economics, DeFi's continuing purpose, risk correlations, and second-order AI trades. Interpretation confidence is medium; much of the evidence came from replies.",
     "likes": [
       {
@@ -140,6 +197,14 @@
           "https://x.com/0xGeeGee/status/2064955445526303081"
         ],
         "confidence": "medium"
+      },
+      {
+        "theme": "Mechanical buyback narratives without net demand",
+        "summary": "Quoted PumpFun buyback discourse and reduced the drawdown to more sellers than buyers, suggesting skepticism toward buyback-only support stories.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2066046798893089202"
+        ],
+        "confidence": "medium"
       }
     ],
     "projects_mentioned": [
@@ -160,6 +225,15 @@
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2064302045952344142"
         ]
+      },
+      {
+        "name": "PumpFun",
+        "handle": null,
+        "stance": "negative",
+        "summary": "Discussed only as a buyback/selloff example; stance is market-structure skepticism, not a full project thesis.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2066046798893089202"
+        ]
       }
     ],
     "people_respected": [],
@@ -176,7 +250,8 @@
       "https://x.com/0xGeeGee/status/2065771227743138126",
       "https://x.com/0xGeeGee/status/2063156957541003404",
       "https://x.com/0xGeeGee/status/2064323000690716869",
-      "https://x.com/0xGeeGee/status/2064955445526303081"
+      "https://x.com/0xGeeGee/status/2064955445526303081",
+      "https://x.com/0xGeeGee/status/2066046798893089202"
     ]
   },
   {
@@ -549,7 +624,7 @@
     "handle": "MoneyPrinter0x",
     "period_start": "2026-05-14",
     "period_end": "2026-06-14",
-    "profile_updated_at": "2026-06-14T03:55:41Z",
+    "profile_updated_at": "2026-06-14T07:05:00Z",
     "taste_summary": "Observed X/Twitter evidence is unusually detailed around production-grade AI agent systems: harnesses, deterministic gates, testing pyramids, observability, and composable subagents. Market evidence also shows active stock/crypto trading, notably repeated positive BB references. Interpretation confidence is high for agent-systems interest and medium for market preferences.",
     "likes": [
       {
@@ -579,6 +654,16 @@
           "https://x.com/MoneyPrinter0x/status/2062070134714560749"
         ],
         "confidence": "medium"
+      },
+      {
+        "theme": "AI-equity infrastructure baskets",
+        "summary": "Weekly watchlist emphasized neoclouds, indium phosphide, open-source-model beneficiaries, CPU/edge infrastructure, and follow-up additions like INTC/AMPG.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2066030025942655219",
+          "https://x.com/MoneyPrinter0x/status/2066030572896764191",
+          "https://x.com/MoneyPrinter0x/status/2066043375472750643"
+        ],
+        "confidence": "high"
       }
     ],
     "dislikes": [
@@ -628,6 +713,34 @@
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2060346351154794656"
         ]
+      },
+      {
+        "name": "HKEX:2513 / GLM",
+        "handle": null,
+        "stance": "positive",
+        "summary": "Highlighted as an S-tier open-source-model / offshore OSS model provider trade idea after Anthropic restrictions, with price near higher-timeframe support.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2066030025942655219",
+          "https://x.com/MoneyPrinter0x/status/2065948240198144201"
+        ]
+      },
+      {
+        "name": "CRWV / BRUN neocloud basket",
+        "handle": null,
+        "stance": "watching",
+        "summary": "Named CRWV and BRUN in weekly watchlist as neocloud momentum/contract-driven ideas.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2066030025942655219"
+        ]
+      },
+      {
+        "name": "SIVE / AEHR indium phosphide basket",
+        "handle": null,
+        "stance": "watching",
+        "summary": "Named SIVE and AEHR as indium-phosphide exposure in the weekly watchlist.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2066030025942655219"
+        ]
       }
     ],
     "people_respected": [
@@ -652,7 +765,10 @@
       "https://x.com/MoneyPrinter0x/status/2065910048833102118",
       "https://x.com/MoneyPrinter0x/status/2065910906224361829",
       "https://x.com/i/status/2065906609436623012",
-      "https://x.com/MoneyPrinter0x/status/2064776521026576864"
+      "https://x.com/MoneyPrinter0x/status/2064776521026576864",
+      "https://x.com/MoneyPrinter0x/status/2066030025942655219",
+      "https://x.com/MoneyPrinter0x/status/2065948240198144201",
+      "https://x.com/MoneyPrinter0x/status/2066025387495428131"
     ]
   },
   {

@@ -1,23 +1,29 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-06-14",
-  "profile_updated_at": "2026-06-14T03:55:41Z",
+  "profile_updated_at": "2026-06-14T07:05:00Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
       "accounts_positive": [
-        "AustinBarack"
+        "AustinBarack",
+        "coin_casanova"
       ],
       "accounts_negative": [],
       "projects": [
-        "Venice / VVV"
+        "Venice / VVV",
+        "TAO / Bittensor",
+        "POD",
+        "AKT"
       ],
-      "summary": "Observed X/Twitter posts from AustinBarack repeatedly frame centralized AI restrictions and possible user-data compulsion as a tailwind for Venice/VVV. Keep as direct evidence bucket rather than broad consensus; coin_casanova had a tactical VVV short, so cross-account stance is not uniform.",
+      "summary": "Observed X/Twitter posts from AustinBarack repeatedly frame centralized AI restrictions and possible user-data compulsion as a tailwind for Venice/VVV. Keep as direct evidence bucket rather than broad consensus; coin_casanova had a tactical VVV short, so cross-account stance is not uniform. New 2026-06-14 coin_casanova evidence treated the Mythos-driven AI-token basket as a trade-construction problem rather than a uniform fundamental endorsement.",
       "evidence_urls": [
         "https://x.com/AustinBarack/status/2065642988470972861",
         "https://x.com/AustinBarack/status/2065850799494738189",
         "https://x.com/AustinBarack/status/2065790400875356205",
-        "https://x.com/coin_casanova/status/2065366923379106118"
+        "https://x.com/coin_casanova/status/2065366923379106118",
+        "https://x.com/coin_casanova/status/2066000974163169390",
+        "https://x.com/coin_casanova/status/2066005931121574382"
       ],
       "momentum": "rising",
       "confidence": "high"
@@ -32,15 +38,19 @@
       "accounts_negative": [],
       "projects": [
         "Pluralis",
-        "GenLayer"
+        "GenLayer",
+        "HKEX:2513 / GLM",
+        "open-source models"
       ],
-      "summary": "Observed X/Twitter evidence spans GeeGee on inference cost/observability, MoneyPrinter0x on deterministic AI-agent harnesses, and kelxyz_ on inference incentives and model-parallel training. These are adjacent but not identical themes, so keep examples close to source posts.",
+      "summary": "Observed X/Twitter evidence spans GeeGee on inference cost/observability, MoneyPrinter0x on deterministic AI-agent harnesses, and kelxyz_ on inference incentives and model-parallel training. These are adjacent but not identical themes, so keep examples close to source posts. MoneyPrinter0x added an explicit GLM/HKEX:2513 open-source-model trade idea tied to Anthropic restrictions.",
       "evidence_urls": [
         "https://x.com/0xGeeGee/status/2065771227743138126",
         "https://x.com/MoneyPrinter0x/status/2065910048833102118",
         "https://x.com/MoneyPrinter0x/status/2065910906224361829",
         "https://x.com/kelxyz_/status/2064825463818576107",
-        "https://x.com/kelxyz_/status/2063836178990633419"
+        "https://x.com/kelxyz_/status/2063836178990633419",
+        "https://x.com/MoneyPrinter0x/status/2065948240198144201",
+        "https://x.com/MoneyPrinter0x/status/2066030025942655219"
       ],
       "momentum": "rising",
       "confidence": "medium"
@@ -138,6 +148,29 @@
         "https://x.com/kelxyz_/status/2064358765340557483",
         "https://x.com/kelxyz_/status/2064360494949953681",
         "https://x.com/kelxyz_/status/2064365937927631203"
+      ],
+      "momentum": "emerging",
+      "confidence": "medium"
+    },
+    {
+      "theme": "Dashboard/process-led trading evidence",
+      "accounts_positive": [
+        "coin_casanova",
+        "MoneyPrinter0x"
+      ],
+      "accounts_negative": [],
+      "projects": [
+        "Fable",
+        "XLV",
+        "CI",
+        "CRWV",
+        "BRUN",
+        "HKEX:2513"
+      ],
+      "summary": "Fresh 2026-06-14 evidence shows coin_casanova sharing a Fable-generated factor/sector dashboard and MoneyPrinter0x posting a structured weekly AI-equity watchlist. Keep this as process evidence, not a crypto-project conviction bucket.",
+      "evidence_urls": [
+        "https://x.com/coin_casanova/status/2065996363503177739",
+        "https://x.com/MoneyPrinter0x/status/2066030025942655219"
       ],
       "momentum": "emerging",
       "confidence": "medium"

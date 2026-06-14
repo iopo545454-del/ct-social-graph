@@ -1,5 +1,104 @@
 [
   {
+    "date": "2026-06-14",
+    "handle": "coin_casanova",
+    "type": "authored_post/reply_thread",
+    "url": "https://x.com/coin_casanova/status/2066000974163169390",
+    "summary": "Critiqued the Mythos-news AI-token basket pump across TAO, VVV, POD, and AKT as fragmented liquidity; argued the trade would be cleaner under one leader and later said real-user usability/subscription-burn evidence should decide the vehicle.",
+    "entities": [
+      "Mythos",
+      "TAO",
+      "VVV",
+      "POD",
+      "AKT",
+      "AI tokens",
+      "liquidity fragmentation"
+    ],
+    "why_logged": "Substantive trade-construction note that clarifies how he evaluates narrative rotations: leader selection, liquidity concentration, and post-pump due diligence.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-14",
+    "handle": "coin_casanova",
+    "type": "authored_post",
+    "url": "https://x.com/coin_casanova/status/2065996363503177739",
+    "summary": "Shared an AlexCorrino/Fable-generated dashboard for monitoring factors, sectors, and baskets; focused on Healthcare/XLV rotation, managed-care attention, and CI as an interesting screen from z-scores plus fundamentals.",
+    "entities": [
+      "Fable",
+      "AlexCorrino",
+      "XLV",
+      "Healthcare",
+      "CI",
+      "factor dashboard"
+    ],
+    "why_logged": "Adds concrete evidence for process/tooling: dashboard-driven factor/sector screening instead of only crypto ticker posts.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-14",
+    "handle": "coin_casanova",
+    "type": "authored_post",
+    "url": "https://x.com/coin_casanova/status/2065980497793318928",
+    "summary": "Used CARDS climbing a wall of worry despite valuation/value-accrual objections as a lesson that price action can falsify consensus skepticism.",
+    "entities": [
+      "CARDS",
+      "price action",
+      "valuation skepticism"
+    ],
+    "why_logged": "Concise trading-taste signal: willingness to respect price action over reply-guy valuation objections.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-14",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/watchlist",
+    "url": "https://x.com/MoneyPrinter0x/status/2066030025942655219",
+    "summary": "Posted weekly equity watchlist: CRWV/neocloud momentum reset, BRUN as new neocloud with contracts, SIVE/AEHR for indium phosphide, HKEX:2513 after Anthropic model bans, ARM, with INTC and AMPG added in replies.",
+    "entities": [
+      "CRWV",
+      "BRUN",
+      "SIVE",
+      "AEHR",
+      "HKEX:2513",
+      "ARM",
+      "INTC",
+      "AMPG",
+      "neocloud",
+      "indium phosphide"
+    ],
+    "why_logged": "High-signal market process evidence from a Tier 1 account; shows current AI-equity/watchlist focus beyond crypto.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-14",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/thread",
+    "url": "https://x.com/MoneyPrinter0x/status/2065948240198144201",
+    "summary": "Asked for feedback on HKEX:2513/GLM as an S-tier open-source-model trade after Anthropic model restrictions, with the stock near higher-timeframe support.",
+    "entities": [
+      "HKEX:2513",
+      "GLM",
+      "open-source models",
+      "Anthropic restrictions"
+    ],
+    "why_logged": "Connects the broader AI-restriction catalyst to an explicit equity trade idea and open-source-model thesis.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-14",
+    "handle": "0xGeeGee",
+    "type": "quote",
+    "url": "https://x.com/0xGeeGee/status/2066046798893089202",
+    "summary": "Quoted PumpFun buyback discussion and reduced the selloff to market microstructure: more sellers than buyers, even with daily SOL buybacks.",
+    "entities": [
+      "PumpFun",
+      "buybacks",
+      "market microstructure"
+    ],
+    "why_logged": "Useful market-structure/taste note: skeptical of mechanical buyback narratives when supply/demand is unfavorable.",
+    "confidence": "medium"
+  },
+  {
     "date": "2026-06-13",
     "handle": "MoneyPrinter0x",
     "type": "authored_post",
