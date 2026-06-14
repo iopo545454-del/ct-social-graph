@@ -1,6 +1,6 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><title>Project Atlas</title><link rel="stylesheet" href="style.css?v=20260614-project-atlas-v1"/></head><body><header><p class="eyebrow">better strategy</p><h1>Project Atlas</h1><p>A readable project-first surface: every project/ticker our seed traders mentioned, grouped by project and trader stance.</p><nav class="page-nav">
+<!doctype html><html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><title>Project Atlas</title><link rel="stylesheet" href="style.css?v=20260614-project-atlas-v2"/></head><body><header><p class="eyebrow">better strategy</p><h1>Project Atlas</h1><p>A readable project-first surface: every project/ticker our seed traders mentioned, grouped by project and trader stance.</p><nav class="page-nav">
   <a class="nav-link" href="index.html">Home</a>
-  <a class="nav-link" href="projects.html" class="nav-link active">Project Atlas</a>
+  <a class="nav-link active" href="projects.html">Project Atlas</a>
   <a class="nav-link" href="matrix.html">Trader × Project Matrix</a>
   <a class="nav-link" href="graph.html">Network Graph</a>
   <a class="nav-link" href="evidence.html">Evidence Feed</a>
@@ -11,9 +11,9 @@
   <a class="nav-link" href="review.html">Needs Review</a>
 </nav></header><main class="atlas-shell">
   <section class="atlas-toolbar">
-    <div><h2>All project/ticker mentions from trader profiles</h2><p class="muted">This includes the broader project ledger, not just high-confidence interaction edges. Click a project to see every trader + source link.</p></div>
+    <div><h2>All project/ticker mentions from trader profiles</h2><p class="muted">Left rail is chronological: newest project mentions first, each linked directly to the tweet. Cards/inspector remain project-first.</p></div>
     <div class="atlas-controls"><input id="atlasSearch" placeholder="Filter project, trader, stance, summary…"/><select id="stanceFilter"><option value="">all stances</option><option>positive</option><option>watching</option><option>negative</option><option>neutral</option><option>unclear</option></select></div>
   </section>
   <section class="atlas-stats" id="atlasStats"></section>
-  <section class="atlas-layout"><div class="project-grid" id="projectGrid"></div><aside class="inspector atlas-inspector" id="projectInspector"><p class="eyebrow">Project Inspector</p><h2>Select a project</h2><p class="muted">Shows all seed traders who touched it and the evidence URLs.</p></aside></section>
-</main><script src="projects.js?v=20260614-project-atlas-v1"></script></body></html>
+  <section class="atlas-layout with-timeline"><aside class="mention-timeline-panel"><div class="timeline-head"><div><p class="eyebrow">Mentions by time</p><h2>Tweet tape</h2></div><span id="mentionCount">0</span></div><div class="mention-timeline" id="mentionTimeline"></div></aside><div class="project-grid" id="projectGrid"></div><aside class="inspector atlas-inspector" id="projectInspector"><p class="eyebrow">Project Inspector</p><h2>Select a project</h2><p class="muted">Shows all seed traders who touched it and the evidence URLs.</p></aside></section>
+</main><script src="projects.js?v=20260614-project-atlas-v2"></script></body></html>
