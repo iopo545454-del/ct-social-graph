@@ -30,14 +30,18 @@ Add and maintain these optional-but-preferred files when doing deeper scans:
 
 Initial deep-search target: compile at least the last 30 days of evidence for each Tier 1 account. Store concise synthesis plus evidence URLs; do not store every tweet.
 
-Minimum dashboard views for this layer:
+Current dashboard priority: visibility first, not abstraction.
 
-1. Trader dossiers.
-2. Narrative heatmap.
-3. Project affinity matrix.
-4. Interaction graph.
-5. Taste-overlap / contrarian map.
-6. Timeline / narrative drift view.
+For now, present the information close to the underlying X evidence so a user who already reads Twitter daily can see the same information in a clearer structure:
+
+1. Chronological evidence feed by account/date.
+2. Per-account recent evidence stream.
+3. Project/people mention list with source posts.
+4. Interaction evidence log for replies/quotes/mentions.
+5. Light theme buckets with direct examples.
+6. Open questions / uncertain reads.
+
+Do not overfit into heatmaps, graphs, or contrarian maps yet. Those can come later after enough clean evidence accumulates.
 
 ## Scan workflow
 

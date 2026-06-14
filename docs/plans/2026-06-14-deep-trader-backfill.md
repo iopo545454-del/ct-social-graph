@@ -144,93 +144,96 @@ For each Tier 1 account:
 
 ---
 
-## Dashboard views — minimum 5, preferably 6
+## Dashboard display — visibility first, not abstraction
 
-### 1. Trader Dossier View
+The user is already on Twitter every day and already knows the live discourse. The dashboard should not hide that information behind too much synthesis yet. The near-term goal is to show the same information in a cleaner, more persistent, easier-to-review format.
 
-A profile card for each Tier 1 account:
+For now, prefer these direct views:
 
-- taste summary
-- top likes
-- top dislikes/fades
-- preferred time horizon
-- research style
-- repeated project mentions
-- respected people/projects
-- open questions
+### 1. Chronological Evidence Feed
 
-This is the main “who is this person as an investor?” view.
+A simple feed of high-signal posts/interactions sorted by date.
 
-### 2. Narrative Heatmap
+Show:
 
-Rows = themes/narratives.
-Columns = Tier 1 accounts.
-Cells = positive / negative / watching / unclear.
+- date
+- source account
+- post/interaction type
+- project/person/theme mentioned
+- short note
+- direct X URL
+- why it was logged
 
-Use this to spot:
+### 2. Per-Account Evidence Stream
 
-- crowded consensus
-- early cluster formation
-- narratives one account likes before others catch up
-- narratives multiple accounts fade
+One page/section per Tier 1 trader showing what was observed in the last 30 days.
 
-### 3. Project Affinity Matrix
+Show the raw-ish record first:
 
-Rows = projects/tickers.
-Columns = accounts.
-Cells = stance + evidence count.
+- notable posts
+- thoughtful replies/quotes
+- repeated people/projects mentioned
+- explicit positive/negative statements
+- open uncertainty
 
-Useful for answering:
+Keep synthesis short and clearly labeled as interpretation.
 
-- “Who among our best accounts has noticed this project?”
-- “Is this project liked by one person or by a cluster?”
-- “Is attention broadening or isolated?”
+### 3. Mention Ledger
 
-### 4. Interaction Graph
+A table/list of projects, tickers, people, and protocols mentioned by the tracked accounts.
 
-Network view:
+Show:
 
-- Tier 1 accounts as large nodes
-- Tier 2 people/projects as smaller nodes
-- edge thickness = interaction quality/frequency
-- edge color = reply / quote / mention / endorsement / disagreement
+- mentioned entity
+- who mentioned it
+- count / rough recurrence
+- stance if explicit
+- source links
 
-The goal is not social graph vanity; it is finding **who introduces signal into the network**.
+This is useful without becoming a heatmap yet.
 
-### 5. Taste Overlap / Contrarian Map
+### 4. Interaction Evidence Log
 
-Pairwise comparison of accounts:
+A direct list of meaningful replies, quotes, and conversations.
 
-- overlapping likes
-- shared fades
-- divergent takes
-- accounts that consistently discover different corners of CT
+Show:
 
-This is the “portfolio construction of brains” view: who gives redundant signal vs orthogonal signal.
+- from account
+- to account/project
+- interaction type
+- context
+- source URL
+- whether it created a Tier 2 candidate
 
-### 6. Timeline / Narrative Drift View
+### 5. Light Theme Buckets
 
-Rolling timeline of when themes/projects first appear and whether they intensify or fade.
+Loose buckets like AI infra, TAO/Bittensor, DePIN, agents, robotics, consumer crypto, perps, etc.
 
-This helps answer:
+Each bucket should show example evidence, not just a derived score.
 
-- “Is this theme actually accelerating?”
-- “Who was early?”
-- “Did attention persist after the first tweet?”
+### 6. Open Questions / Needs Review
 
+A list of ambiguous signals that need human review:
+
+- unclear stance
+- repeated mentions with no explicit take
+- possible sarcasm
+- accounts/projects that might be Tier 2 but need more evidence
+
+Future abstract views — heatmaps, graphs, contrarian maps, narrative drift — are explicitly deferred until the raw evidence layer is useful.
 ---
 
 ## Display philosophy
 
-Make the page feel like a **Bloomberg terminal for taste** rather than a tweet list.
+Make the page feel like a **clean research tape** rather than a tweet list or over-abstracted intelligence product.
 
 Design principles:
 
 - evidence is always one click away
-- synthesis first, raw posts second
+- raw evidence first, synthesis second
 - show uncertainty instead of fake precision
 - highlight changes over time
-- prioritize clusters over isolated mentions
+- preserve isolated mentions when they may become important later
 - avoid noisy metrics unless they help decision-making
 
 ---
@@ -252,16 +255,18 @@ docs/data/theme-map.json
 
 Modify `docs/app.js` to load the two new data files while tolerating them being empty.
 
-### Task 3: Add view tabs
+### Task 3: Add simple visibility sections
 
-Modify `docs/index.html`, `docs/style.css`, and `docs/app.js` to support at least five views:
+Modify `docs/index.html`, `docs/style.css`, and `docs/app.js` only enough to show direct evidence-oriented sections:
 
-1. Dossiers
-2. Narrative Heatmap
-3. Project Affinity
-4. Interaction Graph
-5. Contrarian Map
-6. Timeline
+1. Chronological evidence feed
+2. Per-account evidence stream
+3. Mention ledger
+4. Interaction evidence log
+5. Light theme buckets
+6. Open questions / needs review
+
+Do not build heatmaps, graph visualizations, or contrarian maps yet.
 
 ### Task 4: Run initial 30-day backfill
 
@@ -289,4 +294,4 @@ Commit only real changes.
 
 ## Recommendation
 
-Build the new display layer before trying to ingest too much data. The data we collect should be shaped by the questions the dashboard must answer. Start with the six views above, then do the initial 30-day backfill into that structure.
+Do the initial 30-day backfill into a direct evidence layer first. Keep abstraction low: evidence feed, per-account streams, mention ledger, interactions, light buckets, and open questions. More futuristic views can come later once the raw evidence layer is actually useful.
