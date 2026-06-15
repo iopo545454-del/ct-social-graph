@@ -595,7 +595,7 @@
     "handle": "airtightfish",
     "period_start": "2026-05-14",
     "period_end": "2026-06-15",
-    "profile_updated_at": "2026-06-15T04:40:00Z",
+    "profile_updated_at": "2026-06-15T16:31:40Z",
     "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, and nuance around trader behavior versus scams. Interpretation confidence is medium; many posts are project/community replies.",
     "likes": [
       {
@@ -643,6 +643,14 @@
           "https://x.com/airtightfish/status/2066373716523593916"
         ],
         "confidence": "medium"
+      },
+      {
+        "theme": "Not all failed/quiet projects are malicious",
+        "summary": "In a Ventuals criticism thread, defended the team as having given it an honest shot, adding nuance to his existing scam/predatory-bundle filter.",
+        "evidence_urls": [
+          "https://x.com/airtightfish/status/2066537005555634216"
+        ],
+        "confidence": "medium"
       }
     ],
     "projects_mentioned": [
@@ -667,6 +675,15 @@
           "https://x.com/airtightfish/status/2066372022641287274",
           "https://x.com/airtightfish/status/2066373716523593916"
         ]
+      },
+      {
+        "name": "Ventuals",
+        "handle": "Ventuals",
+        "stance": "neutral/defensive",
+        "summary": "Defended as an honest attempt in a criticism thread; not enough evidence to infer positive project thesis.",
+        "evidence_urls": [
+          "https://x.com/airtightfish/status/2066537005555634216"
+        ]
       }
     ],
     "people_respected": [],
@@ -684,7 +701,8 @@
       "https://x.com/airtightfish/status/2064392389016342888",
       "https://x.com/airtightfish/status/2064390683440341286",
       "https://x.com/airtightfish/status/2064093914684940791",
-      "https://x.com/airtightfish/status/2066372022641287274"
+      "https://x.com/airtightfish/status/2066372022641287274",
+      "https://x.com/airtightfish/status/2066537005555634216"
     ]
   },
   {
@@ -884,7 +902,7 @@
     "handle": "MoneyPrinter0x",
     "period_start": "2026-05-14",
     "period_end": "2026-06-15",
-    "profile_updated_at": "2026-06-15T12:27:17Z",
+    "profile_updated_at": "2026-06-15T16:31:40Z",
     "taste_summary": "Observed X/Twitter evidence is unusually detailed around production-grade AI agent systems: harnesses, deterministic gates, testing pyramids, observability, and composable subagents. Market evidence also shows active stock/crypto trading, notably repeated positive BB references. Interpretation confidence is high for agent-systems interest and medium for market preferences.",
     "likes": [
       {
@@ -965,6 +983,15 @@
           "https://x.com/MoneyPrinter0x/status/2066474680161276171",
           "https://x.com/MoneyPrinter0x/status/2066475286758310112",
           "https://x.com/MoneyPrinter0x/status/2066466216412324263"
+        ],
+        "confidence": "high"
+      },
+      {
+        "theme": "Multi-book trading process and derisking",
+        "summary": "Described running 2-3 books across intraday and multiday trades, with flexible boundaries, disciplined shot selection on momentum resets, early sizing, derisking on the way up, and letting runners continue.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2066551955972084130",
+          "https://x.com/MoneyPrinter0x/status/2066552421019758752"
         ],
         "confidence": "high"
       }
@@ -1083,6 +1110,24 @@
           "https://x.com/MoneyPrinter0x/status/2066346247095767477",
           "https://x.com/MoneyPrinter0x/status/2066340973106618634"
         ]
+      },
+      {
+        "name": "CRWV / NVDA / Bitdeer / IREN calls",
+        "handle": null,
+        "stance": "positive",
+        "summary": "Listed as winning trades on the June 15 PnL day; process context points to momentum-reset/AI-beta style entries rather than durable fundamental theses.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2066551955972084130"
+        ]
+      },
+      {
+        "name": "AMPG / PURR / BB / INTC",
+        "handle": null,
+        "stance": "watching",
+        "summary": "Named as multiday book exposures; AMPG partly derisked on SPCX IPO volatility, with PURR/BB/INTC still carried as multiday positions.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2066551955972084130"
+        ]
       }
     ],
     "people_respected": [
@@ -1123,15 +1168,17 @@
       "https://x.com/MoneyPrinter0x/status/2066346247095767477",
       "https://x.com/MoneyPrinter0x/status/2066474680161276171",
       "https://x.com/MoneyPrinter0x/status/2066475286758310112",
-      "https://x.com/MoneyPrinter0x/status/2066466216412324263"
+      "https://x.com/MoneyPrinter0x/status/2066466216412324263",
+      "https://x.com/MoneyPrinter0x/status/2066551955972084130",
+      "https://x.com/MoneyPrinter0x/status/2066552421019758752"
     ]
   },
   {
     "handle": "kelxyz_",
     "period_start": "2026-05-14",
     "period_end": "2026-06-15",
-    "profile_updated_at": "2026-06-15T04:40:00Z",
-    "taste_summary": "Observed X/Twitter evidence is thesis-heavy around AI/crypto protocols, especially Pluralis, inference-market timing, decentralized/model-parallel training, and broader AI-driven cultural/economic outcomes. Interpretation confidence is high for Pluralis interest and medium for the underclass/equities thesis.",
+    "profile_updated_at": "2026-06-15T16:31:40Z",
+    "taste_summary": "Observed X/Twitter evidence is thesis-heavy around AI/crypto protocols, especially Pluralis, inference-market timing, decentralized/model-parallel training, and broader AI-driven cultural/economic outcomes. New evidence adds a concrete positive ZEC/privacy-chain technical thesis. Interpretation confidence is high for Pluralis interest and medium for ZEC pending corroboration.",
     "likes": [
       {
         "theme": "Pluralis and model-parallel decentralized training",
@@ -1167,6 +1214,15 @@
         "summary": "In a compute-chain thread, treated a HYPE-like launch valuation as plausible/acceptable and expressed skepticism that marketed fair-launch networks are truly fair.",
         "evidence_urls": [
           "https://x.com/kelxyz_/status/2066316917766291622"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "Zcash privacy-tech asymmetry",
+        "summary": "Argued crypto allocators should get serious about ZEC because Mythos/formal verification, private pools, and quantum-resistance roadmap make Zcash's proactive approach look stronger than Bitcoin's slower development/distribution profile.",
+        "evidence_urls": [
+          "https://x.com/kelxyz_/status/2066549475200688524",
+          "https://x.com/kelxyz_/status/2066548579242500109"
         ],
         "confidence": "medium"
       }
@@ -1210,6 +1266,16 @@
           "https://x.com/kelxyz_/status/2066316917766291622",
           "https://x.com/i/status/2066316917766291622"
         ]
+      },
+      {
+        "name": "Zcash / ZEC",
+        "handle": "zcash",
+        "stance": "positive",
+        "summary": "Called ZEC highly asymmetric and said Zcash's formal-verification/private-pool/quantum-resistance roadmap feels stronger in the current world; fresh evidence only, so keep medium confidence.",
+        "evidence_urls": [
+          "https://x.com/kelxyz_/status/2066549475200688524",
+          "https://x.com/kelxyz_/status/2066548579242500109"
+        ]
       }
     ],
     "people_respected": [
@@ -1235,14 +1301,17 @@
     },
     "open_questions": [
       "Track whether Pluralis references continue beyond this cluster or were driven by a single conversation/news cycle.",
-      "Need fuller source context for Permanent Underclass Index to map equities vs crypto relevance."
+      "Need fuller source context for Permanent Underclass Index to map equities vs crypto relevance.",
+      "Track whether kelxyz_'s ZEC/privacy-chain thesis recurs or was a one-day portfolio review after Mythos/formal-verification news."
     ],
     "evidence_urls": [
       "https://x.com/kelxyz_/status/2065782384616780175",
       "https://x.com/kelxyz_/status/2064825463818576107",
       "https://x.com/kelxyz_/status/2064358765340557483",
       "https://x.com/kelxyz_/status/2063836178990633419",
-      "https://x.com/kelxyz_/status/2066316917766291622"
+      "https://x.com/kelxyz_/status/2066316917766291622",
+      "https://x.com/kelxyz_/status/2066549475200688524",
+      "https://x.com/kelxyz_/status/2066548579242500109"
     ]
   }
 ]

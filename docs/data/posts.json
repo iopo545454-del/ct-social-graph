@@ -692,5 +692,81 @@
     ],
     "why_logged": "High-signal process evidence clarifying how MoneyPrinter filters AI-equity trades after the 2513 event: second-derivative capex/spend curves, event-driven fit, and OSS purity.",
     "confidence": "high"
+  },
+  {
+    "date": "2026-06-15",
+    "handle": "kelxyz_",
+    "type": "authored_post/thread",
+    "url": "https://x.com/kelxyz_/status/2066549475200688524",
+    "summary": "Argued that crypto allocators should get serious about Zcash/ZEC, emphasizing Mythos formal verification for private pools, quantum-resistance roadmap, and faster proactive development versus Bitcoin's distribution and slow-change profile.",
+    "entities": [
+      "ZEC",
+      "Zcash",
+      "Mythos",
+      "formal verification",
+      "private pools",
+      "quantum resistance",
+      "Bitcoin"
+    ],
+    "why_logged": "Fresh high-signal reversal/addition to the ZEC evidence layer: unlike zuqaquz's ZEC fade, kelxyz_ gives a technical positive privacy-chain thesis with concrete roadmap reasons.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-15",
+    "handle": "kelxyz_",
+    "type": "authored_post/portfolio_review",
+    "url": "https://x.com/kelxyz_/status/2066548579242500109",
+    "summary": "Reviewed a prior portfolio thesis: called ZEC highly asymmetric with Mythos/formal-verification roadmap, characterized Jito as more flows-based, said TON seems based, and noted Cyph worked while PURR would have cracked too.",
+    "entities": [
+      "ZEC",
+      "Zcash",
+      "Jito",
+      "TON",
+      "Cyph",
+      "PURR",
+      "Mythos",
+      "formal verification"
+    ],
+    "why_logged": "Useful per-account evidence for kelxyz_'s current project/ticker attention beyond Pluralis, especially the new positive ZEC framing.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-15",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/replies",
+    "url": "https://x.com/MoneyPrinter0x/status/2066551955972084130",
+    "summary": "Explained current trading process after a strong PnL day: runs 2-3 books across intraday and multiday trades, recent PnL has skewed intraday, keeps multiday exposures like AMPG/PURR/BB/INTC, and treats CRWV-like entries as momentum resets with early sizing, derisking, and runners.",
+    "entities": [
+      "CRWV",
+      "NVDA",
+      "Bitdeer",
+      "IREN",
+      "SOXL",
+      "AMPG",
+      "SPCX",
+      "PURR",
+      "BB",
+      "INTC",
+      "intraday trading",
+      "multiday book",
+      "risk management"
+    ],
+    "why_logged": "High-signal process evidence: position-book separation, shot selection, derisking, and runner management are clearer than the screenshot-only original post.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-15",
+    "handle": "airtightfish",
+    "type": "reply",
+    "url": "https://x.com/airtightfish/status/2066537005555634216",
+    "summary": "In a Ventuals criticism thread, replied 'What's wrong with this. They gave it an honest shot,' defending a project/team that reportedly went quiet and delivered little value after trying.",
+    "entities": [
+      "Ventuals",
+      "project execution",
+      "failed attempts",
+      "crypto startups"
+    ],
+    "why_logged": "Small but useful filter evidence for airtightfish: distinguishes honest failed attempts from malicious/predatory behavior.",
+    "confidence": "medium"
   }
 ]

@@ -339,5 +339,16 @@
     "summary": "Said he may add PLUME to the RWA segment because Plume appears to have found footing with GRVT/Bybit and other BD/integrations plus improving chart structure.",
     "quality": "medium",
     "created_tier2_candidate": true
+  },
+  {
+    "from": "airtightfish",
+    "to": "Ventuals",
+    "to_kind": "project",
+    "type": "reply",
+    "date": "2026-06-15",
+    "url": "https://x.com/airtightfish/status/2066537005555634216",
+    "summary": "Defended Ventuals in a criticism thread by framing the outcome as an honest shot rather than something necessarily wrong; useful but single medium-confidence edge.",
+    "quality": "medium",
+    "created_tier2_candidate": true
   }
 ]

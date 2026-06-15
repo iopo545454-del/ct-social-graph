@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-06-15",
-  "profile_updated_at": "2026-06-15T12:27:17Z",
+  "profile_updated_at": "2026-06-15T16:31:40Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -185,9 +185,18 @@
         "HK equities",
         "HigherLiquid",
         "AI capex curve",
-        "end-user AI spend"
+        "end-user AI spend",
+        "multi-book trading process",
+        "NVDA",
+        "Bitdeer",
+        "IREN",
+        "SOXL",
+        "AMPG",
+        "PURR",
+        "BB",
+        "INTC"
       ],
-      "summary": "Evidence shows coin_casanova sharing a Fable-generated factor/sector dashboard and MoneyPrinter0x posting structured weekly AI-equity/watchlists, extending into a capital-markets worldview and event hedge construction using QQQ beta plus Polymarket odds. New 2026-06-15 examples: 0xGeeGee translated MSTR/Saylor BTC metrics into mNAV/capital-structure terms and used superconducting wires to frame the nuclear bull market; MoneyPrinter0x logged a major HK single-stock event trade, tied the thread back to HigherLiquid, and clarified that AI-equity trades should track the rate of change of forward-looking AI capex and end-user AI spend rather than naked capex notional.",
+      "summary": "Evidence shows coin_casanova sharing a Fable-generated factor/sector dashboard and MoneyPrinter0x posting structured weekly AI-equity/watchlists, extending into a capital-markets worldview and event hedge construction using QQQ beta plus Polymarket odds. New 2026-06-15 examples: 0xGeeGee translated MSTR/Saylor BTC metrics into mNAV/capital-structure terms and used superconducting wires to frame the nuclear bull market; MoneyPrinter0x logged a major HK single-stock event trade, tied the thread back to HigherLiquid, and clarified that AI-equity trades should track the rate of change of forward-looking AI capex and end-user AI spend rather than naked capex notional. Latest MoneyPrinter0x replies added explicit multi-book process detail: intraday vs multiday books, early sizing on momentum resets, derisking into strength, and runners.",
       "evidence_urls": [
         "https://x.com/coin_casanova/status/2065996363503177739",
         "https://x.com/MoneyPrinter0x/status/2066030025942655219",
@@ -200,7 +209,9 @@
         "https://x.com/MoneyPrinter0x/status/2066346247095767477",
         "https://x.com/MoneyPrinter0x/status/2066474680161276171",
         "https://x.com/MoneyPrinter0x/status/2066475286758310112",
-        "https://x.com/MoneyPrinter0x/status/2066466216412324263"
+        "https://x.com/MoneyPrinter0x/status/2066466216412324263",
+        "https://x.com/MoneyPrinter0x/status/2066551955972084130",
+        "https://x.com/MoneyPrinter0x/status/2066552421019758752"
       ],
       "momentum": "emerging",
       "confidence": "medium"
@@ -331,6 +342,30 @@
       ],
       "momentum": "emerging",
       "confidence": "low"
+    },
+    {
+      "theme": "ZEC / privacy-chain technical thesis vs trader fades",
+      "accounts_positive": [
+        "kelxyz_"
+      ],
+      "accounts_negative": [
+        "zuqaquz"
+      ],
+      "projects": [
+        "Zcash / ZEC",
+        "Mythos",
+        "formal verification",
+        "private pools"
+      ],
+      "summary": "New kelxyz_ posts give a concrete positive ZEC thesis around Mythos formal verification, private pools, quantum-resistance roadmap, and proactive development. This conflicts with prior zuqaquz mute/fade evidence, so present as disagreement/visibility rather than consensus.",
+      "evidence_urls": [
+        "https://x.com/kelxyz_/status/2066549475200688524",
+        "https://x.com/kelxyz_/status/2066548579242500109",
+        "https://x.com/zuqaquz/status/2063415879971283082",
+        "https://x.com/i/status/2062800810564628694"
+      ],
+      "momentum": "emerging",
+      "confidence": "medium"
     }
   ],
   "open_questions": [
@@ -348,6 +383,8 @@
     "Track whether Shift Protocol/ltLLP/LIT becomes repeated DeFi-yield evidence or remains a one-off GeeGee farming comment.",
     "Track whether GeeGee's RAIN/Enlivex dislike recurs or was specific to the June 14 RWA/tokenized-equity thread context.",
     "Track whether PLUME/Plume receives repeated RWA attention beyond GeeGee’s Bybit/GRVT integration reply.",
-    "Track whether MoneyPrinter's second-derivative AI capex/end-user spend framing becomes a recurring equity-filter theme."
+    "Track whether MoneyPrinter's second-derivative AI capex/end-user spend framing becomes a recurring equity-filter theme.",
+    "Track whether kelxyz_'s ZEC/privacy-chain thesis gets corroborated by other Tier 1 accounts or remains in disagreement with zuqaquz's ZEC fade.",
+    "Track whether MoneyPrinter0x's 2-3 book intraday/multiday framework recurs as a stable public process lens."
   ]
 }

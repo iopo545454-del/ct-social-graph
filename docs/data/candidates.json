@@ -51,11 +51,13 @@
     "handle": "zcash",
     "kind": "project",
     "status": "candidate",
-    "source": "zuqaquz mute/fade and HYPE-over-ZEC comments",
-    "reason": "Repeated enough for mention ledger but stance appears negative/trading-focused, not a follow-worthy Tier 2 project for this taste map yet.",
+    "source": "zuqaquz ZEC fade plus kelxyz_ positive technical ZEC thesis",
+    "reason": "Now has conflicting Tier 1 evidence: zuqaquz muted/faded ZEC versus kelxyz_ giving a concrete positive thesis around Mythos formal verification, private pools, and quantum-resistance roadmap. Keep candidate/mention-ledger only until more corroboration.",
     "evidence_urls": [
       "https://x.com/zuqaquz/status/2063415879971283082",
-      "https://x.com/i/status/2062800810564628694"
+      "https://x.com/i/status/2062800810564628694",
+      "https://x.com/kelxyz_/status/2066549475200688524",
+      "https://x.com/kelxyz_/status/2066548579242500109"
     ],
     "first_seen": "2026-06-14",
     "confidence": "medium"
@@ -214,6 +216,18 @@
     "reason": "GeeGee said he may add PLUME to his RWA segment based on Plume BD/integration momentum with GRVT/Bybit and a possible chart turn; single fresh evidence point, so candidate pending recurrence.",
     "evidence_urls": [
       "https://x.com/0xGeeGee/status/2066449564631286159"
+    ],
+    "first_seen": "2026-06-15",
+    "confidence": "low"
+  },
+  {
+    "handle": "Ventuals",
+    "kind": "project",
+    "status": "candidate",
+    "source": "airtightfish reply defending honest attempt after project criticism",
+    "reason": "airtightfish offered a fair-minded defense in a criticism thread, but this is one medium-confidence interaction and not enough for Tier 2 tracking.",
+    "evidence_urls": [
+      "https://x.com/airtightfish/status/2066537005555634216"
     ],
     "first_seen": "2026-06-15",
     "confidence": "low"
