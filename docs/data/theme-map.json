@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-06-15",
-  "profile_updated_at": "2026-06-15T00:11:44Z",
+  "profile_updated_at": "2026-06-15T04:40:00Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -167,7 +167,8 @@
       "theme": "Dashboard/process-led trading evidence",
       "accounts_positive": [
         "coin_casanova",
-        "MoneyPrinter0x"
+        "MoneyPrinter0x",
+        "0xGeeGee"
       ],
       "accounts_negative": [],
       "projects": [
@@ -176,15 +177,23 @@
         "CI",
         "CRWV",
         "BRUN",
-        "HKEX:2513"
+        "HKEX:2513",
+        "MSTR / Strategy",
+        "nuclear supply-chain equities",
+        "HK equities",
+        "HigherLiquid"
       ],
-      "summary": "Evidence shows coin_casanova sharing a Fable-generated factor/sector dashboard and MoneyPrinter0x posting structured weekly AI-equity/watchlists, extending into a capital-markets worldview and event hedge construction using QQQ beta plus Polymarket odds. Keep this as process/attention evidence, not a crypto-project conviction bucket.",
+      "summary": "Evidence shows coin_casanova sharing a Fable-generated factor/sector dashboard and MoneyPrinter0x posting structured weekly AI-equity/watchlists, extending into a capital-markets worldview and event hedge construction using QQQ beta plus Polymarket odds. Keep this as process/attention evidence, not a crypto-project conviction bucket. New 2026-06-15 examples: 0xGeeGee translated MSTR/Saylor BTC metrics into mNAV/capital-structure terms and used superconducting wires to frame the nuclear bull market; MoneyPrinter0x logged a major HK single-stock event trade and tied the thread back to HigherLiquid.",
       "evidence_urls": [
         "https://x.com/coin_casanova/status/2065996363503177739",
         "https://x.com/MoneyPrinter0x/status/2066030025942655219",
         "https://x.com/MoneyPrinter0x/status/2066241419287937341",
         "https://x.com/MoneyPrinter0x/status/2066271112036810797",
-        "https://x.com/MoneyPrinter0x/status/2066291913825902865"
+        "https://x.com/MoneyPrinter0x/status/2066291913825902865",
+        "https://x.com/0xGeeGee/status/2066340434402832578",
+        "https://x.com/0xGeeGee/status/2066335038824976410",
+        "https://x.com/MoneyPrinter0x/status/2066340973106618634",
+        "https://x.com/MoneyPrinter0x/status/2066346247095767477"
       ],
       "momentum": "emerging",
       "confidence": "medium"
@@ -260,6 +269,41 @@
       ],
       "momentum": "emerging",
       "confidence": "medium"
+    },
+    {
+      "theme": "Compute chains / datacenter-token launch design",
+      "accounts_positive": [
+        "kelxyz_"
+      ],
+      "accounts_negative": [],
+      "projects": [
+        "compute-chain concept",
+        "HYPE launch comparison"
+      ],
+      "summary": "kelxyz_ engaged with a compute-chain/datacenter-token ownership thread and commented that a HYPE-like launch valuation may be acceptable while many marketed fair launches are 'psyop fair launches'. Single-account evidence; keep close to source.",
+      "evidence_urls": [
+        "https://x.com/kelxyz_/status/2066316917766291622",
+        "https://x.com/i/status/2066316917766291622"
+      ],
+      "momentum": "emerging",
+      "confidence": "medium"
+    },
+    {
+      "theme": "Memecoin catalyst skepticism",
+      "accounts_positive": [],
+      "accounts_negative": [
+        "airtightfish"
+      ],
+      "projects": [
+        "Asteroid Shiba"
+      ],
+      "summary": "airtightfish pushed back on Asteroid Shiba / Elon-easter-egg buy logic, calling the episode unserious and questioning why a weak reveal would create a buy signal after the fact. One-account filter/dislike evidence.",
+      "evidence_urls": [
+        "https://x.com/airtightfish/status/2066372022641287274",
+        "https://x.com/airtightfish/status/2066373716523593916"
+      ],
+      "momentum": "emerging",
+      "confidence": "medium"
     }
   ],
   "open_questions": [
@@ -270,6 +314,9 @@
     "Watch whether Tiza/@Tiza4ThePeople becomes a repeated GeeGee DeFi/yield reference or remains a one-off respected-person edge.",
     "Track whether AustinBarack's AI ROI/price-performance lens recurs in crypto-AI project evaluation.",
     "Track whether GRASS/AERO becomes a repeated AustinBarack project-lens beyond a June 14 liquidity/listing reply cluster.",
-    "Watch whether MoneyPrinter0x continues using prediction-market odds as a systematic hedge/trade input."
+    "Watch whether MoneyPrinter0x continues using prediction-market odds as a systematic hedge/trade input.",
+    "Confirm a stable public handle/source set for HigherLiquid before promoting beyond candidate.",
+    "Watch whether kelxyz_'s compute-chain/fair-launch skepticism recurs across specific AI/depin projects.",
+    "Keep Asteroid Shiba as negative memecoin-catalyst evidence only unless it receives repeated substantive attention."
   ]
 }

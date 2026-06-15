@@ -150,8 +150,8 @@
   {
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-14",
-    "profile_updated_at": "2026-06-14T16:20:00Z",
+    "period_end": "2026-06-15",
+    "profile_updated_at": "2026-06-15T04:40:00Z",
     "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with a practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Interpretation confidence is now medium-high after a detailed June 14 thesis thread.",
     "likes": [
       {
@@ -209,6 +209,23 @@
         "summary": "Reply suggests willingness to underwrite higher 20-30% APY DeFi opportunities when rug risk is not the main concern, while still respecting conservative stable-yield frameworks.",
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2066154504417054981"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "BTC proxy capital-structure / mNAV analysis",
+        "summary": "Translated MSTR/Saylor metrics into mNAV/capital-structure terms and emphasized seniority, dilution, and BTC outperformance needs after Strategy showed willingness to sell.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2066340434402832578"
+        ],
+        "confidence": "high"
+      },
+      {
+        "theme": "Supply-chain bottlenecks inside equity themes",
+        "summary": "Used superconducting wires/Fujikura vs Cameco to explain where the nuclear bull market may have accrued, favoring bottleneck/supplier analysis over headline exposure.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2066335038824976410",
+          "https://x.com/0xGeeGee/status/2066335436793081950"
         ],
         "confidence": "medium"
       }
@@ -328,6 +345,15 @@
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2066111310916694078"
         ]
+      },
+      {
+        "name": "MSTR / Strategy",
+        "handle": null,
+        "stance": "analytical",
+        "summary": "Analyzed MSTR through residual common mNAV / fully diluted mNAV and capital-structure seniority rather than pure BTC beta.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2066340434402832578"
+        ]
       }
     ],
     "people_respected": [
@@ -361,7 +387,9 @@
       "https://x.com/0xGeeGee/status/2066111310916694078",
       "https://x.com/0xGeeGee/status/2066117881079951822",
       "https://x.com/0xGeeGee/status/2066049704765596033",
-      "https://x.com/0xGeeGee/status/2066154504417054981"
+      "https://x.com/0xGeeGee/status/2066154504417054981",
+      "https://x.com/0xGeeGee/status/2066340434402832578",
+      "https://x.com/0xGeeGee/status/2066335038824976410"
     ]
   },
   {
@@ -508,8 +536,8 @@
   {
     "handle": "airtightfish",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-14",
-    "profile_updated_at": "2026-06-14T03:55:41Z",
+    "period_end": "2026-06-15",
+    "profile_updated_at": "2026-06-15T04:40:00Z",
     "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, and nuance around trader behavior versus scams. Interpretation confidence is medium; many posts are project/community replies.",
     "likes": [
       {
@@ -548,6 +576,15 @@
           "https://x.com/airtightfish/status/2064392389016342888"
         ],
         "confidence": "high"
+      },
+      {
+        "theme": "Memecoin catalyst-chasing / post-hoc buy signals",
+        "summary": "In an Asteroid Shiba / Elon easter-egg thread, called the industry unserious and questioned why the reveal would make it a buy if it was not before.",
+        "evidence_urls": [
+          "https://x.com/airtightfish/status/2066372022641287274",
+          "https://x.com/airtightfish/status/2066373716523593916"
+        ],
+        "confidence": "medium"
       }
     ],
     "projects_mentioned": [
@@ -561,6 +598,16 @@
           "https://x.com/airtightfish/status/2064743264691875927",
           "https://x.com/airtightfish/status/2064562933405736983",
           "https://x.com/airtightfish/status/2063450933804052934"
+        ]
+      },
+      {
+        "name": "Asteroid Shiba",
+        "handle": "MascotAsteroid",
+        "stance": "negative",
+        "summary": "Used as a negative example of memecoin/easter-egg catalyst logic; not a follow-worthy project thesis.",
+        "evidence_urls": [
+          "https://x.com/airtightfish/status/2066372022641287274",
+          "https://x.com/airtightfish/status/2066373716523593916"
         ]
       }
     ],
@@ -578,7 +625,8 @@
       "https://x.com/airtightfish/status/2065567457536831796",
       "https://x.com/airtightfish/status/2064392389016342888",
       "https://x.com/airtightfish/status/2064390683440341286",
-      "https://x.com/airtightfish/status/2064093914684940791"
+      "https://x.com/airtightfish/status/2064093914684940791",
+      "https://x.com/airtightfish/status/2066372022641287274"
     ]
   },
   {
@@ -778,7 +826,7 @@
     "handle": "MoneyPrinter0x",
     "period_start": "2026-05-14",
     "period_end": "2026-06-15",
-    "profile_updated_at": "2026-06-15T00:11:44Z",
+    "profile_updated_at": "2026-06-15T04:40:00Z",
     "taste_summary": "Observed X/Twitter evidence is unusually detailed around production-grade AI agent systems: harnesses, deterministic gates, testing pyramids, observability, and composable subagents. Market evidence also shows active stock/crypto trading, notably repeated positive BB references. Interpretation confidence is high for agent-systems interest and medium for market preferences.",
     "likes": [
       {
@@ -842,6 +890,15 @@
           "https://x.com/MoneyPrinter0x/status/2066307643304772068"
         ],
         "confidence": "medium"
+      },
+      {
+        "theme": "Non-US public-equity event trading",
+        "summary": "Posted a high-engagement HK single-stock pump trade and gave process detail around entering 50 bps above pre-auction.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2066340973106618634",
+          "https://x.com/MoneyPrinter0x/status/2066349502299316286"
+        ],
+        "confidence": "high"
       }
     ],
     "dislikes": [
@@ -946,6 +1003,16 @@
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2066275337655451745"
         ]
+      },
+      {
+        "name": "HigherLiquid",
+        "handle": "HigherLiquid",
+        "stance": "building",
+        "summary": "Called HigherLiquid pretty much the biggest project he is working on; context from bio/search is onchain equity perps/options/private access.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2066346247095767477",
+          "https://x.com/MoneyPrinter0x/status/2066340973106618634"
+        ]
       }
     ],
     "people_respected": [
@@ -980,14 +1047,16 @@
       "https://x.com/MoneyPrinter0x/status/2066271112036810797",
       "https://x.com/MoneyPrinter0x/status/2066291913825902865",
       "https://x.com/MoneyPrinter0x/status/2066307643304772068",
-      "https://x.com/MoneyPrinter0x/status/2066275337655451745"
+      "https://x.com/MoneyPrinter0x/status/2066275337655451745",
+      "https://x.com/MoneyPrinter0x/status/2066340973106618634",
+      "https://x.com/MoneyPrinter0x/status/2066346247095767477"
     ]
   },
   {
     "handle": "kelxyz_",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-14",
-    "profile_updated_at": "2026-06-14T03:55:41Z",
+    "period_end": "2026-06-15",
+    "profile_updated_at": "2026-06-15T04:40:00Z",
     "taste_summary": "Observed X/Twitter evidence is thesis-heavy around AI/crypto protocols, especially Pluralis, inference-market timing, decentralized/model-parallel training, and broader AI-driven cultural/economic outcomes. Interpretation confidence is high for Pluralis interest and medium for the underclass/equities thesis.",
     "likes": [
       {
@@ -1016,6 +1085,14 @@
           "https://x.com/kelxyz_/status/2064358765340557483",
           "https://x.com/kelxyz_/status/2064360494949953681",
           "https://x.com/kelxyz_/status/2064365937927631203"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "Compute-chain / datacenter-token launch pragmatism",
+        "summary": "In a compute-chain thread, treated a HYPE-like launch valuation as plausible/acceptable and expressed skepticism that marketed fair-launch networks are truly fair.",
+        "evidence_urls": [
+          "https://x.com/kelxyz_/status/2066316917766291622"
         ],
         "confidence": "medium"
       }
@@ -1049,6 +1126,16 @@
           "https://x.com/kelxyz_/status/2065782544566522156",
           "https://x.com/kelxyz_/status/2063836178990633419"
         ]
+      },
+      {
+        "name": "Compute-chain concept",
+        "handle": null,
+        "stance": "watching",
+        "summary": "Engaged with a vision for compute-secured chain/datacenter-token ownership and commented on likely HYPE-like valuation plus fair-launch skepticism.",
+        "evidence_urls": [
+          "https://x.com/kelxyz_/status/2066316917766291622",
+          "https://x.com/i/status/2066316917766291622"
+        ]
       }
     ],
     "people_respected": [
@@ -1080,7 +1167,8 @@
       "https://x.com/kelxyz_/status/2065782384616780175",
       "https://x.com/kelxyz_/status/2064825463818576107",
       "https://x.com/kelxyz_/status/2064358765340557483",
-      "https://x.com/kelxyz_/status/2063836178990633419"
+      "https://x.com/kelxyz_/status/2063836178990633419",
+      "https://x.com/kelxyz_/status/2066316917766291622"
     ]
   }
 ]

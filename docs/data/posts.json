@@ -531,5 +531,84 @@
     ],
     "why_logged": "Adds another Tier 1 Hyperliquid mention, but confidence stays medium because the text is terse and image-dependent.",
     "confidence": "medium"
+  },
+  {
+    "date": "2026-06-15",
+    "handle": "0xGeeGee",
+    "type": "quote/authored_post",
+    "url": "https://x.com/0xGeeGee/status/2066340434402832578",
+    "summary": "Translated Michael Saylor/MSTR BTC metrics into Residual Common mNAV/fully diluted mNAV terms, arguing BTC must outpace the capital-structure train after Strategy showed willingness to sell/defend value.",
+    "entities": [
+      "MSTR",
+      "BTC",
+      "mNAV",
+      "capital structure",
+      "Michael Saylor"
+    ],
+    "why_logged": "Substantive market-structure/accounting lens on BTC-equity proxy exposure, aligned with existing 0xGeeGee risk/valuation framing.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-15",
+    "handle": "0xGeeGee",
+    "type": "authored_post/replies",
+    "url": "https://x.com/0xGeeGee/status/2066335038824976410",
+    "summary": "Noted superconducting wires as a niche explaining where the nuclear bull market has happened; replies compared Fujikura vs Cameco and pointed toward US incumbents.",
+    "entities": [
+      "nuclear",
+      "superconducting wires",
+      "Fujikura",
+      "Cameco",
+      "US incumbents"
+    ],
+    "why_logged": "Fresh non-crypto market-process evidence: looking through supply-chain bottlenecks rather than headline nuclear tickers.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-15",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/reply_thread",
+    "url": "https://x.com/MoneyPrinter0x/status/2066340973106618634",
+    "summary": "Posted that he predicted/traded the biggest single-stock pump in HK market history on his first non-US stock trade; follow-up said entry was 50 bps above pre-auction and that HigherLiquid is pretty much the biggest project he is working on.",
+    "entities": [
+      "HK equities",
+      "pre-auction entry",
+      "HigherLiquid",
+      "onchain perps",
+      "onchain options"
+    ],
+    "why_logged": "High-engagement process evidence extending his public-equities/capital-markets focus and directly names HigherLiquid as a major current build project.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-15",
+    "handle": "kelxyz_",
+    "type": "reply/thread",
+    "url": "https://x.com/kelxyz_/status/2066316917766291622",
+    "summary": "In a compute-chain / datacenter-token thread, expected a HYPE-like launch valuation and called many fair-launch networks 'psyop fair launches'.",
+    "entities": [
+      "compute chain",
+      "datacenter tokenization",
+      "HYPE launch",
+      "fair launches",
+      "distributed training"
+    ],
+    "why_logged": "Substantive crypto-AI infrastructure and token-launch taste evidence from kelxyz_; directly overlaps his distributed-training profile.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-15",
+    "handle": "airtightfish",
+    "type": "reply/thread",
+    "url": "https://x.com/airtightfish/status/2066372022641287274",
+    "summary": "In an Asteroid Shiba / Elon 'easter egg' thread, said this is not a serious industry and questioned why the reveal would make it a buy if it was not before; follow-up doubted the easter egg was intentional.",
+    "entities": [
+      "Asteroid Shiba",
+      "memecoin",
+      "Elon Musk easter egg",
+      "market seriousness"
+    ],
+    "why_logged": "Useful dislike/filter evidence: skepticism toward memecoin catalyst-chasing and post-hoc buy signals.",
+    "confidence": "medium"
   }
 ]

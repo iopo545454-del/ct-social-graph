@@ -295,5 +295,27 @@
     "summary": "Quoted Polymarket Iran-peace odds and proposed long QQQ momentum/beta names while shorting Polymarket as a cheap hedge against sentiment-topped odds.",
     "quality": "high",
     "created_tier2_candidate": true
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "HigherLiquid",
+    "to_kind": "project",
+    "type": "reply/mention",
+    "date": "2026-06-15",
+    "url": "https://x.com/MoneyPrinter0x/status/2066346247095767477",
+    "summary": "Said HigherLiquid is 'pretty much the biggest project i'm working on' in a thread about a large HK stock trade; project context is onchain equity perps/options/private access.",
+    "quality": "high",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "kelxyz_",
+    "to": "AlgodTrading",
+    "to_kind": "individual",
+    "type": "reply/mention",
+    "date": "2026-06-15",
+    "url": "https://x.com/kelxyz_/status/2066316917766291622",
+    "summary": "Replied in an AlgodTrading compute-chain/datacenter-token thread that a HYPE-like launch valuation may be acceptable and that many fair-launch networks are psyop fair launches.",
+    "quality": "medium",
+    "created_tier2_candidate": false
   }
 ]

@@ -180,5 +180,18 @@
     ],
     "first_seen": "2026-06-15",
     "confidence": "low"
+  },
+  {
+    "handle": "HigherLiquid",
+    "kind": "project",
+    "status": "candidate",
+    "source": "MoneyPrinter0x reply naming biggest current project",
+    "reason": "MoneyPrinter explicitly said HigherLiquid is pretty much the biggest project he is working on; add as candidate until a stable X/project handle and repeated public evidence are confirmed.",
+    "evidence_urls": [
+      "https://x.com/MoneyPrinter0x/status/2066346247095767477",
+      "https://x.com/MoneyPrinter0x/status/2066340973106618634"
+    ],
+    "first_seen": "2026-06-15",
+    "confidence": "medium"
   }
 ]
