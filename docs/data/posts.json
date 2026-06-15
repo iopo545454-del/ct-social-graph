@@ -768,5 +768,20 @@
     ],
     "why_logged": "Small but useful filter evidence for airtightfish: distinguishes honest failed attempts from malicious/predatory behavior.",
     "confidence": "medium"
+  },
+  {
+    "date": "2026-06-15",
+    "handle": "CryptoTomYT",
+    "type": "authored_post/performance_screenshot",
+    "url": "https://x.com/CryptoTomYT/status/2066562689514774622",
+    "summary": "Posted a Legend Trade PnL chart described as “lowkey clean af”; screenshot showed roughly +$212k PnL/net worth, ~$297k positions, and a smooth upward equity curve from mid-May to mid-June.",
+    "entities": [
+      "Legend Trade",
+      "perp trading",
+      "PnL transparency",
+      "trading performance"
+    ],
+    "why_logged": "Fresh high-signal performance/venue evidence for CryptoTomYT, extending prior Tradexyz/Hyperliquid trading-performance profile with another public perps venue/result.",
+    "confidence": "medium"
   }
 ]

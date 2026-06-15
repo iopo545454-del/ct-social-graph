@@ -350,5 +350,16 @@
     "summary": "Defended Ventuals in a criticism thread by framing the outcome as an honest shot rather than something necessarily wrong; useful but single medium-confidence edge.",
     "quality": "medium",
     "created_tier2_candidate": true
+  },
+  {
+    "from": "CryptoTomYT",
+    "to": "legendtrade",
+    "to_kind": "project",
+    "type": "mention/performance_post",
+    "date": "2026-06-15",
+    "url": "https://x.com/CryptoTomYT/status/2066562689514774622",
+    "summary": "Posted a Legend Trade PnL/equity-curve screenshot with referral link; useful venue/performance evidence but mostly screenshot-led rather than a detailed product thesis.",
+    "quality": "medium",
+    "created_tier2_candidate": true
   }
 ]

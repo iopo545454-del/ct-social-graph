@@ -231,5 +231,17 @@
     ],
     "first_seen": "2026-06-15",
     "confidence": "low"
+  },
+  {
+    "handle": "legendtrade",
+    "kind": "project",
+    "status": "candidate",
+    "source": "CryptoTomYT Legend Trade PnL/performance post",
+    "reason": "CryptoTomYT posted a strong public PnL/equity-curve screenshot on Legend Trade with referral link; single venue/performance evidence point, so keep candidate pending recurrence or corroboration.",
+    "evidence_urls": [
+      "https://x.com/CryptoTomYT/status/2066562689514774622"
+    ],
+    "first_seen": "2026-06-15",
+    "confidence": "low"
   }
 ]

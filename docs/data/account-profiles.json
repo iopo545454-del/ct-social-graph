@@ -729,9 +729,9 @@
   {
     "handle": "CryptoTomYT",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-14",
-    "profile_updated_at": "2026-06-14T03:55:41Z",
-    "taste_summary": "Observed X/Twitter evidence is mostly trading-performance/social content, with repeated context around Tradexyz assets, Hyperliquid/perps, PnL transparency, and short community replies. Interpretation confidence is medium-low because many replies are one-word or emoji responses.",
+    "period_end": "2026-06-15",
+    "profile_updated_at": "2026-06-15T20:40:13Z",
+    "taste_summary": "Observed X/Twitter evidence is mostly trading-performance/social content, now with public performance context across Tradexyz and Legend Trade, plus Hyperliquid/perps and short community replies. Interpretation confidence is medium-low because most non-performance replies remain terse.",
     "likes": [
       {
         "theme": "Transparent perps/trading performance",
@@ -749,6 +749,15 @@
           "https://x.com/i/status/2064710767098642823"
         ],
         "confidence": "low"
+      },
+      {
+        "theme": "Public perps/PnL transparency across venues",
+        "summary": "New Legend Trade screenshot showed roughly +$212k PnL/net worth and a smooth upward equity curve; earlier evidence referenced large Tradexyz performance. This is strongest as venue/performance evidence, not a deep thesis on the platform.",
+        "evidence_urls": [
+          "https://x.com/CryptoTomYT/status/2065238474907607090",
+          "https://x.com/CryptoTomYT/status/2066562689514774622"
+        ],
+        "confidence": "medium"
       }
     ],
     "dislikes": [],
@@ -780,6 +789,15 @@
         "evidence_urls": [
           "https://x.com/i/status/2065267795214877120"
         ]
+      },
+      {
+        "name": "Legend Trade",
+        "handle": "legendtrade",
+        "stance": "positive",
+        "summary": "Posted a strong PnL/equity-curve screenshot from Legend Trade and referral link; one fresh venue/performance point only.",
+        "evidence_urls": [
+          "https://x.com/CryptoTomYT/status/2066562689514774622"
+        ]
       }
     ],
     "people_respected": [],
@@ -790,13 +808,14 @@
     },
     "open_questions": [
       "Need authored strategy posts or longer replies to avoid inferring too much from PnL/social context.",
-      "Check whether Tradexyz/Hyperliquid mentions are durable venue preference or just one public results thread."
+      "Check whether Tradexyz/Hyperliquid/Legend Trade mentions are durable venue preferences or just public results threads."
     ],
     "evidence_urls": [
       "https://x.com/CryptoTomYT/status/2065238474907607090",
       "https://x.com/i/status/2065312922532753505",
       "https://x.com/i/status/2064710767098642823",
-      "https://x.com/i/status/2062842273470283805"
+      "https://x.com/i/status/2062842273470283805",
+      "https://x.com/CryptoTomYT/status/2066562689514774622"
     ]
   },
   {

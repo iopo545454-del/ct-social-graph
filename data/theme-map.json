@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-06-15",
-  "profile_updated_at": "2026-06-15T16:31:40Z",
+  "profile_updated_at": "2026-06-15T20:40:13Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -120,15 +120,17 @@
         "Derive",
         "Tradexyz",
         "ProofMarkets",
-        "Variational"
+        "Variational",
+        "Legend Trade"
       ],
-      "summary": "Observed posts show coin_casanova arguing for organic crypto options demand, CryptoTomYT highlighting Tradexyz performance context, airtightfish building/promoting ProofMarkets, and 0xGeeGee naming Variational as his favorite day-to-day short-term venue. These are separate infra/venue references rather than one unified thesis.",
+      "summary": "Observed posts show coin_casanova arguing for organic crypto options demand, CryptoTomYT highlighting Tradexyz performance context, airtightfish building/promoting ProofMarkets, and 0xGeeGee naming Variational as his favorite day-to-day short-term venue. These are separate infra/venue references rather than one unified thesis. New 2026-06-15 CryptoTomYT evidence added Legend Trade as another public perps/performance venue, but treat it as screenshot-led performance evidence rather than a full project thesis.",
       "evidence_urls": [
         "https://x.com/coin_casanova/status/2063848704499687605",
         "https://x.com/CryptoTomYT/status/2065238474907607090",
         "https://x.com/i/status/2065312922532753505",
         "https://x.com/airtightfish/status/2064390683440341286",
-        "https://x.com/0xGeeGee/status/2066111310916694078"
+        "https://x.com/0xGeeGee/status/2066111310916694078",
+        "https://x.com/CryptoTomYT/status/2066562689514774622"
       ],
       "momentum": "emerging",
       "confidence": "medium"
@@ -385,6 +387,7 @@
     "Track whether PLUME/Plume receives repeated RWA attention beyond GeeGee’s Bybit/GRVT integration reply.",
     "Track whether MoneyPrinter's second-derivative AI capex/end-user spend framing becomes a recurring equity-filter theme.",
     "Track whether kelxyz_'s ZEC/privacy-chain thesis gets corroborated by other Tier 1 accounts or remains in disagreement with zuqaquz's ZEC fade.",
-    "Track whether MoneyPrinter0x's 2-3 book intraday/multiday framework recurs as a stable public process lens."
+    "Track whether MoneyPrinter0x's 2-3 book intraday/multiday framework recurs as a stable public process lens.",
+    "Track whether CryptoTomYT’s Legend Trade post becomes a repeated venue preference or remains a one-off performance screenshot."
   ]
 }
