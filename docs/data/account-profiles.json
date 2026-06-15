@@ -151,7 +151,7 @@
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
     "period_end": "2026-06-15",
-    "profile_updated_at": "2026-06-15T08:30:00Z",
+    "profile_updated_at": "2026-06-15T12:27:17Z",
     "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with a practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Interpretation confidence is now medium-high after a detailed June 14 thesis thread.",
     "likes": [
       {
@@ -190,9 +190,10 @@
       },
       {
         "theme": "RWA credit and tokenized brokerage rails",
-        "summary": "Named MORPHO as dominant open-credit/yield-bearing-assets player and BP/Backpack/Securitize as watch items for tokenized equities/brokerage.",
+        "summary": "Named MORPHO as dominant open-credit/yield-bearing-assets player and BP/Backpack/Securitize as watch items for tokenized equities/brokerage; follow-up added possible PLUME exposure based on GRVT/Bybit distribution/integration momentum.",
         "evidence_urls": [
-          "https://x.com/0xGeeGee/status/2066111310916694078"
+          "https://x.com/0xGeeGee/status/2066111310916694078",
+          "https://x.com/0xGeeGee/status/2066449564631286159"
         ],
         "confidence": "medium"
       },
@@ -396,6 +397,15 @@
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2066374450292183385"
         ]
+      },
+      {
+        "name": "Plume / PLUME",
+        "handle": "plumenetwork",
+        "stance": "watching",
+        "summary": "May add PLUME to the RWA segment after apparent footing and BD/integration momentum with GRVT, Bybit, and other integrations; one fresh reply only so far.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2066449564631286159"
+        ]
       }
     ],
     "people_respected": [
@@ -419,7 +429,8 @@
       "Identify the counterparties/threads behind DeFi and ETH valuation replies for better interaction edges.",
       "Track whether EIGEN/SERV/MORPHO/BP/Variational are durable account preferences or one long-thread watchlist items.",
       "Track whether GeeGee's willingness to underwrite 20-30% APY DeFi farms recurs or was specific to one reply thread.",
-      "Track whether Shift Protocol/ltLLP/LIT becomes a recurring DeFi position or was a one-off yield-management comment."
+      "Track whether Shift Protocol/ltLLP/LIT becomes a recurring DeFi position or was a one-off yield-management comment.",
+      "Track whether PLUME/Plume becomes a durable GeeGee RWA position or was a one-off Bybit/GRVT integration comment."
     ],
     "evidence_urls": [
       "https://x.com/0xGeeGee/status/2065771227743138126",
@@ -435,7 +446,8 @@
       "https://x.com/0xGeeGee/status/2066335038824976410",
       "https://x.com/0xGeeGee/status/2066432563300987081",
       "https://x.com/0xGeeGee/status/2066431399318708607",
-      "https://x.com/0xGeeGee/status/2066374450292183385"
+      "https://x.com/0xGeeGee/status/2066374450292183385",
+      "https://x.com/0xGeeGee/status/2066449564631286159"
     ]
   },
   {
@@ -872,7 +884,7 @@
     "handle": "MoneyPrinter0x",
     "period_start": "2026-05-14",
     "period_end": "2026-06-15",
-    "profile_updated_at": "2026-06-15T04:40:00Z",
+    "profile_updated_at": "2026-06-15T12:27:17Z",
     "taste_summary": "Observed X/Twitter evidence is unusually detailed around production-grade AI agent systems: harnesses, deterministic gates, testing pyramids, observability, and composable subagents. Market evidence also shows active stock/crypto trading, notably repeated positive BB references. Interpretation confidence is high for agent-systems interest and medium for market preferences.",
     "likes": [
       {
@@ -945,6 +957,16 @@
           "https://x.com/MoneyPrinter0x/status/2066349502299316286"
         ],
         "confidence": "high"
+      },
+      {
+        "theme": "Second-derivative AI capex / end-user spend curves",
+        "summary": "After the HKEX:2513/GLM event, argued that AI trades now focus on the rate of change of forward-looking AI capex spend and end-user AI spend, not naked capex notional; skipped Alibaba as too heavy, not event-driven, and not an OSS pure play.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2066474680161276171",
+          "https://x.com/MoneyPrinter0x/status/2066475286758310112",
+          "https://x.com/MoneyPrinter0x/status/2066466216412324263"
+        ],
+        "confidence": "high"
       }
     ],
     "dislikes": [
@@ -999,10 +1021,12 @@
         "name": "HKEX:2513 / GLM",
         "handle": null,
         "stance": "positive",
-        "summary": "Highlighted as an S-tier open-source-model / offshore OSS model provider trade idea after Anthropic restrictions, with price near higher-timeframe support.",
+        "summary": "Highlighted as an S-tier open-source-model / offshore OSS model provider trade idea after Anthropic restrictions; later tied the historic move to event-driven/OSS purity and AI capex/end-user spend curve logic.",
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2066030025942655219",
-          "https://x.com/MoneyPrinter0x/status/2065948240198144201"
+          "https://x.com/MoneyPrinter0x/status/2065948240198144201",
+          "https://x.com/MoneyPrinter0x/status/2066474680161276171",
+          "https://x.com/MoneyPrinter0x/status/2066466216412324263"
         ]
       },
       {
@@ -1079,7 +1103,8 @@
       "Need thread context for i/status harness link and counterparties to classify interactions cleanly.",
       "Separate BB stock thesis from crypto-facing relevance in future scans.",
       "Track whether the stock-market wealth framing continues to explain the account's AI-equity watchlist focus versus crypto-native project attention.",
-      "Watch whether Polymarket/prediction-market odds remain a recurring trade input or were specific to the Iran-peace event window."
+      "Watch whether Polymarket/prediction-market odds remain a recurring trade input or were specific to the Iran-peace event window.",
+      "Watch whether MoneyPrinter's AI-equity process continues emphasizing second-derivative capex/end-user-spend curves after the 2513 event."
     ],
     "evidence_urls": [
       "https://x.com/MoneyPrinter0x/status/2065910048833102118",
@@ -1095,7 +1120,10 @@
       "https://x.com/MoneyPrinter0x/status/2066307643304772068",
       "https://x.com/MoneyPrinter0x/status/2066275337655451745",
       "https://x.com/MoneyPrinter0x/status/2066340973106618634",
-      "https://x.com/MoneyPrinter0x/status/2066346247095767477"
+      "https://x.com/MoneyPrinter0x/status/2066346247095767477",
+      "https://x.com/MoneyPrinter0x/status/2066474680161276171",
+      "https://x.com/MoneyPrinter0x/status/2066475286758310112",
+      "https://x.com/MoneyPrinter0x/status/2066466216412324263"
     ]
   },
   {

@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-06-15",
-  "profile_updated_at": "2026-06-15T08:30:00Z",
+  "profile_updated_at": "2026-06-15T12:27:17Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -183,9 +183,11 @@
         "MSTR / Strategy",
         "nuclear supply-chain equities",
         "HK equities",
-        "HigherLiquid"
+        "HigherLiquid",
+        "AI capex curve",
+        "end-user AI spend"
       ],
-      "summary": "Evidence shows coin_casanova sharing a Fable-generated factor/sector dashboard and MoneyPrinter0x posting structured weekly AI-equity/watchlists, extending into a capital-markets worldview and event hedge construction using QQQ beta plus Polymarket odds. Keep this as process/attention evidence, not a crypto-project conviction bucket. New 2026-06-15 examples: 0xGeeGee translated MSTR/Saylor BTC metrics into mNAV/capital-structure terms and used superconducting wires to frame the nuclear bull market; MoneyPrinter0x logged a major HK single-stock event trade and tied the thread back to HigherLiquid.",
+      "summary": "Evidence shows coin_casanova sharing a Fable-generated factor/sector dashboard and MoneyPrinter0x posting structured weekly AI-equity/watchlists, extending into a capital-markets worldview and event hedge construction using QQQ beta plus Polymarket odds. New 2026-06-15 examples: 0xGeeGee translated MSTR/Saylor BTC metrics into mNAV/capital-structure terms and used superconducting wires to frame the nuclear bull market; MoneyPrinter0x logged a major HK single-stock event trade, tied the thread back to HigherLiquid, and clarified that AI-equity trades should track the rate of change of forward-looking AI capex and end-user AI spend rather than naked capex notional.",
       "evidence_urls": [
         "https://x.com/coin_casanova/status/2065996363503177739",
         "https://x.com/MoneyPrinter0x/status/2066030025942655219",
@@ -195,7 +197,10 @@
         "https://x.com/0xGeeGee/status/2066340434402832578",
         "https://x.com/0xGeeGee/status/2066335038824976410",
         "https://x.com/MoneyPrinter0x/status/2066340973106618634",
-        "https://x.com/MoneyPrinter0x/status/2066346247095767477"
+        "https://x.com/MoneyPrinter0x/status/2066346247095767477",
+        "https://x.com/MoneyPrinter0x/status/2066474680161276171",
+        "https://x.com/MoneyPrinter0x/status/2066475286758310112",
+        "https://x.com/MoneyPrinter0x/status/2066466216412324263"
       ],
       "momentum": "emerging",
       "confidence": "medium"
@@ -211,12 +216,14 @@
         "Backpack / BP",
         "Securitize / CEPT",
         "Variational",
-        "RAIN / Enlivex"
+        "RAIN / Enlivex",
+        "Plume / PLUME"
       ],
-      "summary": "Fresh 2026-06-14 GeeGee thread framed RWA/tokenized equities as a watchable lane: MORPHO for open credit/yield-bearing assets, Backpack/BP for tokenized brokerage on Solana, Securitize/CEPT as reverse-merger context, and Variational adding RWA markets. Single-account bucket for now. Follow-up replies added a negative quality read on RAIN/Enlivex while allowing that equity may still have value.",
+      "summary": "GeeGee thread framed RWA/tokenized equities as a watchable lane: MORPHO for open credit/yield-bearing assets, Backpack/BP for tokenized brokerage on Solana, Securitize/CEPT as reverse-merger context, and Variational adding RWA markets. Follow-up replies added a negative quality read on RAIN/Enlivex while allowing equity may still have value, plus a fresh possible PLUME addition based on GRVT/Bybit distribution/integration momentum.",
       "evidence_urls": [
         "https://x.com/0xGeeGee/status/2066111310916694078",
-        "https://x.com/0xGeeGee/status/2066374450292183385"
+        "https://x.com/0xGeeGee/status/2066374450292183385",
+        "https://x.com/0xGeeGee/status/2066449564631286159"
       ],
       "momentum": "emerging",
       "confidence": "medium"
@@ -339,6 +346,8 @@
     "Watch whether kelxyz_'s compute-chain/fair-launch skepticism recurs across specific AI/depin projects.",
     "Keep Asteroid Shiba as negative memecoin-catalyst evidence only unless it receives repeated substantive attention.",
     "Track whether Shift Protocol/ltLLP/LIT becomes repeated DeFi-yield evidence or remains a one-off GeeGee farming comment.",
-    "Track whether GeeGee's RAIN/Enlivex dislike recurs or was specific to the June 14 RWA/tokenized-equity thread context."
+    "Track whether GeeGee's RAIN/Enlivex dislike recurs or was specific to the June 14 RWA/tokenized-equity thread context.",
+    "Track whether PLUME/Plume receives repeated RWA attention beyond GeeGee’s Bybit/GRVT integration reply.",
+    "Track whether MoneyPrinter's second-derivative AI capex/end-user spend framing becomes a recurring equity-filter theme."
   ]
 }

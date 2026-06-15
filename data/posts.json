@@ -657,5 +657,40 @@
     ],
     "why_logged": "Adds a clear dislike/fade inside the RWA/tokenized-equity watchlist, separating project/token quality from possible equity value.",
     "confidence": "medium"
+  },
+  {
+    "date": "2026-06-15",
+    "handle": "0xGeeGee",
+    "type": "reply/mention",
+    "url": "https://x.com/0xGeeGee/status/2066449564631286159",
+    "summary": "Said he may add some PLUME to the RWA segment because Plume appears to have found footing, is moving well on BD via GRVT/Bybit and other integrations, and the chart may be forming a U-bottom.",
+    "entities": [
+      "PLUME",
+      "Plume Network",
+      "RWA",
+      "GRVT",
+      "Bybit",
+      "BD/integrations"
+    ],
+    "why_logged": "Fresh concrete RWA watchlist update from GeeGee, extending the June 14 RWA/tokenized-assets thesis with a new project and specific distribution/integration rationale.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-15",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/thread",
+    "url": "https://x.com/MoneyPrinter0x/status/2066474680161276171",
+    "summary": "In follow-up replies after the HKEX:2513/GLM move, argued AI-equity trades should focus on the curve/rate of change of forward-looking AI capex spend and end-user AI spend, not raw notional AI capex; also said he skipped Alibaba because it was too heavy, not event-driven, and not an OSS pure play.",
+    "entities": [
+      "AI capex",
+      "end-user AI spend",
+      "HKEX:2513",
+      "GLM",
+      "Alibaba",
+      "open-source models",
+      "event-driven trading"
+    ],
+    "why_logged": "High-signal process evidence clarifying how MoneyPrinter filters AI-equity trades after the 2513 event: second-derivative capex/spend curves, event-driven fit, and OSS purity.",
+    "confidence": "high"
   }
 ]

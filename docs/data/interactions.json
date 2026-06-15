@@ -328,5 +328,16 @@
     "summary": "Quoted Shift Protocol and described ltLLP as a cozy farm for LIT exposure without direct lock/management.",
     "quality": "medium",
     "created_tier2_candidate": true
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "plumenetwork",
+    "to_kind": "project",
+    "type": "reply/mention",
+    "date": "2026-06-15",
+    "url": "https://x.com/0xGeeGee/status/2066449564631286159",
+    "summary": "Said he may add PLUME to the RWA segment because Plume appears to have found footing with GRVT/Bybit and other BD/integrations plus improving chart structure.",
+    "quality": "medium",
+    "created_tier2_candidate": true
   }
 ]

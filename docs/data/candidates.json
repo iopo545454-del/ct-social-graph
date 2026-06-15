@@ -205,5 +205,17 @@
     ],
     "first_seen": "2026-06-15",
     "confidence": "low"
+  },
+  {
+    "handle": "plumenetwork",
+    "kind": "project",
+    "status": "candidate",
+    "source": "0xGeeGee PLUME/RWA reply",
+    "reason": "GeeGee said he may add PLUME to his RWA segment based on Plume BD/integration momentum with GRVT/Bybit and a possible chart turn; single fresh evidence point, so candidate pending recurrence.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2066449564631286159"
+    ],
+    "first_seen": "2026-06-15",
+    "confidence": "low"
   }
 ]
