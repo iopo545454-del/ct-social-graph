@@ -1,6 +1,6 @@
 {
-  "last_checked": "2026-06-14T20:08:30Z",
-  "new_count": 0,
+  "last_checked": "2026-06-15T16:35:36Z",
+  "new_count": 1,
   "sources": [
     {
       "name": "a16z crypto",
@@ -63,7 +63,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-14T20:08:27Z"
+      "checked_at": "2026-06-15T16:35:31Z"
     },
     {
       "name": "Multicoin Capital",
@@ -138,7 +138,7 @@
           "published": "Thu, 11 Sep 2025 00:00:00 GMT"
         }
       ],
-      "checked_at": "2026-06-14T20:08:27Z"
+      "checked_at": "2026-06-15T16:35:33Z"
     },
     {
       "name": "Pantera Blockchain Letter",
@@ -203,7 +203,7 @@
           "published": "Thu, 29 May 2025 16:37:35 +0000"
         }
       ],
-      "checked_at": "2026-06-14T20:08:27Z"
+      "checked_at": "2026-06-15T16:35:34Z"
     },
     {
       "name": "Paradigm",
@@ -266,7 +266,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-14T20:08:28Z"
+      "checked_at": "2026-06-15T16:35:34Z"
     },
     {
       "name": "Glassnode Research",
@@ -294,6 +294,11 @@
           "title": "Measuring Bitcoin's Quantum-Exposed Supply",
           "url": "https://research.glassnode.com/measuring-bitcoins-quantum-exposed-supply",
           "published": "Wed, 20 May 2026 10:00:00 GMT"
+        },
+        {
+          "title": "BTC Market Pulse: Week 25",
+          "url": "https://research.glassnode.com/btc-market-pulse-week-25",
+          "published": "Mon, 15 Jun 2026 15:20:07 GMT"
         },
         {
           "title": "The Bitcoin Vector #59",
@@ -334,14 +339,9 @@
           "title": "Glassnode spinout Cense raises \u20ac6.5 million seed round to transform crypto compliance for banks",
           "url": "https://research.glassnode.com/glassnode-spinout-cense-raises-seed-round",
           "published": "Wed, 03 Jun 2026 07:30:09 GMT"
-        },
-        {
-          "title": "BTC Market Pulse: Week 23",
-          "url": "https://research.glassnode.com/btc-market-pulse-week-23-2026",
-          "published": "Mon, 01 Jun 2026 14:00:00 GMT"
         }
       ],
-      "checked_at": "2026-06-14T20:08:28Z"
+      "checked_at": "2026-06-15T16:35:34Z"
     },
     {
       "name": "Delphi Digital",
@@ -359,7 +359,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-14T20:08:29Z"
+      "checked_at": "2026-06-15T16:35:35Z"
     },
     {
       "name": "Electric Capital",
@@ -371,7 +371,7 @@
       "error": null,
       "feed_urls": [],
       "items": [],
-      "checked_at": "2026-06-14T20:08:29Z"
+      "checked_at": "2026-06-15T16:35:35Z"
     },
     {
       "name": "Bankless",
@@ -444,7 +444,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-14T20:08:30Z"
+      "checked_at": "2026-06-15T16:35:36Z"
     },
     {
       "name": "Token Terminal",
@@ -517,7 +517,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-14T20:08:30Z"
+      "checked_at": "2026-06-15T16:35:36Z"
     }
   ],
   "articles": [
@@ -972,6 +972,16 @@
       "source_url": "https://research.glassnode.com/"
     },
     {
+      "id": "e67274cb76ba",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "BTC Market Pulse: Week 25",
+      "url": "https://research.glassnode.com/btc-market-pulse-week-25",
+      "published": "Mon, 15 Jun 2026 15:20:07 GMT",
+      "first_seen": "2026-06-15T16:35:36Z",
+      "source_url": "https://research.glassnode.com/"
+    },
+    {
       "id": "50b6726321bc",
       "source": "Glassnode Research",
       "tier": 1,
@@ -1048,16 +1058,6 @@
       "title": "Glassnode spinout Cense raises \u20ac6.5 million seed round to transform crypto compliance for banks",
       "url": "https://research.glassnode.com/glassnode-spinout-cense-raises-seed-round",
       "published": "Wed, 03 Jun 2026 07:30:09 GMT",
-      "first_seen": "2026-06-14T20:08:30Z",
-      "source_url": "https://research.glassnode.com/"
-    },
-    {
-      "id": "c3693a6baa54",
-      "source": "Glassnode Research",
-      "tier": 1,
-      "title": "BTC Market Pulse: Week 23",
-      "url": "https://research.glassnode.com/btc-market-pulse-week-23-2026",
-      "published": "Mon, 01 Jun 2026 14:00:00 GMT",
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://research.glassnode.com/"
     },
@@ -1310,6 +1310,16 @@
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "c3693a6baa54",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "BTC Market Pulse: Week 23",
+      "url": "https://research.glassnode.com/btc-market-pulse-week-23-2026",
+      "published": "Mon, 01 Jun 2026 14:00:00 GMT",
+      "first_seen": "2026-06-14T20:08:30Z",
+      "source_url": "https://research.glassnode.com/"
     }
   ]
 }
