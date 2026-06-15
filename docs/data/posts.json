@@ -451,5 +451,85 @@
     ],
     "why_logged": "Shows respect/founder-quality signal tied to the repeated Hyperliquid theme.",
     "confidence": "high"
+  },
+  {
+    "date": "2026-06-14",
+    "handle": "AustinBarack",
+    "type": "authored_post/replies",
+    "url": "https://x.com/AustinBarack/status/2066259636118770135",
+    "summary": "Asked whether BTC or MSTR performs better over the next three months, then in nearby replies discussed GRASS liquidity/listings/backers and Aerodrome/AERO supply-lock dynamics around a new token/protocol.",
+    "entities": [
+      "BTC",
+      "MSTR",
+      "GRASS",
+      "OKX",
+      "Bybit",
+      "Hyperliquid perps",
+      "Aerodrome",
+      "AERO"
+    ],
+    "why_logged": "Fresh evidence that Austin is still comparing crypto-beta/equity-beta paths while adding specific project-market-structure notes on GRASS and AERO.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-14",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post",
+    "url": "https://x.com/MoneyPrinter0x/status/2066271112036810797",
+    "summary": "Expanded stock-market wealth framing: people generally make it as founders or traders, but proximity to capital markets gives much higher upside even for engineers/salespeople.",
+    "entities": [
+      "capital markets",
+      "founders",
+      "traders",
+      "wealth creation",
+      "public equities"
+    ],
+    "why_logged": "Extends the existing public-equities/process theme with a clearer worldview about capital-market proximity.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-14",
+    "handle": "MoneyPrinter0x",
+    "type": "quote",
+    "url": "https://x.com/MoneyPrinter0x/status/2066291913825902865",
+    "summary": "Quoted Polymarket Iran-peace odds and proposed long QQQ momentum/beta winners while shorting Polymarket as a cheap hedge, arguing odds were sentiment-topped unless an actual peace deal happens.",
+    "entities": [
+      "Polymarket",
+      "QQQ",
+      "Iran peace odds",
+      "geopolitical hedging",
+      "momentum beta"
+    ],
+    "why_logged": "Substantive trade-construction evidence linking prediction-market probabilities, geopolitical event risk, equity beta, and hedge design.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-14",
+    "handle": "MoneyPrinter0x",
+    "type": "quote/mention",
+    "url": "https://x.com/MoneyPrinter0x/status/2066307643304772068",
+    "summary": "Quoted TomDavidsonX/Fable-shutdown discussion with the concise thesis question “long oss models?”, implying open-source models may benefit from government-AI-intervention and Fable-shutdown discourse.",
+    "entities": [
+      "open-source models",
+      "Fable shutdown",
+      "government AI intervention",
+      "TomDavidsonX"
+    ],
+    "why_logged": "Fresh AI-market thesis evidence, light but aligned with the account’s existing AI-equity/watchlist focus.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-14",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/mention",
+    "url": "https://x.com/MoneyPrinter0x/status/2066275337655451745",
+    "summary": "Posted “thank you Jefferson. Hyperliquid.” with an image, a terse positive Hyperliquid/HYPE signal in the late-June-14 stream.",
+    "entities": [
+      "Hyperliquid",
+      "HYPE",
+      "Jefferson"
+    ],
+    "why_logged": "Adds another Tier 1 Hyperliquid mention, but confidence stays medium because the text is terse and image-dependent.",
+    "confidence": "medium"
   }
 ]

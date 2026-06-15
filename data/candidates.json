@@ -156,5 +156,29 @@
     ],
     "first_seen": "2026-06-14",
     "confidence": "medium"
+  },
+  {
+    "handle": "aerodromefi",
+    "kind": "project",
+    "status": "candidate",
+    "source": "AustinBarack AERO supply-lock/revenue reply",
+    "reason": "Austin gave one substantive AERO/Aerodrome market-structure reply, but this is a single evidence point; keep candidate pending recurrence.",
+    "evidence_urls": [
+      "https://x.com/AustinBarack/status/2066257745238446146"
+    ],
+    "first_seen": "2026-06-15",
+    "confidence": "low"
+  },
+  {
+    "handle": "Polymarket",
+    "kind": "project",
+    "status": "candidate",
+    "source": "MoneyPrinter0x geopolitical-hedge quote",
+    "reason": "MoneyPrinter used Polymarket odds as a trade/hedge input and proposed shorting Polymarket; substantive but not a positive/tracked-project thesis yet.",
+    "evidence_urls": [
+      "https://x.com/MoneyPrinter0x/status/2066291913825902865"
+    ],
+    "first_seen": "2026-06-15",
+    "confidence": "low"
   }
 ]

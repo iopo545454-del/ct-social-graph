@@ -251,5 +251,49 @@
     "summary": "Quoted OpenRouter Fusion API and framed the launch as evidence that AI market benchmarks are shifting toward price/performance and ROI.",
     "quality": "high",
     "created_tier2_candidate": true
+  },
+  {
+    "from": "AustinBarack",
+    "to": "getgrass_io",
+    "to_kind": "project",
+    "type": "reply/mention",
+    "date": "2026-06-14",
+    "url": "https://x.com/AustinBarack/status/2066261626370580577",
+    "summary": "Discussed GRASS backers (Polychain, Delphi), expected liquidity/listing improvement as volume grows, and compared possible path to Pendle; nearby reply noted OKX listing and Bybit/Hyperliquid venues.",
+    "quality": "high",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "AustinBarack",
+    "to": "aerodromefi",
+    "to_kind": "project",
+    "type": "reply/mention",
+    "date": "2026-06-14",
+    "url": "https://x.com/AustinBarack/status/2066257745238446146",
+    "summary": "Said fresh AERO locks for a new token/protocol could reduce circulating supply while July revenues rise significantly.",
+    "quality": "medium",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "HyperliquidX",
+    "to_kind": "project",
+    "type": "mention",
+    "date": "2026-06-14",
+    "url": "https://x.com/MoneyPrinter0x/status/2066275337655451745",
+    "summary": "Terse positive Hyperliquid mention (“thank you Jefferson. Hyperliquid.”) with image; useful as additional mention evidence but not a deep thesis.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "Polymarket",
+    "to_kind": "project",
+    "type": "quote",
+    "date": "2026-06-14",
+    "url": "https://x.com/MoneyPrinter0x/status/2066291913825902865",
+    "summary": "Quoted Polymarket Iran-peace odds and proposed long QQQ momentum/beta names while shorting Polymarket as a cheap hedge against sentiment-topped odds.",
+    "quality": "high",
+    "created_tier2_candidate": true
   }
 ]

@@ -367,8 +367,8 @@
   {
     "handle": "AustinBarack",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-14",
-    "profile_updated_at": "2026-06-14T20:30:00Z",
+    "period_end": "2026-06-15",
+    "profile_updated_at": "2026-06-15T00:11:44Z",
     "taste_summary": "Observed X/Twitter evidence is strongly thesis-driven around private/anonymized AI, Venice/VVV, decentralized training, open-source models, and AI data protocols. Interpretation confidence is high for Venice/VVV because multiple authored posts and replies repeat the same framing.",
     "likes": [
       {
@@ -437,9 +437,12 @@
         "name": "GRASS",
         "handle": "getgrass_io",
         "stance": "positive",
-        "summary": "Named VVV and GRASS as two preferred AI/data tokens in a reply.",
+        "summary": "Named VVV and GRASS as two preferred AI/data tokens in a reply. New evidence: New replies added liquidity/listing/backer context: Polychain/Delphi backers, OKX listing, Bybit spot/HL perps, and possible Pendle-like path as volume grows.",
         "evidence_urls": [
-          "https://x.com/AustinBarack/status/2057553290959700413"
+          "https://x.com/AustinBarack/status/2057553290959700413",
+          "https://x.com/AustinBarack/status/2066261626370580577",
+          "https://x.com/AustinBarack/status/2066258858700321259",
+          "https://x.com/AustinBarack/status/2066291612548800872"
         ]
       },
       {
@@ -459,6 +462,24 @@
         "evidence_urls": [
           "https://x.com/AustinBarack/status/2066201233388413272"
         ]
+      },
+      {
+        "name": "Aerodrome / AERO",
+        "handle": "aerodromefi",
+        "stance": "watching",
+        "summary": "Reply expected fresh AERO locks for a new token/protocol to reduce circulating supply while July revenues rise; one evidence point only.",
+        "evidence_urls": [
+          "https://x.com/AustinBarack/status/2066257745238446146"
+        ]
+      },
+      {
+        "name": "BTC vs MSTR",
+        "handle": null,
+        "stance": "watching",
+        "summary": "Asked whether BTC or MSTR outperforms over the next three months, emphasizing path dependency.",
+        "evidence_urls": [
+          "https://x.com/AustinBarack/status/2066259636118770135"
+        ]
       }
     ],
     "people_respected": [],
@@ -470,14 +491,18 @@
     "open_questions": [
       "Need to identify the May 22 AI/data protocol context behind the replies about bank accounts and token/crypto improvements.",
       "Track whether Venice thesis remains product-traction led or becomes broader decentralized-training thesis.",
-      "Watch whether Austin's AI ROI/price-performance lens becomes a repeated filter for crypto-AI projects or stays a general AI-market observation."
+      "Watch whether Austin's AI ROI/price-performance lens becomes a repeated filter for crypto-AI projects or stays a general AI-market observation.",
+      "Track whether GRASS/AERO replies become repeated project theses or remain short-window liquidity/listing observations."
     ],
     "evidence_urls": [
       "https://x.com/AustinBarack/status/2065642988470972861",
       "https://x.com/AustinBarack/status/2065850799494738189",
       "https://x.com/AustinBarack/status/2065896297010475257",
       "https://x.com/AustinBarack/status/2057553290959700413",
-      "https://x.com/AustinBarack/status/2066201233388413272"
+      "https://x.com/AustinBarack/status/2066201233388413272",
+      "https://x.com/AustinBarack/status/2066259636118770135",
+      "https://x.com/AustinBarack/status/2066261626370580577",
+      "https://x.com/AustinBarack/status/2066257745238446146"
     ]
   },
   {
@@ -752,8 +777,8 @@
   {
     "handle": "MoneyPrinter0x",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-14",
-    "profile_updated_at": "2026-06-14T20:30:00Z",
+    "period_end": "2026-06-15",
+    "profile_updated_at": "2026-06-15T00:11:44Z",
     "taste_summary": "Observed X/Twitter evidence is unusually detailed around production-grade AI agent systems: harnesses, deterministic gates, testing pyramids, observability, and composable subagents. Market evidence also shows active stock/crypto trading, notably repeated positive BB references. Interpretation confidence is high for agent-systems interest and medium for market preferences.",
     "likes": [
       {
@@ -799,6 +824,22 @@
         "summary": "Posted that outsized wealth usually comes through the stock market; replies framed IPO/public-market liquidity, sitting through chaos, and crypto as a shortcut into the larger equity pool.",
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2066241419287937341"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "Geopolitical event hedging with prediction-market inputs",
+        "summary": "Quoted Polymarket Iran-peace odds and structured a long QQQ momentum/beta versus short Polymarket hedge, treating prediction-market odds as sentiment/event-risk input rather than gospel.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2066291913825902865"
+        ],
+        "confidence": "high"
+      },
+      {
+        "theme": "Open-source model beneficiaries after AI intervention/Fable shutdown discourse",
+        "summary": "Concise “long oss models?” quote suggests attention to open-source-model beneficiaries from government-AI-intervention and Fable-shutdown narratives.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2066307643304772068"
         ],
         "confidence": "medium"
       }
@@ -878,6 +919,33 @@
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2066030025942655219"
         ]
+      },
+      {
+        "name": "Polymarket",
+        "handle": "Polymarket",
+        "stance": "negative",
+        "summary": "Used Polymarket Iran-peace odds as an event/sentiment input and explicitly suggested shorting Polymarket as a hedge; not a broad project fade yet.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2066291913825902865"
+        ]
+      },
+      {
+        "name": "Open-source models",
+        "handle": null,
+        "stance": "positive",
+        "summary": "Asked “long oss models?” in response to Fable-shutdown/government-AI-intervention discussion.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2066307643304772068"
+        ]
+      },
+      {
+        "name": "Hyperliquid / HYPE",
+        "handle": "HyperliquidX",
+        "stance": "positive",
+        "summary": "New terse positive Hyperliquid post (“thank you Jefferson. Hyperliquid.”); keep medium confidence without image/context detail.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2066275337655451745"
+        ]
       }
     ],
     "people_respected": [
@@ -897,7 +965,8 @@
     "open_questions": [
       "Need thread context for i/status harness link and counterparties to classify interactions cleanly.",
       "Separate BB stock thesis from crypto-facing relevance in future scans.",
-      "Track whether the stock-market wealth framing continues to explain the account's AI-equity watchlist focus versus crypto-native project attention."
+      "Track whether the stock-market wealth framing continues to explain the account's AI-equity watchlist focus versus crypto-native project attention.",
+      "Watch whether Polymarket/prediction-market odds remain a recurring trade input or were specific to the Iran-peace event window."
     ],
     "evidence_urls": [
       "https://x.com/MoneyPrinter0x/status/2065910048833102118",
@@ -907,7 +976,11 @@
       "https://x.com/MoneyPrinter0x/status/2066030025942655219",
       "https://x.com/MoneyPrinter0x/status/2065948240198144201",
       "https://x.com/MoneyPrinter0x/status/2066025387495428131",
-      "https://x.com/MoneyPrinter0x/status/2066241419287937341"
+      "https://x.com/MoneyPrinter0x/status/2066241419287937341",
+      "https://x.com/MoneyPrinter0x/status/2066271112036810797",
+      "https://x.com/MoneyPrinter0x/status/2066291913825902865",
+      "https://x.com/MoneyPrinter0x/status/2066307643304772068",
+      "https://x.com/MoneyPrinter0x/status/2066275337655451745"
     ]
   },
   {
