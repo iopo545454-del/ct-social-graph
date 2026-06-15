@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-06-15",
-  "profile_updated_at": "2026-06-15T04:40:00Z",
+  "profile_updated_at": "2026-06-15T08:30:00Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -44,9 +44,10 @@
         "open-source models",
         "EIGEN / EigenCloud",
         "SERV / OpenServ",
-        "OpenRouter / Fusion API"
+        "OpenRouter / Fusion API",
+        "AI cost-cutting layer"
       ],
-      "summary": "Observed X/Twitter evidence spans GeeGee on inference cost/observability plus EIGEN/SERV, MoneyPrinter0x on deterministic AI-agent harnesses, kelxyz_ on inference incentives/model-parallel training, and AustinBarack on OpenRouter/Fusion API price-performance and AI ROI benchmarking. These are adjacent but not identical themes, so keep examples close to source posts.",
+      "summary": "Observed X/Twitter evidence spans GeeGee on inference cost/observability plus EIGEN/SERV, MoneyPrinter0x on deterministic AI-agent harnesses, kelxyz_ on inference incentives/model-parallel training, and AustinBarack on OpenRouter/Fusion API price-performance and AI ROI benchmarking. These are adjacent but not identical themes, so keep examples close to source posts. New 2026-06-15 GeeGee evidence explicitly tied the next AI attention cycle to companies positioned in the AI cost-cutting layer.",
       "evidence_urls": [
         "https://x.com/0xGeeGee/status/2065771227743138126",
         "https://x.com/MoneyPrinter0x/status/2065910048833102118",
@@ -56,7 +57,8 @@
         "https://x.com/MoneyPrinter0x/status/2065948240198144201",
         "https://x.com/MoneyPrinter0x/status/2066030025942655219",
         "https://x.com/0xGeeGee/status/2066111310916694078",
-        "https://x.com/AustinBarack/status/2066201233388413272"
+        "https://x.com/AustinBarack/status/2066201233388413272",
+        "https://x.com/0xGeeGee/status/2066432563300987081"
       ],
       "momentum": "rising",
       "confidence": "medium"
@@ -208,11 +210,13 @@
         "MORPHO",
         "Backpack / BP",
         "Securitize / CEPT",
-        "Variational"
+        "Variational",
+        "RAIN / Enlivex"
       ],
-      "summary": "Fresh 2026-06-14 GeeGee thread framed RWA/tokenized equities as a watchable lane: MORPHO for open credit/yield-bearing assets, Backpack/BP for tokenized brokerage on Solana, Securitize/CEPT as reverse-merger context, and Variational adding RWA markets. Single-account bucket for now.",
+      "summary": "Fresh 2026-06-14 GeeGee thread framed RWA/tokenized equities as a watchable lane: MORPHO for open credit/yield-bearing assets, Backpack/BP for tokenized brokerage on Solana, Securitize/CEPT as reverse-merger context, and Variational adding RWA markets. Single-account bucket for now. Follow-up replies added a negative quality read on RAIN/Enlivex while allowing that equity may still have value.",
       "evidence_urls": [
-        "https://x.com/0xGeeGee/status/2066111310916694078"
+        "https://x.com/0xGeeGee/status/2066111310916694078",
+        "https://x.com/0xGeeGee/status/2066374450292183385"
       ],
       "momentum": "emerging",
       "confidence": "medium"
@@ -304,6 +308,22 @@
       ],
       "momentum": "emerging",
       "confidence": "medium"
+    },
+    {
+      "theme": "Managed DeFi farming wrappers",
+      "accounts_positive": [
+        "0xGeeGee"
+      ],
+      "accounts_negative": [],
+      "projects": [
+        "Shift Protocol / ltLLP / LIT"
+      ],
+      "summary": "GeeGee described ltLLP as a cozy farm to avoid locking and actively managing a LIT bag. Single-account, single-post evidence; keep as a light DeFi-positioning bucket.",
+      "evidence_urls": [
+        "https://x.com/0xGeeGee/status/2066431399318708607"
+      ],
+      "momentum": "emerging",
+      "confidence": "low"
     }
   ],
   "open_questions": [
@@ -317,6 +337,8 @@
     "Watch whether MoneyPrinter0x continues using prediction-market odds as a systematic hedge/trade input.",
     "Confirm a stable public handle/source set for HigherLiquid before promoting beyond candidate.",
     "Watch whether kelxyz_'s compute-chain/fair-launch skepticism recurs across specific AI/depin projects.",
-    "Keep Asteroid Shiba as negative memecoin-catalyst evidence only unless it receives repeated substantive attention."
+    "Keep Asteroid Shiba as negative memecoin-catalyst evidence only unless it receives repeated substantive attention.",
+    "Track whether Shift Protocol/ltLLP/LIT becomes repeated DeFi-yield evidence or remains a one-off GeeGee farming comment.",
+    "Track whether GeeGee's RAIN/Enlivex dislike recurs or was specific to the June 14 RWA/tokenized-equity thread context."
   ]
 }

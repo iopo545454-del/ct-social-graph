@@ -193,5 +193,17 @@
     ],
     "first_seen": "2026-06-15",
     "confidence": "medium"
+  },
+  {
+    "handle": "ShiftProtocol_",
+    "kind": "project",
+    "status": "candidate",
+    "source": "0xGeeGee ltLLP/LIT farming quote",
+    "reason": "GeeGee quoted Shift Protocol and described ltLLP as a useful farm for LIT exposure, but this is one evidence point so keep as candidate pending recurrence.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2066431399318708607"
+    ],
+    "first_seen": "2026-06-15",
+    "confidence": "low"
   }
 ]

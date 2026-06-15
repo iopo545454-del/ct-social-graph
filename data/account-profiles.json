@@ -151,7 +151,7 @@
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
     "period_end": "2026-06-15",
-    "profile_updated_at": "2026-06-15T04:40:00Z",
+    "profile_updated_at": "2026-06-15T08:30:00Z",
     "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with a practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Interpretation confidence is now medium-high after a detailed June 14 thesis thread.",
     "likes": [
       {
@@ -228,6 +228,22 @@
           "https://x.com/0xGeeGee/status/2066335436793081950"
         ],
         "confidence": "medium"
+      },
+      {
+        "theme": "AI cost-cutting / efficiency layer winners",
+        "summary": "Quoted Economist coverage of companies cutting soaring AI costs and said the layer will be heavily discussed for the next 12 months, with winners among companies positioned there.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2066432563300987081"
+        ],
+        "confidence": "high"
+      },
+      {
+        "theme": "Managed DeFi farming wrappers for token exposure",
+        "summary": "Described ltLLP as a cozy farm to avoid locking and actively managing a LIT bag, suggesting appreciation for wrappers that reduce direct position-management burden.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2066431399318708607"
+        ],
+        "confidence": "medium"
       }
     ],
     "dislikes": [
@@ -260,6 +276,14 @@
         "summary": "Short/puts RKLB after Nasdaq-100 inclusion based on historical addition mechanics and a belief the SpaceX proxy catalyst was already priced.",
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2066111310916694078"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "RAIN / Enlivex quality concerns",
+        "summary": "Called RAIN and Enlivex trash in a follow-up to the RWA/tokenized-equities thread, while leaving room that equity may still have value.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2066374450292183385"
         ],
         "confidence": "medium"
       }
@@ -354,6 +378,24 @@
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2066340434402832578"
         ]
+      },
+      {
+        "name": "Shift Protocol / ltLLP / LIT",
+        "handle": "ShiftProtocol_",
+        "stance": "positive",
+        "summary": "Mentioned ltLLP as a useful/cozy farm for LIT exposure without direct locking and management; one quote only so far.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2066431399318708607"
+        ]
+      },
+      {
+        "name": "RAIN / Enlivex",
+        "handle": null,
+        "stance": "negative",
+        "summary": "Called RAIN and Enlivex trash but noted equity may have value; treat as quality skepticism inside RWA/DAT context, not a broad sector fade.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2066374450292183385"
+        ]
       }
     ],
     "people_respected": [
@@ -376,7 +418,8 @@
       "Need more authored posts to separate personal portfolio preferences from analytical commentary.",
       "Identify the counterparties/threads behind DeFi and ETH valuation replies for better interaction edges.",
       "Track whether EIGEN/SERV/MORPHO/BP/Variational are durable account preferences or one long-thread watchlist items.",
-      "Track whether GeeGee's willingness to underwrite 20-30% APY DeFi farms recurs or was specific to one reply thread."
+      "Track whether GeeGee's willingness to underwrite 20-30% APY DeFi farms recurs or was specific to one reply thread.",
+      "Track whether Shift Protocol/ltLLP/LIT becomes a recurring DeFi position or was a one-off yield-management comment."
     ],
     "evidence_urls": [
       "https://x.com/0xGeeGee/status/2065771227743138126",
@@ -389,7 +432,10 @@
       "https://x.com/0xGeeGee/status/2066049704765596033",
       "https://x.com/0xGeeGee/status/2066154504417054981",
       "https://x.com/0xGeeGee/status/2066340434402832578",
-      "https://x.com/0xGeeGee/status/2066335038824976410"
+      "https://x.com/0xGeeGee/status/2066335038824976410",
+      "https://x.com/0xGeeGee/status/2066432563300987081",
+      "https://x.com/0xGeeGee/status/2066431399318708607",
+      "https://x.com/0xGeeGee/status/2066374450292183385"
     ]
   },
   {

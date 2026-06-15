@@ -610,5 +610,52 @@
     ],
     "why_logged": "Useful dislike/filter evidence: skepticism toward memecoin catalyst-chasing and post-hoc buy signals.",
     "confidence": "medium"
+  },
+  {
+    "date": "2026-06-15",
+    "handle": "0xGeeGee",
+    "type": "quote",
+    "url": "https://x.com/0xGeeGee/status/2066432563300987081",
+    "summary": "Quoted Economist coverage of companies trying to cut soaring AI costs and said this layer will be discussed heavily over the next 12 months; companies that position in it can win big.",
+    "entities": [
+      "AI costs",
+      "AI efficiency",
+      "tokenmaxxing",
+      "infrastructure margins"
+    ],
+    "why_logged": "Fresh reinforcement of GeeGee's repeated AI-efficiency/cost-optimization thesis, now tied to broader company positioning rather than only crypto projects.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-15",
+    "handle": "0xGeeGee",
+    "type": "quote/mention",
+    "url": "https://x.com/0xGeeGee/status/2066431399318708607",
+    "summary": "Quoted Shift Protocol and said ltLLP has been a cozy farm to avoid locking a LIT bag and managing it directly.",
+    "entities": [
+      "ShiftProtocol_",
+      "ltLLP",
+      "LIT",
+      "DeFi farming",
+      "liquidity management"
+    ],
+    "why_logged": "Concrete DeFi positioning evidence: preference for a managed/farmed wrapper over directly locking and managing LIT exposure.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-15",
+    "handle": "0xGeeGee",
+    "type": "reply/thread",
+    "url": "https://x.com/0xGeeGee/status/2066374450292183385",
+    "summary": "In follow-ups to his June 14 AI/RWA thread, called RAIN and Enlivex trash while noting the equity may still have value; also identified Enlivex as the DAT in that context.",
+    "entities": [
+      "RAIN",
+      "Enlivex",
+      "DAT",
+      "tokenized equities",
+      "RWA"
+    ],
+    "why_logged": "Adds a clear dislike/fade inside the RWA/tokenized-equity watchlist, separating project/token quality from possible equity value.",
+    "confidence": "medium"
   }
 ]
