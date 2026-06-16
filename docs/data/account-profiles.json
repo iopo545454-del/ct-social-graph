@@ -1002,8 +1002,8 @@
     "handle": "MoneyPrinter0x",
     "period_start": "2026-05-14",
     "period_end": "2026-06-16",
-    "profile_updated_at": "2026-06-16T08:30:00Z",
-    "taste_summary": "Observed X/Twitter evidence is unusually detailed around production-grade AI agent systems: harnesses, deterministic gates, testing pyramids, observability, and composable subagents. Market evidence also shows active stock/crypto trading, notably repeated positive BB references. Interpretation confidence is high for agent-systems interest and medium for market preferences.",
+    "profile_updated_at": "2026-06-16T12:45:00Z",
+    "taste_summary": "Observed X/Twitter evidence is unusually detailed around production-grade AI agent systems and active AI-equity/crypto trading. Recent market evidence emphasizes AI infrastructure baskets, forward-looking regime-change monitors such as photonics/neoclouds, event-driven stock trades, Hyperliquid/HYPE momentum, and multi-book risk management. Interpretation confidence is high for agent-systems interest and medium-high for current trading-process preferences.",
     "likes": [
       {
         "theme": "AI agent harnesses and deterministic quality gates",
@@ -1035,11 +1035,12 @@
       },
       {
         "theme": "AI-equity infrastructure baskets",
-        "summary": "Weekly watchlist emphasized neoclouds, indium phosphide, open-source-model beneficiaries, CPU/edge infrastructure, and follow-up additions like INTC/AMPG.",
+        "summary": "Weekly watchlist emphasized neoclouds, indium phosphide/photonics, open-source-model beneficiaries, CPU/edge infrastructure, and follow-up additions like INTC/AMPG; June 16 follow-up said ARM, QCOM, neoclouds, and photonics were “looking very good” as forward-looking regime-change monitors.",
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2066030025942655219",
           "https://x.com/MoneyPrinter0x/status/2066030572896764191",
-          "https://x.com/MoneyPrinter0x/status/2066043375472750643"
+          "https://x.com/MoneyPrinter0x/status/2066043375472750643",
+          "https://x.com/MoneyPrinter0x/status/2066861466645672020"
         ],
         "confidence": "high"
       },
@@ -1168,18 +1169,20 @@
         "name": "CRWV / BRUN neocloud basket",
         "handle": null,
         "stance": "watching",
-        "summary": "Named CRWV and BRUN in weekly watchlist as neocloud momentum/contract-driven ideas.",
+        "summary": "Named CRWV and BRUN in weekly watchlist as neocloud momentum/contract-driven ideas; later reiterated neoclouds as part of the AI-equity group looking very good.",
         "evidence_urls": [
-          "https://x.com/MoneyPrinter0x/status/2066030025942655219"
+          "https://x.com/MoneyPrinter0x/status/2066030025942655219",
+          "https://x.com/MoneyPrinter0x/status/2066861466645672020"
         ]
       },
       {
         "name": "SIVE / AEHR indium phosphide basket",
         "handle": null,
         "stance": "watching",
-        "summary": "Named SIVE and AEHR as indium-phosphide exposure in the weekly watchlist.",
+        "summary": "Named SIVE and AEHR as indium-phosphide exposure in the weekly watchlist; later reiterated photonics as a forward-looking regime-change monitor.",
         "evidence_urls": [
-          "https://x.com/MoneyPrinter0x/status/2066030025942655219"
+          "https://x.com/MoneyPrinter0x/status/2066030025942655219",
+          "https://x.com/MoneyPrinter0x/status/2066861466645672020"
         ]
       },
       {
@@ -1282,7 +1285,8 @@
       "https://x.com/MoneyPrinter0x/status/2066551955972084130",
       "https://x.com/MoneyPrinter0x/status/2066552421019758752",
       "https://x.com/MoneyPrinter0x/status/2066743190758326738",
-      "https://x.com/MoneyPrinter0x/status/2066749652788228496"
+      "https://x.com/MoneyPrinter0x/status/2066749652788228496",
+      "https://x.com/MoneyPrinter0x/status/2066861466645672020"
     ]
   },
   {

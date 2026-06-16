@@ -962,5 +962,22 @@
     ],
     "why_logged": "Fresh DeFi-yield process evidence that refines his prior willingness to underwrite higher APY: distinguish product structure/risk compensation from stablecoin assumptions and user misunderstanding.",
     "confidence": "medium"
+  },
+  {
+    "date": "2026-06-16",
+    "handle": "MoneyPrinter0x",
+    "type": "quote/self_followup",
+    "url": "https://x.com/MoneyPrinter0x/status/2066861466645672020",
+    "summary": "Followed up his AI-equity watchlist with “looking very good,” quoting prior focus on ARM, QCOM, neoclouds, and photonics as forward-looking regime-change monitors.",
+    "entities": [
+      "ARM",
+      "QCOM",
+      "neoclouds",
+      "photonics",
+      "AI equities",
+      "forward-looking regime changes"
+    ],
+    "why_logged": "Small but useful continuation of MoneyPrinter0x’s AI-equity basket/process evidence, especially photonics and neocloud monitoring after the June 13 watchlist.",
+    "confidence": "medium"
   }
 ]

@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-06-16",
-  "profile_updated_at": "2026-06-16T08:30:00Z",
+  "profile_updated_at": "2026-06-16T12:45:00Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -45,7 +45,8 @@
         "EIGEN / EigenCloud",
         "SERV / OpenServ",
         "OpenRouter / Fusion API",
-        "AI cost-cutting layer"
+        "AI cost-cutting layer",
+        "photonics"
       ],
       "summary": "Observed X/Twitter evidence spans GeeGee on inference cost/observability plus EIGEN/SERV, MoneyPrinter0x on deterministic AI-agent harnesses, kelxyz_ on inference incentives/model-parallel training, and AustinBarack on OpenRouter/Fusion API price-performance and AI ROI benchmarking. These are adjacent but not identical themes, so keep examples close to source posts. New 2026-06-15 GeeGee evidence explicitly tied the next AI attention cycle to companies positioned in the AI cost-cutting layer.",
       "evidence_urls": [
@@ -58,7 +59,8 @@
         "https://x.com/MoneyPrinter0x/status/2066030025942655219",
         "https://x.com/0xGeeGee/status/2066111310916694078",
         "https://x.com/AustinBarack/status/2066201233388413272",
-        "https://x.com/0xGeeGee/status/2066432563300987081"
+        "https://x.com/0xGeeGee/status/2066432563300987081",
+        "https://x.com/MoneyPrinter0x/status/2066861466645672020"
       ],
       "momentum": "rising",
       "confidence": "medium"
@@ -212,9 +214,12 @@
         "PURR",
         "BB",
         "INTC",
-        "low-float negative-funding squeezes"
+        "low-float negative-funding squeezes",
+        "ARM",
+        "QCOM",
+        "photonics"
       ],
-      "summary": "Evidence shows coin_casanova sharing a Fable-generated factor/sector dashboard and MoneyPrinter0x posting structured weekly AI-equity/watchlists, extending into a capital-markets worldview and event hedge construction using QQQ beta plus Polymarket odds. New 2026-06-15 examples: 0xGeeGee translated MSTR/Saylor BTC metrics into mNAV/capital-structure terms and used superconducting wires to frame the nuclear bull market; MoneyPrinter0x logged a major HK single-stock event trade, tied the thread back to HigherLiquid, and clarified that AI-equity trades should track the rate of change of forward-looking AI capex and end-user AI spend rather than naked capex notional. Latest MoneyPrinter0x replies added explicit multi-book process detail: intraday vs multiday books, early sizing on momentum resets, derisking into strength, and runners. New coin_casanova evidence reinforced his low-float/KOL-leader setup with live negative-funding/short-liquidation mechanics. Latest coin_casanova follow-up said CT faded a bread-and-butter last-cycle low-float/negative-funding setup, reinforcing his live-trade preference for speculative squeeze mechanics.",
+      "summary": "Evidence shows coin_casanova sharing a Fable-generated factor/sector dashboard and MoneyPrinter0x posting structured weekly AI-equity/watchlists, extending into a capital-markets worldview and event hedge construction using QQQ beta plus Polymarket odds. New 2026-06-15 examples: 0xGeeGee translated MSTR/Saylor BTC metrics into mNAV/capital-structure terms and used superconducting wires to frame the nuclear bull market; MoneyPrinter0x logged a major HK single-stock event trade, tied the thread back to HigherLiquid, and clarified that AI-equity trades should track the rate of change of forward-looking AI capex and end-user AI spend rather than naked capex notional. Latest MoneyPrinter0x replies added explicit multi-book process detail: intraday vs multiday books, early sizing on momentum resets, derisking into strength, and runners. New coin_casanova evidence reinforced his low-float/KOL-leader setup with live negative-funding/short-liquidation mechanics. Latest coin_casanova follow-up said CT faded a bread-and-butter last-cycle low-float/negative-funding setup, reinforcing his live-trade preference for speculative squeeze mechanics. June 16 MoneyPrinter0x follow-up kept the AI-equity basket visible, saying ARM/QCOM/neoclouds/photonics were looking very good as forward-looking regime-change monitors.",
       "evidence_urls": [
         "https://x.com/coin_casanova/status/2065996363503177739",
         "https://x.com/MoneyPrinter0x/status/2066030025942655219",
@@ -231,7 +236,8 @@
         "https://x.com/MoneyPrinter0x/status/2066551955972084130",
         "https://x.com/MoneyPrinter0x/status/2066552421019758752",
         "https://x.com/coin_casanova/status/2066668048438952167",
-        "https://x.com/i/status/2066689100502163919"
+        "https://x.com/i/status/2066689100502163919",
+        "https://x.com/MoneyPrinter0x/status/2066861466645672020"
       ],
       "momentum": "emerging",
       "confidence": "medium"
@@ -431,6 +437,7 @@
     "Watch whether AI/IP licensing becomes a repeated GeeGee equity theme or remains a one-off Sanrio/Nintendo quote.",
     "Clarify whether airtightfish continues engaging decentralized-AI routing/specialization threads beyond the one OpenRouter/Fusion discussion.",
     "Watch whether MoneyPrinter0x’s repeated terse HYPE/Hyperliquid mentions develop into a fuller venue/token thesis.",
-    "Track whether GeeGee’s yield-bearing-product framing recurs across Pendle/DeFi discussions or stays a one-off clarification."
+    "Track whether GeeGee’s yield-bearing-product framing recurs across Pendle/DeFi discussions or stays a one-off clarification.",
+    "Track whether MoneyPrinter0x keeps highlighting photonics/neoclouds/ARM/QCOM as the current AI-equity regime-change basket."
   ]
 }
