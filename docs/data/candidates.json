@@ -38,14 +38,15 @@
   {
     "handle": "worldcoin",
     "kind": "project",
-    "status": "candidate",
+    "status": "promoted_to_tier2",
     "source": "AustinBarack WLD/OpenAI integration odds comment",
-    "reason": "Mentioned as a watch item by AustinBarack, but only one evidence point in this scan.",
+    "reason": "Promoted after second AustinBarack identity-attestation/WLD evidence point on 2026-06-15.",
     "evidence_urls": [
-      "https://x.com/AustinBarack/status/2065846319378301024"
+      "https://x.com/AustinBarack/status/2065846319378301024",
+      "https://x.com/AustinBarack/status/2066632876939202842"
     ],
     "first_seen": "2026-06-14",
-    "confidence": "low"
+    "confidence": "medium"
   },
   {
     "handle": "zcash",
@@ -162,14 +163,15 @@
   {
     "handle": "aerodromefi",
     "kind": "project",
-    "status": "candidate",
+    "status": "promoted_to_tier2",
     "source": "AustinBarack AERO supply-lock/revenue reply",
-    "reason": "Austin gave one substantive AERO/Aerodrome market-structure reply, but this is a single evidence point; keep candidate pending recurrence.",
+    "reason": "Promoted after AustinBarack added an authored AERO momentum/mainnet setup on top of the prior supply-lock/revenue reply.",
     "evidence_urls": [
-      "https://x.com/AustinBarack/status/2066257745238446146"
+      "https://x.com/AustinBarack/status/2066257745238446146",
+      "https://x.com/AustinBarack/status/2066633860448706976"
     ],
     "first_seen": "2026-06-15",
-    "confidence": "low"
+    "confidence": "medium"
   },
   {
     "handle": "Polymarket",

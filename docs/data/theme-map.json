@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
-  "period_end": "2026-06-15",
-  "profile_updated_at": "2026-06-15T20:40:13Z",
+  "period_end": "2026-06-16",
+  "profile_updated_at": "2026-06-16T00:52:08Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -73,14 +73,21 @@
       "projects": [
         "Pluralis",
         "Venice / VVV",
-        "GRASS"
+        "GRASS",
+        "tokenized compute",
+        "identity attestation",
+        "Worldcoin / WLD",
+        "Aerodrome / AERO"
       ],
-      "summary": "AustinBarack points to long-term need for decentralized training, open-source models, and data protocols; kelxyz_ is explicitly bullish on Pluralis and model-parallel decentralized training. This is a repeated AI/crypto infrastructure bucket with direct project examples.",
+      "summary": "AustinBarack now explicitly grouped active AI x crypto attention into privacy-first consumer AI, distributed training, data protocols, tokenized compute, and identity attestation; kelxyz_ remains the clearest Pluralis/model-parallel decentralized-training evidence. Keep as source-close examples rather than a broad consensus claim.",
       "evidence_urls": [
         "https://x.com/AustinBarack/status/2065850799494738189",
         "https://x.com/AustinBarack/status/2057553290959700413",
         "https://x.com/kelxyz_/status/2065782384616780175",
-        "https://x.com/kelxyz_/status/2065782544566522156"
+        "https://x.com/kelxyz_/status/2065782544566522156",
+        "https://x.com/AustinBarack/status/2066627789000712523",
+        "https://x.com/AustinBarack/status/2066632876939202842",
+        "https://x.com/AustinBarack/status/2066633860448706976"
       ],
       "momentum": "rising",
       "confidence": "medium"
@@ -121,16 +128,18 @@
         "Tradexyz",
         "ProofMarkets",
         "Variational",
-        "Legend Trade"
+        "Legend Trade",
+        "ProofMarkets access-code rollout"
       ],
-      "summary": "Observed posts show coin_casanova arguing for organic crypto options demand, CryptoTomYT highlighting Tradexyz performance context, airtightfish building/promoting ProofMarkets, and 0xGeeGee naming Variational as his favorite day-to-day short-term venue. These are separate infra/venue references rather than one unified thesis. New 2026-06-15 CryptoTomYT evidence added Legend Trade as another public perps/performance venue, but treat it as screenshot-led performance evidence rather than a full project thesis.",
+      "summary": "Observed posts show coin_casanova arguing for organic crypto options demand, CryptoTomYT highlighting Tradexyz performance context, airtightfish building/promoting ProofMarkets, and 0xGeeGee naming Variational as his favorite day-to-day short-term venue. These are separate infra/venue references rather than one unified thesis. New 2026-06-15 CryptoTomYT evidence added Legend Trade as another public perps/performance venue, but treat it as screenshot-led performance evidence rather than a full project thesis. New airtightfish evidence was operational rather than thesis-heavy: ProofMarkets access codes are going out and accepted applicants will be manually DM’d for feedback.",
       "evidence_urls": [
         "https://x.com/coin_casanova/status/2063848704499687605",
         "https://x.com/CryptoTomYT/status/2065238474907607090",
         "https://x.com/i/status/2065312922532753505",
         "https://x.com/airtightfish/status/2064390683440341286",
         "https://x.com/0xGeeGee/status/2066111310916694078",
-        "https://x.com/CryptoTomYT/status/2066562689514774622"
+        "https://x.com/CryptoTomYT/status/2066562689514774622",
+        "https://x.com/airtightfish/status/2066622518681612458"
       ],
       "momentum": "emerging",
       "confidence": "medium"
@@ -196,9 +205,10 @@
         "AMPG",
         "PURR",
         "BB",
-        "INTC"
+        "INTC",
+        "low-float negative-funding squeezes"
       ],
-      "summary": "Evidence shows coin_casanova sharing a Fable-generated factor/sector dashboard and MoneyPrinter0x posting structured weekly AI-equity/watchlists, extending into a capital-markets worldview and event hedge construction using QQQ beta plus Polymarket odds. New 2026-06-15 examples: 0xGeeGee translated MSTR/Saylor BTC metrics into mNAV/capital-structure terms and used superconducting wires to frame the nuclear bull market; MoneyPrinter0x logged a major HK single-stock event trade, tied the thread back to HigherLiquid, and clarified that AI-equity trades should track the rate of change of forward-looking AI capex and end-user AI spend rather than naked capex notional. Latest MoneyPrinter0x replies added explicit multi-book process detail: intraday vs multiday books, early sizing on momentum resets, derisking into strength, and runners.",
+      "summary": "Evidence shows coin_casanova sharing a Fable-generated factor/sector dashboard and MoneyPrinter0x posting structured weekly AI-equity/watchlists, extending into a capital-markets worldview and event hedge construction using QQQ beta plus Polymarket odds. New 2026-06-15 examples: 0xGeeGee translated MSTR/Saylor BTC metrics into mNAV/capital-structure terms and used superconducting wires to frame the nuclear bull market; MoneyPrinter0x logged a major HK single-stock event trade, tied the thread back to HigherLiquid, and clarified that AI-equity trades should track the rate of change of forward-looking AI capex and end-user AI spend rather than naked capex notional. Latest MoneyPrinter0x replies added explicit multi-book process detail: intraday vs multiday books, early sizing on momentum resets, derisking into strength, and runners. New coin_casanova evidence reinforced his low-float/KOL-leader setup with live negative-funding/short-liquidation mechanics.",
       "evidence_urls": [
         "https://x.com/coin_casanova/status/2065996363503177739",
         "https://x.com/MoneyPrinter0x/status/2066030025942655219",
@@ -213,7 +223,8 @@
         "https://x.com/MoneyPrinter0x/status/2066475286758310112",
         "https://x.com/MoneyPrinter0x/status/2066466216412324263",
         "https://x.com/MoneyPrinter0x/status/2066551955972084130",
-        "https://x.com/MoneyPrinter0x/status/2066552421019758752"
+        "https://x.com/MoneyPrinter0x/status/2066552421019758752",
+        "https://x.com/coin_casanova/status/2066668048438952167"
       ],
       "momentum": "emerging",
       "confidence": "medium"
@@ -388,6 +399,7 @@
     "Track whether MoneyPrinter's second-derivative AI capex/end-user spend framing becomes a recurring equity-filter theme.",
     "Track whether kelxyz_'s ZEC/privacy-chain thesis gets corroborated by other Tier 1 accounts or remains in disagreement with zuqaquz's ZEC fade.",
     "Track whether MoneyPrinter0x's 2-3 book intraday/multiday framework recurs as a stable public process lens.",
-    "Track whether CryptoTomYT’s Legend Trade post becomes a repeated venue preference or remains a one-off performance screenshot."
+    "Track whether CryptoTomYT’s Legend Trade post becomes a repeated venue preference or remains a one-off performance screenshot.",
+    "Watch whether AustinBarack keeps using the five AI x crypto categories (privacy consumer AI, distributed training, data protocols, tokenized compute, identity attestation) as a durable filter."
   ]
 }

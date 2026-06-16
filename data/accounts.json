@@ -117,5 +117,19 @@
     "kind": "project",
     "status": "tracked",
     "reason": "0xGeeGee mentioned GenLayer as building generalized AI-council / human-LLM jury settlement infrastructure."
+  },
+  {
+    "handle": "aerodromefi",
+    "tier": 2,
+    "kind": "project",
+    "status": "tracked",
+    "reason": "AustinBarack now has repeated AERO/Aerodrome evidence: supply-lock/revenue reply plus authored momentum/setup post ahead of mainnet launch."
+  },
+  {
+    "handle": "worldcoin",
+    "tier": 2,
+    "kind": "project",
+    "status": "tracked",
+    "reason": "Repeated AustinBarack WLD/Worldcoin identity-attestation evidence: earlier OpenAI integration odds plus new AI-crypto identity setup thesis."
   }
 ]

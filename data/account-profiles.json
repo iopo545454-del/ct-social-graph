@@ -2,17 +2,18 @@
   {
     "handle": "coin_casanova",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-14",
-    "profile_updated_at": "2026-06-14T07:05:00Z",
+    "period_end": "2026-06-16",
+    "profile_updated_at": "2026-06-16T00:52:08Z",
     "taste_summary": "Observed X/Twitter evidence shows a short-horizon trader focused on low-float/FDV-style setups, hedging, rotation, options, and relative-value framing between crypto and equities. Interpretation confidence is medium because the scan found several original posts but few substantive replies.",
     "likes": [
       {
         "theme": "Low-float speculative setups with clear leaders",
-        "summary": "Explicitly framed the trade as low-float scam plus KOL leader; also compared an upcoming IPO/SPCX setup to crypto low-float FDV dynamics.",
+        "summary": "Explicitly framed the trade as low-float scam plus KOL leader; latest follow-up tied the same setup to negative funding, a visible short liquidation, and squeezing shorts.",
         "evidence_urls": [
           "https://x.com/coin_casanova/status/2065438838546477385",
           "https://x.com/coin_casanova/status/2065366923379106118",
-          "https://x.com/coin_casanova/status/2065242572478722325"
+          "https://x.com/coin_casanova/status/2065242572478722325",
+          "https://x.com/coin_casanova/status/2066668048438952167"
         ],
         "confidence": "medium"
       },
@@ -144,7 +145,8 @@
       "https://x.com/coin_casanova/status/2063848704499687605",
       "https://x.com/coin_casanova/status/2066000974163169390",
       "https://x.com/coin_casanova/status/2065996363503177739",
-      "https://x.com/coin_casanova/status/2065980497793318928"
+      "https://x.com/coin_casanova/status/2065980497793318928",
+      "https://x.com/coin_casanova/status/2066668048438952167"
     ]
   },
   {
@@ -453,8 +455,8 @@
   {
     "handle": "AustinBarack",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-15",
-    "profile_updated_at": "2026-06-15T00:11:44Z",
+    "period_end": "2026-06-16",
+    "profile_updated_at": "2026-06-16T00:52:08Z",
     "taste_summary": "Observed X/Twitter evidence is strongly thesis-driven around private/anonymized AI, Venice/VVV, decentralized training, open-source models, and AI data protocols. Interpretation confidence is high for Venice/VVV because multiple authored posts and replies repeat the same framing.",
     "likes": [
       {
@@ -492,6 +494,14 @@
         "summary": "Quoted OpenRouter Fusion API as a sign that markets will increasingly benchmark AI by comparable performance at lower price and ROI, not raw model awe/spending.",
         "evidence_urls": [
           "https://x.com/AustinBarack/status/2066201233388413272"
+        ],
+        "confidence": "high"
+      },
+      {
+        "theme": "AI x crypto category framework",
+        "summary": "New framework post grouped his active AI/crypto attention into privacy-first consumer AI, distributed training, data protocols, tokenized compute, and identity attestation.",
+        "evidence_urls": [
+          "https://x.com/AustinBarack/status/2066627789000712523"
         ],
         "confidence": "high"
       }
@@ -534,10 +544,11 @@
       {
         "name": "Worldcoin / WLD",
         "handle": "worldcoin",
-        "stance": "watching",
-        "summary": "Raised odds of OpenAI integrating WLD in some form.",
+        "stance": "positive",
+        "summary": "Raised odds of OpenAI integrating WLD and later highlighted identity attestation as an AI-context setup with account-count, emissions, short-interest, and possible ChatGPT/OpenAI integration catalysts.",
         "evidence_urls": [
-          "https://x.com/AustinBarack/status/2065846319378301024"
+          "https://x.com/AustinBarack/status/2065846319378301024",
+          "https://x.com/AustinBarack/status/2066632876939202842"
         ]
       },
       {
@@ -552,10 +563,11 @@
       {
         "name": "Aerodrome / AERO",
         "handle": "aerodromefi",
-        "stance": "watching",
-        "summary": "Reply expected fresh AERO locks for a new token/protocol to reduce circulating supply while July revenues rise; one evidence point only.",
+        "stance": "positive",
+        "summary": "Fresh AERO evidence now includes supply-lock/revenue comments plus a mainnet/momentum post highlighting key moving-average breakouts.",
         "evidence_urls": [
-          "https://x.com/AustinBarack/status/2066257745238446146"
+          "https://x.com/AustinBarack/status/2066257745238446146",
+          "https://x.com/AustinBarack/status/2066633860448706976"
         ]
       },
       {
@@ -578,7 +590,8 @@
       "Need to identify the May 22 AI/data protocol context behind the replies about bank accounts and token/crypto improvements.",
       "Track whether Venice thesis remains product-traction led or becomes broader decentralized-training thesis.",
       "Watch whether Austin's AI ROI/price-performance lens becomes a repeated filter for crypto-AI projects or stays a general AI-market observation.",
-      "Track whether GRASS/AERO replies become repeated project theses or remain short-window liquidity/listing observations."
+      "Track whether GRASS/AERO replies become repeated project theses or remain short-window liquidity/listing observations.",
+      "Track whether the five AI x crypto categories become AustinBarack’s durable watchlist structure or were a one-day framework post."
     ],
     "evidence_urls": [
       "https://x.com/AustinBarack/status/2065642988470972861",
@@ -588,14 +601,17 @@
       "https://x.com/AustinBarack/status/2066201233388413272",
       "https://x.com/AustinBarack/status/2066259636118770135",
       "https://x.com/AustinBarack/status/2066261626370580577",
-      "https://x.com/AustinBarack/status/2066257745238446146"
+      "https://x.com/AustinBarack/status/2066257745238446146",
+      "https://x.com/AustinBarack/status/2066627789000712523",
+      "https://x.com/AustinBarack/status/2066632876939202842",
+      "https://x.com/AustinBarack/status/2066633860448706976"
     ]
   },
   {
     "handle": "airtightfish",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-15",
-    "profile_updated_at": "2026-06-15T16:31:40Z",
+    "period_end": "2026-06-16",
+    "profile_updated_at": "2026-06-16T00:52:08Z",
     "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, and nuance around trader behavior versus scams. Interpretation confidence is medium; many posts are project/community replies.",
     "likes": [
       {
@@ -658,12 +674,13 @@
         "name": "ProofMarkets",
         "handle": "ProofMarkets",
         "stance": "positive",
-        "summary": "Main repeated project; discussed waitlist, filtering, manual review, signups, feedback, and future markets.",
+        "summary": "Main repeated project; discussed waitlist/filtering/manual review, signups, feedback, future markets, and now challenge access-code rollout plus manual feedback DMs.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2064390683440341286",
           "https://x.com/airtightfish/status/2064743264691875927",
           "https://x.com/airtightfish/status/2064562933405736983",
-          "https://x.com/airtightfish/status/2063450933804052934"
+          "https://x.com/airtightfish/status/2063450933804052934",
+          "https://x.com/airtightfish/status/2066622518681612458"
         ]
       },
       {
@@ -702,7 +719,8 @@
       "https://x.com/airtightfish/status/2064390683440341286",
       "https://x.com/airtightfish/status/2064093914684940791",
       "https://x.com/airtightfish/status/2066372022641287274",
-      "https://x.com/airtightfish/status/2066537005555634216"
+      "https://x.com/airtightfish/status/2066537005555634216",
+      "https://x.com/airtightfish/status/2066622518681612458"
     ]
   },
   {

@@ -783,5 +783,87 @@
     ],
     "why_logged": "Fresh high-signal performance/venue evidence for CryptoTomYT, extending prior Tradexyz/Hyperliquid trading-performance profile with another public perps venue/result.",
     "confidence": "medium"
+  },
+  {
+    "date": "2026-06-15",
+    "handle": "AustinBarack",
+    "type": "authored_post/thread",
+    "url": "https://x.com/AustinBarack/status/2066627789000712523",
+    "summary": "Outlined five AI x crypto themes: consumer AI with data privacy, distributed training, data protocols for pretraining, tokenized compute, and identity attestation; noted liquid tokens with traction/revenue could outperform the broader market.",
+    "entities": [
+      "AI x crypto",
+      "consumer AI privacy",
+      "distributed training",
+      "data protocols",
+      "tokenized compute",
+      "identity attestation"
+    ],
+    "why_logged": "High-signal Austin framework post that organizes several of his existing project mentions into a clear current AI/crypto watchlist.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-15",
+    "handle": "AustinBarack",
+    "type": "authored_post/mention",
+    "url": "https://x.com/AustinBarack/status/2066632876939202842",
+    "summary": "Highlighted a Worldcoin/WLD-style identity-attestation setup in the AI context: strong narrative/technical breakout, declining emissions, short interest, 39M accounts, and possible ChatGPT/OpenAI integration.",
+    "entities": [
+      "Worldcoin",
+      "WLD",
+      "identity attestation",
+      "OpenAI",
+      "ChatGPT integration",
+      "AI x crypto"
+    ],
+    "why_logged": "Second Austin WLD/identity-attestation evidence point, upgrading it from a one-off watch item to a tracked project mention.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-15",
+    "handle": "AustinBarack",
+    "type": "authored_post/mention",
+    "url": "https://x.com/AustinBarack/status/2066633860448706976",
+    "summary": "Said AERO is gaining momentum with mainnet less than three weeks away and a technical break above key moving averages.",
+    "entities": [
+      "Aerodrome",
+      "AERO",
+      "mainnet",
+      "moving averages",
+      "momentum"
+    ],
+    "why_logged": "Second fresh Austin AERO evidence point after the supply-lock/revenue reply cluster, enough to keep Aerodrome visible as a tracked project.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-15",
+    "handle": "airtightfish",
+    "type": "authored_post/project_update",
+    "url": "https://x.com/airtightfish/status/2066622518681612458",
+    "summary": "Updated ProofMarkets challenge/onboarding: access codes are going out and accepted applicants will be manually DM’d for feedback.",
+    "entities": [
+      "ProofMarkets",
+      "access codes",
+      "manual DMs",
+      "feedback",
+      "challenge onboarding"
+    ],
+    "why_logged": "Direct operating/project update from the ProofMarkets-linked Tier 1 account; reinforces existing ProofMarkets evidence stream.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-15",
+    "handle": "coin_casanova",
+    "type": "quote/self_followup",
+    "url": "https://x.com/coin_casanova/status/2066668048438952167",
+    "summary": "Followed up the low-float + KOL-leader thesis with a live trade framing around negative funding, visible short liquidation, and squeezing shorts.",
+    "entities": [
+      "low float",
+      "negative funding",
+      "liquidations",
+      "short squeeze",
+      "KOL leader"
+    ],
+    "why_logged": "Fresh reinforcement of coin_casanova’s repeated trade-construction preference; useful because it ties the earlier thesis to live positioning mechanics.",
+    "confidence": "medium"
   }
 ]

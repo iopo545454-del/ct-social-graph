@@ -361,5 +361,38 @@
     "summary": "Posted a Legend Trade PnL/equity-curve screenshot with referral link; useful venue/performance evidence but mostly screenshot-led rather than a detailed product thesis.",
     "quality": "medium",
     "created_tier2_candidate": true
+  },
+  {
+    "from": "AustinBarack",
+    "to": "worldcoin",
+    "to_kind": "project",
+    "type": "mention/authored_post",
+    "date": "2026-06-15",
+    "url": "https://x.com/AustinBarack/status/2066632876939202842",
+    "summary": "Highlighted WLD/Worldcoin identity attestation as an AI-context setup with narrative, technical, emissions, account-count, short-interest, and possible ChatGPT/OpenAI integration components.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "AustinBarack",
+    "to": "aerodromefi",
+    "to_kind": "project",
+    "type": "mention/authored_post",
+    "date": "2026-06-15",
+    "url": "https://x.com/AustinBarack/status/2066633860448706976",
+    "summary": "Posted AERO momentum/setup evidence: mainnet less than three weeks away and price breaking key moving averages, following earlier supply-lock/revenue comments.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "airtightfish",
+    "to": "ProofMarkets",
+    "to_kind": "project",
+    "type": "authored_project_update",
+    "date": "2026-06-15",
+    "url": "https://x.com/airtightfish/status/2066622518681612458",
+    "summary": "Said ProofMarkets challenge access codes are going out and accepted applicants will be manually DM’d for feedback.",
+    "quality": "high",
+    "created_tier2_candidate": false
   }
 ]
