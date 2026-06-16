@@ -519,7 +519,7 @@
     "handle": "AustinBarack",
     "period_start": "2026-05-14",
     "period_end": "2026-06-16",
-    "profile_updated_at": "2026-06-16T17:43:25Z",
+    "profile_updated_at": "2026-06-16T22:10:00Z",
     "taste_summary": "Observed X/Twitter evidence is strongly thesis-driven around private/anonymized AI, Venice/VVV, decentralized training, open-source models, and AI data protocols. Interpretation confidence is high for Venice/VVV because multiple authored posts and replies repeat the same framing.",
     "likes": [
       {
@@ -630,11 +630,12 @@
         "name": "Aerodrome / AERO",
         "handle": "aerodromefi",
         "stance": "positive",
-        "summary": "Fresh AERO evidence now includes supply-lock/revenue comments plus a mainnet/momentum post highlighting key moving-average breakouts. Latest tokenized-stocks/FX/Base comment implies Aerodrome as the venue beneficiary of Coinbase's tokenized-stock push.",
+        "summary": "Fresh AERO evidence now includes supply-lock/revenue comments plus a mainnet/momentum post highlighting key moving-average breakouts. Latest tokenized-stocks/FX/Base comment implies Aerodrome as the venue beneficiary of Coinbase's tokenized-stock push; June 16 follow-up said price action suggests the market is starting to treat the growth opportunity as credible around mainnet expansion.",
         "evidence_urls": [
           "https://x.com/AustinBarack/status/2066257745238446146",
           "https://x.com/AustinBarack/status/2066633860448706976",
-          "https://x.com/AustinBarack/status/2066907328352281006"
+          "https://x.com/AustinBarack/status/2066907328352281006",
+          "https://x.com/AustinBarack/status/2066990363844247802"
         ]
       },
       {
@@ -683,7 +684,8 @@
       "https://x.com/AustinBarack/status/2066633860448706976",
       "https://x.com/AustinBarack/status/2066897528037986414",
       "https://x.com/AustinBarack/status/2066907328352281006",
-      "https://x.com/AustinBarack/status/2066888860022312981"
+      "https://x.com/AustinBarack/status/2066888860022312981",
+      "https://x.com/AustinBarack/status/2066990363844247802"
     ]
   },
   {
@@ -1048,7 +1050,7 @@
     "handle": "MoneyPrinter0x",
     "period_start": "2026-05-14",
     "period_end": "2026-06-16",
-    "profile_updated_at": "2026-06-16T12:45:00Z",
+    "profile_updated_at": "2026-06-16T22:10:00Z",
     "taste_summary": "Observed X/Twitter evidence is unusually detailed around production-grade AI agent systems and active AI-equity/crypto trading. Recent market evidence emphasizes AI infrastructure baskets, forward-looking regime-change monitors such as photonics/neoclouds, event-driven stock trades, Hyperliquid/HYPE momentum, and multi-book risk management. Interpretation confidence is high for agent-systems interest and medium-high for current trading-process preferences.",
     "likes": [
       {
@@ -1141,6 +1143,24 @@
           "https://x.com/MoneyPrinter0x/status/2066552421019758752"
         ],
         "confidence": "high"
+      },
+      {
+        "theme": "Short-dated event-risk options with explicit asymmetric sizing",
+        "summary": "June 16 posts showed short-dated SOXL/SPCX calls around FOMC, with language that SOXL calls were very risky/expect zero and replies framing setups as cheap to be wrong but lucrative if right near higher-timeframe supports.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2066969667940553125",
+          "https://x.com/MoneyPrinter0x/status/2066999597000692143"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "Hyperliquid ecosystem relative-value expressions",
+        "summary": "Beyond terse HYPE mentions, celebrated PURR reaching $10 while referencing an older PURR-to-HYPE/mNAV thesis tied to Hyperliquid private/pre-IPO venue expansion.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2066953020760563917",
+          "https://x.com/MoneyPrinter0x/status/2066749652788228496"
+        ],
+        "confidence": "medium"
       }
     ],
     "dislikes": [
@@ -1286,6 +1306,25 @@
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2066551955972084130"
         ]
+      },
+      {
+        "name": "PURR",
+        "handle": null,
+        "stance": "positive",
+        "summary": "Celebrated PURR at $10 and referenced prior PURR-as-Hyperliquid-ecosystem/mNAV thesis; treat as Hyperliquid ecosystem exposure rather than standalone project due to limited fresh context.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2066953020760563917"
+        ]
+      },
+      {
+        "name": "SPCX",
+        "handle": null,
+        "stance": "trading",
+        "summary": "Rotated from SOXL calls to SPCX calls into FOMC, saying SPCX benefits most on an upside surprise; short-term event trade rather than durable project preference.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2066969667940553125",
+          "https://x.com/MoneyPrinter0x/status/2066974046622040180"
+        ]
       }
     ],
     "people_respected": [
@@ -1308,7 +1347,8 @@
       "Track whether the stock-market wealth framing continues to explain the account's AI-equity watchlist focus versus crypto-native project attention.",
       "Watch whether Polymarket/prediction-market odds remain a recurring trade input or were specific to the Iran-peace event window.",
       "Watch whether MoneyPrinter's AI-equity process continues emphasizing second-derivative capex/end-user-spend curves after the 2513 event.",
-      "Watch whether MoneyPrinter0x turns repeated terse Hyperliquid/HYPE mentions into a more explicit venue/token thesis."
+      "Watch whether MoneyPrinter0x turns repeated terse Hyperliquid/HYPE mentions into a more explicit venue/token thesis.",
+      "Track whether MoneyPrinter0x's FOMC/SOXL/SPCX options posts are a one-off event-risk trade or a recurring public process pattern."
     ],
     "evidence_urls": [
       "https://x.com/MoneyPrinter0x/status/2065910048833102118",
@@ -1332,7 +1372,10 @@
       "https://x.com/MoneyPrinter0x/status/2066552421019758752",
       "https://x.com/MoneyPrinter0x/status/2066743190758326738",
       "https://x.com/MoneyPrinter0x/status/2066749652788228496",
-      "https://x.com/MoneyPrinter0x/status/2066861466645672020"
+      "https://x.com/MoneyPrinter0x/status/2066861466645672020",
+      "https://x.com/MoneyPrinter0x/status/2066953020760563917",
+      "https://x.com/MoneyPrinter0x/status/2066969667940553125",
+      "https://x.com/MoneyPrinter0x/status/2066963569561006199"
     ]
   },
   {

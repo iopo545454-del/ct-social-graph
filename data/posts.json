@@ -1045,5 +1045,73 @@
     ],
     "why_logged": "Clear GeeGee filter on airdrop/points behavior: product-use over purposeless fee burn, and fatigue with extreme tokenmaxxing economics.",
     "confidence": "medium"
+  },
+  {
+    "date": "2026-06-16",
+    "handle": "MoneyPrinter0x",
+    "type": "quote/self_followup",
+    "url": "https://x.com/MoneyPrinter0x/status/2066953020760563917",
+    "summary": "Celebrated $PURR reaching $10 on Hyperliquid while quoting his older thesis that PURR was a distressed mNAV-to-HYPE expression with upside from upcoming private/pre-IPO style assets flowing through Hyperliquid’s venue.",
+    "entities": [
+      "PURR",
+      "Hyperliquid",
+      "HYPE",
+      "pre-IPO trading",
+      "private-company access",
+      "mNAV"
+    ],
+    "why_logged": "Adds a more specific MoneyPrinter0x Hyperliquid-ecosystem evidence point than the terse HYPE chart posts: a PURR/HYPE relative-value thesis tied to private/pre-IPO venue expansion.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-16",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/options_trade",
+    "url": "https://x.com/MoneyPrinter0x/status/2066969667940553125",
+    "summary": "Bought short-dated SOXL calls, then quickly shifted toward SPCX calls into FOMC, saying SOXL calls were very risky/expect zero and that SPCX would benefit most from an upside surprise; nearby reply said the setup was cheap to be wrong and lucrative if right at higher-timeframe support.",
+    "entities": [
+      "SOXL",
+      "SPCX",
+      "FOMC",
+      "options",
+      "HTF support",
+      "event risk"
+    ],
+    "why_logged": "Useful process evidence for MoneyPrinter0x: short-term event-risk options, explicit zero-risk sizing language, fast vehicle rotation, and support-based asymmetric setup framing.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-16",
+    "handle": "MoneyPrinter0x",
+    "type": "quote/macro_event_trade",
+    "url": "https://x.com/MoneyPrinter0x/status/2066963569561006199",
+    "summary": "Quoted falling US petrol prices below $4 and argued policymakers may use that to revise FOMC forward-looking outlook less hawkish, tying energy/inflation data to next-day options positioning.",
+    "entities": [
+      "FOMC",
+      "petrol prices",
+      "inflation",
+      "SOXL",
+      "SPCX",
+      "macro event risk"
+    ],
+    "why_logged": "Shows how he turns macro/inflation datapoints into near-term equity/options positioning rather than only crypto or AI-equity watchlists.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-16",
+    "handle": "AustinBarack",
+    "type": "quote/self_followup",
+    "url": "https://x.com/AustinBarack/status/2066990363844247802",
+    "summary": "Followed up on AERO, saying price action suggests people are shifting from skepticism/unawareness toward recognizing Aerodrome’s growth opportunity as credible around the Ethereum mainnet expansion.",
+    "entities": [
+      "Aerodrome",
+      "AERO",
+      "Base",
+      "Ethereum mainnet",
+      "price action",
+      "market awareness"
+    ],
+    "why_logged": "Extends AustinBarack’s already repeated AERO/Base thesis with fresh market-adoption/price-action evidence after the Coinbase tokenized-stock catalyst post.",
+    "confidence": "medium"
   }
 ]
