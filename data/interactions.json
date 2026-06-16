@@ -416,5 +416,16 @@
     "summary": "Replied in lesabrefomo’s OpenRouter/Fusion API / decentralized-AI thread, agreeing that AI routing and model specialization could be a crypto bright spot for a while.",
     "quality": "medium",
     "created_tier2_candidate": true
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "HyperliquidX",
+    "to_kind": "project",
+    "type": "mention/chart",
+    "date": "2026-06-16",
+    "url": "https://x.com/MoneyPrinter0x/status/2066749652788228496",
+    "summary": "Posted a terse positive Hyperliquid/HYPE chart mention during a strong HYPE move; useful as repeated attention but not a detailed thesis.",
+    "quality": "medium",
+    "created_tier2_candidate": false
   }
 ]

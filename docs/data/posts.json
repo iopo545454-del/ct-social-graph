@@ -931,5 +931,36 @@
     ],
     "why_logged": "Small but useful process/risk evidence: explicit concern about regime changes and late-cycle bagholding; logged lightly, not as a standalone thesis.",
     "confidence": "low"
+  },
+  {
+    "date": "2026-06-16",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/chart",
+    "url": "https://x.com/MoneyPrinter0x/status/2066749652788228496",
+    "summary": "Posted a terse “Hyperliquid.” with a short-timeframe HYPE chart showing a strong upward move; useful as another positive but chart-led Hyperliquid/HYPE attention point.",
+    "entities": [
+      "Hyperliquid",
+      "HYPE",
+      "perps",
+      "momentum"
+    ],
+    "why_logged": "Adds a second fresh MoneyPrinter0x Hyperliquid evidence point after the prior “thank you Jefferson. Hyperliquid.” mention, while keeping confidence medium because the thesis text is terse.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-16",
+    "handle": "0xGeeGee",
+    "type": "reply/quote",
+    "url": "https://x.com/0xGeeGee/status/2066747956045435324",
+    "summary": "In a Pendle/high-yield-token discussion, clarified that many examples are yield-bearing products rather than stablecoins; high yields such as 12% can be legitimate risk compensation if users analyze the risks instead of blindly aping, with misrepresentation/misunderstanding being the real problem.",
+    "entities": [
+      "Pendle",
+      "yield-bearing products",
+      "stablecoins",
+      "DeFi yields",
+      "risk analysis"
+    ],
+    "why_logged": "Fresh DeFi-yield process evidence that refines his prior willingness to underwrite higher APY: distinguish product structure/risk compensation from stablecoin assumptions and user misunderstanding.",
+    "confidence": "medium"
   }
 ]

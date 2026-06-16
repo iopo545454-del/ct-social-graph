@@ -155,7 +155,7 @@
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
     "period_end": "2026-06-16",
-    "profile_updated_at": "2026-06-16T05:10:00Z",
+    "profile_updated_at": "2026-06-16T08:30:00Z",
     "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with a practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Interpretation confidence is now medium-high after a detailed June 14 thesis thread.",
     "likes": [
       {
@@ -211,9 +211,10 @@
       },
       {
         "theme": "Risk-priced DeFi yield over purely conservative stable farms",
-        "summary": "Reply suggests willingness to underwrite higher 20-30% APY DeFi opportunities when rug risk is not the main concern, while still respecting conservative stable-yield frameworks.",
+        "summary": "Replies suggest willingness to underwrite higher 20-30% APY DeFi opportunities when rug risk is not the main concern, while latest yield-bearing-product comments stress that high yields can be legitimate risk compensation if users understand product structure and do not mistake them for stablecoins.",
         "evidence_urls": [
-          "https://x.com/0xGeeGee/status/2066154504417054981"
+          "https://x.com/0xGeeGee/status/2066154504417054981",
+          "https://x.com/0xGeeGee/status/2066747956045435324"
         ],
         "confidence": "medium"
       },
@@ -461,7 +462,8 @@
       "Track whether GeeGee's willingness to underwrite 20-30% APY DeFi farms recurs or was specific to one reply thread.",
       "Track whether Shift Protocol/ltLLP/LIT becomes a recurring DeFi position or was a one-off yield-management comment.",
       "Track whether PLUME/Plume becomes a durable GeeGee RWA position or was a one-off Bybit/GRVT integration comment.",
-      "Watch whether AI/IP licensing becomes a repeated GeeGee equity theme or remains a one-off Sanrio/Nintendo quote."
+      "Watch whether AI/IP licensing becomes a repeated GeeGee equity theme or remains a one-off Sanrio/Nintendo quote.",
+      "Track whether GeeGee keeps distinguishing yield-bearing products from stablecoins in future Pendle/DeFi-yield discussions."
     ],
     "evidence_urls": [
       "https://x.com/0xGeeGee/status/2065771227743138126",
@@ -479,7 +481,8 @@
       "https://x.com/0xGeeGee/status/2066431399318708607",
       "https://x.com/0xGeeGee/status/2066374450292183385",
       "https://x.com/0xGeeGee/status/2066449564631286159",
-      "https://x.com/0xGeeGee/status/2066696605320061418"
+      "https://x.com/0xGeeGee/status/2066696605320061418",
+      "https://x.com/0xGeeGee/status/2066747956045435324"
     ]
   },
   {
@@ -999,7 +1002,7 @@
     "handle": "MoneyPrinter0x",
     "period_start": "2026-05-14",
     "period_end": "2026-06-16",
-    "profile_updated_at": "2026-06-16T05:10:00Z",
+    "profile_updated_at": "2026-06-16T08:30:00Z",
     "taste_summary": "Observed X/Twitter evidence is unusually detailed around production-grade AI agent systems: harnesses, deterministic gates, testing pyramids, observability, and composable subagents. Market evidence also shows active stock/crypto trading, notably repeated positive BB references. Interpretation confidence is high for agent-systems interest and medium for market preferences.",
     "likes": [
       {
@@ -1201,9 +1204,10 @@
         "name": "Hyperliquid / HYPE",
         "handle": "HyperliquidX",
         "stance": "positive",
-        "summary": "New terse positive Hyperliquid post (“thank you Jefferson. Hyperliquid.”); keep medium confidence without image/context detail.",
+        "summary": "Repeated terse positive Hyperliquid/HYPE mentions: “thank you Jefferson. Hyperliquid.” and a later HYPE momentum chart post. Still medium confidence because the evidence is concise/chart-led rather than a full thesis.",
         "evidence_urls": [
-          "https://x.com/MoneyPrinter0x/status/2066275337655451745"
+          "https://x.com/MoneyPrinter0x/status/2066275337655451745",
+          "https://x.com/MoneyPrinter0x/status/2066749652788228496"
         ]
       },
       {
@@ -1254,7 +1258,8 @@
       "Separate BB stock thesis from crypto-facing relevance in future scans.",
       "Track whether the stock-market wealth framing continues to explain the account's AI-equity watchlist focus versus crypto-native project attention.",
       "Watch whether Polymarket/prediction-market odds remain a recurring trade input or were specific to the Iran-peace event window.",
-      "Watch whether MoneyPrinter's AI-equity process continues emphasizing second-derivative capex/end-user-spend curves after the 2513 event."
+      "Watch whether MoneyPrinter's AI-equity process continues emphasizing second-derivative capex/end-user-spend curves after the 2513 event.",
+      "Watch whether MoneyPrinter0x turns repeated terse Hyperliquid/HYPE mentions into a more explicit venue/token thesis."
     ],
     "evidence_urls": [
       "https://x.com/MoneyPrinter0x/status/2065910048833102118",
@@ -1276,7 +1281,8 @@
       "https://x.com/MoneyPrinter0x/status/2066466216412324263",
       "https://x.com/MoneyPrinter0x/status/2066551955972084130",
       "https://x.com/MoneyPrinter0x/status/2066552421019758752",
-      "https://x.com/MoneyPrinter0x/status/2066743190758326738"
+      "https://x.com/MoneyPrinter0x/status/2066743190758326738",
+      "https://x.com/MoneyPrinter0x/status/2066749652788228496"
     ]
   },
   {

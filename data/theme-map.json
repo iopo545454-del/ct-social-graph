@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-06-16",
-  "profile_updated_at": "2026-06-16T05:10:00Z",
+  "profile_updated_at": "2026-06-16T08:30:00Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -108,15 +108,16 @@
       "projects": [
         "Hyperliquid / HYPE"
       ],
-      "summary": "zuqaquz showed repeated, explicit Hyperliquid/HYPE preference across originals and replies. coin_casanova referenced liking HYPE retest dynamics. MoneyPrinter0x added a terse positive “thank you Jefferson. Hyperliquid.” mention; useful as corroborating attention, not a deep thesis.",
+      "summary": "zuqaquz showed repeated, explicit Hyperliquid/HYPE preference across originals and replies. coin_casanova referenced liking HYPE retest dynamics. MoneyPrinter0x now has two terse positive Hyperliquid/HYPE mentions, including a HYPE momentum chart; useful as corroborating attention, not a deep thesis.",
       "evidence_urls": [
         "https://x.com/zuqaquz/status/2063748710882738618",
         "https://x.com/zuqaquz/status/2063001072893940119",
         "https://x.com/i/status/2063763994142269636",
         "https://x.com/coin_casanova/status/2063854403833188821",
-        "https://x.com/MoneyPrinter0x/status/2066275337655451745"
+        "https://x.com/MoneyPrinter0x/status/2066275337655451745",
+        "https://x.com/MoneyPrinter0x/status/2066749652788228496"
       ],
-      "momentum": "stable",
+      "momentum": "rising",
       "confidence": "high"
     },
     {
@@ -265,11 +266,13 @@
       ],
       "accounts_negative": [],
       "projects": [
-        "Spark / stable farms"
+        "Spark / stable farms",
+        "Pendle / yield-bearing products"
       ],
-      "summary": "Fresh GeeGee reply explicitly respects Tiza's DeFi/yield work while distinguishing conservative stable-farm risk from his willingness to stick his neck out for selected 20-30% APY opportunities. Single-account bucket for now.",
+      "summary": "GeeGee replies explicitly respect Tiza’s DeFi/yield work while distinguishing conservative stable-farm risk from selected 20-30% APY opportunities. Latest Pendle/yield-bearing-product comment refines the same filter: high yields may be risk compensation rather than “stablecoin” yield, and the problem is misrepresentation or users not analyzing structure.",
       "evidence_urls": [
-        "https://x.com/0xGeeGee/status/2066154504417054981"
+        "https://x.com/0xGeeGee/status/2066154504417054981",
+        "https://x.com/0xGeeGee/status/2066747956045435324"
       ],
       "momentum": "emerging",
       "confidence": "medium"
@@ -426,6 +429,8 @@
     "Track whether CryptoTomYT’s Legend Trade post becomes a repeated venue preference or remains a one-off performance screenshot.",
     "Watch whether AustinBarack keeps using the five AI x crypto categories (privacy consumer AI, distributed training, data protocols, tokenized compute, identity attestation) as a durable filter.",
     "Watch whether AI/IP licensing becomes a repeated GeeGee equity theme or remains a one-off Sanrio/Nintendo quote.",
-    "Clarify whether airtightfish continues engaging decentralized-AI routing/specialization threads beyond the one OpenRouter/Fusion discussion."
+    "Clarify whether airtightfish continues engaging decentralized-AI routing/specialization threads beyond the one OpenRouter/Fusion discussion.",
+    "Watch whether MoneyPrinter0x’s repeated terse HYPE/Hyperliquid mentions develop into a fuller venue/token thesis.",
+    "Track whether GeeGee’s yield-bearing-product framing recurs across Pendle/DeFi discussions or stays a one-off clarification."
   ]
 }
