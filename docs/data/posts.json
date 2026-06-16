@@ -865,5 +865,71 @@
     ],
     "why_logged": "Fresh reinforcement of coin_casanova’s repeated trade-construction preference; useful because it ties the earlier thesis to live positioning mechanics.",
     "confidence": "medium"
+  },
+  {
+    "date": "2026-06-16",
+    "handle": "0xGeeGee",
+    "type": "quote/reply",
+    "url": "https://x.com/0xGeeGee/status/2066696605320061418",
+    "summary": "Quoted a detailed Sanrio AI/IP licensing thesis and said he does not dislike it, but would rather express the idea through Nintendo, which he thinks is being punished too harshly for the Switch 2 semi-flop; agreed Sanrio is moving earlier than others toward AI/IP licensing.",
+    "entities": [
+      "Sanrio",
+      "Nintendo",
+      "AI IP licensing",
+      "Hello Kitty",
+      "Switch 2",
+      "brand-safe IP"
+    ],
+    "why_logged": "Fresh non-crypto equity/IP thesis evidence from GeeGee: evaluates AI through scarce pre-cleared IP and vehicle selection rather than pure model/infrastructure exposure.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-16",
+    "handle": "coin_casanova",
+    "type": "quote/self_followup",
+    "url": "https://x.com/i/status/2066689100502163919",
+    "summary": "Followed up the low-float/negative-funding trade with “CT all faded the best type of trade that were once bread & butter last cycle,” crediting Elon for catalyzing the move.",
+    "entities": [
+      "low float",
+      "negative funding",
+      "short squeeze",
+      "Elon catalyst",
+      "CT fade",
+      "speculative trading"
+    ],
+    "why_logged": "Reinforces the existing coin_casanova trade-construction evidence: low-float setups, negative funding/short-liquidation mechanics, and willingness to lean into CT-disliked speculative trades.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-16",
+    "handle": "airtightfish",
+    "type": "reply/thread",
+    "url": "https://x.com/i/status/2066708058038829319",
+    "summary": "In an OpenRouter/Fusion API thread, replied around Iota/Pluralis and decentralized AI layers, then agreed this could be a crypto bright spot for a while; context included decentralized training, inference, verification, and marketplace layers.",
+    "entities": [
+      "Iota",
+      "Pluralis",
+      "OpenRouter Fusion API",
+      "decentralized AI",
+      "inference layers",
+      "verification layers",
+      "marketplaces"
+    ],
+    "why_logged": "Substantive enough to add a new airtightfish interest bucket beyond ProofMarkets/private-company access: decentralized AI as a potential bright spot, while keeping confidence low because it is reply-led.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-16",
+    "handle": "MoneyPrinter0x",
+    "type": "reply",
+    "url": "https://x.com/MoneyPrinter0x/status/2066743190758326738",
+    "summary": "Warned that a certain approach will leave people holding the bag when the macro regime turns.",
+    "entities": [
+      "macro regime",
+      "bagholding",
+      "risk management"
+    ],
+    "why_logged": "Small but useful process/risk evidence: explicit concern about regime changes and late-cycle bagholding; logged lightly, not as a standalone thesis.",
+    "confidence": "low"
   }
 ]

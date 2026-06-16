@@ -394,5 +394,27 @@
     "summary": "Said ProofMarkets challenge access codes are going out and accepted applicants will be manually DM’d for feedback.",
     "quality": "high",
     "created_tier2_candidate": false
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "bubbleboi",
+    "to_kind": "individual",
+    "type": "quote",
+    "date": "2026-06-16",
+    "url": "https://x.com/0xGeeGee/status/2066696605320061418",
+    "summary": "Quoted bubbleboi’s detailed Sanrio AI/IP licensing thesis, broadly agreeing with the direction while preferring Nintendo as the better vehicle.",
+    "quality": "medium",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "airtightfish",
+    "to": "lesabrefomo",
+    "to_kind": "individual",
+    "type": "reply/thread",
+    "date": "2026-06-16",
+    "url": "https://x.com/i/status/2066708058038829319",
+    "summary": "Replied in lesabrefomo’s OpenRouter/Fusion API / decentralized-AI thread, agreeing that AI routing and model specialization could be a crypto bright spot for a while.",
+    "quality": "medium",
+    "created_tier2_candidate": true
   }
 ]

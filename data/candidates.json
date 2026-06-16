@@ -245,5 +245,42 @@
     ],
     "first_seen": "2026-06-15",
     "confidence": "low"
+  },
+  {
+    "handle": "bubbleboi",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "0xGeeGee quote of Sanrio AI/IP licensing thesis",
+    "reason": "GeeGee engaged with a detailed investment thesis from bubbleboi on Sanrio as an AI/IP licensing play; one thoughtful quote only, so candidate pending recurrence.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2066696605320061418"
+    ],
+    "first_seen": "2026-06-16",
+    "confidence": "low"
+  },
+  {
+    "handle": "lesabrefomo",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "airtightfish decentralized-AI reply thread",
+    "reason": "airtightfish engaged in a substantive OpenRouter/Fusion API thread from lesabrefomo involving Iota, Pluralis, inference, verification, and marketplace layers; single thread only, so candidate.",
+    "evidence_urls": [
+      "https://x.com/i/status/2066708058038829319"
+    ],
+    "first_seen": "2026-06-16",
+    "confidence": "low"
+  },
+  {
+    "handle": "iota",
+    "kind": "project",
+    "status": "candidate",
+    "source": "airtightfish decentralized-AI reply",
+    "reason": "Mentioned by airtightfish in a decentralized-AI / OpenRouter Fusion context, but evidence is a brief reply and should stay candidate/mention-ledger only.",
+    "evidence_urls": [
+      "https://x.com/i/status/2066675642951950705",
+      "https://x.com/i/status/2066708058038829319"
+    ],
+    "first_seen": "2026-06-16",
+    "confidence": "low"
   }
 ]
