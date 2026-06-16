@@ -282,5 +282,17 @@
     ],
     "first_seen": "2026-06-16",
     "confidence": "low"
+  },
+  {
+    "handle": "MegaETH",
+    "kind": "project",
+    "status": "candidate",
+    "source": "0xGeeGee MegaETH-points reply",
+    "reason": "GeeGee engaged with MegaETH-points discourse, but the evidence is mainly about app-use versus fee farming rather than a clear project endorsement; candidate only.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2066920097743327440"
+    ],
+    "first_seen": "2026-06-16",
+    "confidence": "low"
   }
 ]

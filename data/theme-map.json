@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-06-16",
-  "profile_updated_at": "2026-06-16T12:45:00Z",
+  "profile_updated_at": "2026-06-16T17:43:25Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -16,14 +16,15 @@
         "POD",
         "AKT"
       ],
-      "summary": "Observed X/Twitter posts from AustinBarack repeatedly frame centralized AI restrictions and possible user-data compulsion as a tailwind for Venice/VVV. Keep as direct evidence bucket rather than broad consensus; coin_casanova had a tactical VVV short, so cross-account stance is not uniform. New 2026-06-14 coin_casanova evidence treated the Mythos-driven AI-token basket as a trade-construction problem rather than a uniform fundamental endorsement.",
+      "summary": "Observed X/Twitter posts from AustinBarack repeatedly frame centralized AI restrictions and possible user-data compulsion as a tailwind for Venice/VVV. Keep as direct evidence bucket rather than broad consensus; coin_casanova had a tactical VVV short, so cross-account stance is not uniform. New 2026-06-14 coin_casanova evidence treated the Mythos-driven AI-token basket as a trade-construction problem rather than a uniform fundamental endorsement. Latest AustinBarack evidence quoted Venice usage data and argued VVV is under-owned because token usage is 'literally up only'.",
       "evidence_urls": [
         "https://x.com/AustinBarack/status/2065642988470972861",
         "https://x.com/AustinBarack/status/2065850799494738189",
         "https://x.com/AustinBarack/status/2065790400875356205",
         "https://x.com/coin_casanova/status/2065366923379106118",
         "https://x.com/coin_casanova/status/2066000974163169390",
-        "https://x.com/coin_casanova/status/2066005931121574382"
+        "https://x.com/coin_casanova/status/2066005931121574382",
+        "https://x.com/AustinBarack/status/2066897528037986414"
       ],
       "momentum": "rising",
       "confidence": "high"
@@ -128,7 +129,8 @@
         "coin_casanova",
         "CryptoTomYT",
         "airtightfish",
-        "0xGeeGee"
+        "0xGeeGee",
+        "AustinBarack"
       ],
       "accounts_negative": [],
       "projects": [
@@ -137,9 +139,11 @@
         "ProofMarkets",
         "Variational",
         "Legend Trade",
-        "ProofMarkets access-code rollout"
+        "ProofMarkets access-code rollout",
+        "Hyperliquid SPCX perps",
+        "perpification of everything"
       ],
-      "summary": "Observed posts show coin_casanova arguing for organic crypto options demand, CryptoTomYT highlighting Tradexyz performance context, airtightfish building/promoting ProofMarkets, and 0xGeeGee naming Variational as his favorite day-to-day short-term venue. These are separate infra/venue references rather than one unified thesis. New 2026-06-15 CryptoTomYT evidence added Legend Trade as another public perps/performance venue, but treat it as screenshot-led performance evidence rather than a full project thesis. New airtightfish evidence was operational rather than thesis-heavy: ProofMarkets access codes are going out and accepted applicants will be manually DM’d for feedback.",
+      "summary": "Observed posts show coin_casanova arguing for organic crypto options demand, CryptoTomYT highlighting Tradexyz performance context, airtightfish building/promoting ProofMarkets, and 0xGeeGee naming Variational as his favorite day-to-day short-term venue. These are separate infra/venue references rather than one unified thesis. New 2026-06-15 CryptoTomYT evidence added Legend Trade as another public perps/performance venue, but treat it as screenshot-led performance evidence rather than a full project thesis. New airtightfish evidence was operational rather than thesis-heavy: ProofMarkets access codes are going out and accepted applicants will be manually DM’d for feedback. AustinBarack added a Hyperliquid market-structure example: $1.5B SPCX traded in 24h, framed as 'perpification of everything'.",
       "evidence_urls": [
         "https://x.com/coin_casanova/status/2063848704499687605",
         "https://x.com/CryptoTomYT/status/2065238474907607090",
@@ -147,7 +151,8 @@
         "https://x.com/airtightfish/status/2064390683440341286",
         "https://x.com/0xGeeGee/status/2066111310916694078",
         "https://x.com/CryptoTomYT/status/2066562689514774622",
-        "https://x.com/airtightfish/status/2066622518681612458"
+        "https://x.com/airtightfish/status/2066622518681612458",
+        "https://x.com/AustinBarack/status/2066888860022312981"
       ],
       "momentum": "emerging",
       "confidence": "medium"
@@ -245,7 +250,8 @@
     {
       "theme": "RWA / tokenized credit and equities",
       "accounts_positive": [
-        "0xGeeGee"
+        "0xGeeGee",
+        "AustinBarack"
       ],
       "accounts_negative": [],
       "projects": [
@@ -254,13 +260,18 @@
         "Securitize / CEPT",
         "Variational",
         "RAIN / Enlivex",
-        "Plume / PLUME"
+        "Plume / PLUME",
+        "Aerodrome / AERO",
+        "Coinbase tokenized stocks",
+        "Base spot exchange",
+        "FX"
       ],
-      "summary": "GeeGee thread framed RWA/tokenized equities as a watchable lane: MORPHO for open credit/yield-bearing assets, Backpack/BP for tokenized brokerage on Solana, Securitize/CEPT as reverse-merger context, and Variational adding RWA markets. Follow-up replies added a negative quality read on RAIN/Enlivex while allowing equity may still have value, plus a fresh possible PLUME addition based on GRVT/Bybit distribution/integration momentum.",
+      "summary": "GeeGee thread framed RWA/tokenized equities as a watchable lane: MORPHO for open credit/yield-bearing assets, Backpack/BP for tokenized brokerage on Solana, Securitize/CEPT as reverse-merger context, and Variational adding RWA markets. Follow-up replies added a negative quality read on RAIN/Enlivex while allowing equity may still have value, plus a fresh possible PLUME addition based on GRVT/Bybit distribution/integration momentum. New AustinBarack quote tied Coinbase's tokenized-stock push to the leading Base spot exchange expanding into tokenized stocks, FX, and Ethereum mainnet, reinforcing AERO/Base as the venue angle.",
       "evidence_urls": [
         "https://x.com/0xGeeGee/status/2066111310916694078",
         "https://x.com/0xGeeGee/status/2066374450292183385",
-        "https://x.com/0xGeeGee/status/2066449564631286159"
+        "https://x.com/0xGeeGee/status/2066449564631286159",
+        "https://x.com/AustinBarack/status/2066907328352281006"
       ],
       "momentum": "emerging",
       "confidence": "medium"
@@ -412,6 +423,24 @@
       ],
       "momentum": "emerging",
       "confidence": "low"
+    },
+    {
+      "theme": "Airdrop/points farming fatigue and product-use filter",
+      "accounts_positive": [
+        "0xGeeGee"
+      ],
+      "accounts_negative": [],
+      "projects": [
+        "MegaETH",
+        "Variational / gVariational"
+      ],
+      "summary": "GeeGee pushed back on MegaETH-points anger by saying users should use apps they actually want or need rather than burning fees/liquidity for no reason; nearby tokenmaxxing comment suggests fatigue with extreme points economics. Single-account evidence for now.",
+      "evidence_urls": [
+        "https://x.com/0xGeeGee/status/2066920097743327440",
+        "https://x.com/0xGeeGee/status/2066915435711480195"
+      ],
+      "momentum": "emerging",
+      "confidence": "medium"
     }
   ],
   "open_questions": [

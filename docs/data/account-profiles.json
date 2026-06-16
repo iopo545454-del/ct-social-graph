@@ -155,7 +155,7 @@
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
     "period_end": "2026-06-16",
-    "profile_updated_at": "2026-06-16T08:30:00Z",
+    "profile_updated_at": "2026-06-16T17:43:25Z",
     "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with a practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Interpretation confidence is now medium-high after a detailed June 14 thesis thread.",
     "likes": [
       {
@@ -258,6 +258,15 @@
           "https://x.com/0xGeeGee/status/2066696605320061418"
         ],
         "confidence": "medium"
+      },
+      {
+        "theme": "Product-use over purposeless points/fee farming",
+        "summary": "In MegaETH-points discourse, argued users should try apps they actually want/need instead of burning fees/liquidity without reason; nearby quote said tokenmaxxing economics look exhausted.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2066920097743327440",
+          "https://x.com/0xGeeGee/status/2066915435711480195"
+        ],
+        "confidence": "medium"
       }
     ],
     "dislikes": [
@@ -298,6 +307,15 @@
         "summary": "Called RAIN and Enlivex trash in a follow-up to the RWA/tokenized-equities thread, while leaving room that equity may still have value.",
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2066374450292183385"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "Tokenmaxxing / fee-burning games",
+        "summary": "Called tokenmaxxing 'done' if even MAGS no longer want to pay extreme costs, and pushed back on burning fees/liquidity purely for points.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2066915435711480195",
+          "https://x.com/0xGeeGee/status/2066920097743327440"
         ],
         "confidence": "medium"
       }
@@ -370,9 +388,10 @@
         "name": "Variational",
         "handle": "variational_io",
         "stance": "positive",
-        "summary": "Favorite exchange for day-to-day short-term trading due to market variety and RWA additions, while noting spreads/offering still imperfect.",
+        "summary": "Favorite exchange for day-to-day short-term trading due to market variety and RWA additions, while noting spreads/offering still imperfect. Latest MegaETH-points reply used gVariational as the example of an app someone might use because they actually want/need it rather than fee farming blindly.",
         "evidence_urls": [
-          "https://x.com/0xGeeGee/status/2066111310916694078"
+          "https://x.com/0xGeeGee/status/2066111310916694078",
+          "https://x.com/0xGeeGee/status/2066920097743327440"
         ]
       },
       {
@@ -437,6 +456,15 @@
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2066696605320061418"
         ]
+      },
+      {
+        "name": "MegaETH",
+        "handle": null,
+        "stance": "analytical",
+        "summary": "Referenced in points-distribution discourse; GeeGee was more focused on app-use versus fee-burning behavior than on a clear MegaETH fundamental stance.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2066920097743327440"
+        ]
       }
     ],
     "people_respected": [
@@ -482,34 +510,38 @@
       "https://x.com/0xGeeGee/status/2066374450292183385",
       "https://x.com/0xGeeGee/status/2066449564631286159",
       "https://x.com/0xGeeGee/status/2066696605320061418",
-      "https://x.com/0xGeeGee/status/2066747956045435324"
+      "https://x.com/0xGeeGee/status/2066747956045435324",
+      "https://x.com/0xGeeGee/status/2066920097743327440",
+      "https://x.com/0xGeeGee/status/2066915435711480195"
     ]
   },
   {
     "handle": "AustinBarack",
     "period_start": "2026-05-14",
     "period_end": "2026-06-16",
-    "profile_updated_at": "2026-06-16T00:52:08Z",
+    "profile_updated_at": "2026-06-16T17:43:25Z",
     "taste_summary": "Observed X/Twitter evidence is strongly thesis-driven around private/anonymized AI, Venice/VVV, decentralized training, open-source models, and AI data protocols. Interpretation confidence is high for Venice/VVV because multiple authored posts and replies repeat the same framing.",
     "likes": [
       {
         "theme": "Private/anonymized AI usage",
-        "summary": "Repeatedly argued centralized AI-lab restrictions and possible user-data compulsion create a tailwind for Venice as a VPN-like private AI product.",
+        "summary": "Repeatedly argued centralized AI-lab restrictions and possible user-data compulsion create a tailwind for Venice as a VPN-like private AI product. Latest usage quote sharpened the bull case: VVV token usage is 'literally up only' after Venice LLM reportedly exceeded 85B daily tokens.",
         "evidence_urls": [
           "https://x.com/AustinBarack/status/2065642988470972861",
           "https://x.com/AustinBarack/status/2065850799494738189",
           "https://x.com/AustinBarack/status/2065790400875356205",
-          "https://x.com/AustinBarack/status/2065867757023817874"
+          "https://x.com/AustinBarack/status/2065867757023817874",
+          "https://x.com/AustinBarack/status/2066897528037986414"
         ],
         "confidence": "high"
       },
       {
         "theme": "Product traction plus monetization in crypto/AI",
-        "summary": "Emphasized Venice user growth, subscriptions/credit purchases, revenue capture, and possible upside even at a tiny fraction of OpenAI scale.",
+        "summary": "Emphasized Venice user growth, subscriptions/credit purchases, revenue capture, and possible upside even at a tiny fraction of OpenAI scale. Also used Coinbase tokenized-stock news to point at Aerodrome/Base as a tokenized stocks + FX venue candidate.",
         "evidence_urls": [
           "https://x.com/AustinBarack/status/2065642988470972861",
           "https://x.com/AustinBarack/status/2065857217199235306",
-          "https://x.com/AustinBarack/status/2065896883474600034"
+          "https://x.com/AustinBarack/status/2065896883474600034",
+          "https://x.com/AustinBarack/status/2066907328352281006"
         ],
         "confidence": "high"
       },
@@ -555,11 +587,12 @@
         "name": "Venice / VVV",
         "handle": "AskVenice",
         "stance": "positive",
-        "summary": "Core repeated positive thesis: private AI product with rapid user growth, top models, subscriptions/credits, and privacy tailwind from centralized AI restrictions.",
+        "summary": "Core repeated positive thesis: private AI product with rapid user growth, top models, subscriptions/credits, and privacy tailwind from centralized AI restrictions. New usage evidence: Austin said no one is bullish enough as token usage is up only after reported 85B+ daily Venice LLM tokens.",
         "evidence_urls": [
           "https://x.com/AustinBarack/status/2065642988470972861",
           "https://x.com/AustinBarack/status/2065896297010475257",
-          "https://x.com/AustinBarack/status/2065857217199235306"
+          "https://x.com/AustinBarack/status/2065857217199235306",
+          "https://x.com/AustinBarack/status/2066897528037986414"
         ]
       },
       {
@@ -597,10 +630,11 @@
         "name": "Aerodrome / AERO",
         "handle": "aerodromefi",
         "stance": "positive",
-        "summary": "Fresh AERO evidence now includes supply-lock/revenue comments plus a mainnet/momentum post highlighting key moving-average breakouts.",
+        "summary": "Fresh AERO evidence now includes supply-lock/revenue comments plus a mainnet/momentum post highlighting key moving-average breakouts. Latest tokenized-stocks/FX/Base comment implies Aerodrome as the venue beneficiary of Coinbase's tokenized-stock push.",
         "evidence_urls": [
           "https://x.com/AustinBarack/status/2066257745238446146",
-          "https://x.com/AustinBarack/status/2066633860448706976"
+          "https://x.com/AustinBarack/status/2066633860448706976",
+          "https://x.com/AustinBarack/status/2066907328352281006"
         ]
       },
       {
@@ -610,6 +644,15 @@
         "summary": "Asked whether BTC or MSTR outperforms over the next three months, emphasizing path dependency.",
         "evidence_urls": [
           "https://x.com/AustinBarack/status/2066259636118770135"
+        ]
+      },
+      {
+        "name": "SPCX / Hyperliquid perps",
+        "handle": "HyperliquidX",
+        "stance": "watching",
+        "summary": "Highlighted $1.5B SPCX volume on Hyperliquid in 24h as evidence of 'perpification of everything.'",
+        "evidence_urls": [
+          "https://x.com/AustinBarack/status/2066888860022312981"
         ]
       }
     ],
@@ -637,7 +680,10 @@
       "https://x.com/AustinBarack/status/2066257745238446146",
       "https://x.com/AustinBarack/status/2066627789000712523",
       "https://x.com/AustinBarack/status/2066632876939202842",
-      "https://x.com/AustinBarack/status/2066633860448706976"
+      "https://x.com/AustinBarack/status/2066633860448706976",
+      "https://x.com/AustinBarack/status/2066897528037986414",
+      "https://x.com/AustinBarack/status/2066907328352281006",
+      "https://x.com/AustinBarack/status/2066888860022312981"
     ]
   },
   {

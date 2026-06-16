@@ -427,5 +427,49 @@
     "summary": "Posted a terse positive Hyperliquid/HYPE chart mention during a strong HYPE move; useful as repeated attention but not a detailed thesis.",
     "quality": "medium",
     "created_tier2_candidate": false
+  },
+  {
+    "from": "AustinBarack",
+    "to": "AskVenice",
+    "to_kind": "project",
+    "type": "quote/usage_thesis",
+    "date": "2026-06-16",
+    "url": "https://x.com/AustinBarack/status/2066897528037986414",
+    "summary": "Quoted Venice usage data and framed VVV as underappreciated because token usage is 'literally up only' after reported 85B+ daily Venice LLM tokens.",
+    "quality": "high",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "AustinBarack",
+    "to": "aerodromefi",
+    "to_kind": "project",
+    "type": "quote/market_structure_thesis",
+    "date": "2026-06-16",
+    "url": "https://x.com/AustinBarack/status/2066907328352281006",
+    "summary": "Used Coinbase tokenized-stock news to point at the leading Base spot exchange expanding into tokenized stocks/FX and Ethereum mainnet, reinforcing the AERO/Base thesis.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "AustinBarack",
+    "to": "HyperliquidX",
+    "to_kind": "project",
+    "type": "mention/market_structure",
+    "date": "2026-06-16",
+    "url": "https://x.com/AustinBarack/status/2066888860022312981",
+    "summary": "Highlighted $1.5B SPCX volume on Hyperliquid in 24h as 'perpification of everything,' an infrastructure/use-case mention rather than a HYPE price thesis.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "variational_io",
+    "to_kind": "project",
+    "type": "mention/reply",
+    "date": "2026-06-16",
+    "url": "https://x.com/0xGeeGee/status/2066920097743327440",
+    "summary": "In MegaETH-points criticism, said users should use apps they actually want/need rather than burning fees and liquidity without reason, citing gVariational as the product-use example.",
+    "quality": "medium",
+    "created_tier2_candidate": false
   }
 ]

@@ -979,5 +979,71 @@
     ],
     "why_logged": "Small but useful continuation of MoneyPrinter0x’s AI-equity basket/process evidence, especially photonics and neocloud monitoring after the June 13 watchlist.",
     "confidence": "medium"
+  },
+  {
+    "date": "2026-06-16",
+    "handle": "AustinBarack",
+    "type": "quote",
+    "url": "https://x.com/AustinBarack/status/2066897528037986414",
+    "summary": "Quoted Erik Voorhees/Venice usage data and said no one is bullish enough on VVV because token usage is 'literally up only' after Venice LLM reportedly exceeded 85B daily tokens.",
+    "entities": [
+      "Venice / VVV",
+      "AskVenice",
+      "Erik Voorhees",
+      "AI token usage",
+      "private AI"
+    ],
+    "why_logged": "Fresh, direct AustinBarack evidence for the Venice/VVV product-traction thesis, with usage metric framed as the core bullish input.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-16",
+    "handle": "AustinBarack",
+    "type": "quote",
+    "url": "https://x.com/AustinBarack/status/2066907328352281006",
+    "summary": "Quoted Coinbase's tokenized-stock announcement and pointed to the Base spot exchange with leading share, tokenized stocks/FX focus, and Ethereum mainnet expansion—implicitly reinforcing the Aerodrome/AERO setup.",
+    "entities": [
+      "Coinbase",
+      "tokenized stocks",
+      "Base",
+      "Aerodrome / AERO",
+      "FX",
+      "Ethereum mainnet",
+      "RWA"
+    ],
+    "why_logged": "Connects Austin's prior AERO interest to a concrete tokenized-stocks/FX catalyst and Base market-structure thesis.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-16",
+    "handle": "AustinBarack",
+    "type": "authored_post/chart",
+    "url": "https://x.com/AustinBarack/status/2066888860022312981",
+    "summary": "Noted that $1.5B of SPCX traded in the last 24 hours on Hyperliquid, calling it 'perpification of everything.'",
+    "entities": [
+      "SPCX",
+      "Hyperliquid",
+      "perps",
+      "perpification of everything"
+    ],
+    "why_logged": "Useful market-structure evidence: a Tier 1 account is tracking non-crypto/perp expansion on Hyperliquid rather than only HYPE price action.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-16",
+    "handle": "0xGeeGee",
+    "type": "quote/reply",
+    "url": "https://x.com/0xGeeGee/status/2066920097743327440",
+    "summary": "Pushed back on MegaETH-points anger, saying users should try apps they actually want or need rather than burning fees/liquidity for no reason; used gVariational as an example. Nearby quote said tokenmaxxing is done if even MAGS no longer want to pay the insanity.",
+    "entities": [
+      "MegaETH",
+      "points programs",
+      "gVariational",
+      "Variational",
+      "tokenmaxxing",
+      "fee farming"
+    ],
+    "why_logged": "Clear GeeGee filter on airdrop/points behavior: product-use over purposeless fee burn, and fatigue with extreme tokenmaxxing economics.",
+    "confidence": "medium"
   }
 ]
