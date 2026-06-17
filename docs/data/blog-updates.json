@@ -1,6 +1,6 @@
 {
-  "last_checked": "2026-06-17T14:33:20Z",
-  "new_count": 1,
+  "last_checked": "2026-06-17T18:39:12Z",
+  "new_count": 2,
   "sources": [
     {
       "name": "a16z crypto",
@@ -63,7 +63,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-17T14:33:17Z"
+      "checked_at": "2026-06-17T18:39:09Z"
     },
     {
       "name": "Multicoin Capital",
@@ -138,7 +138,7 @@
           "published": "Thu, 11 Sep 2025 00:00:00 GMT"
         }
       ],
-      "checked_at": "2026-06-17T14:33:17Z"
+      "checked_at": "2026-06-17T18:39:09Z"
     },
     {
       "name": "Pantera Blockchain Letter",
@@ -203,7 +203,7 @@
           "published": "Thu, 29 May 2025 16:37:35 +0000"
         }
       ],
-      "checked_at": "2026-06-17T14:33:18Z"
+      "checked_at": "2026-06-17T18:39:10Z"
     },
     {
       "name": "Paradigm",
@@ -266,7 +266,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-17T14:33:19Z"
+      "checked_at": "2026-06-17T18:39:10Z"
     },
     {
       "name": "Glassnode Research",
@@ -294,6 +294,11 @@
           "title": "Measuring Bitcoin's Quantum-Exposed Supply",
           "url": "https://research.glassnode.com/measuring-bitcoins-quantum-exposed-supply",
           "published": "Wed, 20 May 2026 10:00:00 GMT"
+        },
+        {
+          "title": "A Market in Repair",
+          "url": "https://research.glassnode.com/the-week-onchain-week-24-2026",
+          "published": "Wed, 17 Jun 2026 14:53:09 GMT"
         },
         {
           "title": "The Bitcoin Vector #60",
@@ -334,14 +339,9 @@
           "title": "The Bitcoin Vector #58",
           "url": "https://research.glassnode.com/the-bitcoin-vector-58",
           "published": "Thu, 04 Jun 2026 07:10:15 GMT"
-        },
-        {
-          "title": "The Rally That Wasn't",
-          "url": "https://research.glassnode.com/the-week-onchain-week-22-2026",
-          "published": "Wed, 03 Jun 2026 15:30:52 GMT"
         }
       ],
-      "checked_at": "2026-06-17T14:33:19Z"
+      "checked_at": "2026-06-17T18:39:11Z"
     },
     {
       "name": "Delphi Digital",
@@ -359,7 +359,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-17T14:33:19Z"
+      "checked_at": "2026-06-17T18:39:11Z"
     },
     {
       "name": "Electric Capital",
@@ -371,7 +371,7 @@
       "error": null,
       "feed_urls": [],
       "items": [],
-      "checked_at": "2026-06-17T14:33:19Z"
+      "checked_at": "2026-06-17T18:39:11Z"
     },
     {
       "name": "Bankless",
@@ -439,12 +439,12 @@
           "published": null
         },
         {
-          "title": "News Mastercard Adds Stablecoin Settlement for 24/7 Card Payments Mastercard is using regulated stablecoins to enable intraday, weekend, and",
-          "url": "https://www.bankless.com/read/news/mastercard-adds-stablecoin-settlement-for-24-7-card-payments",
+          "title": "News Pump.fun Launches GO, a Bounty Platform for ANY Task Pump.fun's new GO platform lets users post paid bounties with rewards held in escr",
+          "url": "https://www.bankless.com/read/news/pump-fun-launches-go-a-bounty-platform-for-any-task",
           "published": null
         }
       ],
-      "checked_at": "2026-06-17T14:33:20Z"
+      "checked_at": "2026-06-17T18:39:12Z"
     },
     {
       "name": "Token Terminal",
@@ -517,7 +517,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-17T14:33:20Z"
+      "checked_at": "2026-06-17T18:39:12Z"
     }
   ],
   "articles": [
@@ -972,6 +972,16 @@
       "source_url": "https://research.glassnode.com/"
     },
     {
+      "id": "d069b3e7841a",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "A Market in Repair",
+      "url": "https://research.glassnode.com/the-week-onchain-week-24-2026",
+      "published": "Wed, 17 Jun 2026 14:53:09 GMT",
+      "first_seen": "2026-06-17T18:39:12Z",
+      "source_url": "https://research.glassnode.com/"
+    },
+    {
       "id": "1537703e0565",
       "source": "Glassnode Research",
       "tier": 1,
@@ -1048,16 +1058,6 @@
       "title": "The Bitcoin Vector #58",
       "url": "https://research.glassnode.com/the-bitcoin-vector-58",
       "published": "Thu, 04 Jun 2026 07:10:15 GMT",
-      "first_seen": "2026-06-14T20:08:30Z",
-      "source_url": "https://research.glassnode.com/"
-    },
-    {
-      "id": "83f10bcc6d73",
-      "source": "Glassnode Research",
-      "tier": 1,
-      "title": "The Rally That Wasn't",
-      "url": "https://research.glassnode.com/the-week-onchain-week-22-2026",
-      "published": "Wed, 03 Jun 2026 15:30:52 GMT",
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://research.glassnode.com/"
     },
@@ -1182,13 +1182,13 @@
       "source_url": "https://www.bankless.com/read"
     },
     {
-      "id": "e2966c8eb211",
+      "id": "f735e28835c9",
       "source": "Bankless",
       "tier": 2,
-      "title": "News Mastercard Adds Stablecoin Settlement for 24/7 Card Payments Mastercard is using regulated stablecoins to enable intraday, weekend, and",
-      "url": "https://www.bankless.com/read/news/mastercard-adds-stablecoin-settlement-for-24-7-card-payments",
+      "title": "News Pump.fun Launches GO, a Bounty Platform for ANY Task Pump.fun's new GO platform lets users post paid bounties with rewards held in escr",
+      "url": "https://www.bankless.com/read/news/pump-fun-launches-go-a-bounty-platform-for-any-task",
       "published": null,
-      "first_seen": "2026-06-14T20:08:30Z",
+      "first_seen": "2026-06-17T18:39:12Z",
       "source_url": "https://www.bankless.com/read"
     },
     {
@@ -1310,6 +1310,26 @@
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "83f10bcc6d73",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "The Rally That Wasn't",
+      "url": "https://research.glassnode.com/the-week-onchain-week-22-2026",
+      "published": "Wed, 03 Jun 2026 15:30:52 GMT",
+      "first_seen": "2026-06-14T20:08:30Z",
+      "source_url": "https://research.glassnode.com/"
+    },
+    {
+      "id": "e2966c8eb211",
+      "source": "Bankless",
+      "tier": 2,
+      "title": "News Mastercard Adds Stablecoin Settlement for 24/7 Card Payments Mastercard is using regulated stablecoins to enable intraday, weekend, and",
+      "url": "https://www.bankless.com/read/news/mastercard-adds-stablecoin-settlement-for-24-7-card-payments",
+      "published": null,
+      "first_seen": "2026-06-14T20:08:30Z",
+      "source_url": "https://www.bankless.com/read"
     },
     {
       "id": "58c135e620a6",
