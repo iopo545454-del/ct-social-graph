@@ -155,14 +155,15 @@
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
     "period_end": "2026-06-17",
-    "profile_updated_at": "2026-06-17T18:38:46Z",
+    "profile_updated_at": "2026-06-17T22:43:37Z",
     "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with a practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Interpretation confidence is now medium-high after a detailed June 14 thesis thread.",
     "likes": [
       {
         "theme": "AI inference efficiency and optimization layers",
-        "summary": "Predicted a 2026 DeepSeek-style moment for inference where cost awareness, observability, and better harnesses/architectures matter more.",
+        "summary": "Predicted a 2026 DeepSeek-style moment for inference where cost awareness, observability, and better harnesses/architectures matter more. Latest quote added that more DeepSeek-like cost collapses may come from infrastructure progress as foundation models commoditize.",
         "evidence_urls": [
-          "https://x.com/0xGeeGee/status/2065771227743138126"
+          "https://x.com/0xGeeGee/status/2065771227743138126",
+          "https://x.com/0xGeeGee/status/2067328339170243046"
         ],
         "confidence": "medium"
       },
@@ -533,7 +534,8 @@
       "https://x.com/0xGeeGee/status/2066915435711480195",
       "https://x.com/0xGeeGee/status/2067056795991015531",
       "https://x.com/0xGeeGee/status/2067044301927022772",
-      "https://x.com/i/status/2067303523960979677"
+      "https://x.com/i/status/2067303523960979677",
+      "https://x.com/0xGeeGee/status/2067328339170243046"
     ]
   },
   {
@@ -713,7 +715,7 @@
     "handle": "airtightfish",
     "period_start": "2026-05-14",
     "period_end": "2026-06-17",
-    "profile_updated_at": "2026-06-17T06:10:36Z",
+    "profile_updated_at": "2026-06-17T22:43:37Z",
     "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, and nuance around trader behavior versus scams. Interpretation confidence is medium; many posts are project/community replies.",
     "likes": [
       {
@@ -803,13 +805,14 @@
         "name": "ProofMarkets",
         "handle": "ProofMarkets",
         "stance": "positive",
-        "summary": "Main repeated project; discussed waitlist/filtering/manual review, signups, feedback, future markets, and now challenge access-code rollout plus manual feedback DMs.",
+        "summary": "Main repeated project; discussed waitlist/filtering/manual review, signups, feedback, future markets, and now challenge access-code rollout plus manual feedback DMs. Latest update: contest is live and manually reviewed applicants are being onboarded over roughly the next day.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2064390683440341286",
           "https://x.com/airtightfish/status/2064743264691875927",
           "https://x.com/airtightfish/status/2064562933405736983",
           "https://x.com/airtightfish/status/2063450933804052934",
-          "https://x.com/airtightfish/status/2066622518681612458"
+          "https://x.com/airtightfish/status/2066622518681612458",
+          "https://x.com/airtightfish/status/2067368882688393357"
         ]
       },
       {
@@ -891,7 +894,8 @@
       "https://x.com/i/status/2066708058038829319",
       "https://x.com/airtightfish/status/2067032953994072416",
       "https://x.com/airtightfish/status/2067071639515283852",
-      "https://x.com/airtightfish/status/2067075588364333472"
+      "https://x.com/airtightfish/status/2067075588364333472",
+      "https://x.com/airtightfish/status/2067368882688393357"
     ]
   },
   {
@@ -1110,7 +1114,7 @@
     "handle": "MoneyPrinter0x",
     "period_start": "2026-05-14",
     "period_end": "2026-06-17",
-    "profile_updated_at": "2026-06-17T14:32:43Z",
+    "profile_updated_at": "2026-06-17T22:43:37Z",
     "taste_summary": "Observed X/Twitter evidence is unusually detailed around production-grade AI agent systems and active AI-equity/crypto trading. Recent market evidence emphasizes AI infrastructure baskets, forward-looking regime-change monitors such as photonics/neoclouds, event-driven stock trades, Hyperliquid/HYPE momentum, and multi-book risk management. Interpretation confidence is high for agent-systems interest and medium-high for current trading-process preferences.",
     "likes": [
       {
@@ -1230,6 +1234,14 @@
           "https://x.com/MoneyPrinter0x/status/2067014336447705397"
         ],
         "confidence": "high"
+      },
+      {
+        "theme": "Event volatility as long/short opportunity with explicit risk caps",
+        "summary": "Used Fed-pricing/rates repricing to frame a short-term short into panic/information gaps, while emphasizing that traders monetize volatility, not straight lines, and that even high-conviction risk is capped around 20%.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2067367978740732331"
+        ],
+        "confidence": "medium"
       }
     ],
     "dislikes": [
@@ -1450,14 +1462,16 @@
       "https://x.com/MoneyPrinter0x/status/2066963569561006199",
       "https://x.com/MoneyPrinter0x/status/2067014336447705397",
       "https://x.com/MoneyPrinter0x/status/2067075729339363371",
-      "https://x.com/MoneyPrinter0x/status/2067239109492695496"
+      "https://x.com/MoneyPrinter0x/status/2067239109492695496",
+      "https://x.com/MoneyPrinter0x/status/2067367978740732331",
+      "https://x.com/MoneyPrinter0x/status/2067367791930581312"
     ]
   },
   {
     "handle": "kelxyz_",
     "period_start": "2026-05-14",
     "period_end": "2026-06-17",
-    "profile_updated_at": "2026-06-17T02:20:00Z",
+    "profile_updated_at": "2026-06-17T22:43:37Z",
     "taste_summary": "Observed X/Twitter evidence is thesis-heavy around AI/crypto protocols, especially Pluralis, inference-market timing, decentralized/model-parallel training, and broader AI-driven cultural/economic outcomes. New evidence adds a concrete positive ZEC/privacy-chain technical thesis. Interpretation confidence is high for Pluralis interest and medium for ZEC pending corroboration.",
     "likes": [
       {
@@ -1530,11 +1544,12 @@
         "name": "Pluralis",
         "handle": "pluralis",
         "stance": "positive",
-        "summary": "Dominant positive project: potential gigantic protocol, early but well-positioned for model scaling/model-parallel decentralized training.",
+        "summary": "Dominant positive project: potential gigantic protocol, early but well-positioned for model scaling/model-parallel decentralized training. Latest mention tied Pluralis to concern that Chinese open labs are moving away from open-source/open-weight releases.",
         "evidence_urls": [
           "https://x.com/kelxyz_/status/2065782384616780175",
           "https://x.com/kelxyz_/status/2065782544566522156",
-          "https://x.com/kelxyz_/status/2063836178990633419"
+          "https://x.com/kelxyz_/status/2063836178990633419",
+          "https://x.com/kelxyz_/status/2067362394129543373"
         ]
       },
       {
@@ -1591,7 +1606,8 @@
       "https://x.com/kelxyz_/status/2063836178990633419",
       "https://x.com/kelxyz_/status/2066316917766291622",
       "https://x.com/kelxyz_/status/2066549475200688524",
-      "https://x.com/kelxyz_/status/2066548579242500109"
+      "https://x.com/kelxyz_/status/2066548579242500109",
+      "https://x.com/kelxyz_/status/2067362394129543373"
     ]
   }
 ]

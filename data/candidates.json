@@ -318,5 +318,17 @@
     ],
     "first_seen": "2026-06-17",
     "confidence": "low"
+  },
+  {
+    "handle": "CharlieBilello",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "MoneyPrinter0x reply to rate-pricing chart",
+    "reason": "MoneyPrinter0x used Charlie Bilello's Fed-pricing/rate chart as the basis for a substantive macro/regime and risk-management reply; one interaction only, so candidate rather than Tier 2.",
+    "evidence_urls": [
+      "https://x.com/MoneyPrinter0x/status/2067367978740732331"
+    ],
+    "first_seen": "2026-06-17",
+    "confidence": "low"
   }
 ]

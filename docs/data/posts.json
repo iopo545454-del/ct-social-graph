@@ -1,6 +1,71 @@
 [
   {
     "date": "2026-06-17",
+    "handle": "kelxyz_",
+    "type": "reply/mention",
+    "url": "https://x.com/kelxyz_/status/2067362394129543373",
+    "summary": "Mentioned Pluralis while arguing that open labs in China are already slowly moving away from open source/open weights.",
+    "entities": [
+      "Pluralis",
+      "open-source AI",
+      "open weights",
+      "China AI labs",
+      "decentralized training"
+    ],
+    "why_logged": "Adds another Pluralis-adjacent evidence point to kelxyz_'s repeated decentralized-training/open-model thesis.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-17",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/thread",
+    "url": "https://x.com/MoneyPrinter0x/status/2067367978740732331",
+    "summary": "Responded to rate-cut/rate-hike repricing data by arguing sentiment and volatility matter more than the rate-data headline until liquidity gets truly constrictive; said he is short short-term for panic/information gaps but wants to use event volatility to build long/short capability, capped at 20% risk even at high conviction.",
+    "entities": [
+      "2Y yields",
+      "Fed cuts/hikes",
+      "market regime",
+      "short-term shorts",
+      "volatility trading",
+      "risk cap"
+    ],
+    "why_logged": "High-signal process evidence: macro/event-risk framing, short-term positioning, and explicit risk-management constraints.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-17",
+    "handle": "0xGeeGee",
+    "type": "quote",
+    "url": "https://x.com/0xGeeGee/status/2067328339170243046",
+    "summary": "Quoted Chaos Labs on foundation models becoming commoditized and predicted more DeepSeek-like cost collapses, with progress coming from infrastructure rather than only smarter base models.",
+    "entities": [
+      "Chaos Labs",
+      "AI infrastructure",
+      "DeepSeek moments",
+      "foundation model commoditization",
+      "AI cost reduction"
+    ],
+    "why_logged": "Adds fresh concise evidence to GeeGee's repeated AI-inference efficiency/cost-observability thesis.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-17",
+    "handle": "airtightfish",
+    "type": "quote/project_update",
+    "url": "https://x.com/airtightfish/status/2067368882688393357",
+    "summary": "Quoted ProofMarkets' v0 Challenge/waitlist announcement and said the contest is live, applications are reviewed, and manual onboarding will happen over roughly the next day.",
+    "entities": [
+      "ProofMarkets",
+      "v0 Challenge",
+      "paper trading contest",
+      "manual onboarding",
+      "waitlist"
+    ],
+    "why_logged": "Fresh operating evidence for an already-promoted Tier 2 project; useful for the project mention ledger and interaction stream.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-17",
     "handle": "0xGeeGee",
     "type": "authored_post/thread",
     "url": "https://x.com/i/status/2067303523960979677",

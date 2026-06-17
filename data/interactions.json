@@ -1,5 +1,38 @@
 [
   {
+    "from": "MoneyPrinter0x",
+    "to": "CharlieBilello",
+    "to_kind": "individual",
+    "type": "reply/macro_context",
+    "date": "2026-06-17",
+    "url": "https://x.com/MoneyPrinter0x/status/2067367978740732331",
+    "summary": "Responded substantively to Charlie Bilello rate-pricing data with a volatility/regime read: short-term shorts for panic/information gaps, but broader focus on event-driven long/short opportunity and risk caps.",
+    "quality": "medium",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "kelxyz_",
+    "to": "pluralis",
+    "to_kind": "project",
+    "type": "reply/mention",
+    "date": "2026-06-17",
+    "url": "https://x.com/kelxyz_/status/2067362394129543373",
+    "summary": "Used Pluralis as the reference point in a comment that Chinese open labs are already creeping away from open-source/open-weight releases.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "airtightfish",
+    "to": "ProofMarkets",
+    "to_kind": "project",
+    "type": "quote/project_update",
+    "date": "2026-06-17",
+    "url": "https://x.com/airtightfish/status/2067368882688393357",
+    "summary": "Quoted ProofMarkets' v0 Challenge announcement and said the contest is live with manually reviewed applicants being onboarded over the next day.",
+    "quality": "high",
+    "created_tier2_candidate": false
+  },
+  {
     "from": "AustinBarack",
     "to": "AskVenice",
     "to_kind": "project",
