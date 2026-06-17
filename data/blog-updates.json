@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-17T10:17:31Z",
+  "last_checked": "2026-06-17T14:33:20Z",
   "new_count": 1,
   "sources": [
     {
@@ -33,6 +33,11 @@
           "published": null
         },
         {
+          "title": "Welcome to the 'Show Me' era",
+          "url": "https://a16zcrypto.com/posts/article/show-me-era-in-communications-crypto",
+          "published": null
+        },
+        {
           "title": "3 product-market fit patterns that are working in crypto right now",
           "url": "https://a16zcrypto.com/posts/article/product-market-fit-3-patterns-working-in-crypto-today",
           "published": null
@@ -40,11 +45,6 @@
         {
           "title": "Why Wall Street is moving onchain",
           "url": "https://a16zcrypto.com/posts/article/why-wall-street-is-moving-onchain",
-          "published": null
-        },
-        {
-          "title": "Your product won\u2019t sell itself: How to build a world-class sales team",
-          "url": "https://a16zcrypto.com/posts/article/build-world-class-sales-team",
           "published": null
         },
         {
@@ -63,7 +63,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-17T10:17:27Z"
+      "checked_at": "2026-06-17T14:33:17Z"
     },
     {
       "name": "Multicoin Capital",
@@ -138,7 +138,7 @@
           "published": "Thu, 11 Sep 2025 00:00:00 GMT"
         }
       ],
-      "checked_at": "2026-06-17T10:17:28Z"
+      "checked_at": "2026-06-17T14:33:17Z"
     },
     {
       "name": "Pantera Blockchain Letter",
@@ -203,7 +203,7 @@
           "published": "Thu, 29 May 2025 16:37:35 +0000"
         }
       ],
-      "checked_at": "2026-06-17T10:17:29Z"
+      "checked_at": "2026-06-17T14:33:18Z"
     },
     {
       "name": "Paradigm",
@@ -266,7 +266,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-17T10:17:29Z"
+      "checked_at": "2026-06-17T14:33:19Z"
     },
     {
       "name": "Glassnode Research",
@@ -341,7 +341,7 @@
           "published": "Wed, 03 Jun 2026 15:30:52 GMT"
         }
       ],
-      "checked_at": "2026-06-17T10:17:29Z"
+      "checked_at": "2026-06-17T14:33:19Z"
     },
     {
       "name": "Delphi Digital",
@@ -359,7 +359,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-17T10:17:30Z"
+      "checked_at": "2026-06-17T14:33:19Z"
     },
     {
       "name": "Electric Capital",
@@ -371,7 +371,7 @@
       "error": null,
       "feed_urls": [],
       "items": [],
-      "checked_at": "2026-06-17T10:17:30Z"
+      "checked_at": "2026-06-17T14:33:19Z"
     },
     {
       "name": "Bankless",
@@ -444,7 +444,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-17T10:17:30Z"
+      "checked_at": "2026-06-17T14:33:20Z"
     },
     {
       "name": "Token Terminal",
@@ -517,7 +517,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-17T10:17:31Z"
+      "checked_at": "2026-06-17T14:33:20Z"
     }
   ],
   "articles": [
@@ -562,6 +562,16 @@
       "source_url": "https://a16zcrypto.com/posts/"
     },
     {
+      "id": "ee3640a21331",
+      "source": "a16z crypto",
+      "tier": 1,
+      "title": "Welcome to the 'Show Me' era",
+      "url": "https://a16zcrypto.com/posts/article/show-me-era-in-communications-crypto",
+      "published": null,
+      "first_seen": "2026-06-17T14:33:20Z",
+      "source_url": "https://a16zcrypto.com/posts/"
+    },
+    {
       "id": "b7cbf1c4df5d",
       "source": "a16z crypto",
       "tier": 1,
@@ -577,16 +587,6 @@
       "tier": 1,
       "title": "Why Wall Street is moving onchain",
       "url": "https://a16zcrypto.com/posts/article/why-wall-street-is-moving-onchain",
-      "published": null,
-      "first_seen": "2026-06-14T20:08:30Z",
-      "source_url": "https://a16zcrypto.com/posts/"
-    },
-    {
-      "id": "58c135e620a6",
-      "source": "a16z crypto",
-      "tier": 1,
-      "title": "Your product won\u2019t sell itself: How to build a world-class sales team",
-      "url": "https://a16zcrypto.com/posts/article/build-world-class-sales-team",
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://a16zcrypto.com/posts/"
@@ -1310,6 +1310,16 @@
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "58c135e620a6",
+      "source": "a16z crypto",
+      "tier": 1,
+      "title": "Your product won\u2019t sell itself: How to build a world-class sales team",
+      "url": "https://a16zcrypto.com/posts/article/build-world-class-sales-team",
+      "published": null,
+      "first_seen": "2026-06-14T20:08:30Z",
+      "source_url": "https://a16zcrypto.com/posts/"
     },
     {
       "id": "682d0ab5a54b",
