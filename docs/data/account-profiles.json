@@ -1100,7 +1100,7 @@
     "handle": "MoneyPrinter0x",
     "period_start": "2026-05-14",
     "period_end": "2026-06-17",
-    "profile_updated_at": "2026-06-17T02:20:00Z",
+    "profile_updated_at": "2026-06-17T14:32:43Z",
     "taste_summary": "Observed X/Twitter evidence is unusually detailed around production-grade AI agent systems and active AI-equity/crypto trading. Recent market evidence emphasizes AI infrastructure baskets, forward-looking regime-change monitors such as photonics/neoclouds, event-driven stock trades, Hyperliquid/HYPE momentum, and multi-book risk management. Interpretation confidence is high for agent-systems interest and medium-high for current trading-process preferences.",
     "likes": [
       {
@@ -1196,12 +1196,13 @@
       },
       {
         "theme": "Short-dated event-risk options with explicit asymmetric sizing",
-        "summary": "June 16 posts showed short-dated SOXL/SPCX calls around FOMC, with language that SOXL calls were very risky/expect zero and replies framing setups as cheap to be wrong but lucrative if right near higher-timeframe supports.",
+        "summary": "June 16-17 posts showed short-dated SOXL/SPCX calls around FOMC, explicit willingness to expect zero on risky options, quick rotation into SPCX, and follow-through closing >60% on SPCX 1DTE calls bought minutes before the prior close.",
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2066969667940553125",
-          "https://x.com/MoneyPrinter0x/status/2066999597000692143"
+          "https://x.com/MoneyPrinter0x/status/2066999597000692143",
+          "https://x.com/MoneyPrinter0x/status/2067239109492695496"
         ],
-        "confidence": "medium"
+        "confidence": "medium-high"
       },
       {
         "theme": "Hyperliquid ecosystem relative-value expressions",
@@ -1377,11 +1378,13 @@
       {
         "name": "SPCX",
         "handle": null,
-        "stance": "trading",
-        "summary": "Rotated from SOXL calls to SPCX calls into FOMC, saying SPCX benefits most on an upside surprise; short-term event trade rather than durable project preference.",
+        "stance": "trading/positive short-term",
+        "summary": "Rotated from SOXL calls to SPCX calls into FOMC, said SPCX benefits most on an upside surprise, then posted same-day SPCX 0DTE/ITM calls and closed >60% on 1DTE calls; short-term event trade rather than durable project preference.",
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2066969667940553125",
-          "https://x.com/MoneyPrinter0x/status/2066974046622040180"
+          "https://x.com/MoneyPrinter0x/status/2066974046622040180",
+          "https://x.com/MoneyPrinter0x/status/2067075729339363371",
+          "https://x.com/MoneyPrinter0x/status/2067239109492695496"
         ]
       }
     ],
@@ -1435,7 +1438,9 @@
       "https://x.com/MoneyPrinter0x/status/2066953020760563917",
       "https://x.com/MoneyPrinter0x/status/2066969667940553125",
       "https://x.com/MoneyPrinter0x/status/2066963569561006199",
-      "https://x.com/MoneyPrinter0x/status/2067014336447705397"
+      "https://x.com/MoneyPrinter0x/status/2067014336447705397",
+      "https://x.com/MoneyPrinter0x/status/2067075729339363371",
+      "https://x.com/MoneyPrinter0x/status/2067239109492695496"
     ]
   },
   {

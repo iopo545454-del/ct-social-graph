@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-06-17",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/quote_self",
+    "url": "https://x.com/MoneyPrinter0x/status/2067239109492695496",
+    "summary": "Closed more than 60% on short-dated SPCX calls bought minutes before the prior close, quoting his own “switched to spcx” post and showing the sharp SPCX move; nearby same-day posts included “spcx 0dte itm calls” and an inauguration-style analogy about overthinking obvious event setups.",
+    "entities": [
+      "SPCX",
+      "0DTE/1DTE calls",
+      "event-risk options",
+      "short-dated equity options",
+      "momentum trade"
+    ],
+    "why_logged": "Adds concrete follow-through to the June 16 SPCX/FOMC options setup: not just watchlist language, but execution, exit, and realized short-dated options PnL evidence.",
+    "confidence": "high"
+  },
+  {
     "date": "2026-06-14",
     "handle": "MoneyPrinter0x",
     "type": "authored_post/replies",
