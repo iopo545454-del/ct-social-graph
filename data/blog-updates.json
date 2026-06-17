@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-15T16:35:36Z",
+  "last_checked": "2026-06-17T10:17:31Z",
   "new_count": 1,
   "sources": [
     {
@@ -63,7 +63,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-15T16:35:31Z"
+      "checked_at": "2026-06-17T10:17:27Z"
     },
     {
       "name": "Multicoin Capital",
@@ -138,7 +138,7 @@
           "published": "Thu, 11 Sep 2025 00:00:00 GMT"
         }
       ],
-      "checked_at": "2026-06-15T16:35:33Z"
+      "checked_at": "2026-06-17T10:17:28Z"
     },
     {
       "name": "Pantera Blockchain Letter",
@@ -203,7 +203,7 @@
           "published": "Thu, 29 May 2025 16:37:35 +0000"
         }
       ],
-      "checked_at": "2026-06-15T16:35:34Z"
+      "checked_at": "2026-06-17T10:17:29Z"
     },
     {
       "name": "Paradigm",
@@ -266,7 +266,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-15T16:35:34Z"
+      "checked_at": "2026-06-17T10:17:29Z"
     },
     {
       "name": "Glassnode Research",
@@ -294,6 +294,11 @@
           "title": "Measuring Bitcoin's Quantum-Exposed Supply",
           "url": "https://research.glassnode.com/measuring-bitcoins-quantum-exposed-supply",
           "published": "Wed, 20 May 2026 10:00:00 GMT"
+        },
+        {
+          "title": "The Bitcoin Vector #60",
+          "url": "https://research.glassnode.com/the-bitcoin-vector-60",
+          "published": "Wed, 17 Jun 2026 07:53:46 GMT"
         },
         {
           "title": "BTC Market Pulse: Week 25",
@@ -334,14 +339,9 @@
           "title": "The Rally That Wasn't",
           "url": "https://research.glassnode.com/the-week-onchain-week-22-2026",
           "published": "Wed, 03 Jun 2026 15:30:52 GMT"
-        },
-        {
-          "title": "Glassnode spinout Cense raises \u20ac6.5 million seed round to transform crypto compliance for banks",
-          "url": "https://research.glassnode.com/glassnode-spinout-cense-raises-seed-round",
-          "published": "Wed, 03 Jun 2026 07:30:09 GMT"
         }
       ],
-      "checked_at": "2026-06-15T16:35:34Z"
+      "checked_at": "2026-06-17T10:17:29Z"
     },
     {
       "name": "Delphi Digital",
@@ -359,7 +359,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-15T16:35:35Z"
+      "checked_at": "2026-06-17T10:17:30Z"
     },
     {
       "name": "Electric Capital",
@@ -371,7 +371,7 @@
       "error": null,
       "feed_urls": [],
       "items": [],
-      "checked_at": "2026-06-15T16:35:35Z"
+      "checked_at": "2026-06-17T10:17:30Z"
     },
     {
       "name": "Bankless",
@@ -444,7 +444,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-15T16:35:36Z"
+      "checked_at": "2026-06-17T10:17:30Z"
     },
     {
       "name": "Token Terminal",
@@ -517,7 +517,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-15T16:35:36Z"
+      "checked_at": "2026-06-17T10:17:31Z"
     }
   ],
   "articles": [
@@ -972,6 +972,16 @@
       "source_url": "https://research.glassnode.com/"
     },
     {
+      "id": "1537703e0565",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "The Bitcoin Vector #60",
+      "url": "https://research.glassnode.com/the-bitcoin-vector-60",
+      "published": "Wed, 17 Jun 2026 07:53:46 GMT",
+      "first_seen": "2026-06-17T10:17:31Z",
+      "source_url": "https://research.glassnode.com/"
+    },
+    {
       "id": "e67274cb76ba",
       "source": "Glassnode Research",
       "tier": 1,
@@ -1048,16 +1058,6 @@
       "title": "The Rally That Wasn't",
       "url": "https://research.glassnode.com/the-week-onchain-week-22-2026",
       "published": "Wed, 03 Jun 2026 15:30:52 GMT",
-      "first_seen": "2026-06-14T20:08:30Z",
-      "source_url": "https://research.glassnode.com/"
-    },
-    {
-      "id": "682d0ab5a54b",
-      "source": "Glassnode Research",
-      "tier": 1,
-      "title": "Glassnode spinout Cense raises \u20ac6.5 million seed round to transform crypto compliance for banks",
-      "url": "https://research.glassnode.com/glassnode-spinout-cense-raises-seed-round",
-      "published": "Wed, 03 Jun 2026 07:30:09 GMT",
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://research.glassnode.com/"
     },
@@ -1310,6 +1310,16 @@
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "682d0ab5a54b",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "Glassnode spinout Cense raises \u20ac6.5 million seed round to transform crypto compliance for banks",
+      "url": "https://research.glassnode.com/glassnode-spinout-cense-raises-seed-round",
+      "published": "Wed, 03 Jun 2026 07:30:09 GMT",
+      "first_seen": "2026-06-14T20:08:30Z",
+      "source_url": "https://research.glassnode.com/"
     },
     {
       "id": "c3693a6baa54",
