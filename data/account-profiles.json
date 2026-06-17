@@ -2,8 +2,8 @@
   {
     "handle": "coin_casanova",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-16",
-    "profile_updated_at": "2026-06-16T05:10:00Z",
+    "period_end": "2026-06-17",
+    "profile_updated_at": "2026-06-17T02:20:00Z",
     "taste_summary": "Observed X/Twitter evidence shows a short-horizon trader focused on low-float/FDV-style setups, hedging, rotation, options, and relative-value framing between crypto and equities. Interpretation confidence is medium because the scan found several original posts but few substantive replies.",
     "likes": [
       {
@@ -154,8 +154,8 @@
   {
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-16",
-    "profile_updated_at": "2026-06-16T17:43:25Z",
+    "period_end": "2026-06-17",
+    "profile_updated_at": "2026-06-17T02:20:00Z",
     "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with a practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Interpretation confidence is now medium-high after a detailed June 14 thesis thread.",
     "likes": [
       {
@@ -316,6 +316,14 @@
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2066915435711480195",
           "https://x.com/0xGeeGee/status/2066920097743327440"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "Prediction-market fee drag / grifty PM UX",
+        "summary": "Called out Axiom's 3% service-fee math as worsening already-grifty prediction markets, emphasizing fee drag and EV structure over headline odds.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2067056795991015531"
         ],
         "confidence": "medium"
       }
@@ -491,7 +499,8 @@
       "Track whether Shift Protocol/ltLLP/LIT becomes a recurring DeFi position or was a one-off yield-management comment.",
       "Track whether PLUME/Plume becomes a durable GeeGee RWA position or was a one-off Bybit/GRVT integration comment.",
       "Watch whether AI/IP licensing becomes a repeated GeeGee equity theme or remains a one-off Sanrio/Nintendo quote.",
-      "Track whether GeeGee keeps distinguishing yield-bearing products from stablecoins in future Pendle/DeFi-yield discussions."
+      "Track whether GeeGee keeps distinguishing yield-bearing products from stablecoins in future Pendle/DeFi-yield discussions.",
+      "Watch whether the Axiom/PM-fee critique is a one-off reaction or part of a broader prediction-market infrastructure filter."
     ],
     "evidence_urls": [
       "https://x.com/0xGeeGee/status/2065771227743138126",
@@ -512,14 +521,16 @@
       "https://x.com/0xGeeGee/status/2066696605320061418",
       "https://x.com/0xGeeGee/status/2066747956045435324",
       "https://x.com/0xGeeGee/status/2066920097743327440",
-      "https://x.com/0xGeeGee/status/2066915435711480195"
+      "https://x.com/0xGeeGee/status/2066915435711480195",
+      "https://x.com/0xGeeGee/status/2067056795991015531",
+      "https://x.com/0xGeeGee/status/2067044301927022772"
     ]
   },
   {
     "handle": "AustinBarack",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-16",
-    "profile_updated_at": "2026-06-16T22:10:00Z",
+    "period_end": "2026-06-17",
+    "profile_updated_at": "2026-06-17T02:20:00Z",
     "taste_summary": "Observed X/Twitter evidence is strongly thesis-driven around private/anonymized AI, Venice/VVV, decentralized training, open-source models, and AI data protocols. Interpretation confidence is high for Venice/VVV because multiple authored posts and replies repeat the same framing.",
     "likes": [
       {
@@ -691,8 +702,8 @@
   {
     "handle": "airtightfish",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-16",
-    "profile_updated_at": "2026-06-16T05:10:00Z",
+    "period_end": "2026-06-17",
+    "profile_updated_at": "2026-06-17T02:20:00Z",
     "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, and nuance around trader behavior versus scams. Interpretation confidence is medium; many posts are project/community replies.",
     "likes": [
       {
@@ -809,6 +820,15 @@
         "evidence_urls": [
           "https://x.com/i/status/2066708058038829319"
         ]
+      },
+      {
+        "project": "ProofMarkets",
+        "stance": "building/operating",
+        "summary": "Latest update showed conditional pricing in internal tests while preparing a paper trading contest, with a follow-up on early market settlement.",
+        "evidence_urls": [
+          "https://x.com/airtightfish/status/2067032953994072416"
+        ],
+        "confidence": "high"
       }
     ],
     "people_respected": [],
@@ -831,14 +851,15 @@
       "https://x.com/airtightfish/status/2066537005555634216",
       "https://x.com/airtightfish/status/2066622518681612458",
       "https://x.com/i/status/2066675642951950705",
-      "https://x.com/i/status/2066708058038829319"
+      "https://x.com/i/status/2066708058038829319",
+      "https://x.com/airtightfish/status/2067032953994072416"
     ]
   },
   {
     "handle": "game_for_one",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-14",
-    "profile_updated_at": "2026-06-14T03:55:41Z",
+    "period_end": "2026-06-17",
+    "profile_updated_at": "2026-06-17T02:20:00Z",
     "taste_summary": "No visible matching authored posts or replies surfaced in the X/Twitter searches for this 30-day window. Interpretation confidence is low; leave profile mostly blank and treat as needs-review rather than inactive with certainty.",
     "likes": [],
     "dislikes": [],
@@ -858,8 +879,8 @@
   {
     "handle": "CryptoTomYT",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-15",
-    "profile_updated_at": "2026-06-15T20:40:13Z",
+    "period_end": "2026-06-17",
+    "profile_updated_at": "2026-06-17T02:20:00Z",
     "taste_summary": "Observed X/Twitter evidence is mostly trading-performance/social content, now with public performance context across Tradexyz and Legend Trade, plus Hyperliquid/perps and short community replies. Interpretation confidence is medium-low because most non-performance replies remain terse.",
     "likes": [
       {
@@ -950,8 +971,8 @@
   {
     "handle": "zuqaquz",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-14",
-    "profile_updated_at": "2026-06-14T03:55:41Z",
+    "period_end": "2026-06-17",
+    "profile_updated_at": "2026-06-17T02:20:00Z",
     "taste_summary": "Observed X/Twitter evidence is strongly and repeatedly pro-Hyperliquid/HYPE, with market-volatility humor and a visible fade/mute list around Saylor/MSTR-related and ZEC terms. Interpretation confidence is high for HYPE preference; other themes remain thin.",
     "likes": [
       {
@@ -1049,8 +1070,8 @@
   {
     "handle": "MoneyPrinter0x",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-16",
-    "profile_updated_at": "2026-06-16T22:10:00Z",
+    "period_end": "2026-06-17",
+    "profile_updated_at": "2026-06-17T02:20:00Z",
     "taste_summary": "Observed X/Twitter evidence is unusually detailed around production-grade AI agent systems and active AI-equity/crypto trading. Recent market evidence emphasizes AI infrastructure baskets, forward-looking regime-change monitors such as photonics/neoclouds, event-driven stock trades, Hyperliquid/HYPE momentum, and multi-book risk management. Interpretation confidence is high for agent-systems interest and medium-high for current trading-process preferences.",
     "likes": [
       {
@@ -1161,6 +1182,14 @@
           "https://x.com/MoneyPrinter0x/status/2066749652788228496"
         ],
         "confidence": "medium"
+      },
+      {
+        "theme": "High-delta, event-invalidated options structures",
+        "summary": "Prefers sizing into near-1 delta with cheap premiums and clear event-driven invalidations rather than under-sizing OTM options and letting extrinsic decay dominate PnL.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2067014336447705397"
+        ],
+        "confidence": "high"
       }
     ],
     "dislikes": [
@@ -1348,7 +1377,8 @@
       "Watch whether Polymarket/prediction-market odds remain a recurring trade input or were specific to the Iran-peace event window.",
       "Watch whether MoneyPrinter's AI-equity process continues emphasizing second-derivative capex/end-user-spend curves after the 2513 event.",
       "Watch whether MoneyPrinter0x turns repeated terse Hyperliquid/HYPE mentions into a more explicit venue/token thesis.",
-      "Track whether MoneyPrinter0x's FOMC/SOXL/SPCX options posts are a one-off event-risk trade or a recurring public process pattern."
+      "Track whether MoneyPrinter0x's FOMC/SOXL/SPCX options posts are a one-off event-risk trade or a recurring public process pattern.",
+      "Track whether the near-1-delta/options-invalidations framework recurs beyond the SOXL/SPCX/FOMC cluster."
     ],
     "evidence_urls": [
       "https://x.com/MoneyPrinter0x/status/2065910048833102118",
@@ -1375,14 +1405,15 @@
       "https://x.com/MoneyPrinter0x/status/2066861466645672020",
       "https://x.com/MoneyPrinter0x/status/2066953020760563917",
       "https://x.com/MoneyPrinter0x/status/2066969667940553125",
-      "https://x.com/MoneyPrinter0x/status/2066963569561006199"
+      "https://x.com/MoneyPrinter0x/status/2066963569561006199",
+      "https://x.com/MoneyPrinter0x/status/2067014336447705397"
     ]
   },
   {
     "handle": "kelxyz_",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-15",
-    "profile_updated_at": "2026-06-15T16:31:40Z",
+    "period_end": "2026-06-17",
+    "profile_updated_at": "2026-06-17T02:20:00Z",
     "taste_summary": "Observed X/Twitter evidence is thesis-heavy around AI/crypto protocols, especially Pluralis, inference-market timing, decentralized/model-parallel training, and broader AI-driven cultural/economic outcomes. New evidence adds a concrete positive ZEC/privacy-chain technical thesis. Interpretation confidence is high for Pluralis interest and medium for ZEC pending corroboration.",
     "likes": [
       {

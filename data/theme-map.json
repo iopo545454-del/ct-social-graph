@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
-  "period_end": "2026-06-16",
-  "profile_updated_at": "2026-06-16T22:10:00Z",
+  "period_end": "2026-06-17",
+  "profile_updated_at": "2026-06-17T02:20:00Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -145,9 +145,11 @@
         "Hyperliquid SPCX perps",
         "perpification of everything",
         "SOXL/SPCX options event trade",
-        "Hyperliquid PURR"
+        "Hyperliquid PURR",
+        "ProofMarkets conditional pricing",
+        "event-driven options invalidations"
       ],
-      "summary": "Observed posts show coin_casanova arguing for organic crypto options demand, CryptoTomYT highlighting Tradexyz performance context, airtightfish building/promoting ProofMarkets, and 0xGeeGee naming Variational as his favorite day-to-day short-term venue. These are separate infra/venue references rather than one unified thesis. New 2026-06-15 CryptoTomYT evidence added Legend Trade as another public perps/performance venue, but treat it as screenshot-led performance evidence rather than a full project thesis. New airtightfish evidence was operational rather than thesis-heavy: ProofMarkets access codes are going out and accepted applicants will be manually DM’d for feedback. AustinBarack added a Hyperliquid market-structure example: $1.5B SPCX traded in 24h, framed as 'perpification of everything'. MoneyPrinter0x added short-dated options/event-risk evidence around SOXL/SPCX into FOMC and a PURR/Hyperliquid ecosystem follow-up.",
+      "summary": "Observed posts show coin_casanova arguing for organic crypto options demand, CryptoTomYT highlighting Tradexyz performance context, airtightfish building/promoting ProofMarkets, and 0xGeeGee naming Variational as his favorite day-to-day short-term venue. These are separate infra/venue references rather than one unified thesis. New 2026-06-15 CryptoTomYT evidence added Legend Trade as another public perps/performance venue, but treat it as screenshot-led performance evidence rather than a full project thesis. New airtightfish evidence was operational rather than thesis-heavy: ProofMarkets access codes are going out and accepted applicants will be manually DM’d for feedback. AustinBarack added a Hyperliquid market-structure example: $1.5B SPCX traded in 24h, framed as 'perpification of everything'. MoneyPrinter0x added short-dated options/event-risk evidence around SOXL/SPCX into FOMC and a PURR/Hyperliquid ecosystem follow-up. New late-June-16/June-17 evidence added ProofMarkets conditional-pricing internal tests from airtightfish and a more explicit MoneyPrinter0x options-process note around high-delta, cheap-premium, event-invalidated structures.",
       "evidence_urls": [
         "https://x.com/coin_casanova/status/2063848704499687605",
         "https://x.com/CryptoTomYT/status/2065238474907607090",
@@ -158,7 +160,9 @@
         "https://x.com/airtightfish/status/2066622518681612458",
         "https://x.com/AustinBarack/status/2066888860022312981",
         "https://x.com/MoneyPrinter0x/status/2066969667940553125",
-        "https://x.com/MoneyPrinter0x/status/2066953020760563917"
+        "https://x.com/MoneyPrinter0x/status/2066953020760563917",
+        "https://x.com/airtightfish/status/2067032953994072416",
+        "https://x.com/MoneyPrinter0x/status/2067014336447705397"
       ],
       "momentum": "emerging",
       "confidence": "medium"
@@ -331,14 +335,18 @@
       "accounts_positive": [
         "MoneyPrinter0x"
       ],
-      "accounts_negative": [],
+      "accounts_negative": [
+        "0xGeeGee"
+      ],
       "projects": [
         "Polymarket",
-        "QQQ momentum beta"
+        "QQQ momentum beta",
+        "Axiom fees"
       ],
-      "summary": "MoneyPrinter0x used Polymarket Iran-peace odds as sentiment/event-risk input and proposed long QQQ momentum/beta winners versus short Polymarket as a cheap hedge. Single-account evidence so far, but high-signal for process.",
+      "summary": "MoneyPrinter0x used Polymarket Iran-peace odds as sentiment/event-risk input and proposed long QQQ momentum/beta winners versus short Polymarket as a cheap hedge. Single-account evidence so far, but high-signal for process. New GeeGee quote is not an odds trade; it is a negative/fee-structure note, criticizing Axiom's 3% service-fee drag as making PMs more structurally unattractive.",
       "evidence_urls": [
-        "https://x.com/MoneyPrinter0x/status/2066291913825902865"
+        "https://x.com/MoneyPrinter0x/status/2066291913825902865",
+        "https://x.com/0xGeeGee/status/2067056795991015531"
       ],
       "momentum": "emerging",
       "confidence": "medium"
@@ -481,6 +489,8 @@
     "Track whether GeeGee’s yield-bearing-product framing recurs across Pendle/DeFi discussions or stays a one-off clarification.",
     "Track whether MoneyPrinter0x keeps highlighting photonics/neoclouds/ARM/QCOM as the current AI-equity regime-change basket.",
     "Track whether MoneyPrinter0x keeps using macro datapoints like petrol/inflation prints as explicit next-day FOMC/options inputs.",
-    "Track whether PURR becomes a repeated Hyperliquid-ecosystem project mention or remains a one-off milestone follow-up."
+    "Track whether PURR becomes a repeated Hyperliquid-ecosystem project mention or remains a one-off milestone follow-up.",
+    "Watch whether Axiom/PM fee critiques recur or stay a one-off GeeGee prediction-market UX complaint.",
+    "Track whether ProofMarkets conditional pricing appears in a public paper-trading/product launch rather than only internal tests."
   ]
 }

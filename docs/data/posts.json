@@ -1113,5 +1113,70 @@
     ],
     "why_logged": "Extends AustinBarack’s already repeated AERO/Base thesis with fresh market-adoption/price-action evidence after the Coinbase tokenized-stock catalyst post.",
     "confidence": "medium"
+  },
+  {
+    "date": "2026-06-17",
+    "handle": "0xGeeGee",
+    "type": "quote/critique",
+    "url": "https://x.com/0xGeeGee/status/2067056795991015531",
+    "summary": "Quoted Axiom prediction-market fee math and said PMs are already grifty enough without a 3% service fee, implying fee drag can make high-probability PM trades structurally unattractive.",
+    "entities": [
+      "Axiom",
+      "prediction markets",
+      "fees",
+      "market structure",
+      "high-probability trades"
+    ],
+    "why_logged": "Fresh GeeGee filter on prediction-market UX/economics: focuses on fee structure and expected-value drag rather than headline odds alone.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-17",
+    "handle": "0xGeeGee",
+    "type": "authored_post/replies",
+    "url": "https://x.com/0xGeeGee/status/2067044301927022772",
+    "summary": "Posted thanks to McOso_/Osobotai for an entertaining puzzle after apparently solving a Boundless/ZK-style puzzle for a 4 ETH prize; follow-ups said he may document the solution and noted ticket-trial mistakes.",
+    "entities": [
+      "Boundless/ZK puzzle",
+      "Osobotai",
+      "McOso_",
+      "4 ETH prize",
+      "technical puzzle solving"
+    ],
+    "why_logged": "Useful light profile evidence for GeeGee's technical/problem-solving side; not treated as a project endorsement or Tier 2 signal.",
+    "confidence": "low"
+  },
+  {
+    "date": "2026-06-16",
+    "handle": "airtightfish",
+    "type": "authored_post/project_update",
+    "url": "https://x.com/airtightfish/status/2067032953994072416",
+    "summary": "Showed internal-test conditional pricing in action while preparing for a ProofMarkets paper trading contest; follow-up said the market settled ahead of time so it will not be tradable.",
+    "entities": [
+      "ProofMarkets",
+      "conditional pricing",
+      "paper trading contest",
+      "market settlement",
+      "liquidity provisioning"
+    ],
+    "why_logged": "Direct ProofMarkets operating/product evidence from the linked Tier 1 account, extending the project update stream beyond waitlist/access-code posts.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-16",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/process",
+    "url": "https://x.com/MoneyPrinter0x/status/2067014336447705397",
+    "summary": "Explained options process: prefers sizing into delta close to 1 with the cheapest possible premiums and event-driven invalidations, aiming to play the underlying stress-free rather than undersizing OTM and losing PnL to extrinsic-value decay.",
+    "entities": [
+      "options",
+      "delta",
+      "premium",
+      "event-driven invalidation",
+      "extrinsic value",
+      "risk management"
+    ],
+    "why_logged": "High-signal process clarification following the SOXL/SPCX/FOMC trade cluster; more explanatory than the surrounding ticker posts.",
+    "confidence": "high"
   }
 ]

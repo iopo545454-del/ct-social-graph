@@ -294,5 +294,17 @@
     ],
     "first_seen": "2026-06-16",
     "confidence": "low"
+  },
+  {
+    "handle": "Axiom",
+    "kind": "project",
+    "status": "candidate",
+    "source": "0xGeeGee prediction-market fee critique",
+    "reason": "GeeGee critiqued Axiom's prediction-market service-fee structure as making PMs more grifty/less attractive; negative/market-structure evidence only, so candidate/mention-ledger rather than Tier 2.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2067056795991015531"
+    ],
+    "first_seen": "2026-06-17",
+    "confidence": "low"
   }
 ]

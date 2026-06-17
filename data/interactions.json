@@ -493,5 +493,27 @@
     "summary": "Followed up the AERO/Base thesis by saying price action suggests the market is moving from skepticism/unawareness toward treating Aerodrome’s growth opportunity as credible.",
     "quality": "medium",
     "created_tier2_candidate": false
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "Axiom",
+    "to_kind": "project",
+    "type": "quote/critique",
+    "date": "2026-06-17",
+    "url": "https://x.com/0xGeeGee/status/2067056795991015531",
+    "summary": "Critiqued Axiom prediction-market fee structure, saying PMs are already grifty enough without the extra 3% fee drag.",
+    "quality": "medium",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "airtightfish",
+    "to": "ProofMarkets",
+    "to_kind": "project",
+    "type": "authored_project_update",
+    "date": "2026-06-16",
+    "url": "https://x.com/airtightfish/status/2067032953994072416",
+    "summary": "Showed ProofMarkets internal-test conditional pricing and explained the test market would not be tradable after early settlement.",
+    "quality": "high",
+    "created_tier2_candidate": false
   }
 ]
