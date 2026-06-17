@@ -155,7 +155,7 @@
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
     "period_end": "2026-06-17",
-    "profile_updated_at": "2026-06-17T02:20:00Z",
+    "profile_updated_at": "2026-06-17T18:38:46Z",
     "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with a practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Interpretation confidence is now medium-high after a detailed June 14 thesis thread.",
     "likes": [
       {
@@ -265,6 +265,14 @@
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2066920097743327440",
           "https://x.com/0xGeeGee/status/2066915435711480195"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "Crypto puzzle solving and protocol-adjacent research",
+        "summary": "Solved Osobear's Puzzle for a 4 ETH prize by manually testing document/image code mappings around ERC-7710; explicitly said top LLMs were not useful for this kind of puzzle reasoning.",
+        "evidence_urls": [
+          "https://x.com/i/status/2067303523960979677"
         ],
         "confidence": "medium"
       }
@@ -500,7 +508,8 @@
       "Track whether PLUME/Plume becomes a durable GeeGee RWA position or was a one-off Bybit/GRVT integration comment.",
       "Watch whether AI/IP licensing becomes a repeated GeeGee equity theme or remains a one-off Sanrio/Nintendo quote.",
       "Track whether GeeGee keeps distinguishing yield-bearing products from stablecoins in future Pendle/DeFi-yield discussions.",
-      "Watch whether the Axiom/PM-fee critique is a one-off reaction or part of a broader prediction-market infrastructure filter."
+      "Watch whether the Axiom/PM-fee critique is a one-off reaction or part of a broader prediction-market infrastructure filter.",
+      "Track whether the ERC-7710/Osobear puzzle interest is a one-off skill signal or develops into a broader account-abstraction / wallet-standard thesis."
     ],
     "evidence_urls": [
       "https://x.com/0xGeeGee/status/2065771227743138126",
@@ -523,7 +532,8 @@
       "https://x.com/0xGeeGee/status/2066920097743327440",
       "https://x.com/0xGeeGee/status/2066915435711480195",
       "https://x.com/0xGeeGee/status/2067056795991015531",
-      "https://x.com/0xGeeGee/status/2067044301927022772"
+      "https://x.com/0xGeeGee/status/2067044301927022772",
+      "https://x.com/i/status/2067303523960979677"
     ]
   },
   {

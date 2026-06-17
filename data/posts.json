@@ -1,6 +1,24 @@
 [
   {
     "date": "2026-06-17",
+    "handle": "0xGeeGee",
+    "type": "authored_post/thread",
+    "url": "https://x.com/i/status/2067303523960979677",
+    "summary": "Published a detailed Osobear's Puzzle solution thread tied to ERC-7710, explaining hidden-code mappings, a 4 ETH prize claim, and why current LLMs/AI assistants were not useful for the puzzle solve.",
+    "entities": [
+      "Osobear Puzzle",
+      "ERC-7710",
+      "4 ETH prize",
+      "crypto puzzles",
+      "LLM limitations",
+      "Opus 4.8",
+      "GPT-5.5"
+    ],
+    "why_logged": "Substantive process evidence for GeeGee: crypto-native puzzle/research ability, close reading of protocol-adjacent material, and skepticism about relying on LLMs for nonstandard reasoning tasks.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-17",
     "handle": "MoneyPrinter0x",
     "type": "authored_post/quote_self",
     "url": "https://x.com/MoneyPrinter0x/status/2067239109492695496",
