@@ -703,7 +703,7 @@
     "handle": "airtightfish",
     "period_start": "2026-05-14",
     "period_end": "2026-06-17",
-    "profile_updated_at": "2026-06-17T02:20:00Z",
+    "profile_updated_at": "2026-06-17T06:10:36Z",
     "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, and nuance around trader behavior versus scams. Interpretation confidence is medium; many posts are project/community replies.",
     "likes": [
       {
@@ -741,6 +741,15 @@
           "https://x.com/i/status/2066708058038829319"
         ],
         "confidence": "low"
+      },
+      {
+        "theme": "Token launches after real PMF, not fake-points PMF",
+        "summary": "In a token-launch timing thread, agreed token launch can be useful post-PMF or with clear PMF signs, but warned against points programs that fake PMF; follow-up said well-run points can be +EV while many teams optimize the wrong metrics/timing.",
+        "evidence_urls": [
+          "https://x.com/airtightfish/status/2067071639515283852",
+          "https://x.com/airtightfish/status/2067075588364333472"
+        ],
+        "confidence": "medium"
       }
     ],
     "dislikes": [
@@ -766,6 +775,15 @@
         "summary": "In a Ventuals criticism thread, defended the team as having given it an honest shot, adding nuance to his existing scam/predatory-bundle filter.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2066537005555634216"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "Points programs that fake PMF or optimize wrong metrics",
+        "summary": "Warned against using points to fake PMF and noted many teams optimize points programs around the wrong timing/metrics.",
+        "evidence_urls": [
+          "https://x.com/airtightfish/status/2067071639515283852",
+          "https://x.com/airtightfish/status/2067075588364333472"
         ],
         "confidence": "medium"
       }
@@ -831,7 +849,15 @@
         "confidence": "high"
       }
     ],
-    "people_respected": [],
+    "people_respected": [
+      {
+        "handle": "nftboi_",
+        "why": "Airtightfish replied substantively to nftboi_ / umia_finance token-launch timing and points-program PMF thread; one interaction only, so weak candidate edge.",
+        "evidence_urls": [
+          "https://x.com/airtightfish/status/2067071639515283852"
+        ]
+      }
+    ],
     "style": {
       "time_horizon": "medium-term",
       "risk_preference": "mixed",
@@ -840,7 +866,8 @@
     "open_questions": [
       "Need more detail on ProofMarkets market design and the private-company-access thesis.",
       "AI x friendtech mention needs follow-up before treating it as a real theme.",
-      "Clarify whether decentralized AI is becoming an airtightfish theme or was just a one-thread reply."
+      "Clarify whether decentralized AI is becoming an airtightfish theme or was just a one-thread reply.",
+      "Track whether airtightfish continues discussing token launch timing / points-program design beyond the nftboi_/umia_finance PMF thread."
     ],
     "evidence_urls": [
       "https://x.com/airtightfish/status/2065567457536831796",
@@ -852,7 +879,9 @@
       "https://x.com/airtightfish/status/2066622518681612458",
       "https://x.com/i/status/2066675642951950705",
       "https://x.com/i/status/2066708058038829319",
-      "https://x.com/airtightfish/status/2067032953994072416"
+      "https://x.com/airtightfish/status/2067032953994072416",
+      "https://x.com/airtightfish/status/2067071639515283852",
+      "https://x.com/airtightfish/status/2067075588364333472"
     ]
   },
   {

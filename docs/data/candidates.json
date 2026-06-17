@@ -306,5 +306,17 @@
     ],
     "first_seen": "2026-06-17",
     "confidence": "low"
+  },
+  {
+    "handle": "nftboi_",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "airtightfish token-launch/PMF reply thread",
+    "reason": "airtightfish engaged substantively with nftboi_ on token launch timing, PMF, and points-program metrics; one thread only, so keep candidate pending repeated interaction/corroboration.",
+    "evidence_urls": [
+      "https://x.com/airtightfish/status/2067071639515283852"
+    ],
+    "first_seen": "2026-06-17",
+    "confidence": "low"
   }
 ]

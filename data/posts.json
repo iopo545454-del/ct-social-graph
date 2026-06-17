@@ -1178,5 +1178,22 @@
     ],
     "why_logged": "High-signal process clarification following the SOXL/SPCX/FOMC trade cluster; more explanatory than the surrounding ticker posts.",
     "confidence": "high"
+  },
+  {
+    "date": "2026-06-17",
+    "handle": "airtightfish",
+    "type": "reply/thread",
+    "url": "https://x.com/airtightfish/status/2067071639515283852",
+    "summary": "In a thread on launching tokens earlier instead of perpetual points programs, strongly agreed that token launch should happen post-PMF or with clear signs of PMF, and warned against using points to fake PMF; follow-up said good points programs can be +EV but many teams optimize wrong metrics/timing.",
+    "entities": [
+      "token launches",
+      "points programs",
+      "PMF",
+      "customer acquisition",
+      "umia_finance",
+      "nftboi_"
+    ],
+    "why_logged": "Substantive product/go-to-market filter from airtightfish: token/points mechanics are acceptable only when tied to real PMF and correct metrics, not as fake traction.",
+    "confidence": "medium"
   }
 ]

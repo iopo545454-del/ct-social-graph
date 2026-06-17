@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-06-17",
-  "profile_updated_at": "2026-06-17T02:20:00Z",
+  "profile_updated_at": "2026-06-17T06:10:36Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -461,6 +461,24 @@
       ],
       "momentum": "emerging",
       "confidence": "medium"
+    },
+    {
+      "theme": "Token launches, points programs, and PMF timing",
+      "accounts_positive": [
+        "airtightfish"
+      ],
+      "accounts_negative": [],
+      "projects": [
+        "points programs",
+        "umia_finance"
+      ],
+      "summary": "airtightfish added a product/GTM filter in a token-launch discussion: tokens can be useful after PMF or clear PMF signs, but points should not be used to fake PMF; well-executed points programs can still be +EV when teams optimize the right metrics and timing. Single-account evidence for now.",
+      "evidence_urls": [
+        "https://x.com/airtightfish/status/2067071639515283852",
+        "https://x.com/airtightfish/status/2067075588364333472"
+      ],
+      "momentum": "emerging",
+      "confidence": "medium"
     }
   ],
   "open_questions": [
@@ -491,6 +509,7 @@
     "Track whether MoneyPrinter0x keeps using macro datapoints like petrol/inflation prints as explicit next-day FOMC/options inputs.",
     "Track whether PURR becomes a repeated Hyperliquid-ecosystem project mention or remains a one-off milestone follow-up.",
     "Watch whether Axiom/PM fee critiques recur or stay a one-off GeeGee prediction-market UX complaint.",
-    "Track whether ProofMarkets conditional pricing appears in a public paper-trading/product launch rather than only internal tests."
+    "Track whether ProofMarkets conditional pricing appears in a public paper-trading/product launch rather than only internal tests.",
+    "Track whether token-launch/points-program PMF timing becomes a repeated airtightfish/product-design theme or remains a single nftboi_/umia_finance thread."
   ]
 }

@@ -515,5 +515,16 @@
     "summary": "Showed ProofMarkets internal-test conditional pricing and explained the test market would not be tradable after early settlement.",
     "quality": "high",
     "created_tier2_candidate": false
+  },
+  {
+    "from": "airtightfish",
+    "to": "nftboi_",
+    "to_kind": "individual",
+    "type": "reply/thread",
+    "date": "2026-06-17",
+    "url": "https://x.com/airtightfish/status/2067071639515283852",
+    "summary": "Replied substantively in nftboi_/umia_finance token-launch timing thread: agreed tokens should launch post-PMF or with clear PMF signs, not via points programs that fake PMF; follow-up noted well-run points can be +EV but teams often optimize wrong metrics/timing.",
+    "quality": "medium",
+    "created_tier2_candidate": true
   }
 ]
