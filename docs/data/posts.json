@@ -3,6 +3,25 @@
     "date": "2026-06-18",
     "handle": "MoneyPrinter0x",
     "type": "authored_post/position_update",
+    "url": "https://x.com/MoneyPrinter0x/status/2067621321757057404",
+    "summary": "Exited most of the Warsh/Fed short book after the market failed to break lower, keeping MSTR short; interpreted the reaction as catalyst planning successfully decoupling risk-on appetite from forward-looking hike fears, so the bubble may continue longer.",
+    "entities": [
+      "MSTR",
+      "short positioning",
+      "Warsh/Fed uncertainty",
+      "invalidation",
+      "risk-on appetite",
+      "forward-looking hikes",
+      "short squeeze risk",
+      "AMPG"
+    ],
+    "why_logged": "Direct follow-through to the already logged June 18 short-book invalidation question: identifies what was closed, what remained, and the updated market-regime read after the expected downside did not arrive.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-18",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/position_update",
     "url": "https://x.com/MoneyPrinter0x/status/2067562188995481998",
     "summary": "Updated the Warsh/Fed short book: still holding MSTR, POET, and CRWV shorts from the earlier full-portfolio-short setup, but said he may close early if the morning session does not react; reiterated discomfort with prolonged retracement shorts because squeeze risk is always present and that he prefers returning to bullish posture if markets absorb the event.",
     "entities": [
