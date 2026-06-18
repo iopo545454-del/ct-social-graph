@@ -154,9 +154,9 @@
   {
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-17",
-    "profile_updated_at": "2026-06-17T22:43:37Z",
-    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with a practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Interpretation confidence is now medium-high after a detailed June 14 thesis thread.",
+    "period_end": "2026-06-18",
+    "profile_updated_at": "2026-06-18T18:20:00Z",
+    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Recent MSTR/BTC updates add active capital-structure trade management: willing to cut exposure when the odds/metrics become less favorable even if the thesis is not fully invalidated.",
     "likes": [
       {
         "theme": "AI inference efficiency and optimization layers",
@@ -274,6 +274,15 @@
         "summary": "Solved Osobear's Puzzle for a 4 ETH prize by manually testing document/image code mappings around ERC-7710; explicitly said top LLMs were not useful for this kind of puzzle reasoning.",
         "evidence_urls": [
           "https://x.com/i/status/2067303523960979677"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "Capital-structure trades with explicit sizing changes",
+        "summary": "MSTR/BTC long-short evidence shows a capital-structure lens paired with sizing discipline: after prior mNAV analysis, he said he would likely cut 70% when metrics became less favorable to pressing the short/death-spiral view.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2066340434402832578",
+          "https://x.com/0xGeeGee/status/2067659249295991266"
         ],
         "confidence": "medium"
       }
@@ -424,9 +433,10 @@
         "name": "MSTR / Strategy",
         "handle": null,
         "stance": "analytical",
-        "summary": "Analyzed MSTR through residual common mNAV / fully diluted mNAV and capital-structure seniority rather than pure BTC beta.",
+        "summary": "Analyzed MSTR through residual common mNAV / fully diluted mNAV and capital-structure seniority rather than pure BTC beta; June 18 update said he would probably cut 70% of the BTC/MSTR L/S because metrics now favor running with the bag/waiting, while still acknowledging early death-spiral risk.",
         "evidence_urls": [
-          "https://x.com/0xGeeGee/status/2066340434402832578"
+          "https://x.com/0xGeeGee/status/2066340434402832578",
+          "https://x.com/0xGeeGee/status/2067659249295991266"
         ]
       },
       {
@@ -510,7 +520,8 @@
       "Watch whether AI/IP licensing becomes a repeated GeeGee equity theme or remains a one-off Sanrio/Nintendo quote.",
       "Track whether GeeGee keeps distinguishing yield-bearing products from stablecoins in future Pendle/DeFi-yield discussions.",
       "Watch whether the Axiom/PM-fee critique is a one-off reaction or part of a broader prediction-market infrastructure filter.",
-      "Track whether the ERC-7710/Osobear puzzle interest is a one-off skill signal or develops into a broader account-abstraction / wallet-standard thesis."
+      "Track whether the ERC-7710/Osobear puzzle interest is a one-off skill signal or develops into a broader account-abstraction / wallet-standard thesis.",
+      "Track whether GeeGee continues reducing BTC/MSTR L/S exposure or re-enters if capital-structure/death-spiral metrics worsen again."
     ],
     "evidence_urls": [
       "https://x.com/0xGeeGee/status/2065771227743138126",
@@ -535,7 +546,9 @@
       "https://x.com/0xGeeGee/status/2067056795991015531",
       "https://x.com/0xGeeGee/status/2067044301927022772",
       "https://x.com/i/status/2067303523960979677",
-      "https://x.com/0xGeeGee/status/2067328339170243046"
+      "https://x.com/0xGeeGee/status/2067328339170243046",
+      "https://x.com/0xGeeGee/status/2067659249295991266",
+      "https://x.com/0xGeeGee/status/2067670942793261523"
     ]
   },
   {
@@ -1121,8 +1134,8 @@
     "handle": "MoneyPrinter0x",
     "period_start": "2026-05-14",
     "period_end": "2026-06-18",
-    "profile_updated_at": "2026-06-18T15:08:07Z",
-    "taste_summary": "Observed X/Twitter evidence shows an event-driven trader mixing crypto, AI-equity, options, and macro-rate inputs; latest evidence emphasizes fast invalidation/risk reduction on a MSTR/POET/CRWV short book when the expected AM downside did not arrive, while keeping a residual MSTR short and allowing that risk-on/bubble conditions can continue. Interpretation confidence is medium-high because the recent window includes multiple process replies and authored positioning posts.",
+    "profile_updated_at": "2026-06-18T18:20:00Z",
+    "taste_summary": "Observed X/Twitter evidence shows an event-driven trader mixing AI-equity rotations, short-dated options, macro/rate catalysts, and strict invalidation/risk caps. Latest evidence keeps MSTR as the residual short after broad short-covering and identifies post-FOMC AI-sector liquidity/earnings frontrunning as the next risk-on rotation area.",
     "likes": [
       {
         "theme": "AI agent harnesses and deterministic quality gates",
@@ -1281,6 +1294,15 @@
           "https://x.com/MoneyPrinter0x/status/2067621321757057404"
         ],
         "confidence": "high"
+      },
+      {
+        "theme": "Post-FOMC liquidity and earnings-front-run rotations",
+        "summary": "Explained the AI-sector bounce/rotation as post-FOMC liquidity returning to AI first plus earnings frontrunning, with 800VDC catching notable rotation.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2067668353855148495",
+          "https://x.com/MoneyPrinter0x/status/2067666128663679377"
+        ],
+        "confidence": "medium"
       }
     ],
     "dislikes": [
@@ -1307,6 +1329,16 @@
           "https://x.com/MoneyPrinter0x/status/2066743190758326738"
         ],
         "confidence": "low"
+      },
+      {
+        "theme": "MSTR-specific short thesis after broad short invalidation",
+        "summary": "After covering most Warsh/Fed shorts, kept MSTR short and argued cracks began when Saylor wanted Strategy/MSTR to be more than a traditional DAT; framed possible downside as a return toward 2023-24 levels.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2067621321757057404",
+          "https://x.com/MoneyPrinter0x/status/2067643405128315238",
+          "https://x.com/MoneyPrinter0x/status/2067647444461171075"
+        ],
+        "confidence": "high"
       }
     ],
     "projects_mentioned": [
@@ -1462,6 +1494,25 @@
           "https://x.com/MoneyPrinter0x/status/2067610046851403910",
           "https://x.com/MoneyPrinter0x/status/2067621321757057404"
         ]
+      },
+      {
+        "name": "MSTR / Strategy",
+        "handle": null,
+        "stance": "negative",
+        "summary": "Residual bearish/short vehicle after broad short-covering; MoneyPrinter argued MSTR cracks began when Saylor wanted Strategy to be more than a traditional DAT and suggested a possible return toward 2023-24 levels.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2067643405128315238",
+          "https://x.com/MoneyPrinter0x/status/2067647444461171075"
+        ]
+      },
+      {
+        "name": "800VDC sector",
+        "handle": null,
+        "stance": "watching",
+        "summary": "Mentioned as catching the most rotations during the post-FOMC AI-sector liquidity/earnings-front-run move.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2067666128663679377"
+        ]
       }
     ],
     "people_respected": [
@@ -1487,7 +1538,8 @@
       "Watch whether MoneyPrinter0x turns repeated terse Hyperliquid/HYPE mentions into a more explicit venue/token thesis.",
       "Track whether MoneyPrinter0x's FOMC/SOXL/SPCX options posts are a one-off event-risk trade or a recurring public process pattern.",
       "Track whether the near-1-delta/options-invalidations framework recurs beyond the SOXL/SPCX/FOMC cluster.",
-      "Track whether the residual MSTR short remains a standalone bearish view or gets closed like the rest of the Warsh/Fed short book."
+      "Track whether the residual MSTR short remains a standalone bearish view or gets closed like the rest of the Warsh/Fed short book.",
+      "Track whether MoneyPrinter0x keeps MSTR as a standalone structural short or closes it as risk-on AI/liquidity rotations continue."
     ],
     "evidence_urls": [
       "https://x.com/MoneyPrinter0x/status/2065910048833102118",
@@ -1529,7 +1581,11 @@
       "https://x.com/MoneyPrinter0x/status/2067610046851403910",
       "https://x.com/MoneyPrinter0x/status/2067621321757057404",
       "https://x.com/MoneyPrinter0x/status/2067592240541921597",
-      "https://x.com/MoneyPrinter0x/status/2067598251780612186"
+      "https://x.com/MoneyPrinter0x/status/2067598251780612186",
+      "https://x.com/MoneyPrinter0x/status/2067643405128315238",
+      "https://x.com/MoneyPrinter0x/status/2067647444461171075",
+      "https://x.com/MoneyPrinter0x/status/2067668353855148495",
+      "https://x.com/MoneyPrinter0x/status/2067666128663679377"
     ]
   },
   {

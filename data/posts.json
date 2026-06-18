@@ -2,6 +2,58 @@
   {
     "date": "2026-06-18",
     "handle": "MoneyPrinter0x",
+    "type": "reply/market_process",
+    "url": "https://x.com/MoneyPrinter0x/status/2067668353855148495",
+    "summary": "Explained an AI-sector rotation as a combination of post-FOMC liquidity returning to AI first plus earnings frontrunning; nearby post said the 800VDC sector was catching the most rotations.",
+    "entities": [
+      "AI sector",
+      "post-FOMC liquidity",
+      "earnings frontrunning",
+      "800VDC",
+      "sector rotation"
+    ],
+    "why_logged": "Useful follow-through after closing broad shorts: identifies where risk-on/liquidity is returning first and keeps the dashboard close to the live rotation evidence.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-18",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/short_thesis",
+    "url": "https://x.com/MoneyPrinter0x/status/2067647444461171075",
+    "summary": "Kept MSTR as the remaining short after closing most of the Warsh/Fed short book, saying the period may look obvious in hindsight for a return toward 2023-24 MSTR levels; earlier same-hour post argued cracks began when Saylor wanted Strategy/MSTR to be more than a traditional DAT.",
+    "entities": [
+      "MSTR",
+      "Strategy",
+      "Michael Saylor",
+      "DAT",
+      "short positioning",
+      "2023-24 levels",
+      "capital structure"
+    ],
+    "why_logged": "Extends the June 18 short-book invalidation thread with the one residual bearish vehicle and the reasoning flavor: MSTR-specific structural/identity critique rather than broad market short.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-18",
+    "handle": "0xGeeGee",
+    "type": "authored_post/position_update",
+    "url": "https://x.com/0xGeeGee/status/2067659249295991266",
+    "summary": "Said he is likely cutting about 70% of a BTC/MSTR long-short because metrics now look more favorable to running with the bag and waiting, while acknowledging the setup could be early in a death spiral; follow-up said Saylor has several imperfect options to avoid a full spiral, so a complete spiral is not his base case.",
+    "entities": [
+      "BTC",
+      "MSTR",
+      "long/short",
+      "mNAV",
+      "death spiral risk",
+      "position sizing",
+      "risk management"
+    ],
+    "why_logged": "Fresh source-close follow-through to GeeGee's prior MSTR capital-structure/mNAV analysis: explicit sizing reduction and updated probability framing rather than only theoretical critique.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-18",
+    "handle": "MoneyPrinter0x",
     "type": "authored_post/position_update",
     "url": "https://x.com/MoneyPrinter0x/status/2067621321757057404",
     "summary": "Exited most of the Warsh/Fed short book after the market failed to break lower, keeping MSTR short; interpreted the reaction as catalyst planning successfully decoupling risk-on appetite from forward-looking hike fears, so the bubble may continue longer.",
