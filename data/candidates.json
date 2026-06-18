@@ -311,13 +311,14 @@
     "handle": "nftboi_",
     "kind": "individual",
     "status": "candidate",
-    "source": "airtightfish token-launch/PMF reply thread",
-    "reason": "airtightfish engaged substantively with nftboi_ on token launch timing, PMF, and points-program metrics; one thread only, so keep candidate pending repeated interaction/corroboration.",
+    "source": "airtightfish token-launch/PMF and token-wedge reply threads",
+    "reason": "airtightfish has now engaged nftboi_ twice on token launch timing, PMF, points-program metrics, and when early tokens are useful; still candidate because this is one conversation cluster, not repeated independent evidence.",
     "evidence_urls": [
-      "https://x.com/airtightfish/status/2067071639515283852"
+      "https://x.com/airtightfish/status/2067071639515283852",
+      "https://x.com/i/status/2067409458481725756"
     ],
     "first_seen": "2026-06-17",
-    "confidence": "low"
+    "confidence": "medium"
   },
   {
     "handle": "CharlieBilello",

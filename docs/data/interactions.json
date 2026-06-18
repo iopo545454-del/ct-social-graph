@@ -1,5 +1,27 @@
 [
   {
+    "from": "airtightfish",
+    "to": "nftboi_",
+    "to_kind": "individual",
+    "type": "reply/thread",
+    "date": "2026-06-18",
+    "url": "https://x.com/i/status/2067409458481725756",
+    "summary": "Replied to nftboi_'s early-token/points-program thread with a narrower product-design filter: points are nuanced, token wedges are not universal, and non-crypto-native products may not benefit from tokens.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "AustinBarack",
+    "to": "AskVenice",
+    "to_kind": "project",
+    "type": "quote/open_source_model_thesis",
+    "date": "2026-06-17",
+    "url": "https://x.com/AustinBarack/status/2067255909600972830",
+    "summary": "Quoted Erik Voorhees/GLM 5.2 on Venice and framed open-source model quality plus private/encrypted Venice execution as stronger than most people assume.",
+    "quality": "high",
+    "created_tier2_candidate": false
+  },
+  {
     "from": "MoneyPrinter0x",
     "to": "CharlieBilello",
     "to_kind": "individual",

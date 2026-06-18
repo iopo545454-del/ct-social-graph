@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
-  "period_end": "2026-06-17",
-  "profile_updated_at": "2026-06-17T22:43:37Z",
+  "period_end": "2026-06-18",
+  "profile_updated_at": "2026-06-18T02:50:04Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -14,9 +14,10 @@
         "Venice / VVV",
         "TAO / Bittensor",
         "POD",
-        "AKT"
+        "AKT",
+        "GLM 5.2"
       ],
-      "summary": "Observed X/Twitter posts from AustinBarack repeatedly frame centralized AI restrictions and possible user-data compulsion as a tailwind for Venice/VVV. Keep as direct evidence bucket rather than broad consensus; coin_casanova had a tactical VVV short, so cross-account stance is not uniform. New 2026-06-14 coin_casanova evidence treated the Mythos-driven AI-token basket as a trade-construction problem rather than a uniform fundamental endorsement. Latest AustinBarack evidence quoted Venice usage data and argued VVV is under-owned because token usage is 'literally up only'.",
+      "summary": "Observed X/Twitter posts from AustinBarack repeatedly frame centralized AI restrictions and possible user-data compulsion as a tailwind for Venice/VVV. Keep as direct evidence bucket rather than broad consensus; coin_casanova had a tactical VVV short, so cross-account stance is not uniform. New 2026-06-14 coin_casanova evidence treated the Mythos-driven AI-token basket as a trade-construction problem rather than a uniform fundamental endorsement. Latest AustinBarack evidence quoted Venice usage data and argued VVV is under-owned because token usage is 'literally up only'. New AustinBarack evidence adds GLM 5.2 on Venice: open-source coding/agent model quality plus private/encrypted execution.",
       "evidence_urls": [
         "https://x.com/AustinBarack/status/2065642988470972861",
         "https://x.com/AustinBarack/status/2065850799494738189",
@@ -24,7 +25,8 @@
         "https://x.com/coin_casanova/status/2065366923379106118",
         "https://x.com/coin_casanova/status/2066000974163169390",
         "https://x.com/coin_casanova/status/2066005931121574382",
-        "https://x.com/AustinBarack/status/2066897528037986414"
+        "https://x.com/AustinBarack/status/2066897528037986414",
+        "https://x.com/AustinBarack/status/2067255909600972830"
       ],
       "momentum": "rising",
       "confidence": "high"
@@ -241,9 +243,11 @@
         "FOMC event-risk options",
         "petrol/inflation macro input",
         "SPCX 0DTE/1DTE calls",
-        "short-dated event-risk options"
+        "short-dated event-risk options",
+        "Warsh/Fed forward-guidance uncertainty",
+        "POET"
       ],
-      "summary": "Evidence shows coin_casanova sharing a Fable-generated factor/sector dashboard and MoneyPrinter0x posting structured weekly AI-equity/watchlists, extending into a capital-markets worldview and event hedge construction using QQQ beta plus Polymarket odds. New 2026-06-15 examples: 0xGeeGee translated MSTR/Saylor BTC metrics into mNAV/capital-structure terms and used superconducting wires to frame the nuclear bull market; MoneyPrinter0x logged a major HK single-stock event trade, tied the thread back to HigherLiquid, and clarified that AI-equity trades should track the rate of change of forward-looking AI capex and end-user AI spend rather than naked capex notional. Latest MoneyPrinter0x replies added explicit multi-book process detail: intraday vs multiday books, early sizing on momentum resets, derisking into strength, and runners. New coin_casanova evidence reinforced his low-float/KOL-leader setup with live negative-funding/short-liquidation mechanics. Latest coin_casanova follow-up said CT faded a bread-and-butter last-cycle low-float/negative-funding setup, reinforcing his live-trade preference for speculative squeeze mechanics. June 16 MoneyPrinter0x follow-up kept the AI-equity basket visible, saying ARM/QCOM/neoclouds/photonics were looking very good as forward-looking regime-change monitors. June 16 MoneyPrinter0x posts added short-dated FOMC options evidence: SOXL calls, quick rotation to SPCX, and use of falling petrol prices as a less-hawkish FOMC input. June 17 follow-through added execution/outcome evidence on that SPCX setup: same-day 0DTE/ITM call language and a later >60% close on 1DTE calls bought minutes before the previous close. Latest MoneyPrinter0x macro/rates reply adds explicit regime/risk-management process: short-term shorts into panic/information gaps, but capped risk and focus on volatility opportunity.",
+      "summary": "Evidence shows coin_casanova sharing a Fable-generated factor/sector dashboard and MoneyPrinter0x posting structured weekly AI-equity/watchlists, extending into a capital-markets worldview and event hedge construction using QQQ beta plus Polymarket odds. New 2026-06-15 examples: 0xGeeGee translated MSTR/Saylor BTC metrics into mNAV/capital-structure terms and used superconducting wires to frame the nuclear bull market; MoneyPrinter0x logged a major HK single-stock event trade, tied the thread back to HigherLiquid, and clarified that AI-equity trades should track the rate of change of forward-looking AI capex and end-user AI spend rather than naked capex notional. Latest MoneyPrinter0x replies added explicit multi-book process detail: intraday vs multiday books, early sizing on momentum resets, derisking into strength, and runners. New coin_casanova evidence reinforced his low-float/KOL-leader setup with live negative-funding/short-liquidation mechanics. Latest coin_casanova follow-up said CT faded a bread-and-butter last-cycle low-float/negative-funding setup, reinforcing his live-trade preference for speculative squeeze mechanics. June 16 MoneyPrinter0x follow-up kept the AI-equity basket visible, saying ARM/QCOM/neoclouds/photonics were looking very good as forward-looking regime-change monitors. June 16 MoneyPrinter0x posts added short-dated FOMC options evidence: SOXL calls, quick rotation to SPCX, and use of falling petrol prices as a less-hawkish FOMC input. June 17 follow-through added execution/outcome evidence on that SPCX setup: same-day 0DTE/ITM call language and a later >60% close on 1DTE calls bought minutes before the previous close. Latest MoneyPrinter0x macro/rates reply adds explicit regime/risk-management process: short-term shorts into panic/information gaps, but capped risk and focus on volatility opportunity. New MoneyPrinter0x posts make the Warsh/Fed uncertainty trade explicit: full-portfolio short stance capped at 20% VaR with CRWV/POET high-beta shorts/puts.",
       "evidence_urls": [
         "https://x.com/coin_casanova/status/2065996363503177739",
         "https://x.com/MoneyPrinter0x/status/2066030025942655219",
@@ -267,7 +271,9 @@
         "https://x.com/MoneyPrinter0x/status/2067075729339363371",
         "https://x.com/MoneyPrinter0x/status/2067239109492695496",
         "https://x.com/MoneyPrinter0x/status/2067367978740732331",
-        "https://x.com/MoneyPrinter0x/status/2067367791930581312"
+        "https://x.com/MoneyPrinter0x/status/2067367791930581312",
+        "https://x.com/MoneyPrinter0x/status/2067353313344156054",
+        "https://x.com/MoneyPrinter0x/status/2067335139554914480"
       ],
       "momentum": "rising",
       "confidence": "medium"
@@ -480,12 +486,14 @@
       "accounts_negative": [],
       "projects": [
         "points programs",
-        "umia_finance"
+        "umia_finance",
+        "crypto-native token wedges"
       ],
-      "summary": "airtightfish added a product/GTM filter in a token-launch discussion: tokens can be useful after PMF or clear PMF signs, but points should not be used to fake PMF; well-executed points programs can still be +EV when teams optimize the right metrics and timing. Single-account evidence for now.",
+      "summary": "airtightfish added a product/GTM filter in a token-launch discussion: tokens can be useful after PMF or clear PMF signs, but points should not be used to fake PMF; well-executed points programs can still be +EV when teams optimize the right metrics and timing. Single-account evidence for now. Follow-up from airtightfish narrowed this further: points are nuanced and tokens are not useful wedges for every industry, especially when the product is not crypto-native.",
       "evidence_urls": [
         "https://x.com/airtightfish/status/2067071639515283852",
-        "https://x.com/airtightfish/status/2067075588364333472"
+        "https://x.com/airtightfish/status/2067075588364333472",
+        "https://x.com/i/status/2067409458481725756"
       ],
       "momentum": "emerging",
       "confidence": "medium"
@@ -520,6 +528,7 @@
     "Track whether PURR becomes a repeated Hyperliquid-ecosystem project mention or remains a one-off milestone follow-up.",
     "Watch whether Axiom/PM fee critiques recur or stay a one-off GeeGee prediction-market UX complaint.",
     "Track whether ProofMarkets conditional pricing appears in a public paper-trading/product launch rather than only internal tests.",
-    "Track whether token-launch/points-program PMF timing becomes a repeated airtightfish/product-design theme or remains a single nftboi_/umia_finance thread."
+    "Track whether token-launch/points-program PMF timing becomes a repeated airtightfish/product-design theme or remains a single nftboi_/umia_finance thread.",
+    "Track whether AustinBarack keeps linking Venice/VVV to specific open-source model benchmarks such as GLM 5.2, or whether this was a one-off Erik Voorhees quote."
   ]
 }

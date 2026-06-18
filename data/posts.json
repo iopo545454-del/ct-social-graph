@@ -1,5 +1,57 @@
 [
   {
+    "date": "2026-06-18",
+    "handle": "airtightfish",
+    "type": "reply/thread",
+    "url": "https://x.com/i/status/2067409458481725756",
+    "summary": "Pushed back on an early-token/points-program thesis by saying points are more nuanced and tokens are not a wedge for every industry; if the product is not crypto-native, the token may not be a benefit.",
+    "entities": [
+      "points programs",
+      "token launch timing",
+      "crypto-native products",
+      "B2C distribution",
+      "nftboi_"
+    ],
+    "why_logged": "Follow-up to the existing airtightfish token-launch/PMF evidence: keeps the view source-close and narrows when tokens/points are useful rather than treating early tokens as universal.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-17",
+    "handle": "AustinBarack",
+    "type": "quote/mention",
+    "url": "https://x.com/AustinBarack/status/2067255909600972830",
+    "summary": "Quoted Erik Voorhees announcing GLM 5.2 on Venice and argued open-source models have improved enough that GLM 5.2 outperforms every LLM other than Fable for coding while running fully private/encrypted on Venice.",
+    "entities": [
+      "Venice / VVV",
+      "GLM 5.2",
+      "open-source models",
+      "private AI",
+      "encrypted inference",
+      "Erik Voorhees"
+    ],
+    "why_logged": "Fresh Austin evidence for the same Venice/private-AI thesis, now tied to open-source model quality and coding/agent benchmarks rather than only usage growth.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-17",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/thread",
+    "url": "https://x.com/MoneyPrinter0x/status/2067353313344156054",
+    "summary": "Announced a full-portfolio short stance capped at 20% value at risk, part of a Warsh/Fed-forward-guidance thread; nearby posts named CRWV and POET shorts/puts on high-beta AI/micron assets and expected uncertainty-driven market weakness before possible later stabilization.",
+    "entities": [
+      "Warsh",
+      "Fed forward guidance",
+      "CRWV",
+      "POET",
+      "high-beta AI assets",
+      "short positioning",
+      "20% VaR",
+      "risk management"
+    ],
+    "why_logged": "Adds the specific positioning leg behind the already logged macro/rate-pricing reply: portfolio-level short expression, named vehicles, and explicit capped-risk language.",
+    "confidence": "high"
+  },
+  {
     "date": "2026-06-17",
     "handle": "kelxyz_",
     "type": "reply/mention",
