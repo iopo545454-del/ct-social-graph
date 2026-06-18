@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-06-18",
-  "profile_updated_at": "2026-06-18T06:52:25Z",
+  "profile_updated_at": "2026-06-18T10:59:34Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -248,7 +248,7 @@
         "Warsh/Fed forward-guidance uncertainty",
         "POET"
       ],
-      "summary": "Evidence shows coin_casanova sharing a Fable-generated factor/sector dashboard and MoneyPrinter0x posting structured weekly AI-equity/watchlists, extending into a capital-markets worldview and event hedge construction using QQQ beta plus Polymarket odds. New 2026-06-15 examples: 0xGeeGee translated MSTR/Saylor BTC metrics into mNAV/capital-structure terms and used superconducting wires to frame the nuclear bull market; MoneyPrinter0x logged a major HK single-stock event trade, tied the thread back to HigherLiquid, and clarified that AI-equity trades should track the rate of change of forward-looking AI capex and end-user AI spend rather than naked capex notional. Latest MoneyPrinter0x replies added explicit multi-book process detail: intraday vs multiday books, early sizing on momentum resets, derisking into strength, and runners. New coin_casanova evidence reinforced his low-float/KOL-leader setup with live negative-funding/short-liquidation mechanics. Latest coin_casanova follow-up said CT faded a bread-and-butter last-cycle low-float/negative-funding setup, reinforcing his live-trade preference for speculative squeeze mechanics. June 16 MoneyPrinter0x follow-up kept the AI-equity basket visible, saying ARM/QCOM/neoclouds/photonics were looking very good as forward-looking regime-change monitors. June 16 MoneyPrinter0x posts added short-dated FOMC options evidence: SOXL calls, quick rotation to SPCX, and use of falling petrol prices as a less-hawkish FOMC input. June 17 follow-through added execution/outcome evidence on that SPCX setup: same-day 0DTE/ITM call language and a later >60% close on 1DTE calls bought minutes before the previous close. Latest MoneyPrinter0x macro/rates reply adds explicit regime/risk-management process: short-term shorts into panic/information gaps, but capped risk and focus on volatility opportunity. New MoneyPrinter0x posts make the Warsh/Fed uncertainty trade explicit: full-portfolio short stance capped at 20% VaR with CRWV/POET high-beta shorts/puts Latest June 18 MoneyPrinter0x replies sharpen the process read: he expects short-term uncertainty deallocation first, but treats the Fed/Warsh setup as variance creation and says he will close before the VaR cap if the event timeline invalidates.",
+      "summary": "Evidence shows coin_casanova sharing a Fable-generated factor/sector dashboard and MoneyPrinter0x posting structured weekly AI-equity/watchlists, extending into a capital-markets worldview and event hedge construction using QQQ beta plus Polymarket odds. New 2026-06-15 examples: 0xGeeGee translated MSTR/Saylor BTC metrics into mNAV/capital-structure terms and used superconducting wires to frame the nuclear bull market; MoneyPrinter0x logged a major HK single-stock event trade, tied the thread back to HigherLiquid, and clarified that AI-equity trades should track the rate of change of forward-looking AI capex and end-user AI spend rather than naked capex notional. Latest MoneyPrinter0x replies added explicit multi-book process detail: intraday vs multiday books, early sizing on momentum resets, derisking into strength, and runners. New coin_casanova evidence reinforced his low-float/KOL-leader setup with live negative-funding/short-liquidation mechanics. Latest coin_casanova follow-up said CT faded a bread-and-butter last-cycle low-float/negative-funding setup, reinforcing his live-trade preference for speculative squeeze mechanics. June 16 MoneyPrinter0x follow-up kept the AI-equity basket visible, saying ARM/QCOM/neoclouds/photonics were looking very good as forward-looking regime-change monitors. June 16 MoneyPrinter0x posts added short-dated FOMC options evidence: SOXL calls, quick rotation to SPCX, and use of falling petrol prices as a less-hawkish FOMC input. June 17 follow-through added execution/outcome evidence on that SPCX setup: same-day 0DTE/ITM call language and a later >60% close on 1DTE calls bought minutes before the previous close. Latest MoneyPrinter0x macro/rates reply adds explicit regime/risk-management process: short-term shorts into panic/information gaps, but capped risk and focus on volatility opportunity. New MoneyPrinter0x posts make the Warsh/Fed uncertainty trade explicit: full-portfolio short stance capped at 20% VaR with CRWV/POET high-beta shorts/puts. Latest June 18 MoneyPrinter0x replies sharpen the process read: he expects short-term uncertainty deallocation first, but treats the Fed/Warsh setup as variance creation and says he will close before the VaR cap if the event timeline invalidates. Latest June 18 MoneyPrinter0x follow-up kept the same Warsh/Fed trade source-close: current shorts are MSTR/POET/CRWV, with early AM invalidation/closeout if reaction fails and explicit concern about squeeze risk in prolonged retracement shorts.",
       "evidence_urls": [
         "https://x.com/coin_casanova/status/2065996363503177739",
         "https://x.com/MoneyPrinter0x/status/2066030025942655219",
@@ -276,7 +276,9 @@
         "https://x.com/MoneyPrinter0x/status/2067353313344156054",
         "https://x.com/MoneyPrinter0x/status/2067335139554914480",
         "https://x.com/MoneyPrinter0x/status/2067453987151049213",
-        "https://x.com/MoneyPrinter0x/status/2067451128862892073"
+        "https://x.com/MoneyPrinter0x/status/2067451128862892073",
+        "https://x.com/MoneyPrinter0x/status/2067558779122782636",
+        "https://x.com/MoneyPrinter0x/status/2067562188995481998"
       ],
       "momentum": "rising",
       "confidence": "medium"
@@ -532,6 +534,7 @@
     "Watch whether Axiom/PM fee critiques recur or stay a one-off GeeGee prediction-market UX complaint.",
     "Track whether ProofMarkets conditional pricing appears in a public paper-trading/product launch rather than only internal tests.",
     "Track whether token-launch/points-program PMF timing becomes a repeated airtightfish/product-design theme or remains a single nftboi_/umia_finance thread.",
-    "Track whether AustinBarack keeps linking Venice/VVV to specific open-source model benchmarks such as GLM 5.2, or whether this was a one-off Erik Voorhees quote."
+    "Track whether AustinBarack keeps linking Venice/VVV to specific open-source model benchmarks such as GLM 5.2, or whether this was a one-off Erik Voorhees quote.",
+    "Track whether MoneyPrinter0x closed MSTR/POET/CRWV shorts after the June 18 AM invalidation window or rolled into a different long/short expression."
   ]
 }

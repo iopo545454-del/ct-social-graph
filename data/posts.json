@@ -1,6 +1,25 @@
 [
   {
     "date": "2026-06-18",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/position_update",
+    "url": "https://x.com/MoneyPrinter0x/status/2067562188995481998",
+    "summary": "Updated the Warsh/Fed short book: still holding MSTR, POET, and CRWV shorts from the earlier full-portfolio-short setup, but said he may close early if the morning session does not react; reiterated discomfort with prolonged retracement shorts because squeeze risk is always present and that he prefers returning to bullish posture if markets absorb the event.",
+    "entities": [
+      "MSTR",
+      "POET",
+      "CRWV",
+      "short positioning",
+      "squeeze risk",
+      "invalidation",
+      "Warsh/Fed uncertainty",
+      "risk management"
+    ],
+    "why_logged": "Follow-through to the already logged full-portfolio-short/risk-cap evidence: identifies current short vehicles and the planned early-invalidation/close behavior before risk limits are hit.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-18",
     "handle": "airtightfish",
     "type": "reply/project_update",
     "url": "https://x.com/airtightfish/status/2067454830419861603",
