@@ -1,6 +1,28 @@
 [
   {
     "from": "airtightfish",
+    "to": "ProofMarkets",
+    "to_kind": "project",
+    "type": "reply/project_update",
+    "date": "2026-06-18",
+    "url": "https://x.com/airtightfish/status/2067454830419861603",
+    "summary": "Continued the ProofMarkets v0 Challenge rollout thread with concrete waitlist/manual-onboarding status and application follow-up guidance.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "TheShortBear",
+    "to_kind": "individual",
+    "type": "reply/macro_context",
+    "date": "2026-06-18",
+    "url": "https://x.com/MoneyPrinter0x/status/2067453987151049213",
+    "summary": "Substantively responded to TheShortBear's Fed/Warsh meeting analysis, agreeing partly but emphasizing short-term capital deallocation first and medium/long-term positive-skew variance later.",
+    "quality": "medium",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "airtightfish",
     "to": "nftboi_",
     "to_kind": "individual",
     "type": "reply/thread",

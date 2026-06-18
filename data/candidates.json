@@ -331,5 +331,17 @@
     ],
     "first_seen": "2026-06-17",
     "confidence": "low"
+  },
+  {
+    "handle": "TheShortBear",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "MoneyPrinter0x Fed/Warsh macro reply",
+    "reason": "MoneyPrinter0x gave a substantive response to TheShortBear's Fed/Warsh meeting analysis; single medium-quality interaction, so keep candidate rather than Tier 2.",
+    "evidence_urls": [
+      "https://x.com/MoneyPrinter0x/status/2067453987151049213"
+    ],
+    "first_seen": "2026-06-18",
+    "confidence": "low"
   }
 ]

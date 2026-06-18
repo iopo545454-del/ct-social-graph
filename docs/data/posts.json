@@ -2,6 +2,59 @@
   {
     "date": "2026-06-18",
     "handle": "airtightfish",
+    "type": "reply/project_update",
+    "url": "https://x.com/airtightfish/status/2067454830419861603",
+    "summary": "In the ProofMarkets v0 Challenge thread, said most waitlist applications were declined, more review remains, and onboarding is being sent manually; related replies offered DM follow-up for application-specific questions.",
+    "entities": [
+      "ProofMarkets",
+      "v0 Challenge",
+      "waitlist review",
+      "manual onboarding",
+      "paper trading contest",
+      "user screening"
+    ],
+    "why_logged": "Operational follow-up to the already logged ProofMarkets launch/contest evidence; useful for the project mention ledger without over-synthesizing.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-18",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/risk_management",
+    "url": "https://x.com/MoneyPrinter0x/status/2067451128862892073",
+    "summary": "Clarified he does not like holding medium/long-term shorts because squeezes can appear anytime, especially before a three-day weekend; wants reaction in the morning session and would close before the 20% VaR cap if the event timeline is invalidated.",
+    "entities": [
+      "short positioning",
+      "20% VaR",
+      "three-day weekend",
+      "invalidation",
+      "event-driven timeline",
+      "risk management"
+    ],
+    "why_logged": "Adds source-close detail to the prior full-portfolio-short post: explicit discomfort with duration, invalidation trigger, and risk-cap behavior.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-18",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/macro_process",
+    "url": "https://x.com/MoneyPrinter0x/status/2067453987151049213",
+    "summary": "Replied to TheShortBear's Fed/Warsh read by distinguishing short-term uncertainty-driven capital deallocation from medium/long-term bullish variance; framed the setup as event-driven opportunity created by higher policy/market variance.",
+    "entities": [
+      "Warsh",
+      "Fed meeting",
+      "rate cuts",
+      "energy costs",
+      "event-driven variance",
+      "short-term shorts",
+      "market uncertainty",
+      "TheShortBear"
+    ],
+    "why_logged": "Fresh process evidence for the same MoneyPrinter0x macro/event-risk book: not just direction, but time-horizon separation and volatility-as-opportunity framing.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-18",
+    "handle": "airtightfish",
     "type": "reply/thread",
     "url": "https://x.com/i/status/2067409458481725756",
     "summary": "Pushed back on an early-token/points-program thesis by saying points are more nuanced and tokens are not a wedge for every industry; if the product is not crypto-native, the token may not be a benefit.",
