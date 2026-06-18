@@ -731,7 +731,7 @@
     "handle": "airtightfish",
     "period_start": "2026-05-14",
     "period_end": "2026-06-18",
-    "profile_updated_at": "2026-06-18T06:52:25Z",
+    "profile_updated_at": "2026-06-18T22:30:00Z",
     "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, and nuance around trader behavior versus scams. Interpretation confidence is medium; many posts are project/community replies.",
     "likes": [
       {
@@ -744,12 +744,14 @@
       },
       {
         "theme": "ProofMarkets community/onboarding",
-        "summary": "Repeatedly promoted ProofMarkets, referenced manual waitlist review after bot/AI filtering, and invited feedback/market ideas.",
+        "summary": "Repeatedly promoted ProofMarkets, referenced manual waitlist review after bot/AI filtering, invited feedback/market ideas, and latest replies point to conditional futures/new primitives plus better non-gambling market listings as active product-design directions.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2064390683440341286",
           "https://x.com/airtightfish/status/2064743264691875927",
           "https://x.com/airtightfish/status/2064562933405736983",
-          "https://x.com/airtightfish/status/2063036560791007584"
+          "https://x.com/airtightfish/status/2063036560791007584",
+          "https://x.com/airtightfish/status/2067716891943096714",
+          "https://x.com/airtightfish/status/2067715921859240042"
         ],
         "confidence": "high"
       },
@@ -777,6 +779,15 @@
           "https://x.com/airtightfish/status/2067071639515283852",
           "https://x.com/airtightfish/status/2067075588364333472",
           "https://x.com/i/status/2067409458481725756"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "Prediction-market product design beyond gambling",
+        "summary": "In a prediction-market interface critique thread, agreed current markets help with pricing but said offerings are still weak for non-gambling markets; highlighted conditional futures, listings, and new primitives as areas ProofMarkets is thinking about.",
+        "evidence_urls": [
+          "https://x.com/airtightfish/status/2067716891943096714",
+          "https://x.com/airtightfish/status/2067715921859240042"
         ],
         "confidence": "medium"
       }
@@ -822,7 +833,7 @@
         "name": "ProofMarkets",
         "handle": "ProofMarkets",
         "stance": "positive",
-        "summary": "Repeated operating/project evidence: waitlist filtering, contest launch, manual onboarding, and application-specific follow-up for ProofMarkets v0 Challenge.",
+        "summary": "Repeated operating/project evidence: waitlist filtering, contest launch, manual onboarding, application-specific follow-up, plus new product-design replies around conditional futures/new primitives and non-gambling market listings.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2064390683440341286",
           "https://x.com/airtightfish/status/2064743264691875927",
@@ -830,7 +841,9 @@
           "https://x.com/airtightfish/status/2063450933804052934",
           "https://x.com/airtightfish/status/2066622518681612458",
           "https://x.com/airtightfish/status/2067368882688393357",
-          "https://x.com/airtightfish/status/2067454830419861603"
+          "https://x.com/airtightfish/status/2067454830419861603",
+          "https://x.com/airtightfish/status/2067715693278114221",
+          "https://x.com/airtightfish/status/2067716891943096714"
         ]
       },
       {
@@ -887,6 +900,14 @@
         "evidence_urls": [
           "https://x.com/airtightfish/status/2067071639515283852"
         ]
+      },
+      {
+        "handle": "ryanchern",
+        "why": "Substantive reply to ryanchern prediction-market redesign thread; candidate edge only until repeated.",
+        "evidence_urls": [
+          "https://x.com/airtightfish/status/2067716891943096714"
+        ],
+        "confidence": "low"
       }
     ],
     "style": {
@@ -898,7 +919,8 @@
       "Need more detail on ProofMarkets market design and the private-company-access thesis.",
       "AI x friendtech mention needs follow-up before treating it as a real theme.",
       "Clarify whether decentralized AI is becoming an airtightfish theme or was just a one-thread reply.",
-      "Track whether airtightfish continues discussing token launch timing / points-program design beyond the nftboi_/umia_finance PMF thread."
+      "Track whether airtightfish continues discussing token launch timing / points-program design beyond the nftboi_/umia_finance PMF thread.",
+      "Track whether ProofMarkets conditional futures/non-gambling market design becomes a repeated public product theme or remains one ryanchern thread."
     ],
     "evidence_urls": [
       "https://x.com/airtightfish/status/2065567457536831796",
@@ -915,7 +937,10 @@
       "https://x.com/airtightfish/status/2067075588364333472",
       "https://x.com/airtightfish/status/2067368882688393357",
       "https://x.com/i/status/2067409458481725756",
-      "https://x.com/airtightfish/status/2067454830419861603"
+      "https://x.com/airtightfish/status/2067454830419861603",
+      "https://x.com/airtightfish/status/2067715693278114221",
+      "https://x.com/airtightfish/status/2067715921859240042",
+      "https://x.com/airtightfish/status/2067716891943096714"
     ]
   },
   {
@@ -1134,8 +1159,8 @@
     "handle": "MoneyPrinter0x",
     "period_start": "2026-05-14",
     "period_end": "2026-06-18",
-    "profile_updated_at": "2026-06-18T18:20:00Z",
-    "taste_summary": "Observed X/Twitter evidence shows an event-driven trader mixing AI-equity rotations, short-dated options, macro/rate catalysts, and strict invalidation/risk caps. Latest evidence keeps MSTR as the residual short after broad short-covering and identifies post-FOMC AI-sector liquidity/earnings frontrunning as the next risk-on rotation area.",
+    "profile_updated_at": "2026-06-18T22:30:00Z",
+    "taste_summary": "Observed X/Twitter evidence shows an event-driven trader mixing AI-equity rotations, short-dated options, macro/rate catalysts, and strict invalidation/risk caps. Latest evidence keeps MSTR as the residual short after broad short-covering, identifies post-FOMC AI-sector liquidity/earnings frontrunning as the next risk-on rotation area, and adds a light people-respect edge around rasmr_eth plus Ansem/Flood.",
     "likes": [
       {
         "theme": "AI agent harnesses and deterministic quality gates",
@@ -1522,6 +1547,30 @@
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2059746342457761794"
         ]
+      },
+      {
+        "handle": "rasmr_eth",
+        "why": "Praised rasmr_eth’s live trading after an endorsement; one social/respect edge only, so keep as candidate rather than promoted account.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2067709825832886740"
+        ],
+        "confidence": "low"
+      },
+      {
+        "handle": "ansem",
+        "why": "Named Ansem, alongside Flood, as one of the best in the game and someone he learned from; handle/context should be verified before promotion.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2067709825832886740"
+        ],
+        "confidence": "low"
+      },
+      {
+        "handle": "flood",
+        "why": "Named Flood, alongside Ansem, as one of the best in the game and someone he learned from; handle/context should be verified before promotion.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2067709825832886740"
+        ],
+        "confidence": "low"
       }
     ],
     "style": {
@@ -1539,7 +1588,8 @@
       "Track whether MoneyPrinter0x's FOMC/SOXL/SPCX options posts are a one-off event-risk trade or a recurring public process pattern.",
       "Track whether the near-1-delta/options-invalidations framework recurs beyond the SOXL/SPCX/FOMC cluster.",
       "Track whether the residual MSTR short remains a standalone bearish view or gets closed like the rest of the Warsh/Fed short book.",
-      "Track whether MoneyPrinter0x keeps MSTR as a standalone structural short or closes it as risk-on AI/liquidity rotations continue."
+      "Track whether MoneyPrinter0x keeps MSTR as a standalone structural short or closes it as risk-on AI/liquidity rotations continue.",
+      "Verify the exact Ansem/Flood account handles before treating them as clean graph nodes."
     ],
     "evidence_urls": [
       "https://x.com/MoneyPrinter0x/status/2065910048833102118",
@@ -1585,7 +1635,8 @@
       "https://x.com/MoneyPrinter0x/status/2067643405128315238",
       "https://x.com/MoneyPrinter0x/status/2067647444461171075",
       "https://x.com/MoneyPrinter0x/status/2067668353855148495",
-      "https://x.com/MoneyPrinter0x/status/2067666128663679377"
+      "https://x.com/MoneyPrinter0x/status/2067666128663679377",
+      "https://x.com/MoneyPrinter0x/status/2067709825832886740"
     ]
   },
   {

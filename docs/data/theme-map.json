@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-06-18",
-  "profile_updated_at": "2026-06-18T18:20:00Z",
+  "profile_updated_at": "2026-06-18T22:30:00Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -154,9 +154,11 @@
         "SOXL/SPCX options event trade",
         "Hyperliquid PURR",
         "ProofMarkets conditional pricing",
-        "event-driven options invalidations"
+        "event-driven options invalidations",
+        "conditional futures",
+        "non-gambling markets"
       ],
-      "summary": "Observed posts show coin_casanova arguing for organic crypto options demand, CryptoTomYT highlighting Tradexyz performance context, airtightfish building/promoting ProofMarkets, and 0xGeeGee naming Variational as his favorite day-to-day short-term venue. These are separate infra/venue references rather than one unified thesis. New 2026-06-15 CryptoTomYT evidence added Legend Trade as another public perps/performance venue, but treat it as screenshot-led performance evidence rather than a full project thesis. New airtightfish evidence was operational rather than thesis-heavy: ProofMarkets access codes are going out and accepted applicants will be manually DM’d for feedback. AustinBarack added a Hyperliquid market-structure example: $1.5B SPCX traded in 24h, framed as 'perpification of everything'. MoneyPrinter0x added short-dated options/event-risk evidence around SOXL/SPCX into FOMC and a PURR/Hyperliquid ecosystem follow-up. New late-June-16/June-17 evidence added ProofMarkets conditional-pricing internal tests from airtightfish and a more explicit MoneyPrinter0x options-process note around high-delta, cheap-premium, event-invalidated structures. Latest airtightfish update says ProofMarkets' contest is live with manually reviewed applicants being onboarded June 18 ProofMarkets follow-up adds waitlist-decline/manual-onboarding status for the v0 Challenge.",
+      "summary": "Observed posts show coin_casanova arguing for organic crypto options demand, CryptoTomYT highlighting Tradexyz performance context, airtightfish building/promoting ProofMarkets, and 0xGeeGee naming Variational as his favorite day-to-day short-term venue. These are separate infra/venue references rather than one unified thesis. New 2026-06-15 CryptoTomYT evidence added Legend Trade as another public perps/performance venue, but treat it as screenshot-led performance evidence rather than a full project thesis. New airtightfish evidence was operational rather than thesis-heavy: ProofMarkets access codes are going out and accepted applicants will be manually DM’d for feedback. AustinBarack added a Hyperliquid market-structure example: $1.5B SPCX traded in 24h, framed as 'perpification of everything'. MoneyPrinter0x added short-dated options/event-risk evidence around SOXL/SPCX into FOMC and a PURR/Hyperliquid ecosystem follow-up. New late-June-16/June-17 evidence added ProofMarkets conditional-pricing internal tests from airtightfish and a more explicit MoneyPrinter0x options-process note around high-delta, cheap-premium, event-invalidated structures. Latest airtightfish update says ProofMarkets' contest is live with manually reviewed applicants being onboarded June 18 ProofMarkets follow-up adds waitlist-decline/manual-onboarding status for the v0 Challenge. Latest airtightfish replies add product-design color for ProofMarkets: conditional futures/new primitives and non-gambling market listings, not just onboarding/contest operations.",
       "evidence_urls": [
         "https://x.com/coin_casanova/status/2063848704499687605",
         "https://x.com/CryptoTomYT/status/2065238474907607090",
@@ -171,7 +173,10 @@
         "https://x.com/airtightfish/status/2067032953994072416",
         "https://x.com/MoneyPrinter0x/status/2067014336447705397",
         "https://x.com/airtightfish/status/2067368882688393357",
-        "https://x.com/airtightfish/status/2067454830419861603"
+        "https://x.com/airtightfish/status/2067454830419861603",
+        "https://x.com/airtightfish/status/2067715693278114221",
+        "https://x.com/airtightfish/status/2067715921859240042",
+        "https://x.com/airtightfish/status/2067716891943096714"
       ],
       "momentum": "emerging",
       "confidence": "medium"
@@ -514,6 +519,29 @@
       ],
       "momentum": "emerging",
       "confidence": "medium"
+    },
+    {
+      "theme": "Prediction-market product design beyond gambling",
+      "accounts_positive": [
+        "airtightfish"
+      ],
+      "accounts_negative": [
+        "0xGeeGee"
+      ],
+      "projects": [
+        "ProofMarkets",
+        "conditional futures",
+        "non-gambling markets",
+        "Axiom fees"
+      ],
+      "summary": "airtightfish’s latest ryanchern-thread replies frame ProofMarkets/prediction markets around better listings, conditional futures, and non-gambling-market primitives. GeeGee’s separate Axiom-fee critique remains a negative fee/UX counterpoint, so keep this as a light product-design bucket rather than consensus.",
+      "evidence_urls": [
+        "https://x.com/airtightfish/status/2067716891943096714",
+        "https://x.com/airtightfish/status/2067715921859240042",
+        "https://x.com/0xGeeGee/status/2067056795991015531"
+      ],
+      "momentum": "emerging",
+      "confidence": "medium"
     }
   ],
   "open_questions": [
@@ -549,6 +577,8 @@
     "Track whether AustinBarack keeps linking Venice/VVV to specific open-source model benchmarks such as GLM 5.2, or whether this was a one-off Erik Voorhees quote.",
     "Track whether MoneyPrinter0x keeps MSTR as a residual standalone short after cutting the rest of the Warsh/Fed short book.",
     "Track whether GeeGee’s BTC/MSTR exposure cut is a durable retreat from the trade or a tactical sizing reset.",
-    "Track whether MoneyPrinter0x’s residual MSTR short remains structural while he rotates attention back to AI-sector risk-on names."
+    "Track whether MoneyPrinter0x’s residual MSTR short remains structural while he rotates attention back to AI-sector risk-on names.",
+    "Track whether ProofMarkets conditional futures/non-gambling market design recurs beyond the ryanchern thread.",
+    "Track whether rasmr_eth becomes a repeated MoneyPrinter0x trading-respect edge or stays a one-off endorsement reply."
   ]
 }

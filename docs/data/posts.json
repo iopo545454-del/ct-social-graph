@@ -1,6 +1,39 @@
 [
   {
     "date": "2026-06-18",
+    "handle": "airtightfish",
+    "type": "reply/project_design",
+    "url": "https://x.com/airtightfish/status/2067716891943096714",
+    "summary": "In a ryanchern prediction-market thread, agreed the current surface is useful for pricing but still weak for non-gambling markets; said ProofMarkets has been digging into listings and pointed to conditional futures/new primitives as a direction.",
+    "entities": [
+      "ProofMarkets",
+      "prediction markets",
+      "conditional futures",
+      "non-gambling markets",
+      "listings",
+      "ryanchern"
+    ],
+    "why_logged": "Fresh source-close product-design evidence for ProofMarkets/prediction-market market structure, beyond only waitlist/onboarding updates.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-18",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/respected_traders",
+    "url": "https://x.com/MoneyPrinter0x/status/2067709825832886740",
+    "summary": "Responded to rasmr_eth endorsement by saying comparison to Ansem/Flood was too much, calling Ansem and Flood among the best in the game, saying he learned a lot from them, and praising rasmr_eth’s live trading.",
+    "entities": [
+      "rasmr_eth",
+      "Ansem",
+      "Flood",
+      "trader respect",
+      "live trading"
+    ],
+    "why_logged": "Adds a people/respect edge for MoneyPrinter0x without treating it as a project thesis; useful for the trader taste map.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-18",
     "handle": "MoneyPrinter0x",
     "type": "reply/market_process",
     "url": "https://x.com/MoneyPrinter0x/status/2067668353855148495",

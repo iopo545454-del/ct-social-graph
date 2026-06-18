@@ -343,5 +343,29 @@
     ],
     "first_seen": "2026-06-18",
     "confidence": "low"
+  },
+  {
+    "handle": "ryanchern",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "airtightfish prediction-market redesign reply",
+    "reason": "airtightfish engaged a ryanchern thread on prediction-market product/interface stagnation and non-gambling market primitives; one substantive interaction only, so keep candidate.",
+    "evidence_urls": [
+      "https://x.com/airtightfish/status/2067716891943096714"
+    ],
+    "first_seen": "2026-06-18",
+    "confidence": "low"
+  },
+  {
+    "handle": "rasmr_eth",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "MoneyPrinter0x reply praising live trading",
+    "reason": "MoneyPrinter0x praised rasmr_eth’s live trading after an endorsement, but this is one respect/social edge and not enough for Tier 2.",
+    "evidence_urls": [
+      "https://x.com/MoneyPrinter0x/status/2067709825832886740"
+    ],
+    "first_seen": "2026-06-18",
+    "confidence": "low"
   }
 ]
