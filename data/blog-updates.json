@@ -1,6 +1,6 @@
 {
-  "last_checked": "2026-06-17T18:39:12Z",
-  "new_count": 2,
+  "last_checked": "2026-06-18T19:14:29Z",
+  "new_count": 3,
   "sources": [
     {
       "name": "a16z crypto",
@@ -63,7 +63,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-17T18:39:09Z"
+      "checked_at": "2026-06-18T19:14:26Z"
     },
     {
       "name": "Multicoin Capital",
@@ -138,7 +138,7 @@
           "published": "Thu, 11 Sep 2025 00:00:00 GMT"
         }
       ],
-      "checked_at": "2026-06-17T18:39:09Z"
+      "checked_at": "2026-06-18T19:14:26Z"
     },
     {
       "name": "Pantera Blockchain Letter",
@@ -203,7 +203,7 @@
           "published": "Thu, 29 May 2025 16:37:35 +0000"
         }
       ],
-      "checked_at": "2026-06-17T18:39:10Z"
+      "checked_at": "2026-06-18T19:14:27Z"
     },
     {
       "name": "Paradigm",
@@ -266,7 +266,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-17T18:39:10Z"
+      "checked_at": "2026-06-18T19:14:27Z"
     },
     {
       "name": "Glassnode Research",
@@ -280,6 +280,11 @@
         "https://research.glassnode.com/rss/"
       ],
       "items": [
+        {
+          "title": "Introducing: Market Compass",
+          "url": "https://research.glassnode.com/market-compass",
+          "published": "Thu, 18 Jun 2026 17:11:36 GMT"
+        },
         {
           "title": "Glassnode on Snowflake: Digital Asset Data Delivered Directly to your Warehouse",
           "url": "https://research.glassnode.com/glassnode-on-snowflake",
@@ -334,14 +339,9 @@
           "title": "The Altcoin Vector #57",
           "url": "https://research.glassnode.com/the-altcoin-vector-57",
           "published": "Thu, 04 Jun 2026 07:12:27 GMT"
-        },
-        {
-          "title": "The Bitcoin Vector #58",
-          "url": "https://research.glassnode.com/the-bitcoin-vector-58",
-          "published": "Thu, 04 Jun 2026 07:10:15 GMT"
         }
       ],
-      "checked_at": "2026-06-17T18:39:11Z"
+      "checked_at": "2026-06-18T19:14:27Z"
     },
     {
       "name": "Delphi Digital",
@@ -359,7 +359,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-17T18:39:11Z"
+      "checked_at": "2026-06-18T19:14:28Z"
     },
     {
       "name": "Electric Capital",
@@ -371,7 +371,7 @@
       "error": null,
       "feed_urls": [],
       "items": [],
-      "checked_at": "2026-06-17T18:39:11Z"
+      "checked_at": "2026-06-18T19:14:28Z"
     },
     {
       "name": "Bankless",
@@ -439,12 +439,12 @@
           "published": null
         },
         {
-          "title": "News Pump.fun Launches GO, a Bounty Platform for ANY Task Pump.fun's new GO platform lets users post paid bounties with rewards held in escr",
-          "url": "https://www.bankless.com/read/news/pump-fun-launches-go-a-bounty-platform-for-any-task",
+          "title": "Analysis The Hyperliquid Altcoin That's Getting Interesting Again Kinetiq dominates liquid HYPE staking but its core business is shrinking. ",
+          "url": "https://www.bankless.com/read/the-hyperliquid-altcoin-thats-getting-interesting-again",
           "published": null
         }
       ],
-      "checked_at": "2026-06-17T18:39:12Z"
+      "checked_at": "2026-06-18T19:14:29Z"
     },
     {
       "name": "Token Terminal",
@@ -469,6 +469,11 @@
         {
           "title": "Newsletter",
           "url": "https://tokenterminal.com/resources/newsletter",
+          "published": null
+        },
+        {
+          "title": "Introducing new stablecoin & RWA issuer pages+ data & product updates18 Jun, 2026",
+          "url": "https://tokenterminal.com/resources/newsletter/introducing-new-stablecoin-rwa-issuer-pages",
           "published": null
         },
         {
@@ -510,14 +515,9 @@
           "title": "Who is going to win the tokenized Treasuries race?+ data & product updates14 May, 2026",
           "url": "https://tokenterminal.com/resources/newsletter/who-is-going-to-win-the-tokenized-treasuries-race",
           "published": null
-        },
-        {
-          "title": "Launching the yields datasetWe now track onchain yields for 350+ tokens12 May, 2026",
-          "url": "https://tokenterminal.com/resources/newsletter/launching-the-yields-dataset",
-          "published": null
         }
       ],
-      "checked_at": "2026-06-17T18:39:12Z"
+      "checked_at": "2026-06-18T19:14:29Z"
     }
   ],
   "articles": [
@@ -942,6 +942,16 @@
       "source_url": "https://www.paradigm.xyz/writing"
     },
     {
+      "id": "6c0a87d4950c",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "Introducing: Market Compass",
+      "url": "https://research.glassnode.com/market-compass",
+      "published": "Thu, 18 Jun 2026 17:11:36 GMT",
+      "first_seen": "2026-06-18T19:14:29Z",
+      "source_url": "https://research.glassnode.com/"
+    },
+    {
       "id": "36536bcb0207",
       "source": "Glassnode Research",
       "tier": 1,
@@ -1048,16 +1058,6 @@
       "title": "The Altcoin Vector #57",
       "url": "https://research.glassnode.com/the-altcoin-vector-57",
       "published": "Thu, 04 Jun 2026 07:12:27 GMT",
-      "first_seen": "2026-06-14T20:08:30Z",
-      "source_url": "https://research.glassnode.com/"
-    },
-    {
-      "id": "c902baa8a938",
-      "source": "Glassnode Research",
-      "tier": 1,
-      "title": "The Bitcoin Vector #58",
-      "url": "https://research.glassnode.com/the-bitcoin-vector-58",
-      "published": "Thu, 04 Jun 2026 07:10:15 GMT",
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://research.glassnode.com/"
     },
@@ -1182,13 +1182,13 @@
       "source_url": "https://www.bankless.com/read"
     },
     {
-      "id": "f735e28835c9",
+      "id": "86d0de6551c4",
       "source": "Bankless",
       "tier": 2,
-      "title": "News Pump.fun Launches GO, a Bounty Platform for ANY Task Pump.fun's new GO platform lets users post paid bounties with rewards held in escr",
-      "url": "https://www.bankless.com/read/news/pump-fun-launches-go-a-bounty-platform-for-any-task",
+      "title": "Analysis The Hyperliquid Altcoin That's Getting Interesting Again Kinetiq dominates liquid HYPE staking but its core business is shrinking. ",
+      "url": "https://www.bankless.com/read/the-hyperliquid-altcoin-thats-getting-interesting-again",
       "published": null,
-      "first_seen": "2026-06-17T18:39:12Z",
+      "first_seen": "2026-06-18T19:14:29Z",
       "source_url": "https://www.bankless.com/read"
     },
     {
@@ -1219,6 +1219,16 @@
       "url": "https://tokenterminal.com/resources/newsletter",
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
+      "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "e4842955a77c",
+      "source": "Token Terminal",
+      "tier": 2,
+      "title": "Introducing new stablecoin & RWA issuer pages+ data & product updates18 Jun, 2026",
+      "url": "https://tokenterminal.com/resources/newsletter/introducing-new-stablecoin-rwa-issuer-pages",
+      "published": null,
+      "first_seen": "2026-06-18T19:14:29Z",
       "source_url": "https://tokenterminal.com/resources"
     },
     {
@@ -1300,6 +1310,26 @@
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "c902baa8a938",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "The Bitcoin Vector #58",
+      "url": "https://research.glassnode.com/the-bitcoin-vector-58",
+      "published": "Thu, 04 Jun 2026 07:10:15 GMT",
+      "first_seen": "2026-06-14T20:08:30Z",
+      "source_url": "https://research.glassnode.com/"
+    },
+    {
+      "id": "f735e28835c9",
+      "source": "Bankless",
+      "tier": 2,
+      "title": "News Pump.fun Launches GO, a Bounty Platform for ANY Task Pump.fun's new GO platform lets users post paid bounties with rewards held in escr",
+      "url": "https://www.bankless.com/read/news/pump-fun-launches-go-a-bounty-platform-for-any-task",
+      "published": null,
+      "first_seen": "2026-06-17T18:39:12Z",
+      "source_url": "https://www.bankless.com/read"
     },
     {
       "id": "c0c505eef6a4",
