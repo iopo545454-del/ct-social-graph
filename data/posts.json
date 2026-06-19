@@ -1,6 +1,40 @@
 [
   {
     "date": "2026-06-19",
+    "handle": "kelxyz_",
+    "type": "reply/incentivized_inference_design",
+    "url": "https://x.com/kelxyz_/status/2068083058306146524",
+    "summary": "In follow-up to his inference-financing post, said incentivized inference is a difficult problem, he is not fully sold on any current design, but Nock is in the running.",
+    "entities": [
+      "Nock",
+      "NOCK",
+      "incentivized inference",
+      "AI protocols",
+      "compute incentives"
+    ],
+    "why_logged": "Adds a specific project/design candidate to kelxyz_’s broader inference-incentive thesis while preserving his uncertainty about current designs.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-19",
+    "handle": "airtightfish",
+    "type": "quote/project_market_design",
+    "url": "https://x.com/airtightfish/status/2068099380775665928",
+    "summary": "Quoted a ProofMarkets conditional market on whether BTC would be priced higher if STRC had already sold significant BTC, arguing the Saylor/STRC overhang is hard to price because holdings are periodic and conditional markets can clarify both probability and exposure.",
+    "entities": [
+      "ProofMarkets",
+      "STRC",
+      "BTC",
+      "Michael Saylor",
+      "MicroStrategy",
+      "conditional markets",
+      "market overhang"
+    ],
+    "why_logged": "Fresh source-close ProofMarkets product-design evidence tied to a live CT debate already present in the graph: STRC/MSTR overhang and conditional-market pricing, not a generic project promo.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-19",
     "handle": "0xGeeGee",
     "type": "quote/defi_founder_critique",
     "url": "https://x.com/0xGeeGee/status/2068054047936983213",

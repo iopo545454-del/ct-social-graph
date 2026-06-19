@@ -1,5 +1,27 @@
 [
   {
+    "from": "kelxyz_",
+    "to": "nockchain",
+    "to_kind": "project",
+    "type": "reply/incentivized_inference_candidate",
+    "date": "2026-06-19",
+    "url": "https://x.com/kelxyz_/status/2068083058306146524",
+    "summary": "Said he is not fully sold on any incentivized-inference designs yet but that Nock is in the running, adding a cautious project/design candidate to his inference thesis.",
+    "quality": "medium",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "airtightfish",
+    "to": "ProofMarkets",
+    "to_kind": "project",
+    "type": "quote/conditional_market_design",
+    "date": "2026-06-19",
+    "url": "https://x.com/airtightfish/status/2068099380775665928",
+    "summary": "Quoted ProofMarkets' BTC/STRC conditional market and used the Saylor/MicroStrategy overhang as an example where conditional markets can price uncertainty and provide exposure.",
+    "quality": "high",
+    "created_tier2_candidate": false
+  },
+  {
     "from": "0xGeeGee",
     "to": "DefiIgnas",
     "to_kind": "individual",

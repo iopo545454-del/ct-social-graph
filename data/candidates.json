@@ -382,5 +382,17 @@
     ],
     "first_seen": "2026-06-19",
     "confidence": "medium"
+  },
+  {
+    "handle": "nockchain",
+    "kind": "project",
+    "status": "candidate",
+    "source": "kelxyz_ cautious incentivized-inference reply",
+    "reason": "kelxyz_ said he is not fully sold on any incentivized-inference designs yet but that Nock is in the running; single cautious evidence point, so candidate only.",
+    "evidence_urls": [
+      "https://x.com/kelxyz_/status/2068083058306146524"
+    ],
+    "first_seen": "2026-06-19",
+    "confidence": "low"
   }
 ]

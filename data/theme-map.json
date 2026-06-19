@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-06-19",
-  "profile_updated_at": "2026-06-19T19:47:47Z",
+  "profile_updated_at": "2026-06-19T22:45:00Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -51,9 +51,10 @@
         "AI cost-cutting layer",
         "photonics",
         "800VDC sector rotation",
-        "alternative inference financing"
+        "alternative inference financing",
+        "Nock / incentivized inference"
       ],
-      "summary": "Observed X/Twitter evidence spans GeeGee on inference cost/observability plus EIGEN/SERV, MoneyPrinter0x on deterministic AI-agent harnesses, kelxyz_ on inference incentives/model-parallel training, and AustinBarack on OpenRouter/Fusion API price-performance and AI ROI benchmarking. These are adjacent but not identical themes, so keep examples close to source posts. New 2026-06-15 GeeGee evidence explicitly tied the next AI attention cycle to companies positioned in the AI cost-cutting layer. GeeGee's 2026-06-17 Osobear puzzle thread adds a counterexample/process note: for hidden-code crypto puzzle solving, he reported Opus/GPT-class models were not useful, so keep the AI-tools bucket grounded in specific tasks rather than broad capability claims. Latest GeeGee quote adds another cost-collapse/process point: more DeepSeek-like gains may come from infrastructure as foundation models commoditize. Latest kelxyz_ evidence adds a valuation/economic angle: alternative financing that subsidizes inference or aggregates training compute at scale may justify very large outcomes.",
+      "summary": "Observed X/Twitter evidence spans GeeGee on inference cost/observability plus EIGEN/SERV, MoneyPrinter0x on deterministic AI-agent harnesses, kelxyz_ on inference incentives/model-parallel training, and AustinBarack on OpenRouter/Fusion API price-performance and AI ROI benchmarking. These are adjacent but not identical themes, so keep examples close to source posts. New 2026-06-15 GeeGee evidence explicitly tied the next AI attention cycle to companies positioned in the AI cost-cutting layer. GeeGee's 2026-06-17 Osobear puzzle thread adds a counterexample/process note: for hidden-code crypto puzzle solving, he reported Opus/GPT-class models were not useful, so keep the AI-tools bucket grounded in specific tasks rather than broad capability claims. Latest GeeGee quote adds another cost-collapse/process point: more DeepSeek-like gains may come from infrastructure as foundation models commoditize. Latest kelxyz_ evidence adds a valuation/economic angle: alternative financing that subsidizes inference or aggregates training compute at scale may justify very large outcomes. New kelxyz_ follow-up keeps the inference-design bucket cautious: incentivized inference remains difficult, no current design is fully convincing yet, but Nock is in the running.",
       "evidence_urls": [
         "https://x.com/0xGeeGee/status/2065771227743138126",
         "https://x.com/MoneyPrinter0x/status/2065910048833102118",
@@ -69,7 +70,8 @@
         "https://x.com/i/status/2067303523960979677",
         "https://x.com/0xGeeGee/status/2067328339170243046",
         "https://x.com/MoneyPrinter0x/status/2067666128663679377",
-        "https://x.com/kelxyz_/status/2068018630973849648"
+        "https://x.com/kelxyz_/status/2068018630973849648",
+        "https://x.com/kelxyz_/status/2068083058306146524"
       ],
       "momentum": "rising",
       "confidence": "medium"
@@ -158,9 +160,10 @@
         "ProofMarkets conditional pricing",
         "event-driven options invalidations",
         "conditional futures",
-        "non-gambling markets"
+        "non-gambling markets",
+        "STRC/BTC conditional markets"
       ],
-      "summary": "Observed posts show coin_casanova arguing for organic crypto options demand, CryptoTomYT highlighting Tradexyz performance context, airtightfish building/promoting ProofMarkets, and 0xGeeGee naming Variational as his favorite day-to-day short-term venue. These are separate infra/venue references rather than one unified thesis. New 2026-06-15 CryptoTomYT evidence added Legend Trade as another public perps/performance venue, but treat it as screenshot-led performance evidence rather than a full project thesis. New airtightfish evidence was operational rather than thesis-heavy: ProofMarkets access codes are going out and accepted applicants will be manually DM’d for feedback. AustinBarack added a Hyperliquid market-structure example: $1.5B SPCX traded in 24h, framed as 'perpification of everything'. MoneyPrinter0x added short-dated options/event-risk evidence around SOXL/SPCX into FOMC and a PURR/Hyperliquid ecosystem follow-up. New late-June-16/June-17 evidence added ProofMarkets conditional-pricing internal tests from airtightfish and a more explicit MoneyPrinter0x options-process note around high-delta, cheap-premium, event-invalidated structures. Latest airtightfish update says ProofMarkets' contest is live with manually reviewed applicants being onboarded June 18 ProofMarkets follow-up adds waitlist-decline/manual-onboarding status for the v0 Challenge. Latest airtightfish replies add product-design color for ProofMarkets: conditional futures/new primitives and non-gambling market listings, not just onboarding/contest operations. CryptoTomYT now has a second Legend Trade/public-performance update (+470% AUM in five weeks), but he also says he mostly no longer trades onchain and is currently more long-equities/short-crypto, so treat Legend as performance/venue evidence rather than a broad crypto-infra endorsement.",
+      "summary": "Observed posts show coin_casanova arguing for organic crypto options demand, CryptoTomYT highlighting Tradexyz performance context, airtightfish building/promoting ProofMarkets, and 0xGeeGee naming Variational as his favorite day-to-day short-term venue. These are separate infra/venue references rather than one unified thesis. New 2026-06-15 CryptoTomYT evidence added Legend Trade as another public perps/performance venue, but treat it as screenshot-led performance evidence rather than a full project thesis. New airtightfish evidence was operational rather than thesis-heavy: ProofMarkets access codes are going out and accepted applicants will be manually DM’d for feedback. AustinBarack added a Hyperliquid market-structure example: $1.5B SPCX traded in 24h, framed as 'perpification of everything'. MoneyPrinter0x added short-dated options/event-risk evidence around SOXL/SPCX into FOMC and a PURR/Hyperliquid ecosystem follow-up. New late-June-16/June-17 evidence added ProofMarkets conditional-pricing internal tests from airtightfish and a more explicit MoneyPrinter0x options-process note around high-delta, cheap-premium, event-invalidated structures. Latest airtightfish update says ProofMarkets' contest is live with manually reviewed applicants being onboarded June 18 ProofMarkets follow-up adds waitlist-decline/manual-onboarding status for the v0 Challenge. Latest airtightfish replies add product-design color for ProofMarkets: conditional futures/new primitives and non-gambling market listings, not just onboarding/contest operations. CryptoTomYT now has a second Legend Trade/public-performance update (+470% AUM in five weeks), but he also says he mostly no longer trades onchain and is currently more long-equities/short-crypto, so treat Legend as performance/venue evidence rather than a broad crypto-infra endorsement. Latest airtightfish/ProofMarkets evidence uses STRC/MSTR/BTC uncertainty as a concrete conditional-market case, with implied-probability pricing rather than only generic prediction-market discussion.",
       "evidence_urls": [
         "https://x.com/coin_casanova/status/2063848704499687605",
         "https://x.com/CryptoTomYT/status/2065238474907607090",
@@ -180,7 +183,8 @@
         "https://x.com/airtightfish/status/2067715921859240042",
         "https://x.com/airtightfish/status/2067716891943096714",
         "https://x.com/CryptoTomYT/status/2067867313660117014",
-        "https://x.com/CryptoTomYT/status/2067868039526445438"
+        "https://x.com/CryptoTomYT/status/2067868039526445438",
+        "https://x.com/airtightfish/status/2068099380775665928"
       ],
       "momentum": "emerging",
       "confidence": "medium"
@@ -548,13 +552,15 @@
         "ProofMarkets",
         "conditional futures",
         "non-gambling markets",
-        "Axiom fees"
+        "Axiom fees",
+        "STRC/BTC conditional markets"
       ],
-      "summary": "airtightfish’s latest ryanchern-thread replies frame ProofMarkets/prediction markets around better listings, conditional futures, and non-gambling-market primitives. GeeGee’s separate Axiom-fee critique remains a negative fee/UX counterpoint, so keep this as a light product-design bucket rather than consensus.",
+      "summary": "airtightfish’s latest ryanchern-thread replies frame ProofMarkets/prediction markets around better listings, conditional futures, and non-gambling-market primitives. GeeGee’s separate Axiom-fee critique remains a negative fee/UX counterpoint, so keep this as a light product-design bucket rather than consensus. New airtightfish example applies the same design lens to STRC/MSTR/BTC overhang pricing, arguing conditional markets can clarify hard-to-price uncertainty and provide exposure.",
       "evidence_urls": [
         "https://x.com/airtightfish/status/2067716891943096714",
         "https://x.com/airtightfish/status/2067715921859240042",
-        "https://x.com/0xGeeGee/status/2067056795991015531"
+        "https://x.com/0xGeeGee/status/2067056795991015531",
+        "https://x.com/airtightfish/status/2068099380775665928"
       ],
       "momentum": "emerging",
       "confidence": "medium"
@@ -631,6 +637,8 @@
     "Track whether InfiniFi/STRC becomes a repeated DeFi structured-credit theme or remains a one-off overhang analysis.",
     "Track whether CryptoTomYT’s long-equities/short-crypto framing persists beyond the current public competition/performance window.",
     "Track whether MoneyPrinter0x keeps posting explicit post-trade reviews after public macro/options books or whether this was a one-off MSTR short debrief.",
-    "Track whether GeeGee’s InfiniFi junior/senior rebalance comments turn into a recurring structured-credit capital-stack framework."
+    "Track whether GeeGee’s InfiniFi junior/senior rebalance comments turn into a recurring structured-credit capital-stack framework.",
+    "Track whether ProofMarkets conditional markets become a repeated public response to major CT uncertainty events beyond STRC/MSTR.",
+    "Track whether Nock recurs in kelxyz_'s incentivized-inference/design filter or remains a one-off cautious mention."
   ]
 }

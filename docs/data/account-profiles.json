@@ -818,9 +818,9 @@
   {
     "handle": "airtightfish",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-18",
-    "profile_updated_at": "2026-06-18T22:30:00Z",
-    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, and nuance around trader behavior versus scams. Interpretation confidence is medium; many posts are project/community replies.",
+    "period_end": "2026-06-19",
+    "profile_updated_at": "2026-06-19T22:45:00Z",
+    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence uses the STRC/MSTR/Saylor overhang as a live example for conditional markets rather than merely posting a project update.",
     "likes": [
       {
         "theme": "Crypto access to private companies",
@@ -832,14 +832,15 @@
       },
       {
         "theme": "ProofMarkets community/onboarding",
-        "summary": "Repeatedly promoted ProofMarkets, referenced manual waitlist review after bot/AI filtering, invited feedback/market ideas, and latest replies point to conditional futures/new primitives plus better non-gambling market listings as active product-design directions.",
+        "summary": "Repeatedly promoted ProofMarkets, referenced manual waitlist review after bot/AI filtering, invited feedback/market ideas, and now uses live STRC/MSTR/BTC overhang discourse as an example of where conditional markets can clarify hard-to-price uncertainty.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2064390683440341286",
           "https://x.com/airtightfish/status/2064743264691875927",
           "https://x.com/airtightfish/status/2064562933405736983",
           "https://x.com/airtightfish/status/2063036560791007584",
           "https://x.com/airtightfish/status/2067716891943096714",
-          "https://x.com/airtightfish/status/2067715921859240042"
+          "https://x.com/airtightfish/status/2067715921859240042",
+          "https://x.com/airtightfish/status/2068099380775665928"
         ],
         "confidence": "high"
       },
@@ -872,10 +873,11 @@
       },
       {
         "theme": "Prediction-market product design beyond gambling",
-        "summary": "In a prediction-market interface critique thread, agreed current markets help with pricing but said offerings are still weak for non-gambling markets; highlighted conditional futures, listings, and new primitives as areas ProofMarkets is thinking about.",
+        "summary": "Prediction-market design evidence now spans non-gambling market/listing primitives and a live BTC/STRC conditional-market example where conditional pricing is meant to clarify a hard-to-price information overhang.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2067716891943096714",
-          "https://x.com/airtightfish/status/2067715921859240042"
+          "https://x.com/airtightfish/status/2067715921859240042",
+          "https://x.com/airtightfish/status/2068099380775665928"
         ],
         "confidence": "medium"
       }
@@ -921,7 +923,7 @@
         "name": "ProofMarkets",
         "handle": "ProofMarkets",
         "stance": "positive",
-        "summary": "Repeated operating/project evidence: waitlist filtering, contest launch, manual onboarding, application-specific follow-up, plus new product-design replies around conditional futures/new primitives and non-gambling market listings.",
+        "summary": "Repeated operating/project evidence: waitlist filtering, contest launch, manual onboarding, product-design replies around conditional futures/non-gambling markets, and a fresh BTC/STRC conditional-market example tied to the Saylor/MicroStrategy overhang.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2064390683440341286",
           "https://x.com/airtightfish/status/2064743264691875927",
@@ -931,7 +933,8 @@
           "https://x.com/airtightfish/status/2067368882688393357",
           "https://x.com/airtightfish/status/2067454830419861603",
           "https://x.com/airtightfish/status/2067715693278114221",
-          "https://x.com/airtightfish/status/2067716891943096714"
+          "https://x.com/airtightfish/status/2067716891943096714",
+          "https://x.com/airtightfish/status/2068099380775665928"
         ]
       },
       {
@@ -1008,7 +1011,8 @@
       "AI x friendtech mention needs follow-up before treating it as a real theme.",
       "Clarify whether decentralized AI is becoming an airtightfish theme or was just a one-thread reply.",
       "Track whether airtightfish continues discussing token launch timing / points-program design beyond the nftboi_/umia_finance PMF thread.",
-      "Track whether ProofMarkets conditional futures/non-gambling market design becomes a repeated public product theme or remains one ryanchern thread."
+      "Track whether ProofMarkets conditional futures/non-gambling market design becomes a repeated public product theme or remains one ryanchern thread.",
+      "Track whether ProofMarkets conditional markets become a repeated public response to major CT uncertainty events beyond STRC/MSTR."
     ],
     "evidence_urls": [
       "https://x.com/airtightfish/status/2065567457536831796",
@@ -1028,7 +1032,8 @@
       "https://x.com/airtightfish/status/2067454830419861603",
       "https://x.com/airtightfish/status/2067715693278114221",
       "https://x.com/airtightfish/status/2067715921859240042",
-      "https://x.com/airtightfish/status/2067716891943096714"
+      "https://x.com/airtightfish/status/2067716891943096714",
+      "https://x.com/airtightfish/status/2068099380775665928"
     ]
   },
   {
@@ -1803,8 +1808,8 @@
     "handle": "kelxyz_",
     "period_start": "2026-05-14",
     "period_end": "2026-06-19",
-    "profile_updated_at": "2026-06-19T19:47:47Z",
-    "taste_summary": "Observed X/Twitter evidence is thesis-heavy around AI/crypto protocols, especially Pluralis, inference-market timing, decentralized/model-parallel training, alternative financing for inference/compute aggregation, and broader AI-driven cultural/economic outcomes. New June 19 evidence adds a concise valuation frame: subsidized inference or accumulated training compute at scale could justify very large protocol/company outcomes.",
+    "profile_updated_at": "2026-06-19T22:45:00Z",
+    "taste_summary": "Observed X/Twitter evidence is thesis-heavy around AI/crypto protocols, especially Pluralis, inference-market timing, decentralized/model-parallel training, alternative financing for inference/compute aggregation, and cautious evaluation of incentivized inference designs. New June 19 evidence says Nock is 'in the running' while explicitly noting no current design is fully convincing yet.",
     "likes": [
       {
         "theme": "Pluralis and model-parallel decentralized training",
@@ -1854,11 +1859,12 @@
       },
       {
         "theme": "Alternative financing for inference and compute aggregation",
-        "summary": "Argued that subsidizing inference at scale or collecting compute for training at scale through alternative financing could be worth $10-20B minimum, possibly much more; fits prior interest in inference incentives and decentralized/model-parallel training.",
+        "summary": "Argued that subsidizing inference at scale or collecting compute for training at scale through alternative financing could be worth $10-20B minimum, possibly much more; follow-up says incentivized inference remains difficult and no current design is fully convincing, though Nock is in the running.",
         "evidence_urls": [
           "https://x.com/kelxyz_/status/2068018630973849648",
           "https://x.com/kelxyz_/status/2064825463818576107",
-          "https://x.com/kelxyz_/status/2065782384616780175"
+          "https://x.com/kelxyz_/status/2065782384616780175",
+          "https://x.com/kelxyz_/status/2068083058306146524"
         ],
         "confidence": "medium"
       }
@@ -1914,6 +1920,15 @@
           "https://x.com/kelxyz_/status/2066549475200688524",
           "https://x.com/kelxyz_/status/2066548579242500109"
         ]
+      },
+      {
+        "name": "Nock",
+        "handle": "nockchain",
+        "stance": "watching/cautious",
+        "summary": "Mentioned as one incentivized-inference design that is 'in the running,' while saying the problem is difficult and he is not fully sold on any current designs.",
+        "evidence_urls": [
+          "https://x.com/kelxyz_/status/2068083058306146524"
+        ]
       }
     ],
     "people_respected": [
@@ -1940,7 +1955,8 @@
     "open_questions": [
       "Track whether Pluralis references continue beyond this cluster or were driven by a single conversation/news cycle.",
       "Need fuller source context for Permanent Underclass Index to map equities vs crypto relevance.",
-      "Track whether kelxyz_'s ZEC/privacy-chain thesis recurs or was a one-day portfolio review after Mythos/formal-verification news."
+      "Track whether kelxyz_'s ZEC/privacy-chain thesis recurs or was a one-day portfolio review after Mythos/formal-verification news.",
+      "Track whether Nock recurs in kelxyz_'s incentivized-inference/design filter or remains a one-off cautious mention."
     ],
     "evidence_urls": [
       "https://x.com/kelxyz_/status/2065782384616780175",
@@ -1951,7 +1967,8 @@
       "https://x.com/kelxyz_/status/2066549475200688524",
       "https://x.com/kelxyz_/status/2066548579242500109",
       "https://x.com/kelxyz_/status/2067362394129543373",
-      "https://x.com/kelxyz_/status/2068018630973849648"
+      "https://x.com/kelxyz_/status/2068018630973849648",
+      "https://x.com/kelxyz_/status/2068083058306146524"
     ]
   }
 ]
