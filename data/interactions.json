@@ -1,5 +1,16 @@
 [
   {
+    "from": "0xGeeGee",
+    "to": "InfiniFi",
+    "to_kind": "project",
+    "type": "reply/structured_credit_followup",
+    "date": "2026-06-19",
+    "url": "https://x.com/0xGeeGee/status/2067879097376625129",
+    "summary": "Followed up InfiniFi/STRC collateral analysis by focusing on junior/senior capital-stack rebalancing and the need for junior capital to be better compensated for risk.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
     "from": "MoneyPrinter0x",
     "to": "CryptoTomYT",
     "to_kind": "individual",

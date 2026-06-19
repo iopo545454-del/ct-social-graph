@@ -2,6 +2,41 @@
   {
     "date": "2026-06-19",
     "handle": "0xGeeGee",
+    "type": "reply/structured_credit_followup",
+    "url": "https://x.com/0xGeeGee/status/2067879097376625129",
+    "summary": "Continued the InfiniFi/STRC capital-stack discussion by saying the stress should lead to a healthier junior/senior rebalance, with junior capital more compensated and fewer people underestimating juniority risks; later noted the upcoming rebalance is interesting because the stacks are nearly 50/50.",
+    "entities": [
+      "InfiniFi",
+      "STRC",
+      "junior tranches",
+      "senior tranches",
+      "capital stack rebalancing",
+      "structured credit"
+    ],
+    "why_logged": "Follow-up to the already logged InfiniFi analysis: adds the forward-looking capital-stack implication, not just the immediate collateral haircut.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-19",
+    "handle": "MoneyPrinter0x",
+    "type": "quote/self_review",
+    "url": "https://x.com/MoneyPrinter0x/status/2067879268311503019",
+    "summary": "Quoted his own short-cover update with a detailed self-review of the MSTR/CRWV/POET short trade: MSTR drove most returns, but execution, stop management, hedging, and research process all needed improvement.",
+    "entities": [
+      "MSTR",
+      "CRWV",
+      "POET",
+      "short positioning",
+      "trade review",
+      "risk management",
+      "execution process"
+    ],
+    "why_logged": "High-signal post-trade process evidence: not just PnL or direction, but explicit lessons on execution/hedging/research after a public short book.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-19",
+    "handle": "0xGeeGee",
     "type": "reply/equity_process",
     "url": "https://x.com/0xGeeGee/status/2067844732395327607",
     "summary": "In a Japan small-cap discussion, said he likes some Japanese small caps but views the space as lottery-like after major reratings; cheap names without governance/approach changes risk going back to hades.",

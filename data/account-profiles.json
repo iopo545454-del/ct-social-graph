@@ -155,8 +155,8 @@
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
     "period_end": "2026-06-19",
-    "profile_updated_at": "2026-06-19T00:00:00Z",
-    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. New June 19 evidence adds structured DeFi credit/risk analysis around InfiniFi/STRC tranches plus a Japan small-cap filter: cheap/rerated names still need governance or approach changes.",
+    "profile_updated_at": "2026-06-19T10:30:00Z",
+    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. June 19 evidence adds structured DeFi credit/risk analysis around InfiniFi/STRC tranches, including follow-up on junior/senior capital-stack rebalancing, plus a Japan small-cap governance-change filter.",
     "likes": [
       {
         "theme": "AI inference efficiency and optimization layers",
@@ -288,9 +288,11 @@
       },
       {
         "theme": "Structured DeFi credit / tranche risk analysis",
-        "summary": "Analyzed InfiniFi collateral exposure to STRC by separating headline haircut from junior-tranche loss absorption and locked-capital mechanics; emphasizes product structure and capital stack over headline fear.",
+        "summary": "Analyzed InfiniFi collateral exposure to STRC by separating headline haircut from junior-tranche loss absorption and locked-capital mechanics; follow-up said stress should create a healthier junior/senior capital-stack rebalance with junior capital more compensated for actual risk.",
         "evidence_urls": [
-          "https://x.com/0xGeeGee/status/2067869838978990356"
+          "https://x.com/0xGeeGee/status/2067869838978990356",
+          "https://x.com/0xGeeGee/status/2067879097376625129",
+          "https://x.com/0xGeeGee/status/2067910420296274243"
         ],
         "confidence": "medium"
       },
@@ -513,9 +515,11 @@
         "name": "InfiniFi",
         "handle": "InfiniFi",
         "stance": "analytical",
-        "summary": "Analyzed STRC collateral exposure and tranche absorption mechanics; not enough evidence for a positive/negative project stance beyond structured-risk evaluation.",
+        "summary": "Analyzed STRC collateral exposure, tranche absorption mechanics, and follow-up junior/senior capital-stack rebalancing; stance remains analytical rather than positive/negative project endorsement.",
         "evidence_urls": [
-          "https://x.com/0xGeeGee/status/2067869838978990356"
+          "https://x.com/0xGeeGee/status/2067869838978990356",
+          "https://x.com/0xGeeGee/status/2067879097376625129",
+          "https://x.com/0xGeeGee/status/2067910420296274243"
         ]
       }
     ],
@@ -548,7 +552,8 @@
       "Track whether the ERC-7710/Osobear puzzle interest is a one-off skill signal or develops into a broader account-abstraction / wallet-standard thesis.",
       "Track whether GeeGee continues reducing BTC/MSTR L/S exposure or re-enters if capital-structure/death-spiral metrics worsen again.",
       "Track whether InfiniFi/STRC is a one-off structured-risk note or part of a broader GeeGee view on DeFi credit capital stacks.",
-      "Track whether Japan small-cap/governance-change screening recurs beyond this one reply."
+      "Track whether Japan small-cap/governance-change screening recurs beyond this one reply.",
+      "Track whether the InfiniFi/STRC junior/senior rebalance becomes a broader GeeGee structured-credit framework or remains a one-conversation follow-up."
     ],
     "evidence_urls": [
       "https://x.com/0xGeeGee/status/2065771227743138126",
@@ -577,7 +582,9 @@
       "https://x.com/0xGeeGee/status/2067659249295991266",
       "https://x.com/0xGeeGee/status/2067670942793261523",
       "https://x.com/0xGeeGee/status/2067869838978990356",
-      "https://x.com/0xGeeGee/status/2067844732395327607"
+      "https://x.com/0xGeeGee/status/2067844732395327607",
+      "https://x.com/0xGeeGee/status/2067879097376625129",
+      "https://x.com/0xGeeGee/status/2067910420296274243"
     ]
   },
   {
@@ -1203,8 +1210,8 @@
     "handle": "MoneyPrinter0x",
     "period_start": "2026-05-14",
     "period_end": "2026-06-19",
-    "profile_updated_at": "2026-06-19T00:00:00Z",
-    "taste_summary": "Observed X/Twitter evidence shows an event-driven trader mixing AI-equity rotations, short-dated options, macro/rate catalysts, and strict invalidation/risk caps. New June 19 evidence rotates from broad shorts into short-term bullish equity watchlists while still saying BTC upside is structurally capped until STRC/MSTR overhang has a fix path.",
+    "profile_updated_at": "2026-06-19T10:30:00Z",
+    "taste_summary": "Observed X/Twitter evidence shows an event-driven trader mixing AI-equity rotations, short-dated options, macro/rate catalysts, strict invalidation/risk caps, and public post-trade review. New June 19 evidence adds a self-review of the MSTR/CRWV/POET short book after rotating from broad shorts into short-term bullish equities, while still treating BTC upside as capped until the STRC/MSTR overhang has a fix path.",
     "likes": [
       {
         "theme": "AI agent harnesses and deterministic quality gates",
@@ -1264,7 +1271,7 @@
       },
       {
         "theme": "Macro/Fed uncertainty shorts with capped VaR",
-        "summary": "June 17-18 posts made a short-term macro expression concrete: full-portfolio short stance capped at 20% VaR, with MSTR/POET/CRWV shorts around Fed/Warsh forward-guidance uncertainty; latest follow-up cut most shorts when the AM downside did not arrive, while retaining MSTR and framing the market as potentially able to keep squeezing/risking on.",
+        "summary": "June 17-19 posts made a short-term macro expression concrete: full-portfolio short stance capped at 20% VaR, with MSTR/POET/CRWV shorts around Fed/Warsh forward-guidance uncertainty; later cut most shorts when AM downside failed, retained MSTR, and then posted a self-review noting MSTR drove most returns while execution/stop management/hedging/research needed improvement.",
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2067353313344156054",
           "https://x.com/MoneyPrinter0x/status/2067335139554914480",
@@ -1274,7 +1281,8 @@
           "https://x.com/MoneyPrinter0x/status/2067562188995481998",
           "https://x.com/MoneyPrinter0x/status/2067610046851403910",
           "https://x.com/MoneyPrinter0x/status/2067621321757057404",
-          "https://x.com/MoneyPrinter0x/status/2067598251780612186"
+          "https://x.com/MoneyPrinter0x/status/2067598251780612186",
+          "https://x.com/MoneyPrinter0x/status/2067879268311503019"
         ],
         "confidence": "high"
       },
@@ -1418,11 +1426,12 @@
       },
       {
         "theme": "MSTR-specific short thesis after broad short invalidation",
-        "summary": "After covering most Warsh/Fed shorts, kept MSTR short and argued cracks began when Saylor wanted Strategy/MSTR to be more than a traditional DAT; framed possible downside as a return toward 2023-24 levels.",
+        "summary": "After covering most Warsh/Fed shorts, kept MSTR short and later self-reviewed the MSTR/CRWV/POET trade: MSTR drove most returns, but execution/hedging/stops/research need improvement.",
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2067621321757057404",
           "https://x.com/MoneyPrinter0x/status/2067643405128315238",
-          "https://x.com/MoneyPrinter0x/status/2067647444461171075"
+          "https://x.com/MoneyPrinter0x/status/2067647444461171075",
+          "https://x.com/MoneyPrinter0x/status/2067879268311503019"
         ],
         "confidence": "high"
       },
@@ -1579,24 +1588,26 @@
         "name": "Warsh/Fed uncertainty trade",
         "handle": null,
         "stance": "watching",
-        "summary": "Macro/event-risk setup expressed through capped MSTR/POET/CRWV short exposure and volatility/variance framing; June 18 follow-through cut most shorts after the expected AM reaction failed, but left MSTR short and updated the regime read toward continued risk-on/bubble duration.",
+        "summary": "Macro/event-risk setup expressed through capped MSTR/POET/CRWV short exposure and volatility/variance framing; June 18 follow-through cut most shorts after the expected AM reaction failed, and June 19 self-review documented lessons on execution, stop management, hedging, and research.",
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2067453987151049213",
           "https://x.com/MoneyPrinter0x/status/2067451128862892073",
           "https://x.com/MoneyPrinter0x/status/2067558779122782636",
           "https://x.com/MoneyPrinter0x/status/2067562188995481998",
           "https://x.com/MoneyPrinter0x/status/2067610046851403910",
-          "https://x.com/MoneyPrinter0x/status/2067621321757057404"
+          "https://x.com/MoneyPrinter0x/status/2067621321757057404",
+          "https://x.com/MoneyPrinter0x/status/2067879268311503019"
         ]
       },
       {
         "name": "MSTR / Strategy",
         "handle": null,
         "stance": "negative",
-        "summary": "Residual bearish/short vehicle after broad short-covering; MoneyPrinter argued MSTR cracks began when Saylor wanted Strategy to be more than a traditional DAT and suggested a possible return toward 2023-24 levels.",
+        "summary": "Residual bearish/short vehicle after broad short-covering; MoneyPrinter argued MSTR cracks began when Saylor wanted Strategy to be more than a traditional DAT, then self-reviewed that MSTR drove most short-book returns while execution/hedging could improve.",
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2067643405128315238",
-          "https://x.com/MoneyPrinter0x/status/2067647444461171075"
+          "https://x.com/MoneyPrinter0x/status/2067647444461171075",
+          "https://x.com/MoneyPrinter0x/status/2067879268311503019"
         ]
       },
       {
@@ -1679,7 +1690,8 @@
       "Track whether MoneyPrinter0x keeps MSTR as a standalone structural short or closes it as risk-on AI/liquidity rotations continue.",
       "Verify the exact Ansem/Flood account handles before treating them as clean graph nodes.",
       "Track whether MoneyPrinter0x’s equity risk-on watchlist converts to actual positions or is just a post-short-cover watchlist.",
-      "Track whether BTC remains structurally capped in his framing after STRC/MSTR overhang developments."
+      "Track whether BTC remains structurally capped in his framing after STRC/MSTR overhang developments.",
+      "Track whether MoneyPrinter0x publishes more post-trade reviews that make execution/hedging/research lessons a recurring profile layer."
     ],
     "evidence_urls": [
       "https://x.com/MoneyPrinter0x/status/2065910048833102118",
@@ -1731,7 +1743,8 @@
       "https://x.com/MoneyPrinter0x/status/2067865340835688509",
       "https://x.com/MoneyPrinter0x/status/2067850513614606714",
       "https://x.com/MoneyPrinter0x/status/2067854231898587158",
-      "https://x.com/MoneyPrinter0x/status/2067864876643721389"
+      "https://x.com/MoneyPrinter0x/status/2067864876643721389",
+      "https://x.com/MoneyPrinter0x/status/2067879268311503019"
     ]
   },
   {

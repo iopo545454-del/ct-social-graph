@@ -374,11 +374,13 @@
     "kind": "project",
     "status": "candidate",
     "source": "0xGeeGee STRC collateral/tranche risk analysis",
-    "reason": "0xGeeGee gave a substantive InfiniFi/STRC collateral-tranche analysis, but this is one evidence point and not enough for Tier 2 tracking.",
+    "reason": "0xGeeGee gave a substantive InfiniFi/STRC collateral-tranche analysis and followed up on junior/senior capital-stack rebalancing; still one conversation cluster, so keep as candidate rather than Tier 2.",
     "evidence_urls": [
-      "https://x.com/0xGeeGee/status/2067869838978990356"
+      "https://x.com/0xGeeGee/status/2067869838978990356",
+      "https://x.com/0xGeeGee/status/2067879097376625129",
+      "https://x.com/0xGeeGee/status/2067910420296274243"
     ],
     "first_seen": "2026-06-19",
-    "confidence": "low"
+    "confidence": "medium"
   }
 ]
