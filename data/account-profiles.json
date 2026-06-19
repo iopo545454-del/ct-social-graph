@@ -155,8 +155,8 @@
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
     "period_end": "2026-06-19",
-    "profile_updated_at": "2026-06-19T10:30:00Z",
-    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. June 19 evidence adds structured DeFi credit/risk analysis around InfiniFi/STRC tranches, including follow-up on junior/senior capital-stack rebalancing, plus a Japan small-cap governance-change filter.",
+    "profile_updated_at": "2026-06-19T19:47:47Z",
+    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. June 19 evidence now adds a fuller STRC/depeg risk layer: InfiniFi tranche analysis, conditional STRC/UST comparisons, sUSD depeg triage, and a sharper negative founder-governance filter around Sonic/Andre Cronje.",
     "likes": [
       {
         "theme": "AI inference efficiency and optimization layers",
@@ -303,6 +303,18 @@
           "https://x.com/0xGeeGee/status/2067844732395327607"
         ],
         "confidence": "medium"
+      },
+      {
+        "theme": "Risk-structured DeFi credit, depeg, and yield-bearing-asset triage",
+        "summary": "Analyzes DeFi credit products by enforcement, tranche seniority, collateral haircuts, redemption rights, and whether depeg/yield products behave like PT-like claims versus reputation-backed algo risk. Latest sUSD/STRC evidence emphasizes conditional trading/risk rules rather than blanket endorsement.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2067869838978990356",
+          "https://x.com/0xGeeGee/status/2067879097376625129",
+          "https://x.com/0xGeeGee/status/2068053332690719017",
+          "https://x.com/0xGeeGee/status/2068033486749831601",
+          "https://x.com/0xGeeGee/status/2068033995984576787"
+        ],
+        "confidence": "high"
       }
     ],
     "dislikes": [
@@ -360,6 +372,14 @@
         "summary": "Called out Axiom's 3% service-fee math as worsening already-grifty prediction markets, emphasizing fee drag and EV structure over headline odds.",
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2067056795991015531"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "DeFi founder/promoter credibility risk",
+        "summary": "Strongly negative read on Andre Cronje / DeFi 1.0 founder credibility after Sonic Labs board-resignation reporting; treat as a governance/trust filter, not only a Sonic-specific event reaction.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2068054047936983213"
         ],
         "confidence": "medium"
       }
@@ -521,6 +541,34 @@
           "https://x.com/0xGeeGee/status/2067879097376625129",
           "https://x.com/0xGeeGee/status/2067910420296274243"
         ]
+      },
+      {
+        "name": "STRC",
+        "handle": null,
+        "stance": "analytical",
+        "summary": "Compared STRC to UST as a former UST truther: potentially workable mid-term if contained, but weaker because enforceability/redemption only matters at stress extremes; linked to broader MSTR/STRC overhang analysis.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2068053332690719017",
+          "https://x.com/0xGeeGee/status/2067850513614606714"
+        ]
+      },
+      {
+        "name": "sUSD",
+        "handle": null,
+        "stance": "negative/risk-trading-only",
+        "summary": "Quoted repeated sUSD depeg monitoring as a case where slight depegs can be traded but large/repeated depegs should be avoided entirely.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2068033486749831601"
+        ]
+      },
+      {
+        "name": "Sonic Labs",
+        "handle": null,
+        "stance": "negative",
+        "summary": "Negative governance/founder credibility read after board resignations, focused especially on Andre Cronje.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2068054047936983213"
+        ]
       }
     ],
     "people_respected": [
@@ -584,7 +632,11 @@
       "https://x.com/0xGeeGee/status/2067869838978990356",
       "https://x.com/0xGeeGee/status/2067844732395327607",
       "https://x.com/0xGeeGee/status/2067879097376625129",
-      "https://x.com/0xGeeGee/status/2067910420296274243"
+      "https://x.com/0xGeeGee/status/2067910420296274243",
+      "https://x.com/0xGeeGee/status/2068054047936983213",
+      "https://x.com/0xGeeGee/status/2068053332690719017",
+      "https://x.com/0xGeeGee/status/2068033486749831601",
+      "https://x.com/0xGeeGee/status/2068033995984576787"
     ]
   },
   {
@@ -1750,9 +1802,9 @@
   {
     "handle": "kelxyz_",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-17",
-    "profile_updated_at": "2026-06-17T22:43:37Z",
-    "taste_summary": "Observed X/Twitter evidence is thesis-heavy around AI/crypto protocols, especially Pluralis, inference-market timing, decentralized/model-parallel training, and broader AI-driven cultural/economic outcomes. New evidence adds a concrete positive ZEC/privacy-chain technical thesis. Interpretation confidence is high for Pluralis interest and medium for ZEC pending corroboration.",
+    "period_end": "2026-06-19",
+    "profile_updated_at": "2026-06-19T19:47:47Z",
+    "taste_summary": "Observed X/Twitter evidence is thesis-heavy around AI/crypto protocols, especially Pluralis, inference-market timing, decentralized/model-parallel training, alternative financing for inference/compute aggregation, and broader AI-driven cultural/economic outcomes. New June 19 evidence adds a concise valuation frame: subsidized inference or accumulated training compute at scale could justify very large protocol/company outcomes.",
     "likes": [
       {
         "theme": "Pluralis and model-parallel decentralized training",
@@ -1799,6 +1851,16 @@
           "https://x.com/kelxyz_/status/2066548579242500109"
         ],
         "confidence": "medium"
+      },
+      {
+        "theme": "Alternative financing for inference and compute aggregation",
+        "summary": "Argued that subsidizing inference at scale or collecting compute for training at scale through alternative financing could be worth $10-20B minimum, possibly much more; fits prior interest in inference incentives and decentralized/model-parallel training.",
+        "evidence_urls": [
+          "https://x.com/kelxyz_/status/2068018630973849648",
+          "https://x.com/kelxyz_/status/2064825463818576107",
+          "https://x.com/kelxyz_/status/2065782384616780175"
+        ],
+        "confidence": "medium"
       }
     ],
     "dislikes": [
@@ -1836,10 +1898,11 @@
         "name": "Compute-chain concept",
         "handle": null,
         "stance": "watching",
-        "summary": "Engaged with a vision for compute-secured chain/datacenter-token ownership and commented on likely HYPE-like valuation plus fair-launch skepticism.",
+        "summary": "Engaged with compute-secured chain/datacenter-token ownership and, latest, generalized the thesis to alternative financing that subsidizes inference or aggregates training compute at scale; stance is positive on the mechanism, still not tied to one specific liquid asset.",
         "evidence_urls": [
           "https://x.com/kelxyz_/status/2066316917766291622",
-          "https://x.com/i/status/2066316917766291622"
+          "https://x.com/i/status/2066316917766291622",
+          "https://x.com/kelxyz_/status/2068018630973849648"
         ]
       },
       {
@@ -1887,7 +1950,8 @@
       "https://x.com/kelxyz_/status/2066316917766291622",
       "https://x.com/kelxyz_/status/2066549475200688524",
       "https://x.com/kelxyz_/status/2066548579242500109",
-      "https://x.com/kelxyz_/status/2067362394129543373"
+      "https://x.com/kelxyz_/status/2067362394129543373",
+      "https://x.com/kelxyz_/status/2068018630973849648"
     ]
   }
 ]

@@ -2,6 +2,74 @@
   {
     "date": "2026-06-19",
     "handle": "0xGeeGee",
+    "type": "quote/defi_founder_critique",
+    "url": "https://x.com/0xGeeGee/status/2068054047936983213",
+    "summary": "Quoted reporting that Michael Kong, Andre Cronje, and David Richardson resigned from the Sonic Labs board and called Andre Cronje the biggest DeFi 1.0 founder grifter, sharpening an existing founder-trust / DeFi governance-risk filter.",
+    "entities": [
+      "Sonic Labs",
+      "Andre Cronje",
+      "Michael Kong",
+      "David Richardson",
+      "DeFi founders",
+      "governance risk"
+    ],
+    "why_logged": "High-signal negative people/project filter from GeeGee; not a price call, but a direct credibility/governance read on a DeFi founder/project cluster.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-19",
+    "handle": "0xGeeGee",
+    "type": "authored_post/structured_credit_risk",
+    "url": "https://x.com/0xGeeGee/status/2068053332690719017",
+    "summary": "Defended STRC in relative terms as a former UST truther while distinguishing it from UST: weaker redemption/enforceability, enforced only at the darkest hour, potentially workable mid-term if contained but structurally limited.",
+    "entities": [
+      "STRC",
+      "UST",
+      "structured credit",
+      "redemption rights",
+      "enforceability",
+      "MSTR overhang"
+    ],
+    "why_logged": "Adds source-close nuance to the live STRC/MSTR overhang: neither simple endorsement nor blanket fade, but conditional risk underwriting around structure and enforceability.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-19",
+    "handle": "0xGeeGee",
+    "type": "quote/depeg_risk_process",
+    "url": "https://x.com/0xGeeGee/status/2068033486749831601",
+    "summary": "Quoted a PharosWatch sUSD depeg alert and framed repeated/large depegs as a regime shift: potentially profitable when depegging slightly, but absolutely not to touch after large repeated breaks; reply extended the point to ynRWAx/reUSDe-style PT-like assets versus algo trash backed only by reputation.",
+    "entities": [
+      "sUSD",
+      "PharosWatch",
+      "depeg trading",
+      "ynRWAx",
+      "reUSDe",
+      "PT-like assets",
+      "algo stablecoins"
+    ],
+    "why_logged": "Useful process evidence for depeg and yield-bearing-asset triage, tied to live DeFi risk rather than generic stablecoin commentary.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-19",
+    "handle": "kelxyz_",
+    "type": "authored_post/ai_inference_economics",
+    "url": "https://x.com/kelxyz_/status/2068018630973849648",
+    "summary": "Argued that using alternative financing to subsidize inference at scale or collect compute for training at scale could justify $10-20B at minimum and feasibly 10x more.",
+    "entities": [
+      "AI inference",
+      "alternative financing",
+      "compute aggregation",
+      "training compute",
+      "AI protocol valuation"
+    ],
+    "why_logged": "Fresh concise valuation/economic thesis that extends kelxyz_’s recurring decentralized AI / inference-market framework.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-19",
+    "handle": "0xGeeGee",
     "type": "reply/structured_credit_followup",
     "url": "https://x.com/0xGeeGee/status/2067879097376625129",
     "summary": "Continued the InfiniFi/STRC capital-stack discussion by saying the stress should lead to a healthier junior/senior rebalance, with junior capital more compensated and fewer people underestimating juniority risks; later noted the upcoming rebalance is interesting because the stacks are nearly 50/50.",

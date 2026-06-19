@@ -1,6 +1,39 @@
 [
   {
     "from": "0xGeeGee",
+    "to": "DefiIgnas",
+    "to_kind": "individual",
+    "type": "quote/defi_founder_critique",
+    "date": "2026-06-19",
+    "url": "https://x.com/0xGeeGee/status/2068054047936983213",
+    "summary": "Quoted DefiIgnas reporting Sonic Labs board resignations and used it to make a strong negative credibility read on Andre Cronje / DeFi 1.0 founder trust.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "PharosWatch",
+    "to_kind": "project",
+    "type": "quote/depeg_risk_process",
+    "date": "2026-06-19",
+    "url": "https://x.com/0xGeeGee/status/2068033486749831601",
+    "summary": "Quoted PharosWatch sUSD depeg monitoring and turned it into a trading/risk rule: slight depegs may be profitable, repeated large depegs should be avoided; follow-up distinguished PT-like assets from algo/reputation-backed trash.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "Sonic Labs",
+    "to_kind": "project",
+    "type": "quote/governance_critique",
+    "date": "2026-06-19",
+    "url": "https://x.com/0xGeeGee/status/2068054047936983213",
+    "summary": "Reacted to Sonic Labs board resignations with a negative founder/governance credibility read focused on Andre Cronje.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "0xGeeGee",
     "to": "InfiniFi",
     "to_kind": "project",
     "type": "reply/structured_credit_followup",
