@@ -239,12 +239,13 @@
     "kind": "project",
     "status": "candidate",
     "source": "CryptoTomYT Legend Trade PnL/performance post",
-    "reason": "CryptoTomYT posted a strong public PnL/equity-curve screenshot on Legend Trade with referral link; single venue/performance evidence point, so keep candidate pending recurrence or corroboration.",
+    "reason": "CryptoTomYT now has repeated public Legend Trade performance evidence, including a +470% total AUM update, but venue evidence remains performance-led rather than a product thesis; keep candidate pending corroboration.",
     "evidence_urls": [
-      "https://x.com/CryptoTomYT/status/2066562689514774622"
+      "https://x.com/CryptoTomYT/status/2066562689514774622",
+      "https://x.com/CryptoTomYT/status/2067867313660117014"
     ],
     "first_seen": "2026-06-15",
-    "confidence": "low"
+    "confidence": "medium"
   },
   {
     "handle": "bubbleboi",
@@ -366,6 +367,18 @@
       "https://x.com/MoneyPrinter0x/status/2067709825832886740"
     ],
     "first_seen": "2026-06-18",
+    "confidence": "low"
+  },
+  {
+    "handle": "InfiniFi",
+    "kind": "project",
+    "status": "candidate",
+    "source": "0xGeeGee STRC collateral/tranche risk analysis",
+    "reason": "0xGeeGee gave a substantive InfiniFi/STRC collateral-tranche analysis, but this is one evidence point and not enough for Tier 2 tracking.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2067869838978990356"
+    ],
+    "first_seen": "2026-06-19",
     "confidence": "low"
   }
 ]

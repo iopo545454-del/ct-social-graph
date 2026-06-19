@@ -154,9 +154,9 @@
   {
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-18",
-    "profile_updated_at": "2026-06-18T18:20:00Z",
-    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Recent MSTR/BTC updates add active capital-structure trade management: willing to cut exposure when the odds/metrics become less favorable even if the thesis is not fully invalidated.",
+    "period_end": "2026-06-19",
+    "profile_updated_at": "2026-06-19T00:00:00Z",
+    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. New June 19 evidence adds structured DeFi credit/risk analysis around InfiniFi/STRC tranches plus a Japan small-cap filter: cheap/rerated names still need governance or approach changes.",
     "likes": [
       {
         "theme": "AI inference efficiency and optimization layers",
@@ -283,6 +283,22 @@
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2066340434402832578",
           "https://x.com/0xGeeGee/status/2067659249295991266"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "Structured DeFi credit / tranche risk analysis",
+        "summary": "Analyzed InfiniFi collateral exposure to STRC by separating headline haircut from junior-tranche loss absorption and locked-capital mechanics; emphasizes product structure and capital stack over headline fear.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2067869838978990356"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "Japan small-cap value with governance-change filter",
+        "summary": "Likes some Japanese small caps but views the space as lottery-like after major reratings; cheap names without governance/approach changes can round-trip.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2067844732395327607"
         ],
         "confidence": "medium"
       }
@@ -492,6 +508,15 @@
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2066920097743327440"
         ]
+      },
+      {
+        "name": "InfiniFi",
+        "handle": "InfiniFi",
+        "stance": "analytical",
+        "summary": "Analyzed STRC collateral exposure and tranche absorption mechanics; not enough evidence for a positive/negative project stance beyond structured-risk evaluation.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2067869838978990356"
+        ]
       }
     ],
     "people_respected": [
@@ -521,7 +546,9 @@
       "Track whether GeeGee keeps distinguishing yield-bearing products from stablecoins in future Pendle/DeFi-yield discussions.",
       "Watch whether the Axiom/PM-fee critique is a one-off reaction or part of a broader prediction-market infrastructure filter.",
       "Track whether the ERC-7710/Osobear puzzle interest is a one-off skill signal or develops into a broader account-abstraction / wallet-standard thesis.",
-      "Track whether GeeGee continues reducing BTC/MSTR L/S exposure or re-enters if capital-structure/death-spiral metrics worsen again."
+      "Track whether GeeGee continues reducing BTC/MSTR L/S exposure or re-enters if capital-structure/death-spiral metrics worsen again.",
+      "Track whether InfiniFi/STRC is a one-off structured-risk note or part of a broader GeeGee view on DeFi credit capital stacks.",
+      "Track whether Japan small-cap/governance-change screening recurs beyond this one reply."
     ],
     "evidence_urls": [
       "https://x.com/0xGeeGee/status/2065771227743138126",
@@ -548,7 +575,9 @@
       "https://x.com/i/status/2067303523960979677",
       "https://x.com/0xGeeGee/status/2067328339170243046",
       "https://x.com/0xGeeGee/status/2067659249295991266",
-      "https://x.com/0xGeeGee/status/2067670942793261523"
+      "https://x.com/0xGeeGee/status/2067670942793261523",
+      "https://x.com/0xGeeGee/status/2067869838978990356",
+      "https://x.com/0xGeeGee/status/2067844732395327607"
     ]
   },
   {
@@ -967,9 +996,9 @@
   {
     "handle": "CryptoTomYT",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-17",
-    "profile_updated_at": "2026-06-17T02:20:00Z",
-    "taste_summary": "Observed X/Twitter evidence is mostly trading-performance/social content, now with public performance context across Tradexyz and Legend Trade, plus Hyperliquid/perps and short community replies. Interpretation confidence is medium-low because most non-performance replies remain terse.",
+    "period_end": "2026-06-19",
+    "profile_updated_at": "2026-06-19T00:00:00Z",
+    "taste_summary": "Observed X/Twitter evidence is mostly trading-performance/social content, now with repeated public Legend Trade performance context and explicit style comments: mostly not trading onchain, more long equities / short crypto. Interpretation confidence remains medium-low because most non-performance replies are terse.",
     "likes": [
       {
         "theme": "Transparent perps/trading performance",
@@ -994,6 +1023,16 @@
         "evidence_urls": [
           "https://x.com/CryptoTomYT/status/2065238474907607090",
           "https://x.com/CryptoTomYT/status/2066562689514774622"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "Long equities / short crypto trading style",
+        "summary": "In replies under a +470% Legend Trade AUM update, said he mostly no longer trades onchain and described current style as long equities, short crypto.",
+        "evidence_urls": [
+          "https://x.com/CryptoTomYT/status/2067867313660117014",
+          "https://x.com/CryptoTomYT/status/2067867864057745747",
+          "https://x.com/CryptoTomYT/status/2067868039526445438"
         ],
         "confidence": "medium"
       }
@@ -1032,9 +1071,10 @@
         "name": "Legend Trade",
         "handle": "legendtrade",
         "stance": "positive",
-        "summary": "Posted a strong PnL/equity-curve screenshot from Legend Trade and referral link; one fresh venue/performance point only.",
+        "summary": "Repeated strong PnL/equity-curve evidence from Legend Trade, now including a +470% total AUM return in five weeks from a 37k initial account; still performance/venue evidence rather than a detailed product thesis.",
         "evidence_urls": [
-          "https://x.com/CryptoTomYT/status/2066562689514774622"
+          "https://x.com/CryptoTomYT/status/2066562689514774622",
+          "https://x.com/CryptoTomYT/status/2067867313660117014"
         ]
       }
     ],
@@ -1046,14 +1086,18 @@
     },
     "open_questions": [
       "Need authored strategy posts or longer replies to avoid inferring too much from PnL/social context.",
-      "Check whether Tradexyz/Hyperliquid/Legend Trade mentions are durable venue preferences or just public results threads."
+      "Check whether Tradexyz/Hyperliquid/Legend Trade mentions are durable venue preferences or just public results threads.",
+      "Track whether long-equities/short-crypto becomes a durable CryptoTomYT style shift or just a current competition-period framing."
     ],
     "evidence_urls": [
       "https://x.com/CryptoTomYT/status/2065238474907607090",
       "https://x.com/i/status/2065312922532753505",
       "https://x.com/i/status/2064710767098642823",
       "https://x.com/i/status/2062842273470283805",
-      "https://x.com/CryptoTomYT/status/2066562689514774622"
+      "https://x.com/CryptoTomYT/status/2066562689514774622",
+      "https://x.com/CryptoTomYT/status/2067867313660117014",
+      "https://x.com/CryptoTomYT/status/2067867864057745747",
+      "https://x.com/CryptoTomYT/status/2067868039526445438"
     ]
   },
   {
@@ -1158,9 +1202,9 @@
   {
     "handle": "MoneyPrinter0x",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-18",
-    "profile_updated_at": "2026-06-18T22:30:00Z",
-    "taste_summary": "Observed X/Twitter evidence shows an event-driven trader mixing AI-equity rotations, short-dated options, macro/rate catalysts, and strict invalidation/risk caps. Latest evidence keeps MSTR as the residual short after broad short-covering, identifies post-FOMC AI-sector liquidity/earnings frontrunning as the next risk-on rotation area, and adds a light people-respect edge around rasmr_eth plus Ansem/Flood.",
+    "period_end": "2026-06-19",
+    "profile_updated_at": "2026-06-19T00:00:00Z",
+    "taste_summary": "Observed X/Twitter evidence shows an event-driven trader mixing AI-equity rotations, short-dated options, macro/rate catalysts, and strict invalidation/risk caps. New June 19 evidence rotates from broad shorts into short-term bullish equity watchlists while still saying BTC upside is structurally capped until STRC/MSTR overhang has a fix path.",
     "likes": [
       {
         "theme": "AI agent harnesses and deterministic quality gates",
@@ -1328,6 +1372,23 @@
           "https://x.com/MoneyPrinter0x/status/2067666128663679377"
         ],
         "confidence": "medium"
+      },
+      {
+        "theme": "Post-short-cover bullish equity watchlists with overnight-risk control",
+        "summary": "After covering most shorts, said short timeframes look bullish with minimal overnight risk and posted TE/QCOM/CRDO/ALAB/OPEN/INTC as the next risk-on watchlist.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2067848653830860958",
+          "https://x.com/MoneyPrinter0x/status/2067865340835688509"
+        ],
+        "confidence": "high"
+      },
+      {
+        "theme": "AGI/non-AGI hedge portfolio construction",
+        "summary": "Revisited an older portfolio construction idea of heavy gold plus asymmetric GPU/semiconductor equities and small gambles as a hedge across AGI, non-AGI, and liquidity scenarios.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2067854231898587158"
+        ],
+        "confidence": "medium"
       }
     ],
     "dislikes": [
@@ -1364,6 +1425,14 @@
           "https://x.com/MoneyPrinter0x/status/2067647444461171075"
         ],
         "confidence": "high"
+      },
+      {
+        "theme": "BTC upside while STRC/MSTR overhang is unresolved",
+        "summary": "Said BTC remains structurally capped until the STRC/MSTR overhang is fixed or shows a path to a fix, separating equity risk-on from crypto upside.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2067850513614606714"
+        ],
+        "confidence": "medium"
       }
     ],
     "projects_mentioned": [
@@ -1538,6 +1607,25 @@
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2067666128663679377"
         ]
+      },
+      {
+        "name": "TE / QCOM / CRDO / ALAB / OPEN / INTC watchlist",
+        "handle": null,
+        "stance": "watching/positive short-term",
+        "summary": "Short-term bullish equity watchlist after broad short-covering; INTC added later. Treat as trading-book evidence, not durable project endorsements.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2067848653830860958",
+          "https://x.com/MoneyPrinter0x/status/2067865340835688509"
+        ]
+      },
+      {
+        "name": "BTC / STRC / MSTR overhang",
+        "handle": null,
+        "stance": "negative/structurally capped",
+        "summary": "Argued BTC upside is structurally capped until the STRC/MSTR overhang is resolved or shows a credible fix path.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2067850513614606714"
+        ]
       }
     ],
     "people_respected": [
@@ -1589,7 +1677,9 @@
       "Track whether the near-1-delta/options-invalidations framework recurs beyond the SOXL/SPCX/FOMC cluster.",
       "Track whether the residual MSTR short remains a standalone bearish view or gets closed like the rest of the Warsh/Fed short book.",
       "Track whether MoneyPrinter0x keeps MSTR as a standalone structural short or closes it as risk-on AI/liquidity rotations continue.",
-      "Verify the exact Ansem/Flood account handles before treating them as clean graph nodes."
+      "Verify the exact Ansem/Flood account handles before treating them as clean graph nodes.",
+      "Track whether MoneyPrinter0x’s equity risk-on watchlist converts to actual positions or is just a post-short-cover watchlist.",
+      "Track whether BTC remains structurally capped in his framing after STRC/MSTR overhang developments."
     ],
     "evidence_urls": [
       "https://x.com/MoneyPrinter0x/status/2065910048833102118",
@@ -1636,7 +1726,12 @@
       "https://x.com/MoneyPrinter0x/status/2067647444461171075",
       "https://x.com/MoneyPrinter0x/status/2067668353855148495",
       "https://x.com/MoneyPrinter0x/status/2067666128663679377",
-      "https://x.com/MoneyPrinter0x/status/2067709825832886740"
+      "https://x.com/MoneyPrinter0x/status/2067709825832886740",
+      "https://x.com/MoneyPrinter0x/status/2067848653830860958",
+      "https://x.com/MoneyPrinter0x/status/2067865340835688509",
+      "https://x.com/MoneyPrinter0x/status/2067850513614606714",
+      "https://x.com/MoneyPrinter0x/status/2067854231898587158",
+      "https://x.com/MoneyPrinter0x/status/2067864876643721389"
     ]
   },
   {

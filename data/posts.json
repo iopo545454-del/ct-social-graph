@@ -1,5 +1,109 @@
 [
   {
+    "date": "2026-06-19",
+    "handle": "0xGeeGee",
+    "type": "reply/equity_process",
+    "url": "https://x.com/0xGeeGee/status/2067844732395327607",
+    "summary": "In a Japan small-cap discussion, said he likes some Japanese small caps but views the space as lottery-like after major reratings; cheap names without governance/approach changes risk going back to hades.",
+    "entities": [
+      "Japan small caps",
+      "Nikkato",
+      "governance",
+      "small-cap value",
+      "rerating risk"
+    ],
+    "why_logged": "Adds concise non-crypto equity-process evidence: valuation alone is insufficient without governance/approach change.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-19",
+    "handle": "CryptoTomYT",
+    "type": "quote/performance_update",
+    "url": "https://x.com/CryptoTomYT/status/2067867313660117014",
+    "summary": "Quoted MoneyPrinter0x’s trading-competition praise and reported +470% total AUM returns in five weeks from a 37k initial account, publicly tracked on Legend Trade; replies said he is mostly no longer trading onchain and described current style as long equities, short crypto.",
+    "entities": [
+      "Legend Trade",
+      "public trading performance",
+      "long equities short crypto",
+      "onchain trading",
+      "MoneyPrinter0x"
+    ],
+    "why_logged": "Second Legend Trade/public-performance evidence point plus explicit style update, useful for CryptoTomYT profile and venue ledger.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-19",
+    "handle": "MoneyPrinter0x",
+    "type": "quote/process",
+    "url": "https://x.com/MoneyPrinter0x/status/2067854231898587158",
+    "summary": "Revisited an older AGI/non-AGI hedge portfolio idea: 75% gold, 20% asymmetric GPU/semiconductor stocks such as INTC/MOD/ONTO, and 5% gambles; framed the lookback as notable in hindsight.",
+    "entities": [
+      "gold",
+      "INTC",
+      "MOD",
+      "ONTO",
+      "GPU/semiconductor stocks",
+      "AGI hedge",
+      "portfolio construction"
+    ],
+    "why_logged": "Adds longer-horizon portfolio-construction/process context behind his current renewed INTC/semiconductor attention.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-19",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/market_structure",
+    "url": "https://x.com/MoneyPrinter0x/status/2067850513614606714",
+    "summary": "Clarified that BTC upside remains structurally capped until the STRC/MSTR overhang is fixed or shows a path to resolution, distinguishing risk-on equities from crypto/BTC upside.",
+    "entities": [
+      "BTC",
+      "STRC",
+      "MSTR",
+      "risk-on decoupling",
+      "structural overhang"
+    ],
+    "why_logged": "Useful contrast to the new bullish equities stance: he is not extending the same risk-on read cleanly to BTC while MSTR/STRC remains unresolved.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-19",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/watchlist",
+    "url": "https://x.com/MoneyPrinter0x/status/2067848653830860958",
+    "summary": "After covering most shorts, said short timeframes look bullish with minimal overnight risk because risk-on sentiment has decoupled from rate-hike fear; posted next-week watchlist of TE, QCOM, CRDO, ALAB, OPEN, later adding INTC.",
+    "entities": [
+      "TE",
+      "QCOM",
+      "CRDO",
+      "ALAB",
+      "OPEN",
+      "INTC",
+      "risk-on",
+      "rate hikes",
+      "AI/equity watchlist"
+    ],
+    "why_logged": "Direct follow-through from the Warsh/Fed short invalidation: identifies the new bullish/risk-on watchlist and regime read.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-19",
+    "handle": "0xGeeGee",
+    "type": "authored_post/defi_risk_analysis",
+    "url": "https://x.com/0xGeeGee/status/2067869838978990356",
+    "summary": "Analyzed InfiniFi collateral exposure to STRC: 12.6% collateral in STRC implies an unrealized haircut, but junior tranches appear large enough to absorb the ~$1.2m loss and locked STRC capital could make the outcome acceptable if resolved as described.",
+    "entities": [
+      "InfiniFi",
+      "STRC",
+      "junior tranches",
+      "senior tranches",
+      "collateral haircut",
+      "DeFi risk",
+      "structured credit"
+    ],
+    "why_logged": "Fresh GeeGee source-close DeFi/structured-risk analysis tied to the current STRC/MSTR overhang rather than a generic price call.",
+    "confidence": "high"
+  },
+  {
     "date": "2026-06-18",
     "handle": "airtightfish",
     "type": "reply/project_design",

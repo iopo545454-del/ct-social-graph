@@ -1,5 +1,38 @@
 [
   {
+    "from": "MoneyPrinter0x",
+    "to": "CryptoTomYT",
+    "to_kind": "individual",
+    "type": "quote/trader_praise",
+    "date": "2026-06-19",
+    "url": "https://x.com/MoneyPrinter0x/status/2067864876643721389",
+    "summary": "Praised a public macro/trading-competition performer who turned $25k into roughly $100k while BTC was flat; CryptoTomYT quoted it with his own tracked performance update.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "CryptoTomYT",
+    "to": "MoneyPrinter0x",
+    "to_kind": "individual",
+    "type": "quote/performance_context",
+    "date": "2026-06-19",
+    "url": "https://x.com/CryptoTomYT/status/2067867313660117014",
+    "summary": "Quoted MoneyPrinter0x praising public trading-competition outperformance, then posted his own +470% Legend Trade AUM return and explained his current long-equities/short-crypto style in replies.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "InfiniFi",
+    "to_kind": "project",
+    "type": "authored_mention/defi_risk_analysis",
+    "date": "2026-06-19",
+    "url": "https://x.com/0xGeeGee/status/2067869838978990356",
+    "summary": "Analyzed InfiniFi's STRC collateral/tranche structure, noting junior tranches may absorb the unrealized loss and locked capital may make the outcome acceptable.",
+    "quality": "medium",
+    "created_tier2_candidate": true
+  },
+  {
     "from": "airtightfish",
     "to": "ProofMarkets",
     "to_kind": "project",
