@@ -154,9 +154,9 @@
   {
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-19",
-    "profile_updated_at": "2026-06-19T19:47:47Z",
-    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. June 19 evidence now adds a fuller STRC/depeg risk layer: InfiniFi tranche analysis, conditional STRC/UST comparisons, sUSD depeg triage, and a sharper negative founder-governance filter around Sonic/Andre Cronje.",
+    "period_end": "2026-06-20",
+    "profile_updated_at": "2026-06-20T00:00:00Z",
+    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Latest evidence adds a public-equity AI-imaging proxy note via BFLY/Butterfly Network, while earlier June 19 evidence sharpened STRC/depeg risk and founder-governance filters.",
     "likes": [
       {
         "theme": "AI inference efficiency and optimization layers",
@@ -179,9 +179,10 @@
       },
       {
         "theme": "Pick-and-shovels second-order AI trades",
-        "summary": "Preferred cybersecurity, UAVs, selected software recovery and other pick-and-shovel exposures before generalized robotics/automation.",
+        "summary": "Preferred cybersecurity, UAVs, selected software recovery and other pick-and-shovel exposures before generalized robotics/automation; latest reply added BFLY/Butterfly Network as a public-equity proxy for an AI-imaging/radiology-adjacent business, with revenue-size caveats.",
         "evidence_urls": [
-          "https://x.com/0xGeeGee/status/2064323000690716869"
+          "https://x.com/0xGeeGee/status/2064323000690716869",
+          "https://x.com/0xGeeGee/status/2068095941731647760"
         ],
         "confidence": "medium"
       },
@@ -569,6 +570,15 @@
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2068054047936983213"
         ]
+      },
+      {
+        "name": "BFLY / Butterfly Network",
+        "handle": null,
+        "stance": "analytical",
+        "summary": "Pointed to BFLY as available public-market exposure to an AI medical-imaging/radiology-adjacent business, but caveated the expected revenue scale; treat as proxy/process evidence, not a full endorsement.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2068095941731647760"
+        ]
       }
     ],
     "people_respected": [
@@ -636,7 +646,8 @@
       "https://x.com/0xGeeGee/status/2068054047936983213",
       "https://x.com/0xGeeGee/status/2068053332690719017",
       "https://x.com/0xGeeGee/status/2068033486749831601",
-      "https://x.com/0xGeeGee/status/2068033995984576787"
+      "https://x.com/0xGeeGee/status/2068033995984576787",
+      "https://x.com/0xGeeGee/status/2068095941731647760"
     ]
   },
   {
@@ -818,9 +829,9 @@
   {
     "handle": "airtightfish",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-19",
-    "profile_updated_at": "2026-06-19T22:45:00Z",
-    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence uses the STRC/MSTR/Saylor overhang as a live example for conditional markets rather than merely posting a project update.",
+    "period_end": "2026-06-20",
+    "profile_updated_at": "2026-06-20T00:00:00Z",
+    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence adds a tokenomics/accounting-process edge: he pushed against raw FDV for MetaDAO ownership-coin valuation and pointed toward adjusted supply / mNAV treatment.",
     "likes": [
       {
         "theme": "Crypto access to private companies",
@@ -878,6 +889,15 @@
           "https://x.com/airtightfish/status/2067716891943096714",
           "https://x.com/airtightfish/status/2067715921859240042",
           "https://x.com/airtightfish/status/2068099380775665928"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "Tokenomics-adjusted valuation / FDV skepticism",
+        "summary": "In a MetaDAO ownership-coin discussion, argued raw FDV was the wrong number and prompted follow-up around adjusted supply / adjusted market-cap treatment for mNAV.",
+        "evidence_urls": [
+          "https://x.com/airtightfish/status/2068016988975145285",
+          "https://x.com/01Resolved/status/2068155999169687993"
         ],
         "confidence": "medium"
       }
@@ -982,6 +1002,15 @@
           "https://x.com/airtightfish/status/2067032953994072416"
         ],
         "confidence": "high"
+      },
+      {
+        "name": "MetaDAO / ownership coins",
+        "handle": "MetaDAOProject",
+        "stance": "analytical",
+        "summary": "Engaged via valuation-method critique, not a directional endorsement: raw FDV looked wrong for ownership coins; adjusted supply/mNAV treatment mattered.",
+        "evidence_urls": [
+          "https://x.com/airtightfish/status/2068016988975145285"
+        ]
       }
     ],
     "people_respected": [
@@ -997,6 +1026,14 @@
         "why": "Substantive reply to ryanchern prediction-market redesign thread; candidate edge only until repeated.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2067716891943096714"
+        ],
+        "confidence": "low"
+      },
+      {
+        "handle": "aajxbt",
+        "why": "Called Anders' Solana/tokenization article a good read and said 'Never fade an Anders article'; weak but direct respect signal.",
+        "evidence_urls": [
+          "https://x.com/airtightfish/status/2068003676124258651"
         ],
         "confidence": "low"
       }
@@ -1033,7 +1070,9 @@
       "https://x.com/airtightfish/status/2067715693278114221",
       "https://x.com/airtightfish/status/2067715921859240042",
       "https://x.com/airtightfish/status/2067716891943096714",
-      "https://x.com/airtightfish/status/2068099380775665928"
+      "https://x.com/airtightfish/status/2068099380775665928",
+      "https://x.com/airtightfish/status/2068016988975145285",
+      "https://x.com/airtightfish/status/2068003676124258651"
     ]
   },
   {

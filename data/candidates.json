@@ -394,5 +394,30 @@
     ],
     "first_seen": "2026-06-19",
     "confidence": "low"
+  },
+  {
+    "handle": "01Resolved",
+    "kind": "project",
+    "status": "candidate",
+    "source": "airtightfish MetaDAO ownership-coin valuation correction",
+    "reason": "Airtightfish substantively engaged with 01Resolved's ownership-coin/mNAV data and pushed for adjusted-supply rather than raw FDV. One high-context evidence point only, so candidate not Tier 2.",
+    "evidence_urls": [
+      "https://x.com/airtightfish/status/2068016988975145285",
+      "https://x.com/01Resolved/status/2068155999169687993"
+    ],
+    "first_seen": "2026-06-20",
+    "confidence": "medium"
+  },
+  {
+    "handle": "aajxbt",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "airtightfish endorsement of Anders Solana article",
+    "reason": "Airtightfish called Anders' Solana tokenization/smart-contract thread a good read and said never fade an Anders article. Terse but clear respect signal; needs repeated/substantive interaction before Tier 2.",
+    "evidence_urls": [
+      "https://x.com/airtightfish/status/2068003676124258651"
+    ],
+    "first_seen": "2026-06-20",
+    "confidence": "low"
   }
 ]

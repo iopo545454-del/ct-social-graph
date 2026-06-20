@@ -1,5 +1,27 @@
 [
   {
+    "from": "airtightfish",
+    "to": "aajxbt",
+    "to_kind": "individual",
+    "type": "reply/respected_research",
+    "date": "2026-06-19",
+    "url": "https://x.com/airtightfish/status/2068003676124258651",
+    "summary": "Endorsed Anders' Solana tokenization/smart-contract thesis thread with 'Never fade an Anders article'; useful as a weak respected-research edge, but terse enough to keep candidate-level.",
+    "quality": "low",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "airtightfish",
+    "to": "01Resolved",
+    "to_kind": "project",
+    "type": "reply/tokenomics_valuation_correction",
+    "date": "2026-06-19",
+    "url": "https://x.com/airtightfish/status/2068016988975145285",
+    "summary": "Challenged 01Resolved's MetaDAO ownership-coin valuation math, arguing raw FDV was not the right number; the thread moved toward adjusted supply / adjusted market-cap treatment for mNAV.",
+    "quality": "medium",
+    "created_tier2_candidate": true
+  },
+  {
     "from": "kelxyz_",
     "to": "nockchain",
     "to_kind": "project",

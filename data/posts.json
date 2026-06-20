@@ -1,6 +1,41 @@
 [
   {
     "date": "2026-06-19",
+    "handle": "0xGeeGee",
+    "type": "reply/ai_equity_proxy",
+    "url": "https://x.com/0xGeeGee/status/2068095941731647760",
+    "summary": "In an AI/radiology discussion, pointed to Butterfly Network (BFLY) as the publicly available stock exposure for a specific part of the AI-imaging/Midjourney-adjacent business, while caveating expected revenue around ~$70M in five years plus an unknown revenue share.",
+    "entities": [
+      "BFLY",
+      "Butterfly Network",
+      "AI medical imaging",
+      "radiology",
+      "Midjourney-adjacent business",
+      "public equity proxy"
+    ],
+    "why_logged": "Adds a concrete public-equity proxy/process datapoint to GeeGee's recurring second-order AI exposure map; not a broad project endorsement.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-19",
+    "handle": "airtightfish",
+    "type": "reply/tokenomics_valuation_process",
+    "url": "https://x.com/airtightfish/status/2068016988975145285",
+    "summary": "Pushed back on a MetaDAO/ownership-coin valuation chart, saying the math looked wrong and that raw FDV was not the right number; ensuing replies discussed adjusted supply excluding locked team/performance allocations and DAO-owned LP supply.",
+    "entities": [
+      "MetaDAOProject",
+      "ownership coins",
+      "FDV",
+      "mNAV",
+      "adjusted supply",
+      "01Resolved",
+      "ZackPokorny_"
+    ],
+    "why_logged": "Substantive valuation-process evidence from airtightfish: tokenomics-adjusted supply/NAV analysis rather than headline FDV or price talk.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-19",
     "handle": "kelxyz_",
     "type": "reply/incentivized_inference_design",
     "url": "https://x.com/kelxyz_/status/2068083058306146524",
