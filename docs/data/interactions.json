@@ -1,5 +1,27 @@
 [
   {
+    "from": "0xGeeGee",
+    "to": "SemperVigilant1",
+    "to_kind": "individual",
+    "type": "quote/metric_critique",
+    "date": "2026-06-20",
+    "url": "https://x.com/0xGeeGee/status/2068215872531910754",
+    "summary": "Quoted SemperVigilant1's criticism of Strategy's STRC Sharpe-ratio/effective-yield calculation and amplified it as another example of dubious metric framing.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "BTCtreasuries",
+    "to_kind": "individual",
+    "type": "quote/structured_product_math",
+    "date": "2026-06-20",
+    "url": "https://x.com/0xGeeGee/status/2068239263469015292",
+    "summary": "Quoted BTC Treasuries' clip of Strategy CEO Phong Le discussing mortgage-vs-STRC allocation and used it to challenge the math behind the STRC marketing/arbitrage framing.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
     "from": "airtightfish",
     "to": "aajxbt",
     "to_kind": "individual",

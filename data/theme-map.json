@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-06-20",
-  "profile_updated_at": "2026-06-20T00:00:00Z",
+  "profile_updated_at": "2026-06-20T08:30:00Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -587,7 +587,7 @@
         "ynRWAx",
         "reUSDe"
       ],
-      "summary": "June 19 evidence separates equity risk-on from crypto/BTC upside. MoneyPrinter0x says BTC is structurally capped until the STRC/MSTR overhang is fixed or shows a path to a fix, and later self-reviewed the related MSTR/CRWV/POET short book. 0xGeeGee analyzed the same STRC stress through InfiniFi's capital stack, then followed up that junior/senior rebalancing could become healthier as junior capital is compensated for actual risk. New GeeGee posts add conditional STRC/UST comparison and depeg-process rules: STRC may work mid-term if contained but has weaker enforcement/redemption than UST, while repeated large depegs move from tradable dislocation to avoid bucket.",
+      "summary": "June 19 evidence separates equity risk-on from crypto/BTC upside. MoneyPrinter0x says BTC is structurally capped until the STRC/MSTR overhang is fixed or shows a path to a fix, and later self-reviewed the related MSTR/CRWV/POET short book. 0xGeeGee analyzed the same STRC stress through InfiniFi's capital stack, then followed up that junior/senior rebalancing could become healthier as junior capital is compensated for actual risk. New GeeGee posts add conditional STRC/UST comparison and depeg-process rules: STRC may work mid-term if contained but has weaker enforcement/redemption than UST, while repeated large depegs move from tradable dislocation to avoid bucket. June 20 GeeGee quotes extend the bucket into public-marketing/risk-metric skepticism: mortgage-vs-STRC arithmetic and Sharpe/effective-yield framing both looked suspect to him.",
       "evidence_urls": [
         "https://x.com/MoneyPrinter0x/status/2067850513614606714",
         "https://x.com/0xGeeGee/status/2067869838978990356",
@@ -596,7 +596,9 @@
         "https://x.com/0xGeeGee/status/2067910420296274243",
         "https://x.com/0xGeeGee/status/2068053332690719017",
         "https://x.com/0xGeeGee/status/2068033486749831601",
-        "https://x.com/0xGeeGee/status/2068033995984576787"
+        "https://x.com/0xGeeGee/status/2068033995984576787",
+        "https://x.com/0xGeeGee/status/2068239263469015292",
+        "https://x.com/0xGeeGee/status/2068215872531910754"
       ],
       "momentum": "rising",
       "confidence": "medium"
@@ -643,6 +645,7 @@
     "Track whether MoneyPrinter0x keeps posting explicit post-trade reviews after public macro/options books or whether this was a one-off MSTR short debrief.",
     "Track whether GeeGee’s InfiniFi junior/senior rebalance comments turn into a recurring structured-credit capital-stack framework.",
     "Track whether ProofMarkets conditional markets become a repeated public response to major CT uncertainty events beyond STRC/MSTR.",
-    "Track whether Nock recurs in kelxyz_'s incentivized-inference/design filter or remains a one-off cautious mention."
+    "Track whether Nock recurs in kelxyz_'s incentivized-inference/design filter or remains a one-off cautious mention.",
+    "Track whether STRC/MSTR discourse remains centered on overhang/capital structure or shifts toward broader criticism of Strategy marketing math and risk metrics."
   ]
 }

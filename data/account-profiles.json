@@ -155,8 +155,8 @@
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
     "period_end": "2026-06-20",
-    "profile_updated_at": "2026-06-20T00:00:00Z",
-    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Latest evidence adds a public-equity AI-imaging proxy note via BFLY/Butterfly Network, while earlier June 19 evidence sharpened STRC/depeg risk and founder-governance filters.",
+    "profile_updated_at": "2026-06-20T08:30:00Z",
+    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Latest evidence adds a public-equity AI-imaging proxy note via BFLY/Butterfly Network, while earlier June 19 evidence sharpened STRC/depeg risk and founder-governance filters; new June 20 quotes add STRC marketing/math and risk-metric skepticism.",
     "likes": [
       {
         "theme": "AI inference efficiency and optimization layers",
@@ -222,9 +222,11 @@
       },
       {
         "theme": "BTC proxy capital-structure / mNAV analysis",
-        "summary": "Translated MSTR/Saylor metrics into mNAV/capital-structure terms and emphasized seniority, dilution, and BTC outperformance needs after Strategy showed willingness to sell.",
+        "summary": "Translated MSTR/Saylor metrics into mNAV/capital-structure terms and emphasized seniority, dilution, and BTC outperformance needs after Strategy showed willingness to sell. New June 20 quote evidence extends this into public STRC marketing/math and risk-metric skepticism: mortgage-arbitrage framing and Sharpe/effective-yield calculations both drew pushback.",
         "evidence_urls": [
-          "https://x.com/0xGeeGee/status/2066340434402832578"
+          "https://x.com/0xGeeGee/status/2066340434402832578",
+          "https://x.com/0xGeeGee/status/2068239263469015292",
+          "https://x.com/0xGeeGee/status/2068215872531910754"
         ],
         "confidence": "high"
       },
@@ -611,7 +613,8 @@
       "Track whether GeeGee continues reducing BTC/MSTR L/S exposure or re-enters if capital-structure/death-spiral metrics worsen again.",
       "Track whether InfiniFi/STRC is a one-off structured-risk note or part of a broader GeeGee view on DeFi credit capital stacks.",
       "Track whether Japan small-cap/governance-change screening recurs beyond this one reply.",
-      "Track whether the InfiniFi/STRC junior/senior rebalance becomes a broader GeeGee structured-credit framework or remains a one-conversation follow-up."
+      "Track whether the InfiniFi/STRC junior/senior rebalance becomes a broader GeeGee structured-credit framework or remains a one-conversation follow-up.",
+      "Track whether GeeGee’s STRC/MSTR critique keeps moving from capital-structure analysis into broader skepticism of Strategy’s public risk metrics and marketing math."
     ],
     "evidence_urls": [
       "https://x.com/0xGeeGee/status/2065771227743138126",
@@ -647,7 +650,9 @@
       "https://x.com/0xGeeGee/status/2068053332690719017",
       "https://x.com/0xGeeGee/status/2068033486749831601",
       "https://x.com/0xGeeGee/status/2068033995984576787",
-      "https://x.com/0xGeeGee/status/2068095941731647760"
+      "https://x.com/0xGeeGee/status/2068095941731647760",
+      "https://x.com/0xGeeGee/status/2068239263469015292",
+      "https://x.com/0xGeeGee/status/2068215872531910754"
     ]
   },
   {

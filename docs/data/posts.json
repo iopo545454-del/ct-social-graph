@@ -1,5 +1,39 @@
 [
   {
+    "date": "2026-06-20",
+    "handle": "0xGeeGee",
+    "type": "quote/structured_product_metric_critique",
+    "url": "https://x.com/0xGeeGee/status/2068215872531910754",
+    "summary": "Quoted criticism of Strategy/STRC using 'effective yield' instead of actual returns in a Sharpe-ratio calculation, comparing it to the old Bitcoin-rainbow-chart color extensions.",
+    "entities": [
+      "STRC",
+      "MSTR / Strategy",
+      "Sharpe ratio",
+      "effective yield",
+      "risk metrics",
+      "structured product marketing"
+    ],
+    "why_logged": "Adds another concise GeeGee process filter: distrust of metric manipulation and made-up risk-adjusted-return framing around a live CT structured-product debate.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-20",
+    "handle": "0xGeeGee",
+    "type": "quote/structured_product_math",
+    "url": "https://x.com/0xGeeGee/status/2068239263469015292",
+    "summary": "Quoted BTC Treasuries/Strategy CEO Phong Le mortgage-vs-STRC investment framing and said the math was 'REALLY not mathing,' extending the STRC/MSTR critique from collateral structure into executive-marketing/math claims.",
+    "entities": [
+      "STRC",
+      "MSTR / Strategy",
+      "Phong Le",
+      "BTC Treasuries",
+      "mortgage arbitrage",
+      "structured product marketing"
+    ],
+    "why_logged": "Fresh source-close GeeGee evidence in the ongoing STRC/MSTR bucket: skepticism is now aimed at public math/marketing quality, not only capital-stack mechanics or BTC overhang.",
+    "confidence": "medium"
+  },
+  {
     "date": "2026-06-19",
     "handle": "0xGeeGee",
     "type": "reply/ai_equity_proxy",
