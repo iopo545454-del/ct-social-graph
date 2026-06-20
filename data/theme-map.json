@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-06-20",
-  "profile_updated_at": "2026-06-20T12:06:22Z",
+  "profile_updated_at": "2026-06-20T20:15:00Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -340,15 +340,18 @@
         "Aerodrome / AERO",
         "Coinbase tokenized stocks",
         "Base spot exchange",
-        "FX"
+        "FX",
+        "AccountableData",
+        "MainStreet verification"
       ],
-      "summary": "GeeGee thread framed RWA/tokenized equities as a watchable lane: MORPHO for open credit/yield-bearing assets, Backpack/BP for tokenized brokerage on Solana, Securitize/CEPT as reverse-merger context, and Variational adding RWA markets. Follow-up replies added a negative quality read on RAIN/Enlivex while allowing equity may still have value, plus a fresh possible PLUME addition based on GRVT/Bybit distribution/integration momentum. New AustinBarack quote tied Coinbase's tokenized-stock push to the leading Base spot exchange expanding into tokenized stocks, FX, and Ethereum mainnet, reinforcing AERO/Base as the venue angle. AustinBarack followed up AERO again later June 16, saying price action suggests investors are moving from skepticism/unawareness toward accepting the growth opportunity.",
+      "summary": "GeeGee thread framed RWA/tokenized equities as a watchable lane: MORPHO for open credit/yield-bearing assets, Backpack/BP for tokenized brokerage on Solana, Securitize/CEPT as reverse-merger context, and Variational adding RWA markets. Follow-up replies added a negative quality read on RAIN/Enlivex while allowing equity may still have value, plus a fresh possible PLUME addition based on GRVT/Bybit distribution/integration momentum. New AustinBarack quote tied Coinbase's tokenized-stock push to the leading Base spot exchange expanding into tokenized stocks, FX, and Ethereum mainnet, reinforcing AERO/Base as the venue angle. AustinBarack followed up AERO again later June 16, saying price action suggests investors are moving from skepticism/unawareness toward accepting the growth opportunity. Latest GeeGee quote adds a negative attestation/verification-provider example: AccountableData terminated MainStreet over failed verification standards, and GeeGee treated Accountable itself as a credibility problem. Keep this close to source and negative/analytical rather than a broad RWA-sector conclusion.",
       "evidence_urls": [
         "https://x.com/0xGeeGee/status/2066111310916694078",
         "https://x.com/0xGeeGee/status/2066374450292183385",
         "https://x.com/0xGeeGee/status/2066449564631286159",
         "https://x.com/AustinBarack/status/2066907328352281006",
-        "https://x.com/AustinBarack/status/2066990363844247802"
+        "https://x.com/AustinBarack/status/2066990363844247802",
+        "https://x.com/0xGeeGee/status/2068377614339682384"
       ],
       "momentum": "emerging",
       "confidence": "medium"
@@ -651,6 +654,7 @@
     "Track whether Nock recurs in kelxyz_'s incentivized-inference/design filter or remains a one-off cautious mention.",
     "Track whether STRC/MSTR discourse remains centered on overhang/capital structure or shifts toward broader criticism of Strategy marketing math and risk metrics.",
     "Track whether MoneyPrinter0x continues comparing HYPE/Hyperliquid structure against equity-index futures, or whether the HYPE/NQ overlay was only a one-off chart request.",
-    "Track whether GeeGee’s Strategy/STRC discourse keeps expanding from capital-structure risk into broader marketing-math and AI-productivity/financial-engineering skepticism."
+    "Track whether GeeGee’s Strategy/STRC discourse keeps expanding from capital-structure risk into broader marketing-math and AI-productivity/financial-engineering skepticism.",
+    "Track whether AccountableData/MainStreet verification-risk discourse recurs across GeeGee or other Tier 1 accounts, or remains a one-day RWA/attestation trust flare-up."
   ]
 }

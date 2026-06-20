@@ -419,5 +419,17 @@
     ],
     "first_seen": "2026-06-20",
     "confidence": "low"
+  },
+  {
+    "handle": "AccountableData",
+    "kind": "project",
+    "status": "candidate",
+    "source": "0xGeeGee quote criticizing Accountable after MainStreet verification termination",
+    "reason": "GeeGee gave a clear negative credibility read on AccountableData in the context of MainStreet failing verification standards; one high-context but negative evidence point, so keep candidate/mention-ledger only.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2068377614339682384"
+    ],
+    "first_seen": "2026-06-20",
+    "confidence": "low"
   }
 ]

@@ -155,8 +155,8 @@
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
     "period_end": "2026-06-20",
-    "profile_updated_at": "2026-06-20T12:06:22Z",
-    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Latest evidence adds a public-equity AI-imaging proxy note via BFLY/Butterfly Network, while earlier June 19 evidence sharpened STRC/depeg risk and founder-governance filters; new June 20 quotes add STRC marketing/math and risk-metric skepticism.",
+    "profile_updated_at": "2026-06-20T20:15:00Z",
+    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Latest evidence adds a public-equity AI-imaging proxy note via BFLY/Butterfly Network, while earlier June 19 evidence sharpened STRC/depeg risk and founder-governance filters; new June 20 quotes add STRC marketing/math and risk-metric skepticism. New late-June-20 evidence adds a negative verification-provider credibility read via AccountableData/MainStreet, adjacent to his broader DeFi/RWA attestation and structured-credit risk filters.",
     "likes": [
       {
         "theme": "AI inference efficiency and optimization layers",
@@ -386,6 +386,14 @@
           "https://x.com/0xGeeGee/status/2068054047936983213"
         ],
         "confidence": "medium"
+      },
+      {
+        "theme": "Weak verification-provider / attestation credibility",
+        "summary": "Called Accountable a joke of a company after its MainStreet service termination over failed verification standards, implying skepticism toward financial-verification providers whose attestations markets rely on.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2068377614339682384"
+        ],
+        "confidence": "medium"
       }
     ],
     "projects_mentioned": [
@@ -584,6 +592,15 @@
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2068095941731647760"
         ]
+      },
+      {
+        "name": "AccountableData",
+        "handle": "AccountableData",
+        "stance": "negative",
+        "summary": "Negative credibility read after Accountable terminated MainStreet for failing verification standards; evidence is about trust in attestation/verification infrastructure rather than a token thesis.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2068377614339682384"
+        ]
       }
     ],
     "people_respected": [
@@ -618,7 +635,8 @@
       "Track whether Japan small-cap/governance-change screening recurs beyond this one reply.",
       "Track whether the InfiniFi/STRC junior/senior rebalance becomes a broader GeeGee structured-credit framework or remains a one-conversation follow-up.",
       "Track whether GeeGee’s STRC/MSTR critique keeps moving from capital-structure analysis into broader skepticism of Strategy’s public risk metrics and marketing math.",
-      "Watch whether GeeGee’s Strategy/STRC critique stays focused on structural risk or broadens into a durable critique of AI-productivity/financial-engineering marketing."
+      "Watch whether GeeGee’s Strategy/STRC critique stays focused on structural risk or broadens into a durable critique of AI-productivity/financial-engineering marketing.",
+      "Track whether AccountableData/MainStreet becomes a repeated GeeGee verification/attestation-risk topic or remains a one-off negative reaction."
     ],
     "evidence_urls": [
       "https://x.com/0xGeeGee/status/2065771227743138126",
@@ -657,7 +675,8 @@
       "https://x.com/0xGeeGee/status/2068095941731647760",
       "https://x.com/0xGeeGee/status/2068239263469015292",
       "https://x.com/0xGeeGee/status/2068215872531910754",
-      "https://x.com/0xGeeGee/status/2068241198771253279"
+      "https://x.com/0xGeeGee/status/2068241198771253279",
+      "https://x.com/0xGeeGee/status/2068377614339682384"
     ]
   },
   {

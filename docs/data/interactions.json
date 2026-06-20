@@ -1,6 +1,17 @@
 [
   {
     "from": "0xGeeGee",
+    "to": "AccountableData",
+    "to_kind": "project",
+    "type": "quote/verification_provider_critique",
+    "date": "2026-06-20",
+    "url": "https://x.com/0xGeeGee/status/2068377614339682384",
+    "summary": "Quoted AccountableData's MainStreet termination notice and used it as a negative credibility read on Accountable as a real-time financial verification/attestation provider.",
+    "quality": "medium",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "0xGeeGee",
     "to": "SemperVigilant1",
     "to_kind": "individual",
     "type": "quote/metric_critique",

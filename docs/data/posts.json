@@ -2,6 +2,23 @@
   {
     "date": "2026-06-20",
     "handle": "0xGeeGee",
+    "type": "quote/verification_provider_critique",
+    "url": "https://x.com/0xGeeGee/status/2068377614339682384",
+    "summary": "Quoted AccountableData's termination of its MainStreet service agreement over failed verification standards and called Accountable a joke of a company, extending his DeFi/RWA credit-risk filter from product structure into trust in verification/attestation providers.",
+    "entities": [
+      "AccountableData",
+      "MainStreet",
+      "verification standards",
+      "financial attestations",
+      "RWA / DeFi credit",
+      "transparency risk"
+    ],
+    "why_logged": "Fresh source-close GeeGee evidence on verification-provider credibility and real-time financial attestation risk; useful next to his existing STRC/InfiniFi/RWA risk-analysis bucket.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-20",
+    "handle": "0xGeeGee",
     "type": "authored_post/strategy_ai_productivity_quip",
     "url": "https://x.com/0xGeeGee/status/2068241198771253279",
     "summary": "Made a concise Saylor/Strategy quip that a $20 AI subscription had been turned into roughly $2B, extending the same-day criticism of Strategy/STRC marketing math into AI-productivity/financial-engineering framing.",
