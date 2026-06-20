@@ -2,6 +2,39 @@
   {
     "date": "2026-06-20",
     "handle": "0xGeeGee",
+    "type": "authored_post/strategy_ai_productivity_quip",
+    "url": "https://x.com/0xGeeGee/status/2068241198771253279",
+    "summary": "Made a concise Saylor/Strategy quip that a $20 AI subscription had been turned into roughly $2B, extending the same-day criticism of Strategy/STRC marketing math into AI-productivity/financial-engineering framing.",
+    "entities": [
+      "MSTR / Strategy",
+      "Michael Saylor",
+      "AI productivity",
+      "STRC discourse",
+      "financial engineering"
+    ],
+    "why_logged": "Light but source-close continuation of GeeGee’s current Strategy/STRC skepticism: useful as a capstone to same-day math/risk-metric critique, not a standalone thesis.",
+    "confidence": "low-medium"
+  },
+  {
+    "date": "2026-06-20",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/hype_nq_fractal_request",
+    "url": "https://x.com/MoneyPrinter0x/status/2068277914454679787",
+    "summary": "Asked for an April $HYPE fractal overlaid against NQ futures over a two-week lookback, tying recent HYPE/Hyperliquid attention to equity-index/futures pattern comparison rather than only crypto chart momentum.",
+    "entities": [
+      "HYPE",
+      "Hyperliquid",
+      "NQ futures",
+      "Nasdaq futures",
+      "fractal overlay",
+      "technical analysis"
+    ],
+    "why_logged": "Adds fresh repeated MoneyPrinter0x attention to HYPE/Hyperliquid and shows a cross-market technical/comparative process; concise enough to keep medium confidence.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-20",
+    "handle": "0xGeeGee",
     "type": "quote/structured_product_metric_critique",
     "url": "https://x.com/0xGeeGee/status/2068215872531910754",
     "summary": "Quoted criticism of Strategy/STRC using 'effective yield' instead of actual returns in a Sharpe-ratio calculation, comparing it to the old Bitcoin-rainbow-chart color extensions.",

@@ -155,7 +155,7 @@
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
     "period_end": "2026-06-20",
-    "profile_updated_at": "2026-06-20T08:30:00Z",
+    "profile_updated_at": "2026-06-20T12:06:22Z",
     "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Latest evidence adds a public-equity AI-imaging proxy note via BFLY/Butterfly Network, while earlier June 19 evidence sharpened STRC/depeg risk and founder-governance filters; new June 20 quotes add STRC marketing/math and risk-metric skepticism.",
     "likes": [
       {
@@ -222,11 +222,12 @@
       },
       {
         "theme": "BTC proxy capital-structure / mNAV analysis",
-        "summary": "Translated MSTR/Saylor metrics into mNAV/capital-structure terms and emphasized seniority, dilution, and BTC outperformance needs after Strategy showed willingness to sell. New June 20 quote evidence extends this into public STRC marketing/math and risk-metric skepticism: mortgage-arbitrage framing and Sharpe/effective-yield calculations both drew pushback.",
+        "summary": "Translated MSTR/Saylor metrics into mNAV/capital-structure terms and emphasized seniority, dilution, and BTC outperformance needs after Strategy showed willingness to sell. June 20 evidence extends this into public STRC marketing/math, risk-metric skepticism, and a quip about AI productivity turning a $20 subscription into $2B.",
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2066340434402832578",
           "https://x.com/0xGeeGee/status/2068239263469015292",
-          "https://x.com/0xGeeGee/status/2068215872531910754"
+          "https://x.com/0xGeeGee/status/2068215872531910754",
+          "https://x.com/0xGeeGee/status/2068241198771253279"
         ],
         "confidence": "high"
       },
@@ -474,10 +475,11 @@
         "name": "MSTR / Strategy",
         "handle": null,
         "stance": "analytical",
-        "summary": "Analyzed MSTR through residual common mNAV / fully diluted mNAV and capital-structure seniority rather than pure BTC beta; June 18 update said he would probably cut 70% of the BTC/MSTR L/S because metrics now favor running with the bag/waiting, while still acknowledging early death-spiral risk.",
+        "summary": "Analyzed MSTR/Strategy through residual common mNAV / fully diluted mNAV and capital-structure seniority rather than pure BTC beta; June 18 update cut BTC/MSTR L/S sizing, and June 20 posts shifted toward Strategy/STRC marketing-math and AI-productivity/financial-engineering skepticism.",
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2066340434402832578",
-          "https://x.com/0xGeeGee/status/2067659249295991266"
+          "https://x.com/0xGeeGee/status/2067659249295991266",
+          "https://x.com/0xGeeGee/status/2068241198771253279"
         ]
       },
       {
@@ -552,7 +554,8 @@
         "summary": "Compared STRC to UST as a former UST truther: potentially workable mid-term if contained, but weaker because enforceability/redemption only matters at stress extremes; linked to broader MSTR/STRC overhang analysis.",
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2068053332690719017",
-          "https://x.com/0xGeeGee/status/2067850513614606714"
+          "https://x.com/0xGeeGee/status/2067850513614606714",
+          "https://x.com/0xGeeGee/status/2068241198771253279"
         ]
       },
       {
@@ -614,7 +617,8 @@
       "Track whether InfiniFi/STRC is a one-off structured-risk note or part of a broader GeeGee view on DeFi credit capital stacks.",
       "Track whether Japan small-cap/governance-change screening recurs beyond this one reply.",
       "Track whether the InfiniFi/STRC junior/senior rebalance becomes a broader GeeGee structured-credit framework or remains a one-conversation follow-up.",
-      "Track whether GeeGee’s STRC/MSTR critique keeps moving from capital-structure analysis into broader skepticism of Strategy’s public risk metrics and marketing math."
+      "Track whether GeeGee’s STRC/MSTR critique keeps moving from capital-structure analysis into broader skepticism of Strategy’s public risk metrics and marketing math.",
+      "Watch whether GeeGee’s Strategy/STRC critique stays focused on structural risk or broadens into a durable critique of AI-productivity/financial-engineering marketing."
     ],
     "evidence_urls": [
       "https://x.com/0xGeeGee/status/2065771227743138126",
@@ -652,7 +656,8 @@
       "https://x.com/0xGeeGee/status/2068033995984576787",
       "https://x.com/0xGeeGee/status/2068095941731647760",
       "https://x.com/0xGeeGee/status/2068239263469015292",
-      "https://x.com/0xGeeGee/status/2068215872531910754"
+      "https://x.com/0xGeeGee/status/2068215872531910754",
+      "https://x.com/0xGeeGee/status/2068241198771253279"
     ]
   },
   {
@@ -1310,8 +1315,8 @@
   {
     "handle": "MoneyPrinter0x",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-19",
-    "profile_updated_at": "2026-06-19T10:30:00Z",
+    "period_end": "2026-06-20",
+    "profile_updated_at": "2026-06-20T12:06:22Z",
     "taste_summary": "Observed X/Twitter evidence shows an event-driven trader mixing AI-equity rotations, short-dated options, macro/rate catalysts, strict invalidation/risk caps, and public post-trade review. New June 19 evidence adds a self-review of the MSTR/CRWV/POET short book after rotating from broad shorts into short-term bullish equities, while still treating BTC upside as capped until the STRC/MSTR overhang has a fix path.",
     "likes": [
       {
@@ -1435,10 +1440,11 @@
       },
       {
         "theme": "Hyperliquid ecosystem relative-value expressions",
-        "summary": "Beyond terse HYPE mentions, celebrated PURR reaching $10 while referencing an older PURR-to-HYPE/mNAV thesis tied to Hyperliquid private/pre-IPO venue expansion.",
+        "summary": "Beyond terse HYPE mentions, celebrated PURR reaching $10 while referencing an older PURR-to-HYPE/mNAV thesis tied to Hyperliquid venue expansion; latest June 20 post asked for a HYPE fractal overlay versus NQ futures, adding cross-market pattern/process evidence.",
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2066953020760563917",
-          "https://x.com/MoneyPrinter0x/status/2066749652788228496"
+          "https://x.com/MoneyPrinter0x/status/2066749652788228496",
+          "https://x.com/MoneyPrinter0x/status/2068277914454679787"
         ],
         "confidence": "medium"
       },
@@ -1572,7 +1578,8 @@
         "stance": "watching",
         "summary": "Referenced parabolic moves in HYPE, PURR, and BB; scan does not establish a deeper thesis.",
         "evidence_urls": [
-          "https://x.com/MoneyPrinter0x/status/2060346351154794656"
+          "https://x.com/MoneyPrinter0x/status/2060346351154794656",
+          "https://x.com/MoneyPrinter0x/status/2068277914454679787"
         ]
       },
       {
@@ -1629,10 +1636,11 @@
         "name": "Hyperliquid / HYPE",
         "handle": "HyperliquidX",
         "stance": "positive",
-        "summary": "Repeated terse positive Hyperliquid/HYPE mentions: “thank you Jefferson. Hyperliquid.” and a later HYPE momentum chart post. Still medium confidence because the evidence is concise/chart-led rather than a full thesis.",
+        "summary": "Repeated HYPE/Hyperliquid attention now includes terse positive mentions, a HYPE momentum chart post, and a June 20 request to overlay an April HYPE fractal against NQ futures. Still medium confidence because the evidence is concise/chart-led rather than a full written thesis.",
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2066275337655451745",
-          "https://x.com/MoneyPrinter0x/status/2066749652788228496"
+          "https://x.com/MoneyPrinter0x/status/2066749652788228496",
+          "https://x.com/MoneyPrinter0x/status/2068277914454679787"
         ]
       },
       {
@@ -1792,7 +1800,8 @@
       "Verify the exact Ansem/Flood account handles before treating them as clean graph nodes.",
       "Track whether MoneyPrinter0x’s equity risk-on watchlist converts to actual positions or is just a post-short-cover watchlist.",
       "Track whether BTC remains structurally capped in his framing after STRC/MSTR overhang developments.",
-      "Track whether MoneyPrinter0x publishes more post-trade reviews that make execution/hedging/research lessons a recurring profile layer."
+      "Track whether MoneyPrinter0x publishes more post-trade reviews that make execution/hedging/research lessons a recurring profile layer.",
+      "Watch whether MoneyPrinter0x turns HYPE/NQ fractal comparisons into a repeated cross-market framework or it stays a one-off chart request."
     ],
     "evidence_urls": [
       "https://x.com/MoneyPrinter0x/status/2065910048833102118",
@@ -1845,7 +1854,8 @@
       "https://x.com/MoneyPrinter0x/status/2067850513614606714",
       "https://x.com/MoneyPrinter0x/status/2067854231898587158",
       "https://x.com/MoneyPrinter0x/status/2067864876643721389",
-      "https://x.com/MoneyPrinter0x/status/2067879268311503019"
+      "https://x.com/MoneyPrinter0x/status/2067879268311503019",
+      "https://x.com/MoneyPrinter0x/status/2068277914454679787"
     ]
   },
   {
