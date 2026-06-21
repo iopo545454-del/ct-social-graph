@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
-  "period_end": "2026-06-20",
-  "profile_updated_at": "2026-06-20T20:15:00Z",
+  "period_end": "2026-06-21",
+  "profile_updated_at": "2026-06-21T00:00:00Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -54,7 +54,7 @@
         "alternative inference financing",
         "Nock / incentivized inference"
       ],
-      "summary": "Observed X/Twitter evidence spans GeeGee on inference cost/observability plus EIGEN/SERV, MoneyPrinter0x on deterministic AI-agent harnesses, kelxyz_ on inference incentives/model-parallel training, and AustinBarack on OpenRouter/Fusion API price-performance and AI ROI benchmarking. These are adjacent but not identical themes, so keep examples close to source posts. New 2026-06-15 GeeGee evidence explicitly tied the next AI attention cycle to companies positioned in the AI cost-cutting layer. GeeGee's 2026-06-17 Osobear puzzle thread adds a counterexample/process note: for hidden-code crypto puzzle solving, he reported Opus/GPT-class models were not useful, so keep the AI-tools bucket grounded in specific tasks rather than broad capability claims. Latest GeeGee quote adds another cost-collapse/process point: more DeepSeek-like gains may come from infrastructure as foundation models commoditize. Latest kelxyz_ evidence adds a valuation/economic angle: alternative financing that subsidizes inference or aggregates training compute at scale may justify very large outcomes. New kelxyz_ follow-up keeps the inference-design bucket cautious: incentivized inference remains difficult, no current design is fully convincing yet, but Nock is in the running.",
+      "summary": "Observed X/Twitter evidence spans GeeGee on inference cost/observability plus EIGEN/SERV, MoneyPrinter0x on deterministic AI-agent harnesses, kelxyz_ on inference incentives/model-parallel training, and AustinBarack on OpenRouter/Fusion API price-performance and AI ROI benchmarking. These are adjacent but not identical themes, so keep examples close to source posts. New 2026-06-15 GeeGee evidence explicitly tied the next AI attention cycle to companies positioned in the AI cost-cutting layer. GeeGee's 2026-06-17 Osobear puzzle thread adds a counterexample/process note: for hidden-code crypto puzzle solving, he reported Opus/GPT-class models were not useful, so keep the AI-tools bucket grounded in specific tasks rather than broad capability claims. Latest GeeGee quote adds another cost-collapse/process point: more DeepSeek-like gains may come from infrastructure as foundation models commoditize. Latest kelxyz_ evidence adds a valuation/economic angle: alternative financing that subsidizes inference or aggregates training compute at scale may justify very large outcomes. New kelxyz_ follow-up keeps the inference-design bucket cautious: incentivized inference remains difficult, no current design is fully convincing yet, but Nock is in the running. New June 20 GeeGee replies add cautionary due-diligence color: Dark Bloom/EigenCloud needs to avoid grifty narrative behavior, and large AI product claims such as a Midjourney-scanner should be judged through incentives/funding context rather than demo hype.",
       "evidence_urls": [
         "https://x.com/0xGeeGee/status/2065771227743138126",
         "https://x.com/MoneyPrinter0x/status/2065910048833102118",
@@ -71,7 +71,9 @@
         "https://x.com/0xGeeGee/status/2067328339170243046",
         "https://x.com/MoneyPrinter0x/status/2067666128663679377",
         "https://x.com/kelxyz_/status/2068018630973849648",
-        "https://x.com/kelxyz_/status/2068083058306146524"
+        "https://x.com/kelxyz_/status/2068083058306146524",
+        "https://x.com/0xGeeGee/status/2068229359375155485",
+        "https://x.com/0xGeeGee/status/2068186616032624953"
       ],
       "momentum": "rising",
       "confidence": "medium"
@@ -202,11 +204,12 @@
       "projects": [
         "Sonic Labs"
       ],
-      "summary": "airtightfish explicitly separated outright scams/predatory bundles from traders taking public positions. GeeGee had a shorter reply calling out a scammer/paid-group P&D context. Keep this as a light caution bucket, not a full fraud map. New GeeGee quote adds a founder-governance trust example via a harsh negative read on Andre Cronje/Sonic Labs board-resignation context.",
+      "summary": "airtightfish explicitly separated outright scams/predatory bundles from traders taking public positions. GeeGee had a shorter reply calling out a scammer/paid-group P&D context. Keep this as a light caution bucket, not a full fraud map. New GeeGee quote adds a founder-governance trust example via a harsh negative read on Andre Cronje/Sonic Labs board-resignation context. Latest GeeGee reply adds adjacent AI product-overclaim skepticism via a Midjourney-scanner/Theranos comparison, but he framed it as incentive/context uncertainty rather than a definitive scam call.",
       "evidence_urls": [
         "https://x.com/airtightfish/status/2064392389016342888",
         "https://x.com/0xGeeGee/status/2063206399044395270",
-        "https://x.com/0xGeeGee/status/2068054047936983213"
+        "https://x.com/0xGeeGee/status/2068054047936983213",
+        "https://x.com/0xGeeGee/status/2068186616032624953"
       ],
       "momentum": "unclear",
       "confidence": "medium"
@@ -655,6 +658,8 @@
     "Track whether STRC/MSTR discourse remains centered on overhang/capital structure or shifts toward broader criticism of Strategy marketing math and risk metrics.",
     "Track whether MoneyPrinter0x continues comparing HYPE/Hyperliquid structure against equity-index futures, or whether the HYPE/NQ overlay was only a one-off chart request.",
     "Track whether GeeGee’s Strategy/STRC discourse keeps expanding from capital-structure risk into broader marketing-math and AI-productivity/financial-engineering skepticism.",
-    "Track whether AccountableData/MainStreet verification-risk discourse recurs across GeeGee or other Tier 1 accounts, or remains a one-day RWA/attestation trust flare-up."
+    "Track whether AccountableData/MainStreet verification-risk discourse recurs across GeeGee or other Tier 1 accounts, or remains a one-day RWA/attestation trust flare-up.",
+    "Track whether GeeGee's Dark Bloom/EigenCloud grift-risk caution recurs or was only a one-reply qualifier to his prior AI-infra watchlist.",
+    "Track whether Midjourney-scanner / AI-demo credibility skepticism recurs across GeeGee or remains a one-off reply-level diligence note."
   ]
 }

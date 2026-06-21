@@ -154,9 +154,9 @@
   {
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-20",
-    "profile_updated_at": "2026-06-20T20:15:00Z",
-    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Latest evidence adds a public-equity AI-imaging proxy note via BFLY/Butterfly Network, while earlier June 19 evidence sharpened STRC/depeg risk and founder-governance filters; new June 20 quotes add STRC marketing/math and risk-metric skepticism. New late-June-20 evidence adds a negative verification-provider credibility read via AccountableData/MainStreet, adjacent to his broader DeFi/RWA attestation and structured-credit risk filters.",
+    "period_end": "2026-06-21",
+    "profile_updated_at": "2026-06-21T00:00:00Z",
+    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Latest evidence adds a public-equity AI-imaging proxy note via BFLY/Butterfly Network, while earlier June 19 evidence sharpened STRC/depeg risk and founder-governance filters; new June 20 quotes add STRC marketing/math and risk-metric skepticism. New late-June-20 evidence adds a negative verification-provider credibility read via AccountableData/MainStreet, adjacent to his broader DeFi/RWA attestation and structured-credit risk filters. Latest reply-level evidence adds two AI diligence qualifiers: caution that Dark Bloom/EigenCloud should avoid grifty narrative behavior, and skepticism/curiosity around a Midjourney-scanner claim framed through incentives and fundraising context.",
     "likes": [
       {
         "theme": "AI inference efficiency and optimization layers",
@@ -188,9 +188,10 @@
       },
       {
         "theme": "AI infrastructure with efficiency/privacy/revenue hooks",
-        "summary": "Detailed thread framed 2026 AI as moving from raw spend to efficiency, observability, privacy, and cheaper open-source/decentralized alternatives; highlighted EIGEN/EigenCloud/DarkBloom and SERV/OpenServ as examples.",
+        "summary": "Detailed thread framed 2026 AI as moving from raw spend to efficiency, observability, privacy, and cheaper open-source/decentralized alternatives; highlighted EIGEN/EigenCloud/DarkBloom and SERV/OpenServ as examples. June 20 reply adds a cautionary qualifier around Dark Bloom/EigenCloud: he hopes the team does not lean into grifty narrative behavior.",
         "evidence_urls": [
-          "https://x.com/0xGeeGee/status/2066111310916694078"
+          "https://x.com/0xGeeGee/status/2066111310916694078",
+          "https://x.com/0xGeeGee/status/2068229359375155485"
         ],
         "confidence": "high"
       },
@@ -394,6 +395,14 @@
           "https://x.com/0xGeeGee/status/2068377614339682384"
         ],
         "confidence": "medium"
+      },
+      {
+        "theme": "AI product overclaim / demo credibility risk",
+        "summary": "In a Midjourney-scanner / Theranos-comparison thread, questioned the incentive context of a very large product claim from a private company reportedly not raising and without VCs; useful as a diligence filter rather than a definitive fraud call.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2068186616032624953"
+        ],
+        "confidence": "medium"
       }
     ],
     "projects_mentioned": [
@@ -428,9 +437,10 @@
         "name": "EIGEN / EigenCloud",
         "handle": "eigencloud",
         "stance": "positive",
-        "summary": "Bought some EIGEN after the EigenLayer pivot to EigenCloud/DarkBloom AI inference; sees lower FDV and possible revenue accrual, while acknowledging restaking disappointment.",
+        "summary": "Bought some EIGEN after the EigenLayer pivot to EigenCloud/DarkBloom AI inference; sees lower FDV and possible revenue accrual, while acknowledging restaking disappointment. Follow-up reply adds grift-risk caution around the Dark Bloom pivot/narrative.",
         "evidence_urls": [
-          "https://x.com/0xGeeGee/status/2066111310916694078"
+          "https://x.com/0xGeeGee/status/2066111310916694078",
+          "https://x.com/0xGeeGee/status/2068229359375155485"
         ]
       },
       {

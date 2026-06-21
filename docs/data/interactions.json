@@ -1,6 +1,28 @@
 [
   {
     "from": "0xGeeGee",
+    "to": "Marczeller",
+    "to_kind": "individual",
+    "type": "reply/ai_product_due_diligence",
+    "date": "2026-06-20",
+    "url": "https://x.com/0xGeeGee/status/2068186616032624953",
+    "summary": "Engaged a Midjourney-scanner / Theranos-comparison thread by noting that lack of VC fundraising makes the incentive picture around a very large claim unusual; useful as AI-product skepticism evidence, not a tracking promotion.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "eigencloud",
+    "to_kind": "project",
+    "type": "reply/ai_infra_grift_caution",
+    "date": "2026-06-20",
+    "url": "https://x.com/0xGeeGee/status/2068229359375155485",
+    "summary": "Replied in a Dark Bloom / EigenCloud-adjacent thread that he hopes the team does not indulge in grifting too much, a cautionary qualifier on the AI-infrastructure pivot narrative.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "0xGeeGee",
     "to": "AccountableData",
     "to_kind": "project",
     "type": "quote/verification_provider_critique",

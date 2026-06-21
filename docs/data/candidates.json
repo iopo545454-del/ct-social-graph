@@ -80,9 +80,10 @@
     "kind": "project",
     "status": "candidate",
     "source": "0xGeeGee EIGEN/EigenCloud AI-inference thesis",
-    "reason": "Detailed positive-to-watching mention from 0xGeeGee, but one current evidence cluster only; keep candidate until repeated/corroborated.",
+    "reason": "Detailed positive-to-watching mention from 0xGeeGee, now with a follow-up caution about Dark Bloom/EigenCloud grift risk; keep candidate until repeated positive/corroborated evidence.",
     "evidence_urls": [
-      "https://x.com/0xGeeGee/status/2066111310916694078"
+      "https://x.com/0xGeeGee/status/2066111310916694078",
+      "https://x.com/0xGeeGee/status/2068229359375155485"
     ],
     "first_seen": "2026-06-14",
     "confidence": "medium"

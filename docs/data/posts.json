@@ -2,6 +2,40 @@
   {
     "date": "2026-06-20",
     "handle": "0xGeeGee",
+    "type": "reply/ai_product_due_diligence",
+    "url": "https://x.com/0xGeeGee/status/2068186616032624953",
+    "summary": "In a Midjourney-scanner / 'new Theranos' discussion, noted that the company reportedly has no VCs and is not raising, making an unusually large claim or lie seem strange; keeps skepticism focused on incentives and evidence rather than reflexively accepting or dismissing the product.",
+    "entities": [
+      "Midjourney scanner",
+      "Theranos comparison",
+      "AI product claims",
+      "private companies",
+      "VC incentives",
+      "due diligence"
+    ],
+    "why_logged": "Adds fresh AI-product diligence evidence from GeeGee: questions extreme product claims through incentives/funding context rather than treating AI demos at face value.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-20",
+    "handle": "0xGeeGee",
+    "type": "reply/ai_infra_grift_risk",
+    "url": "https://x.com/0xGeeGee/status/2068229359375155485",
+    "summary": "In a Dark Bloom / EigenCloud-adjacent discussion, said he hopes the team does not indulge in grifting too much, adding a caution flag to his otherwise positive AI-infrastructure/pivot watchlist.",
+    "entities": [
+      "Dark Bloom",
+      "EigenCloud",
+      "EIGEN",
+      "AI infrastructure",
+      "grift risk",
+      "narrative pivot"
+    ],
+    "why_logged": "Small but useful qualifier on GeeGee's existing EIGEN/EigenCloud/DarkBloom AI-infra thesis: he is watching the pivot but remains alert to promoter/grift risk.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-20",
+    "handle": "0xGeeGee",
     "type": "quote/verification_provider_critique",
     "url": "https://x.com/0xGeeGee/status/2068377614339682384",
     "summary": "Quoted AccountableData's termination of its MainStreet service agreement over failed verification standards and called Accountable a joke of a company, extending his DeFi/RWA credit-risk filter from product structure into trust in verification/attestation providers.",
