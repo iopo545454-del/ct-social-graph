@@ -432,5 +432,31 @@
     ],
     "first_seen": "2026-06-20",
     "confidence": "low"
+  },
+  {
+    "handle": "PennyWorks",
+    "kind": "project",
+    "status": "candidate",
+    "source": "0xGeeGee MainStreet verification-disclosure timing critique",
+    "reason": "GeeGee engaged PennyWorks/Marc over NAV/transparency standards and criticized delayed disclosure as potentially self-promotional. High-context DeFi verification evidence, but adversarial/single-thread only so candidate/mention-ledger, not Tier 2.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2068778209504616453",
+      "https://x.com/0xGeeGee/status/2068778330778698064"
+    ],
+    "first_seen": "2026-06-21",
+    "confidence": "low"
+  },
+  {
+    "handle": "mhomsyy",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "0xGeeGee reply to PennyWorks/Marc in MainStreet transparency thread",
+    "reason": "Direct counterparty in GeeGee's MainStreet/PennyWorks verification-standard exchange; useful for interaction context only until repeated/substantive non-adversarial evidence appears.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2068778209504616453",
+      "https://x.com/0xGeeGee/status/2068778330778698064"
+    ],
+    "first_seen": "2026-06-21",
+    "confidence": "low"
   }
 ]

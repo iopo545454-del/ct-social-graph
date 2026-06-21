@@ -155,8 +155,8 @@
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
     "period_end": "2026-06-21",
-    "profile_updated_at": "2026-06-21T00:00:00Z",
-    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Latest evidence adds a public-equity AI-imaging proxy note via BFLY/Butterfly Network, while earlier June 19 evidence sharpened STRC/depeg risk and founder-governance filters; new June 20 quotes add STRC marketing/math and risk-metric skepticism. New late-June-20 evidence adds a negative verification-provider credibility read via AccountableData/MainStreet, adjacent to his broader DeFi/RWA attestation and structured-credit risk filters. Latest reply-level evidence adds two AI diligence qualifiers: caution that Dark Bloom/EigenCloud should avoid grifty narrative behavior, and skepticism/curiosity around a Midjourney-scanner claim framed through incentives and fundraising context.",
+    "profile_updated_at": "2026-06-21T21:00:00Z",
+    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Latest evidence adds a public-equity AI-imaging proxy note via BFLY/Butterfly Network, while earlier June 19 evidence sharpened STRC/depeg risk and founder-governance filters; new June 20 quotes add STRC marketing/math and risk-metric skepticism. New late-June-20 evidence adds a negative verification-provider credibility read via AccountableData/MainStreet, adjacent to his broader DeFi/RWA attestation and structured-credit risk filters. Latest reply-level evidence adds two AI diligence qualifiers: caution that Dark Bloom/EigenCloud should avoid grifty narrative behavior, and skepticism/curiosity around a Midjourney-scanner claim framed through incentives and fundraising context. June 21 replies add an incentive/timing layer to the MainStreet/Accountable verification-risk thread: he questioned PennyWorks for disclosing prior MainStreet concerns only after the controversy was public and framed delayed disclosure as potentially self-promotional.",
     "likes": [
       {
         "theme": "AI inference efficiency and optimization layers",
@@ -390,9 +390,11 @@
       },
       {
         "theme": "Weak verification-provider / attestation credibility",
-        "summary": "Called Accountable a joke of a company after its MainStreet service termination over failed verification standards, implying skepticism toward financial-verification providers whose attestations markets rely on.",
+        "summary": "Called Accountable a joke of a company after its MainStreet service termination over failed verification standards, implying skepticism toward financial-verification providers whose attestations markets rely on. June 21 follow-up extended the critique to PennyWorks' delayed MainStreet disclosure, questioning whether the timing looked like industry-standard advocacy or self-patting marketing.",
         "evidence_urls": [
-          "https://x.com/0xGeeGee/status/2068377614339682384"
+          "https://x.com/0xGeeGee/status/2068377614339682384",
+          "https://x.com/0xGeeGee/status/2068778209504616453",
+          "https://x.com/0xGeeGee/status/2068778330778698064"
         ],
         "confidence": "medium"
       },
@@ -611,6 +613,16 @@
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2068377614339682384"
         ]
+      },
+      {
+        "name": "PennyWorks / MainStreet verification thread",
+        "handle": "PennyWorks",
+        "stance": "negative",
+        "summary": "Questioned why PennyWorks disclosed MainStreet data-transparency concerns only after Accountable's public termination, suggesting the delayed callout could look self-promotional.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2068778209504616453",
+          "https://x.com/0xGeeGee/status/2068778330778698064"
+        ]
       }
     ],
     "people_respected": [
@@ -646,7 +658,8 @@
       "Track whether the InfiniFi/STRC junior/senior rebalance becomes a broader GeeGee structured-credit framework or remains a one-conversation follow-up.",
       "Track whether GeeGee’s STRC/MSTR critique keeps moving from capital-structure analysis into broader skepticism of Strategy’s public risk metrics and marketing math.",
       "Watch whether GeeGee’s Strategy/STRC critique stays focused on structural risk or broadens into a durable critique of AI-productivity/financial-engineering marketing.",
-      "Track whether AccountableData/MainStreet becomes a repeated GeeGee verification/attestation-risk topic or remains a one-off negative reaction."
+      "Track whether AccountableData/MainStreet becomes a repeated GeeGee verification/attestation-risk topic or remains a one-off negative reaction.",
+      "Track whether GeeGee's MainStreet/verification-provider critique remains about specific disclosure incentives or broadens into a durable DeFi attestation-provider trust filter."
     ],
     "evidence_urls": [
       "https://x.com/0xGeeGee/status/2065771227743138126",
@@ -686,7 +699,9 @@
       "https://x.com/0xGeeGee/status/2068239263469015292",
       "https://x.com/0xGeeGee/status/2068215872531910754",
       "https://x.com/0xGeeGee/status/2068241198771253279",
-      "https://x.com/0xGeeGee/status/2068377614339682384"
+      "https://x.com/0xGeeGee/status/2068377614339682384",
+      "https://x.com/0xGeeGee/status/2068778209504616453",
+      "https://x.com/0xGeeGee/status/2068778330778698064"
     ]
   },
   {
@@ -868,9 +883,9 @@
   {
     "handle": "airtightfish",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-20",
-    "profile_updated_at": "2026-06-20T00:00:00Z",
-    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence adds a tokenomics/accounting-process edge: he pushed against raw FDV for MetaDAO ownership-coin valuation and pointed toward adjusted supply / mNAV treatment.",
+    "period_end": "2026-06-21",
+    "profile_updated_at": "2026-06-21T21:00:00Z",
+    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence adds a tokenomics/accounting-process edge: he pushed against raw FDV for MetaDAO ownership-coin valuation and pointed toward adjusted supply / mNAV treatment. June 21 ryanchern reply adds another ProofMarkets/product-design datapoint: prediction markets need novel products that restore useful information surfaces beyond current category mix.",
     "likes": [
       {
         "theme": "Crypto access to private companies",
@@ -882,7 +897,7 @@
       },
       {
         "theme": "ProofMarkets community/onboarding",
-        "summary": "Repeatedly promoted ProofMarkets, referenced manual waitlist review after bot/AI filtering, invited feedback/market ideas, and now uses live STRC/MSTR/BTC overhang discourse as an example of where conditional markets can clarify hard-to-price uncertainty.",
+        "summary": "Repeatedly promoted ProofMarkets, referenced manual waitlist review after bot/AI filtering, invited feedback/market ideas, and now uses live STRC/MSTR/BTC overhang discourse as an example of where conditional markets can clarify hard-to-price uncertainty. Latest ryanchern reply says they will try to fix prediction-market nihilism caused by useful politics/economics volume collapsing below 6%.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2064390683440341286",
           "https://x.com/airtightfish/status/2064743264691875927",
@@ -890,7 +905,8 @@
           "https://x.com/airtightfish/status/2063036560791007584",
           "https://x.com/airtightfish/status/2067716891943096714",
           "https://x.com/airtightfish/status/2067715921859240042",
-          "https://x.com/airtightfish/status/2068099380775665928"
+          "https://x.com/airtightfish/status/2068099380775665928",
+          "https://x.com/airtightfish/status/2068759628364550360"
         ],
         "confidence": "high"
       },
@@ -982,7 +998,7 @@
         "name": "ProofMarkets",
         "handle": "ProofMarkets",
         "stance": "positive",
-        "summary": "Repeated operating/project evidence: waitlist filtering, contest launch, manual onboarding, product-design replies around conditional futures/non-gambling markets, and a fresh BTC/STRC conditional-market example tied to the Saylor/MicroStrategy overhang.",
+        "summary": "Repeated operating/project evidence: waitlist filtering, contest launch, manual onboarding, product-design replies around conditional futures/non-gambling markets, and a fresh BTC/STRC conditional-market example tied to the Saylor/MicroStrategy overhang. June 21 reply framed ProofMarkets/product work as a response to prediction-market nihilism and declining useful category volume.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2064390683440341286",
           "https://x.com/airtightfish/status/2064743264691875927",
@@ -993,7 +1009,8 @@
           "https://x.com/airtightfish/status/2067454830419861603",
           "https://x.com/airtightfish/status/2067715693278114221",
           "https://x.com/airtightfish/status/2067716891943096714",
-          "https://x.com/airtightfish/status/2068099380775665928"
+          "https://x.com/airtightfish/status/2068099380775665928",
+          "https://x.com/airtightfish/status/2068759628364550360"
         ]
       },
       {
@@ -1088,7 +1105,8 @@
       "Clarify whether decentralized AI is becoming an airtightfish theme or was just a one-thread reply.",
       "Track whether airtightfish continues discussing token launch timing / points-program design beyond the nftboi_/umia_finance PMF thread.",
       "Track whether ProofMarkets conditional futures/non-gambling market design becomes a repeated public product theme or remains one ryanchern thread.",
-      "Track whether ProofMarkets conditional markets become a repeated public response to major CT uncertainty events beyond STRC/MSTR."
+      "Track whether ProofMarkets conditional markets become a repeated public response to major CT uncertainty events beyond STRC/MSTR.",
+      "Track whether ProofMarkets product work explicitly targets non-gambling/politics-economics category revival beyond current challenge/test markets."
     ],
     "evidence_urls": [
       "https://x.com/airtightfish/status/2065567457536831796",
@@ -1111,7 +1129,8 @@
       "https://x.com/airtightfish/status/2067716891943096714",
       "https://x.com/airtightfish/status/2068099380775665928",
       "https://x.com/airtightfish/status/2068016988975145285",
-      "https://x.com/airtightfish/status/2068003676124258651"
+      "https://x.com/airtightfish/status/2068003676124258651",
+      "https://x.com/airtightfish/status/2068759628364550360"
     ]
   },
   {

@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-06-21",
-  "profile_updated_at": "2026-06-21T00:00:00Z",
+  "profile_updated_at": "2026-06-21T21:00:00Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -347,14 +347,16 @@
         "AccountableData",
         "MainStreet verification"
       ],
-      "summary": "GeeGee thread framed RWA/tokenized equities as a watchable lane: MORPHO for open credit/yield-bearing assets, Backpack/BP for tokenized brokerage on Solana, Securitize/CEPT as reverse-merger context, and Variational adding RWA markets. Follow-up replies added a negative quality read on RAIN/Enlivex while allowing equity may still have value, plus a fresh possible PLUME addition based on GRVT/Bybit distribution/integration momentum. New AustinBarack quote tied Coinbase's tokenized-stock push to the leading Base spot exchange expanding into tokenized stocks, FX, and Ethereum mainnet, reinforcing AERO/Base as the venue angle. AustinBarack followed up AERO again later June 16, saying price action suggests investors are moving from skepticism/unawareness toward accepting the growth opportunity. Latest GeeGee quote adds a negative attestation/verification-provider example: AccountableData terminated MainStreet over failed verification standards, and GeeGee treated Accountable itself as a credibility problem. Keep this close to source and negative/analytical rather than a broad RWA-sector conclusion.",
+      "summary": "GeeGee thread framed RWA/tokenized equities as a watchable lane: MORPHO for open credit/yield-bearing assets, Backpack/BP for tokenized brokerage on Solana, Securitize/CEPT as reverse-merger context, and Variational adding RWA markets. Follow-up replies added a negative quality read on RAIN/Enlivex while allowing equity may still have value, plus a fresh possible PLUME addition based on GRVT/Bybit distribution/integration momentum. New AustinBarack quote tied Coinbase's tokenized-stock push to the leading Base spot exchange expanding into tokenized stocks, FX, and Ethereum mainnet, reinforcing AERO/Base as the venue angle. AustinBarack followed up AERO again later June 16, saying price action suggests investors are moving from skepticism/unawareness toward accepting the growth opportunity. Latest GeeGee quote adds a negative attestation/verification-provider example: AccountableData terminated MainStreet over failed verification standards, and GeeGee treated Accountable itself as a credibility problem. Keep this close to source and negative/analytical rather than a broad RWA-sector conclusion. June 21 GeeGee replies keep the MainStreet/verification thread active, now questioning PennyWorks' timing and incentives for disclosing prior MainStreet data-transparency concerns after the controversy was public.",
       "evidence_urls": [
         "https://x.com/0xGeeGee/status/2066111310916694078",
         "https://x.com/0xGeeGee/status/2066374450292183385",
         "https://x.com/0xGeeGee/status/2066449564631286159",
         "https://x.com/AustinBarack/status/2066907328352281006",
         "https://x.com/AustinBarack/status/2066990363844247802",
-        "https://x.com/0xGeeGee/status/2068377614339682384"
+        "https://x.com/0xGeeGee/status/2068377614339682384",
+        "https://x.com/0xGeeGee/status/2068778209504616453",
+        "https://x.com/0xGeeGee/status/2068778330778698064"
       ],
       "momentum": "emerging",
       "confidence": "medium"
@@ -567,12 +569,13 @@
         "Axiom fees",
         "STRC/BTC conditional markets"
       ],
-      "summary": "airtightfish’s latest ryanchern-thread replies frame ProofMarkets/prediction markets around better listings, conditional futures, and non-gambling-market primitives. GeeGee’s separate Axiom-fee critique remains a negative fee/UX counterpoint, so keep this as a light product-design bucket rather than consensus. New airtightfish example applies the same design lens to STRC/MSTR/BTC overhang pricing, arguing conditional markets can clarify hard-to-price uncertainty and provide exposure.",
+      "summary": "airtightfish’s latest ryanchern-thread replies frame ProofMarkets/prediction markets around better listings, conditional futures, and non-gambling-market primitives. GeeGee’s separate Axiom-fee critique remains a negative fee/UX counterpoint, so keep this as a light product-design bucket rather than consensus. New airtightfish example applies the same design lens to STRC/MSTR/BTC overhang pricing, arguing conditional markets can clarify hard-to-price uncertainty and provide exposure. June 21 airtightfish/ryanchern reply adds category-mix evidence: he says ProofMarkets will try to address prediction-market nihilism caused by politics/economics dropping from >90% to <6% of volume.",
       "evidence_urls": [
         "https://x.com/airtightfish/status/2067716891943096714",
         "https://x.com/airtightfish/status/2067715921859240042",
         "https://x.com/0xGeeGee/status/2067056795991015531",
-        "https://x.com/airtightfish/status/2068099380775665928"
+        "https://x.com/airtightfish/status/2068099380775665928",
+        "https://x.com/airtightfish/status/2068759628364550360"
       ],
       "momentum": "emerging",
       "confidence": "medium"
@@ -660,6 +663,8 @@
     "Track whether GeeGee’s Strategy/STRC discourse keeps expanding from capital-structure risk into broader marketing-math and AI-productivity/financial-engineering skepticism.",
     "Track whether AccountableData/MainStreet verification-risk discourse recurs across GeeGee or other Tier 1 accounts, or remains a one-day RWA/attestation trust flare-up.",
     "Track whether GeeGee's Dark Bloom/EigenCloud grift-risk caution recurs or was only a one-reply qualifier to his prior AI-infra watchlist.",
-    "Track whether Midjourney-scanner / AI-demo credibility skepticism recurs across GeeGee or remains a one-off reply-level diligence note."
+    "Track whether Midjourney-scanner / AI-demo credibility skepticism recurs across GeeGee or remains a one-off reply-level diligence note.",
+    "Track whether ProofMarkets responds to prediction-market nihilism with concrete non-gambling/politics-economics product launches rather than only commentary.",
+    "Track whether PennyWorks/MainStreet verification discourse recurs across GeeGee or stays a single delayed-disclosure/timing critique."
   ]
 }

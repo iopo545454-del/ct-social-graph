@@ -1,5 +1,56 @@
 [
   {
+    "date": "2026-06-21",
+    "handle": "0xGeeGee",
+    "type": "reply/verification_provider_self_marketing_critique",
+    "url": "https://x.com/0xGeeGee/status/2068778330778698064",
+    "summary": "Followed up in the PennyWorks/MainStreet disclosure thread that delayed public criticism made it look like 'self patting,' keeping the focus on incentives and timing around transparency claims.",
+    "entities": [
+      "MainStreet",
+      "PennyWorks",
+      "verification standards",
+      "DeFi transparency",
+      "self-marketing"
+    ],
+    "why_logged": "Short but useful second data point in the same thread; keep attached to the verification-provider/timing critique rather than as a standalone narrative.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-21",
+    "handle": "0xGeeGee",
+    "type": "reply/verification_provider_timing_critique",
+    "url": "https://x.com/0xGeeGee/status/2068778209504616453",
+    "summary": "In the Accountable/MainStreet verification fallout, pressed PennyWorks/Marc on why they disclosed their MainStreet rejection only after the controversy became public, asking whether earlier disclosure was blocked by NDA and what the purpose of calling it out now was.",
+    "entities": [
+      "MainStreet",
+      "AccountableData",
+      "PennyWorks",
+      "mhomsyy",
+      "verification standards",
+      "NAV transparency",
+      "DeFi credit"
+    ],
+    "why_logged": "Extends GeeGee's DeFi/RWA attestation-risk filter from Accountable criticism into skepticism toward delayed disclosure and verification-firm self-marketing.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-21",
+    "handle": "airtightfish",
+    "type": "reply/prediction_market_product_design",
+    "url": "https://x.com/airtightfish/status/2068759628364550360",
+    "summary": "Replied to ryanchern's prediction-market nihilism chart—politics/economics falling from >90% to <6% of volume—and said 'We are going to try to change this,' reinforcing ProofMarkets' focus on useful/non-gambling products and novel information surfaces.",
+    "entities": [
+      "ProofMarkets",
+      "prediction markets",
+      "politics/economics market share",
+      "novel products",
+      "information surfaces",
+      "ryanchern"
+    ],
+    "why_logged": "Adds fresh source-close ProofMarkets/product-design evidence from airtightfish tied to a concrete market-volume/category critique.",
+    "confidence": "medium"
+  },
+  {
     "date": "2026-06-20",
     "handle": "0xGeeGee",
     "type": "reply/ai_product_due_diligence",

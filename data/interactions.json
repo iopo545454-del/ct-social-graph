@@ -1,6 +1,39 @@
 [
   {
     "from": "0xGeeGee",
+    "to": "mhomsyy",
+    "to_kind": "individual",
+    "type": "reply/verification_disclosure_timing_critique",
+    "date": "2026-06-21",
+    "url": "https://x.com/0xGeeGee/status/2068778330778698064",
+    "summary": "Followed up to Marc/PennyWorks that the delayed MainStreet callout looked like self-congratulation, extending GeeGee's verification-provider incentive critique.",
+    "quality": "medium",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "PennyWorks",
+    "to_kind": "project",
+    "type": "reply/verification_disclosure_timing_critique",
+    "date": "2026-06-21",
+    "url": "https://x.com/0xGeeGee/status/2068778209504616453",
+    "summary": "Pressed PennyWorks/Marc on why MainStreet transparency concerns were disclosed only after Accountable's public termination, questioning timing, possible NDA constraints, and whether the disclosure was mostly self-promotional.",
+    "quality": "medium",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "airtightfish",
+    "to": "ryanchern",
+    "to_kind": "individual",
+    "type": "reply/prediction_market_product_design",
+    "date": "2026-06-21",
+    "url": "https://x.com/airtightfish/status/2068759628364550360",
+    "summary": "Responded to ryanchern's prediction-market nihilism/chart showing politics+economics falling below 6% of volume, saying ProofMarkets will try to change this via more useful novel products/information surfaces.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "0xGeeGee",
     "to": "Marczeller",
     "to_kind": "individual",
     "type": "reply/ai_product_due_diligence",
