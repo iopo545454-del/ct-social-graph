@@ -1,6 +1,17 @@
 [
   {
     "from": "0xGeeGee",
+    "to": "Evan_ss6",
+    "to_kind": "individual",
+    "type": "quote/mstr_btc_capital_structure",
+    "date": "2026-06-22",
+    "url": "https://x.com/0xGeeGee/status/2069096519790137365",
+    "summary": "Quoted Evan_ss6’s MSTR-common-holder question and used it to express the preferred spread outcome “MSTR down, BTC up,” adding another high-context Strategy/BTC-proxy capital-structure interaction.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "0xGeeGee",
     "to": "PennyWorks",
     "to_kind": "project",
     "type": "reply/verification_disclosure_timing_probe",

@@ -155,8 +155,8 @@
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
     "period_end": "2026-06-22",
-    "profile_updated_at": "2026-06-22T13:30:00Z",
-    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Latest evidence adds a public-equity AI-imaging proxy note via BFLY/Butterfly Network, while earlier June 19 evidence sharpened STRC/depeg risk and founder-governance filters; new June 20 quotes add STRC marketing/math and risk-metric skepticism. New late-June-20 evidence adds a negative verification-provider credibility read via AccountableData/MainStreet, adjacent to his broader DeFi/RWA attestation and structured-credit risk filters. Latest reply-level evidence adds two AI diligence qualifiers: caution that Dark Bloom/EigenCloud should avoid grifty narrative behavior, and skepticism/curiosity around a Midjourney-scanner claim framed through incentives and fundraising context. June 21 replies add an incentive/timing layer to the MainStreet/Accountable verification-risk thread: he questioned PennyWorks for disclosing prior MainStreet concerns only after the controversy was public and framed delayed disclosure as potentially self-promotional. June 22 quote-post evidence extends his prediction-market skepticism into marketing credibility: he linked a Polymarket paid-promoter/deceptive-video investigation to likely similar tactics in TCGs.",
+    "profile_updated_at": "2026-06-22T17:43:19Z",
+    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Latest evidence adds a public-equity AI-imaging proxy note via BFLY/Butterfly Network, while earlier June 19 evidence sharpened STRC/depeg risk and founder-governance filters; new June 20 quotes add STRC marketing/math and risk-metric skepticism. New late-June-20 evidence adds a negative verification-provider credibility read via AccountableData/MainStreet, adjacent to his broader DeFi/RWA attestation and structured-credit risk filters. Latest reply-level evidence adds two AI diligence qualifiers: caution that Dark Bloom/EigenCloud should avoid grifty narrative behavior, and skepticism/curiosity around a Midjourney-scanner claim framed through incentives and fundraising context. June 21 replies add an incentive/timing layer to the MainStreet/Accountable verification-risk thread: he questioned PennyWorks for disclosing prior MainStreet concerns only after the controversy was public and framed delayed disclosure as potentially self-promotional. June 22 quote-post evidence extends his prediction-market skepticism into marketing credibility: he linked a Polymarket paid-promoter/deceptive-video investigation to likely similar tactics in TCGs. Latest June 22 quote adds a direct MSTR/BTC spread expression: he framed “MSTR down, BTC up” as his best-case day after quoting a question about why MSTR holders should stay if Saylor sells common for cash.",
     "likes": [
       {
         "theme": "AI inference efficiency and optimization layers",
@@ -223,12 +223,13 @@
       },
       {
         "theme": "BTC proxy capital-structure / mNAV analysis",
-        "summary": "Translated MSTR/Saylor metrics into mNAV/capital-structure terms and emphasized seniority, dilution, and BTC outperformance needs after Strategy showed willingness to sell. June 20 evidence extends this into public STRC marketing/math, risk-metric skepticism, and a quip about AI productivity turning a $20 subscription into $2B.",
+        "summary": "Translated MSTR/Saylor metrics into mNAV/capital-structure terms and emphasized seniority, dilution, and BTC outperformance needs after Strategy showed willingness to sell. June 20 evidence extends this into public STRC marketing/math, risk-metric skepticism, and a quip about AI productivity turning a $20 subscription into $2B. Latest June 22 quote made the spread preference explicit: BTC up while MSTR common falls is treated as the favorable outcome, tied to concern that holders can mirror Saylor selling common for cash.",
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2066340434402832578",
           "https://x.com/0xGeeGee/status/2068239263469015292",
           "https://x.com/0xGeeGee/status/2068215872531910754",
-          "https://x.com/0xGeeGee/status/2068241198771253279"
+          "https://x.com/0xGeeGee/status/2068241198771253279",
+          "https://x.com/0xGeeGee/status/2069096519790137365"
         ],
         "confidence": "high"
       },
@@ -284,10 +285,11 @@
       },
       {
         "theme": "Capital-structure trades with explicit sizing changes",
-        "summary": "MSTR/BTC long-short evidence shows a capital-structure lens paired with sizing discipline: after prior mNAV analysis, he said he would likely cut 70% when metrics became less favorable to pressing the short/death-spiral view.",
+        "summary": "MSTR/BTC long-short evidence shows a capital-structure lens paired with sizing discipline: after prior mNAV analysis, he said he would likely cut 70% when metrics became less favorable to pressing the short/death-spiral view. New quote-post evidence keeps the trade lens active after earlier sizing cuts: he still highlights BTC-up/MSTR-down as the clean outcome.",
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2066340434402832578",
-          "https://x.com/0xGeeGee/status/2067659249295991266"
+          "https://x.com/0xGeeGee/status/2067659249295991266",
+          "https://x.com/0xGeeGee/status/2069096519790137365"
         ],
         "confidence": "medium"
       },

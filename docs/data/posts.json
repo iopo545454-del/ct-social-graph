@@ -2,6 +2,24 @@
   {
     "date": "2026-06-22",
     "handle": "0xGeeGee",
+    "type": "quote/mstr_btc_capital_structure",
+    "url": "https://x.com/0xGeeGee/status/2069096519790137365",
+    "summary": "Quoted Evan_ss6 asking why MSTR common holders would not sell if Saylor is consistently selling MSTR for cash, and said “These are my best days, mstr down btc up,” reinforcing GeeGee’s preference for the BTC-up/MSTR-down spread and his capital-structure skepticism around Strategy common equity.",
+    "entities": [
+      "MSTR / Strategy",
+      "BTC",
+      "Saylor",
+      "common equity",
+      "capital structure",
+      "BTC proxy trade",
+      "Evan_ss6"
+    ],
+    "why_logged": "Fresh source-close GeeGee evidence for the existing MSTR/BTC capital-structure bucket: it is more explicit spread/outcome commentary than generic price chatter.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-22",
+    "handle": "0xGeeGee",
     "type": "quote/prediction_market_marketing_credibility",
     "url": "https://x.com/0xGeeGee/status/2069006938843599007",
     "summary": "Quoted a WSJ/Neil Mehta Polymarket investigation about alleged paid/deceptive offshore promoter videos and added that similar tactics are likely happening with TCGs, extending his prediction-market skepticism from fee drag into marketing/incentive credibility.",
