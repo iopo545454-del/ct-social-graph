@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-06-22",
+    "handle": "0xGeeGee",
+    "type": "quote/prediction_market_marketing_credibility",
+    "url": "https://x.com/0xGeeGee/status/2069006938843599007",
+    "summary": "Quoted a WSJ/Neil Mehta Polymarket investigation about alleged paid/deceptive offshore promoter videos and added that similar tactics are likely happening with TCGs, extending his prediction-market skepticism from fee drag into marketing/incentive credibility.",
+    "entities": [
+      "Polymarket",
+      "WSJ",
+      "Neil Mehta",
+      "paid promoters",
+      "TCGs",
+      "prediction markets",
+      "marketing credibility"
+    ],
+    "why_logged": "Source-close evidence for a GeeGee prediction-market/adjacent-gambling credibility filter; terse post, so keep as light negative context rather than a broad thesis.",
+    "confidence": "medium"
+  },
+  {
     "date": "2026-06-21",
     "handle": "0xGeeGee",
     "type": "reply/verification_disclosure_timing_probe",

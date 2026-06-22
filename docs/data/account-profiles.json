@@ -154,9 +154,9 @@
   {
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-21",
-    "profile_updated_at": "2026-06-22T00:00:00Z",
-    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Latest evidence adds a public-equity AI-imaging proxy note via BFLY/Butterfly Network, while earlier June 19 evidence sharpened STRC/depeg risk and founder-governance filters; new June 20 quotes add STRC marketing/math and risk-metric skepticism. New late-June-20 evidence adds a negative verification-provider credibility read via AccountableData/MainStreet, adjacent to his broader DeFi/RWA attestation and structured-credit risk filters. Latest reply-level evidence adds two AI diligence qualifiers: caution that Dark Bloom/EigenCloud should avoid grifty narrative behavior, and skepticism/curiosity around a Midjourney-scanner claim framed through incentives and fundraising context. June 21 replies add an incentive/timing layer to the MainStreet/Accountable verification-risk thread: he questioned PennyWorks for disclosing prior MainStreet concerns only after the controversy was public and framed delayed disclosure as potentially self-promotional.",
+    "period_end": "2026-06-22",
+    "profile_updated_at": "2026-06-22T13:30:00Z",
+    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Latest evidence adds a public-equity AI-imaging proxy note via BFLY/Butterfly Network, while earlier June 19 evidence sharpened STRC/depeg risk and founder-governance filters; new June 20 quotes add STRC marketing/math and risk-metric skepticism. New late-June-20 evidence adds a negative verification-provider credibility read via AccountableData/MainStreet, adjacent to his broader DeFi/RWA attestation and structured-credit risk filters. Latest reply-level evidence adds two AI diligence qualifiers: caution that Dark Bloom/EigenCloud should avoid grifty narrative behavior, and skepticism/curiosity around a Midjourney-scanner claim framed through incentives and fundraising context. June 21 replies add an incentive/timing layer to the MainStreet/Accountable verification-risk thread: he questioned PennyWorks for disclosing prior MainStreet concerns only after the controversy was public and framed delayed disclosure as potentially self-promotional. June 22 quote-post evidence extends his prediction-market skepticism into marketing credibility: he linked a Polymarket paid-promoter/deceptive-video investigation to likely similar tactics in TCGs.",
     "likes": [
       {
         "theme": "AI inference efficiency and optimization layers",
@@ -374,9 +374,10 @@
       },
       {
         "theme": "Prediction-market fee drag / grifty PM UX",
-        "summary": "Called out Axiom's 3% service-fee math as worsening already-grifty prediction markets, emphasizing fee drag and EV structure over headline odds.",
+        "summary": "Called out Axiom's 3% service-fee math as worsening already-grifty prediction markets, emphasizing fee drag and EV structure over headline odds. June 22 quote added a marketing-credibility angle: after a WSJ Polymarket paid/deceptive promoter investigation, he said TCGs likely have similar incentive problems.",
         "evidence_urls": [
-          "https://x.com/0xGeeGee/status/2067056795991015531"
+          "https://x.com/0xGeeGee/status/2067056795991015531",
+          "https://x.com/0xGeeGee/status/2069006938843599007"
         ],
         "confidence": "medium"
       },
@@ -625,6 +626,15 @@
           "https://x.com/0xGeeGee/status/2068778209504616453",
           "https://x.com/0xGeeGee/status/2068778330778698064"
         ]
+      },
+      {
+        "name": "Polymarket",
+        "handle": null,
+        "stance": "negative",
+        "summary": "Mentioned through WSJ paid/deceptive promoter investigation; negative evidence is about marketing/incentive credibility rather than odds-market use.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2069006938843599007"
+        ]
       }
     ],
     "people_respected": [
@@ -661,7 +671,8 @@
       "Track whether GeeGee’s STRC/MSTR critique keeps moving from capital-structure analysis into broader skepticism of Strategy’s public risk metrics and marketing math.",
       "Watch whether GeeGee’s Strategy/STRC critique stays focused on structural risk or broadens into a durable critique of AI-productivity/financial-engineering marketing.",
       "Track whether AccountableData/MainStreet becomes a repeated GeeGee verification/attestation-risk topic or remains a one-off negative reaction.",
-      "Track whether GeeGee's MainStreet/verification-provider critique remains about specific disclosure incentives or broadens into a durable DeFi attestation-provider trust filter."
+      "Track whether GeeGee's MainStreet/verification-provider critique remains about specific disclosure incentives or broadens into a durable DeFi attestation-provider trust filter.",
+      "Track whether GeeGee’s Polymarket/TCG promoter skepticism becomes a broader critique of gambling-adjacent crypto marketing or remains a one-off WSJ-investigation quote."
     ],
     "evidence_urls": [
       "https://x.com/0xGeeGee/status/2065771227743138126",
@@ -704,7 +715,8 @@
       "https://x.com/0xGeeGee/status/2068377614339682384",
       "https://x.com/0xGeeGee/status/2068778209504616453",
       "https://x.com/0xGeeGee/status/2068778330778698064",
-      "https://x.com/0xGeeGee/status/2068773492342833345"
+      "https://x.com/0xGeeGee/status/2068773492342833345",
+      "https://x.com/0xGeeGee/status/2069006938843599007"
     ]
   },
   {
