@@ -458,5 +458,29 @@
     ],
     "first_seen": "2026-06-21",
     "confidence": "low"
+  },
+  {
+    "handle": "umia_finance",
+    "kind": "project",
+    "status": "candidate",
+    "source": "airtightfish ProofMarkets/SURGECAST quote",
+    "reason": "airtightfish singled out umia_finance as building something cool in a ProofMarkets-adjacent prediction/governance tradable-signals discussion. One promotional/ecosystem evidence point only, so keep candidate.",
+    "evidence_urls": [
+      "https://x.com/airtightfish/status/2069122628330086912"
+    ],
+    "first_seen": "2026-06-22",
+    "confidence": "low"
+  },
+  {
+    "handle": "pear_protocol",
+    "kind": "project",
+    "status": "candidate",
+    "source": "0xGeeGee PEAR-to-Hyperliquid migration reply",
+    "reason": "GeeGee was tagged on Pear Protocol’s migration announcement and gave a concrete fee-structure diligence note; useful negative/watchlist product evidence but not enough for Tier 2.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2069165089215656343"
+    ],
+    "first_seen": "2026-06-22",
+    "confidence": "low"
   }
 ]

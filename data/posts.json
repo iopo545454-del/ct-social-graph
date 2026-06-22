@@ -1,6 +1,41 @@
 [
   {
     "date": "2026-06-22",
+    "handle": "airtightfish",
+    "type": "quote/proofmarkets_umia_market_signals",
+    "url": "https://x.com/airtightfish/status/2069122628330086912",
+    "summary": "Quoted a Surgence SURGECAST announcement with ProofMarkets and umia_finance, saying he is especially excited because umia is building something cool and framing the conversation around markets, prediction/governance, and tradable signals.",
+    "entities": [
+      "ProofMarkets",
+      "umia_finance",
+      "Surgence / SURGECAST",
+      "prediction markets",
+      "governance markets",
+      "tradable signals"
+    ],
+    "why_logged": "Fresh source-close ProofMarkets ecosystem evidence from airtightfish; still promotional/podcast-adjacent, so keep as a light project/partner signal rather than a full thesis.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-22",
+    "handle": "0xGeeGee",
+    "type": "reply/pear_protocol_fee_diligence",
+    "url": "https://x.com/0xGeeGee/status/2069165089215656343",
+    "summary": "After being tagged on Pear Protocol’s PEAR-to-Hyperliquid migration announcement, said he would take a look but remembered Pear fees being roughly an order of magnitude higher than constructing the pair trade directly, while leaving room that the product may have changed.",
+    "entities": [
+      "Pear Protocol",
+      "PEAR",
+      "Hyperliquid",
+      "pair trading",
+      "fees",
+      "migration plays",
+      "trading apps"
+    ],
+    "why_logged": "Substantive reply-level diligence: GeeGee is not just reacting to a migration narrative, but checking product fee structure versus direct execution.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-22",
     "handle": "0xGeeGee",
     "type": "quote/mstr_btc_capital_structure",
     "url": "https://x.com/0xGeeGee/status/2069096519790137365",

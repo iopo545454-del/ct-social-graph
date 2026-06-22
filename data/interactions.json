@@ -1,5 +1,27 @@
 [
   {
+    "from": "airtightfish",
+    "to": "umia_finance",
+    "to_kind": "project",
+    "type": "quote/proofmarkets_umia_market_signals",
+    "date": "2026-06-22",
+    "url": "https://x.com/airtightfish/status/2069122628330086912",
+    "summary": "Promoted a SURGECAST with ProofMarkets and umia_finance, saying umia is building something cool in the prediction/governance-to-tradable-signals space. Useful partner/ecosystem signal but still podcast-promotional.",
+    "quality": "medium",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "pear_protocol",
+    "to_kind": "project",
+    "type": "reply/trading_app_fee_diligence",
+    "date": "2026-06-22",
+    "url": "https://x.com/0xGeeGee/status/2069165089215656343",
+    "summary": "Responded to Pear Protocol’s Hyperliquid migration announcement by saying he would re-check it, while flagging that earlier fees looked about an order of magnitude higher than doing the pair trade directly.",
+    "quality": "medium",
+    "created_tier2_candidate": true
+  },
+  {
     "from": "0xGeeGee",
     "to": "Evan_ss6",
     "to_kind": "individual",

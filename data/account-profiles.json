@@ -155,8 +155,8 @@
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
     "period_end": "2026-06-22",
-    "profile_updated_at": "2026-06-22T17:43:19Z",
-    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Latest evidence adds a public-equity AI-imaging proxy note via BFLY/Butterfly Network, while earlier June 19 evidence sharpened STRC/depeg risk and founder-governance filters; new June 20 quotes add STRC marketing/math and risk-metric skepticism. New late-June-20 evidence adds a negative verification-provider credibility read via AccountableData/MainStreet, adjacent to his broader DeFi/RWA attestation and structured-credit risk filters. Latest reply-level evidence adds two AI diligence qualifiers: caution that Dark Bloom/EigenCloud should avoid grifty narrative behavior, and skepticism/curiosity around a Midjourney-scanner claim framed through incentives and fundraising context. June 21 replies add an incentive/timing layer to the MainStreet/Accountable verification-risk thread: he questioned PennyWorks for disclosing prior MainStreet concerns only after the controversy was public and framed delayed disclosure as potentially self-promotional. June 22 quote-post evidence extends his prediction-market skepticism into marketing credibility: he linked a Polymarket paid-promoter/deceptive-video investigation to likely similar tactics in TCGs. Latest June 22 quote adds a direct MSTR/BTC spread expression: he framed “MSTR down, BTC up” as his best-case day after quoting a question about why MSTR holders should stay if Saylor sells common for cash.",
+    "profile_updated_at": "2026-06-22T21:56:05Z",
+    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Latest evidence adds a public-equity AI-imaging proxy note via BFLY/Butterfly Network, while earlier June 19 evidence sharpened STRC/depeg risk and founder-governance filters; new June 20 quotes add STRC marketing/math and risk-metric skepticism. New late-June-20 evidence adds a negative verification-provider credibility read via AccountableData/MainStreet, adjacent to his broader DeFi/RWA attestation and structured-credit risk filters. Latest reply-level evidence adds two AI diligence qualifiers: caution that Dark Bloom/EigenCloud should avoid grifty narrative behavior, and skepticism/curiosity around a Midjourney-scanner claim framed through incentives and fundraising context. June 21 replies add an incentive/timing layer to the MainStreet/Accountable verification-risk thread: he questioned PennyWorks for disclosing prior MainStreet concerns only after the controversy was public and framed delayed disclosure as potentially self-promotional. June 22 quote-post evidence extends his prediction-market skepticism into marketing credibility: he linked a Polymarket paid-promoter/deceptive-video investigation to likely similar tactics in TCGs. Latest June 22 quote adds a direct MSTR/BTC spread expression: he framed “MSTR down, BTC up” as his best-case day after quoting a question about why MSTR holders should stay if Saylor sells common for cash. Latest June 22 reply adds Pear Protocol/PEAR migration diligence: he is willing to re-check the Hyperliquid migration setup, but his first filter is fee drag versus constructing the pair trade directly.",
     "likes": [
       {
         "theme": "AI inference efficiency and optimization layers",
@@ -409,6 +409,14 @@
           "https://x.com/0xGeeGee/status/2068186616032624953"
         ],
         "confidence": "medium"
+      },
+      {
+        "theme": "Trading app fee drag and execution wrappers",
+        "summary": "Flagged Pear Protocol’s prior fees as roughly an order of magnitude higher than doing the pair trade directly, showing a practical filter against wrapper products when fees overwhelm execution convenience.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2069165089215656343"
+        ],
+        "confidence": "medium"
       }
     ],
     "projects_mentioned": [
@@ -637,6 +645,15 @@
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2069006938843599007"
         ]
+      },
+      {
+        "name": "Pear Protocol / PEAR",
+        "handle": "pear_protocol",
+        "stance": "watching/negative fee filter",
+        "summary": "Will re-check Pear’s PEAR-to-Hyperliquid migration, but remembered prior fees as much higher than self-constructing the pair trade.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2069165089215656343"
+        ]
       }
     ],
     "people_respected": [
@@ -718,7 +735,8 @@
       "https://x.com/0xGeeGee/status/2068778209504616453",
       "https://x.com/0xGeeGee/status/2068778330778698064",
       "https://x.com/0xGeeGee/status/2068773492342833345",
-      "https://x.com/0xGeeGee/status/2069006938843599007"
+      "https://x.com/0xGeeGee/status/2069006938843599007",
+      "https://x.com/0xGeeGee/status/2069165089215656343"
     ]
   },
   {
@@ -900,9 +918,9 @@
   {
     "handle": "airtightfish",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-21",
-    "profile_updated_at": "2026-06-21T21:00:00Z",
-    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence adds a tokenomics/accounting-process edge: he pushed against raw FDV for MetaDAO ownership-coin valuation and pointed toward adjusted supply / mNAV treatment. June 21 ryanchern reply adds another ProofMarkets/product-design datapoint: prediction markets need novel products that restore useful information surfaces beyond current category mix.",
+    "period_end": "2026-06-22",
+    "profile_updated_at": "2026-06-22T21:56:05Z",
+    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence adds a tokenomics/accounting-process edge: he pushed against raw FDV for MetaDAO ownership-coin valuation and pointed toward adjusted supply / mNAV treatment. June 21 ryanchern reply adds another ProofMarkets/product-design datapoint: prediction markets need novel products that restore useful information surfaces beyond current category mix. Latest June 22 quote adds a light ProofMarkets ecosystem/partner signal: he promoted a SURGECAST with umia_finance and framed the topic as prediction/governance decisions becoming tradable signals.",
     "likes": [
       {
         "theme": "Crypto access to private companies",
@@ -1015,7 +1033,7 @@
         "name": "ProofMarkets",
         "handle": "ProofMarkets",
         "stance": "positive",
-        "summary": "Repeated operating/project evidence: waitlist filtering, contest launch, manual onboarding, product-design replies around conditional futures/non-gambling markets, and a fresh BTC/STRC conditional-market example tied to the Saylor/MicroStrategy overhang. June 21 reply framed ProofMarkets/product work as a response to prediction-market nihilism and declining useful category volume.",
+        "summary": "Repeated operating/project evidence: waitlist filtering, contest launch, manual onboarding, product-design replies around conditional futures/non-gambling markets, and a fresh BTC/STRC conditional-market example tied to the Saylor/MicroStrategy overhang. June 21 reply framed ProofMarkets/product work as a response to prediction-market nihilism and declining useful category volume. New June 22 evidence promotes a SURGECAST with umia_finance around prediction/governance decisions as tradable signals.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2064390683440341286",
           "https://x.com/airtightfish/status/2064743264691875927",
@@ -1027,7 +1045,8 @@
           "https://x.com/airtightfish/status/2067715693278114221",
           "https://x.com/airtightfish/status/2067716891943096714",
           "https://x.com/airtightfish/status/2068099380775665928",
-          "https://x.com/airtightfish/status/2068759628364550360"
+          "https://x.com/airtightfish/status/2068759628364550360",
+          "https://x.com/airtightfish/status/2069122628330086912"
         ]
       },
       {
@@ -1083,6 +1102,15 @@
         "summary": "Engaged via valuation-method critique, not a directional endorsement: raw FDV looked wrong for ownership coins; adjusted supply/mNAV treatment mattered.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2068016988975145285"
+        ]
+      },
+      {
+        "name": "umia_finance",
+        "handle": "umia_finance",
+        "stance": "watching/positive",
+        "summary": "Called umia_finance “building something cool” in the context of a SURGECAST with ProofMarkets on prediction/governance as tradable signals. Promotional and early, so keep light.",
+        "evidence_urls": [
+          "https://x.com/airtightfish/status/2069122628330086912"
         ]
       }
     ],
@@ -1147,7 +1175,8 @@
       "https://x.com/airtightfish/status/2068099380775665928",
       "https://x.com/airtightfish/status/2068016988975145285",
       "https://x.com/airtightfish/status/2068003676124258651",
-      "https://x.com/airtightfish/status/2068759628364550360"
+      "https://x.com/airtightfish/status/2068759628364550360",
+      "https://x.com/airtightfish/status/2069122628330086912"
     ]
   },
   {

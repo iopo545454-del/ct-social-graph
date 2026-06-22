@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-06-22",
-  "profile_updated_at": "2026-06-22T17:43:19Z",
+  "profile_updated_at": "2026-06-22T21:56:05Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -165,9 +165,12 @@
         "conditional futures",
         "non-gambling markets",
         "STRC/BTC conditional markets",
-        "MetaDAO ownership coins valuation"
+        "MetaDAO ownership coins valuation",
+        "umia_finance",
+        "Pear Protocol / PEAR",
+        "PEAR-to-Hyperliquid migration"
       ],
-      "summary": "Observed posts show coin_casanova arguing for organic crypto options demand, CryptoTomYT highlighting Tradexyz performance context, airtightfish building/promoting ProofMarkets, and 0xGeeGee naming Variational as his favorite day-to-day short-term venue. These are separate infra/venue references rather than one unified thesis. New 2026-06-15 CryptoTomYT evidence added Legend Trade as another public perps/performance venue, but treat it as screenshot-led performance evidence rather than a full project thesis. New airtightfish evidence was operational rather than thesis-heavy: ProofMarkets access codes are going out and accepted applicants will be manually DM’d for feedback. AustinBarack added a Hyperliquid market-structure example: $1.5B SPCX traded in 24h, framed as 'perpification of everything'. MoneyPrinter0x added short-dated options/event-risk evidence around SOXL/SPCX into FOMC and a PURR/Hyperliquid ecosystem follow-up. New late-June-16/June-17 evidence added ProofMarkets conditional-pricing internal tests from airtightfish and a more explicit MoneyPrinter0x options-process note around high-delta, cheap-premium, event-invalidated structures. Latest airtightfish update says ProofMarkets' contest is live with manually reviewed applicants being onboarded June 18 ProofMarkets follow-up adds waitlist-decline/manual-onboarding status for the v0 Challenge. Latest airtightfish replies add product-design color for ProofMarkets: conditional futures/new primitives and non-gambling market listings, not just onboarding/contest operations. CryptoTomYT now has a second Legend Trade/public-performance update (+470% AUM in five weeks), but he also says he mostly no longer trades onchain and is currently more long-equities/short-crypto, so treat Legend as performance/venue evidence rather than a broad crypto-infra endorsement. Latest airtightfish/ProofMarkets evidence uses STRC/MSTR/BTC uncertainty as a concrete conditional-market case, with implied-probability pricing rather than only generic prediction-market discussion. Separate from ProofMarkets, airtightfish added a tokenomics/accounting-process reply on MetaDAO ownership coins: raw FDV may be the wrong denominator for mNAV-style valuation.",
+      "summary": "Observed posts show coin_casanova arguing for organic crypto options demand, CryptoTomYT highlighting Tradexyz performance context, airtightfish building/promoting ProofMarkets, and 0xGeeGee naming Variational as his favorite day-to-day short-term venue. These are separate infra/venue references rather than one unified thesis. New 2026-06-15 CryptoTomYT evidence added Legend Trade as another public perps/performance venue, but treat it as screenshot-led performance evidence rather than a full project thesis. New airtightfish evidence was operational rather than thesis-heavy: ProofMarkets access codes are going out and accepted applicants will be manually DM’d for feedback. AustinBarack added a Hyperliquid market-structure example: $1.5B SPCX traded in 24h, framed as 'perpification of everything'. MoneyPrinter0x added short-dated options/event-risk evidence around SOXL/SPCX into FOMC and a PURR/Hyperliquid ecosystem follow-up. New late-June-16/June-17 evidence added ProofMarkets conditional-pricing internal tests from airtightfish and a more explicit MoneyPrinter0x options-process note around high-delta, cheap-premium, event-invalidated structures. Latest airtightfish update says ProofMarkets' contest is live with manually reviewed applicants being onboarded June 18 ProofMarkets follow-up adds waitlist-decline/manual-onboarding status for the v0 Challenge. Latest airtightfish replies add product-design color for ProofMarkets: conditional futures/new primitives and non-gambling market listings, not just onboarding/contest operations. CryptoTomYT now has a second Legend Trade/public-performance update (+470% AUM in five weeks), but he also says he mostly no longer trades onchain and is currently more long-equities/short-crypto, so treat Legend as performance/venue evidence rather than a broad crypto-infra endorsement. Latest airtightfish/ProofMarkets evidence uses STRC/MSTR/BTC uncertainty as a concrete conditional-market case, with implied-probability pricing rather than only generic prediction-market discussion. Separate from ProofMarkets, airtightfish added a tokenomics/accounting-process reply on MetaDAO ownership coins: raw FDV may be the wrong denominator for mNAV-style valuation. Latest June 22 additions keep this bucket source-close: airtightfish promoted a ProofMarkets/umia_finance discussion about prediction/governance as tradable signals, while 0xGeeGee replied to Pear Protocol’s PEAR-to-Hyperliquid migration with a concrete fee-drag check versus self-constructed pair trades.",
       "evidence_urls": [
         "https://x.com/coin_casanova/status/2063848704499687605",
         "https://x.com/CryptoTomYT/status/2065238474907607090",
@@ -189,7 +192,9 @@
         "https://x.com/CryptoTomYT/status/2067867313660117014",
         "https://x.com/CryptoTomYT/status/2067868039526445438",
         "https://x.com/airtightfish/status/2068099380775665928",
-        "https://x.com/airtightfish/status/2068016988975145285"
+        "https://x.com/airtightfish/status/2068016988975145285",
+        "https://x.com/airtightfish/status/2069122628330086912",
+        "https://x.com/0xGeeGee/status/2069165089215656343"
       ],
       "momentum": "emerging",
       "confidence": "medium"
