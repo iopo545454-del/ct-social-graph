@@ -2,6 +2,23 @@
   {
     "date": "2026-06-21",
     "handle": "0xGeeGee",
+    "type": "reply/verification_disclosure_timing_probe",
+    "url": "https://x.com/0xGeeGee/status/2068773492342833345",
+    "summary": "In the MainStreet/PennyWorks disclosure thread, asked whether the prior rejection/concern was being disclosed publicly for the first time, setting up his later critique of delayed transparency and incentives.",
+    "entities": [
+      "MainStreet",
+      "PennyWorks",
+      "AccountableData",
+      "verification standards",
+      "disclosure timing",
+      "DeFi transparency"
+    ],
+    "why_logged": "Small but source-close link in the same verification-provider thread; captures the first timing probe before the longer June 21 follow-up already logged.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-21",
+    "handle": "0xGeeGee",
     "type": "reply/verification_provider_self_marketing_critique",
     "url": "https://x.com/0xGeeGee/status/2068778330778698064",
     "summary": "Followed up in the PennyWorks/MainStreet disclosure thread that delayed public criticism made it look like 'self patting,' keeping the focus on incentives and timing around transparency claims.",

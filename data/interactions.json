@@ -1,6 +1,17 @@
 [
   {
     "from": "0xGeeGee",
+    "to": "PennyWorks",
+    "to_kind": "project",
+    "type": "reply/verification_disclosure_timing_probe",
+    "date": "2026-06-21",
+    "url": "https://x.com/0xGeeGee/status/2068773492342833345",
+    "summary": "Asked whether PennyWorks' prior MainStreet rejection/concern was being disclosed publicly for the first time, a concise timing probe that led into the longer delayed-disclosure critique.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "0xGeeGee",
     "to": "mhomsyy",
     "to_kind": "individual",
     "type": "reply/verification_disclosure_timing_critique",

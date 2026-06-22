@@ -155,7 +155,7 @@
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
     "period_end": "2026-06-21",
-    "profile_updated_at": "2026-06-21T21:00:00Z",
+    "profile_updated_at": "2026-06-22T00:00:00Z",
     "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Latest evidence adds a public-equity AI-imaging proxy note via BFLY/Butterfly Network, while earlier June 19 evidence sharpened STRC/depeg risk and founder-governance filters; new June 20 quotes add STRC marketing/math and risk-metric skepticism. New late-June-20 evidence adds a negative verification-provider credibility read via AccountableData/MainStreet, adjacent to his broader DeFi/RWA attestation and structured-credit risk filters. Latest reply-level evidence adds two AI diligence qualifiers: caution that Dark Bloom/EigenCloud should avoid grifty narrative behavior, and skepticism/curiosity around a Midjourney-scanner claim framed through incentives and fundraising context. June 21 replies add an incentive/timing layer to the MainStreet/Accountable verification-risk thread: he questioned PennyWorks for disclosing prior MainStreet concerns only after the controversy was public and framed delayed disclosure as potentially self-promotional.",
     "likes": [
       {
@@ -390,9 +390,10 @@
       },
       {
         "theme": "Weak verification-provider / attestation credibility",
-        "summary": "Called Accountable a joke of a company after its MainStreet service termination over failed verification standards, implying skepticism toward financial-verification providers whose attestations markets rely on. June 21 follow-up extended the critique to PennyWorks' delayed MainStreet disclosure, questioning whether the timing looked like industry-standard advocacy or self-patting marketing.",
+        "summary": "Called Accountable a joke of a company after its MainStreet service termination over failed verification standards, implying skepticism toward financial-verification providers whose attestations markets rely on. June 21 follow-up, including a first-time disclosure probe, extended the critique to PennyWorks' delayed MainStreet disclosure, questioning whether the timing looked like industry-standard advocacy or self-patting marketing.",
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2068377614339682384",
+          "https://x.com/0xGeeGee/status/2068773492342833345",
           "https://x.com/0xGeeGee/status/2068778209504616453",
           "https://x.com/0xGeeGee/status/2068778330778698064"
         ],
@@ -618,8 +619,9 @@
         "name": "PennyWorks / MainStreet verification thread",
         "handle": "PennyWorks",
         "stance": "negative",
-        "summary": "Questioned why PennyWorks disclosed MainStreet data-transparency concerns only after Accountable's public termination, suggesting the delayed callout could look self-promotional.",
+        "summary": "Questioned whether PennyWorks was making a first-time disclosure and why it disclosed MainStreet data-transparency concerns only after Accountable's public termination, suggesting the delayed callout could look self-promotional.",
         "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2068773492342833345",
           "https://x.com/0xGeeGee/status/2068778209504616453",
           "https://x.com/0xGeeGee/status/2068778330778698064"
         ]
@@ -701,7 +703,8 @@
       "https://x.com/0xGeeGee/status/2068241198771253279",
       "https://x.com/0xGeeGee/status/2068377614339682384",
       "https://x.com/0xGeeGee/status/2068778209504616453",
-      "https://x.com/0xGeeGee/status/2068778330778698064"
+      "https://x.com/0xGeeGee/status/2068778330778698064",
+      "https://x.com/0xGeeGee/status/2068773492342833345"
     ]
   },
   {
