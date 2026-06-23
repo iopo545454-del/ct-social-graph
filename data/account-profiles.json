@@ -1093,7 +1093,8 @@
         ]
       },
       {
-        "project": "ProofMarkets",
+        "name": "ProofMarkets",
+        "handle": "ProofMarkets",
         "stance": "building/operating",
         "summary": "Latest update showed conditional pricing in internal tests while preparing a paper trading contest, with a follow-up on early market settlement.",
         "evidence_urls": [
