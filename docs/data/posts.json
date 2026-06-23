@@ -1,6 +1,44 @@
 [
   {
     "date": "2026-06-23",
+    "handle": "MoneyPrinter0x",
+    "type": "quote/ai_capital_markets_rotation",
+    "url": "https://x.com/MoneyPrinter0x/status/2069500973559800116",
+    "summary": "Quoted his earlier AI capital-markets rotation thesis: spend/attention moves from GPU capex into CPUs and memory for agentic AI, then vertically sliced integrations, and eventually physical AI supply chain around Apple robotics in 2027.",
+    "entities": [
+      "AI capex",
+      "CPUs",
+      "memory",
+      "agentic AI",
+      "vertical integrations",
+      "Apple robotics",
+      "physical AI supply chain",
+      "AI equities"
+    ],
+    "why_logged": "Fresh source-close update to MoneyPrinter0x's existing second-derivative AI-equity framework; it adds a staged rotation map rather than a generic bullish AI call.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-23",
+    "handle": "airtightfish",
+    "type": "reply/adjacent_index_listing_feedback",
+    "url": "https://x.com/i/status/2069522903314411586",
+    "summary": "In an Adjacent RED political-futures-index thread, said the index was sick, offered thoughts/chat, and noted ProofMarkets would want more volatility but would love to list something like this; Adjacent/0xperp replied that conditional indices are next.",
+    "entities": [
+      "Adjacent",
+      "RED Republican Political Future Index",
+      "ProofMarkets",
+      "conditional indices",
+      "political futures",
+      "prediction markets",
+      "market listings",
+      "volatility"
+    ],
+    "why_logged": "Substantive product-design/listing feedback from airtightfish: shows ProofMarkets interest in index-style political/event products if volatility and conditional structure fit.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-23",
     "handle": "CryptoTomYT",
     "type": "quote/trading_screen_time_intuition",
     "url": "https://x.com/CryptoTomYT/status/2069473889193779263",

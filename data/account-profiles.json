@@ -922,8 +922,8 @@
     "handle": "airtightfish",
     "period_start": "2026-05-14",
     "period_end": "2026-06-23",
-    "profile_updated_at": "2026-06-23T01:40:00Z",
-    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence adds a tokenomics/accounting-process edge: he pushed against raw FDV for MetaDAO ownership-coin valuation and pointed toward adjusted supply / mNAV treatment. June 21 ryanchern reply adds another ProofMarkets/product-design datapoint: prediction markets need novel products that restore useful information surfaces beyond current category mix. June 22 quote added a light ProofMarkets ecosystem/partner signal via umia_finance/SURGECAST. Latest June 23 quote strengthens the ProofMarkets product-design trail with an actual conditional-futures Challenge market: SOL conditional on BTC up/down, framed as evidence that conditional futures can support experimental listed market types beyond event markets.",
+    "profile_updated_at": "2026-06-23T21:30:00Z",
+    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence adds a tokenomics/accounting-process edge: he pushed against raw FDV for MetaDAO ownership-coin valuation and pointed toward adjusted supply / mNAV treatment. June 21 ryanchern reply adds another ProofMarkets/product-design datapoint: prediction markets need novel products that restore useful information surfaces beyond current category mix. June 22 quote added a light ProofMarkets ecosystem/partner signal via umia_finance/SURGECAST. Latest June 23 quote strengthens the ProofMarkets product-design trail with an actual conditional-futures Challenge market: SOL conditional on BTC up/down, framed as evidence that conditional futures can support experimental listed market types beyond event markets. Later June 23 replies add an Adjacent RED political-index feedback edge: he liked the index concept but wanted more volatility, saying ProofMarkets would love to list something like it as conditional indices develop.",
     "likes": [
       {
         "theme": "Crypto access to private companies",
@@ -978,12 +978,13 @@
       },
       {
         "theme": "Prediction-market product design beyond gambling",
-        "summary": "Prediction-market design evidence now spans non-gambling market/listing primitives, a live BTC/STRC conditional-market example, and a new ProofMarkets Challenge market trading SOL conditional on BTC up/down; he frames conditional futures as useful beyond discrete event markets.",
+        "summary": "Prediction-market design evidence now spans non-gambling market/listing primitives, a live BTC/STRC conditional-market example, and a new ProofMarkets Challenge market trading SOL conditional on BTC up/down; he frames conditional futures as useful beyond discrete event markets. Later June 23 replies add adjacent index-product evidence: he liked Adjacent's RED political-futures index but wanted more volatility before ProofMarkets-style listing.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2067716891943096714",
           "https://x.com/airtightfish/status/2067715921859240042",
           "https://x.com/airtightfish/status/2068099380775665928",
-          "https://x.com/airtightfish/status/2069228960613843148"
+          "https://x.com/airtightfish/status/2069228960613843148",
+          "https://x.com/i/status/2069522903314411586"
         ],
         "confidence": "medium"
       },
@@ -1144,6 +1145,14 @@
           "https://x.com/airtightfish/status/2068003676124258651"
         ],
         "confidence": "low"
+      },
+      {
+        "handle": "adjacent___",
+        "why": "Engaged Adjacent's RED political-futures-index launch with concrete ProofMarkets listing feedback; candidate/project edge only until repeated.",
+        "evidence_urls": [
+          "https://x.com/i/status/2069522903314411586"
+        ],
+        "confidence": "low"
       }
     ],
     "style": {
@@ -1185,7 +1194,8 @@
       "https://x.com/airtightfish/status/2068003676124258651",
       "https://x.com/airtightfish/status/2068759628364550360",
       "https://x.com/airtightfish/status/2069122628330086912",
-      "https://x.com/airtightfish/status/2069228960613843148"
+      "https://x.com/airtightfish/status/2069228960613843148",
+      "https://x.com/i/status/2069522903314411586"
     ]
   },
   {
@@ -1427,9 +1437,9 @@
   {
     "handle": "MoneyPrinter0x",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-20",
-    "profile_updated_at": "2026-06-20T12:06:22Z",
-    "taste_summary": "Observed X/Twitter evidence shows an event-driven trader mixing AI-equity rotations, short-dated options, macro/rate catalysts, strict invalidation/risk caps, and public post-trade review. New June 19 evidence adds a self-review of the MSTR/CRWV/POET short book after rotating from broad shorts into short-term bullish equities, while still treating BTC upside as capped until the STRC/MSTR overhang has a fix path.",
+    "period_end": "2026-06-23",
+    "profile_updated_at": "2026-06-23T21:30:00Z",
+    "taste_summary": "Observed X/Twitter evidence shows an event-driven trader mixing AI-equity rotations, short-dated options, macro/rate catalysts, strict invalidation/risk caps, and public post-trade review. New June 19 evidence adds a self-review of the MSTR/CRWV/POET short book after rotating from broad shorts into short-term bullish equities, while still treating BTC upside as capped until the STRC/MSTR overhang has a fix path. Latest June 23 quote refreshes his AI-equity rotation map: from GPU capex into CPU/memory for agentic AI, then vertical integrations, and eventually physical AI / Apple robotics supply chain.",
     "likes": [
       {
         "theme": "AI agent harnesses and deterministic quality gates",
@@ -1461,13 +1471,14 @@
       },
       {
         "theme": "AI-equity infrastructure baskets",
-        "summary": "Weekly watchlist emphasized neoclouds, indium phosphide/photonics, open-source-model beneficiaries, CPU/edge infrastructure, and follow-up additions like INTC/AMPG; June 16 follow-up said ARM, QCOM, neoclouds, and photonics were “looking very good” as forward-looking regime-change monitors. June 18 added a live AMPG $10 milestone inside the same AI-equity/multiday-book context, though this is price-action evidence rather than a fresh thesis.",
+        "summary": "Weekly watchlist emphasized neoclouds, indium phosphide/photonics, open-source-model beneficiaries, CPU/edge infrastructure, and follow-up additions like INTC/AMPG; June 16 follow-up said ARM, QCOM, neoclouds, and photonics were “looking very good” as forward-looking regime-change monitors. June 18 added a live AMPG $10 milestone inside the same AI-equity/multiday-book context, though this is price-action evidence rather than a fresh thesis. Latest June 23 quote restated the capital-markets rotation map from GPUs toward CPU/memory bottlenecks, vertical AI integrations, and later physical AI/Apple robotics supply-chain exposure.",
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2066030025942655219",
           "https://x.com/MoneyPrinter0x/status/2066030572896764191",
           "https://x.com/MoneyPrinter0x/status/2066043375472750643",
           "https://x.com/MoneyPrinter0x/status/2066861466645672020",
-          "https://x.com/MoneyPrinter0x/status/2067592240541921597"
+          "https://x.com/MoneyPrinter0x/status/2067592240541921597",
+          "https://x.com/MoneyPrinter0x/status/2069500973559800116"
         ],
         "confidence": "high"
       },
@@ -1913,7 +1924,8 @@
       "Track whether MoneyPrinter0x’s equity risk-on watchlist converts to actual positions or is just a post-short-cover watchlist.",
       "Track whether BTC remains structurally capped in his framing after STRC/MSTR overhang developments.",
       "Track whether MoneyPrinter0x publishes more post-trade reviews that make execution/hedging/research lessons a recurring profile layer.",
-      "Watch whether MoneyPrinter0x turns HYPE/NQ fractal comparisons into a repeated cross-market framework or it stays a one-off chart request."
+      "Watch whether MoneyPrinter0x turns HYPE/NQ fractal comparisons into a repeated cross-market framework or it stays a one-off chart request.",
+      "Track whether MoneyPrinter0x's AI rotation map keeps moving from chip bottlenecks into vertical applications and physical AI supply-chain names."
     ],
     "evidence_urls": [
       "https://x.com/MoneyPrinter0x/status/2065910048833102118",
@@ -1967,7 +1979,8 @@
       "https://x.com/MoneyPrinter0x/status/2067854231898587158",
       "https://x.com/MoneyPrinter0x/status/2067864876643721389",
       "https://x.com/MoneyPrinter0x/status/2067879268311503019",
-      "https://x.com/MoneyPrinter0x/status/2068277914454679787"
+      "https://x.com/MoneyPrinter0x/status/2068277914454679787",
+      "https://x.com/MoneyPrinter0x/status/2069500973559800116"
     ]
   },
   {

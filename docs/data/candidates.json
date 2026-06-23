@@ -495,5 +495,17 @@
     ],
     "first_seen": "2026-06-15",
     "confidence": "medium"
+  },
+  {
+    "handle": "adjacent___",
+    "kind": "project",
+    "status": "candidate",
+    "source": "airtightfish reply to RED political-futures-index launch",
+    "reason": "Airtightfish/ProofMarkets gave concrete listing feedback on Adjacent's RED event-index product and said he would love to list something like it if volatility/conditional structure fit; one high-context interaction only, so candidate not Tier 2.",
+    "evidence_urls": [
+      "https://x.com/i/status/2069522903314411586"
+    ],
+    "first_seen": "2026-06-23",
+    "confidence": "low"
   }
 ]
