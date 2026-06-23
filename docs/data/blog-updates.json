@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-23T10:14:31Z",
+  "last_checked": "2026-06-23T14:23:58Z",
   "new_count": 1,
   "sources": [
     {
@@ -63,7 +63,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-23T10:14:28Z"
+      "checked_at": "2026-06-23T14:23:53Z"
     },
     {
       "name": "Multicoin Capital",
@@ -138,7 +138,7 @@
           "published": "Thu, 11 Sep 2025 00:00:00 GMT"
         }
       ],
-      "checked_at": "2026-06-23T10:14:28Z"
+      "checked_at": "2026-06-23T14:23:55Z"
     },
     {
       "name": "Pantera Blockchain Letter",
@@ -203,7 +203,7 @@
           "published": "Thu, 29 May 2025 16:37:35 +0000"
         }
       ],
-      "checked_at": "2026-06-23T10:14:29Z"
+      "checked_at": "2026-06-23T14:23:56Z"
     },
     {
       "name": "Paradigm",
@@ -266,7 +266,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-23T10:14:29Z"
+      "checked_at": "2026-06-23T14:23:56Z"
     },
     {
       "name": "Glassnode Research",
@@ -280,6 +280,11 @@
         "https://research.glassnode.com/rss/"
       ],
       "items": [
+        {
+          "title": "Spot Orderbook Metrics Live on Glassnode",
+          "url": "https://research.glassnode.com/spot-orderbook-metrics",
+          "published": "Tue, 23 Jun 2026 13:42:49 GMT"
+        },
         {
           "title": "Introducing: Market Compass",
           "url": "https://research.glassnode.com/market-compass",
@@ -334,14 +339,9 @@
           "title": "The Altcoin Vector #58",
           "url": "https://research.glassnode.com/the-altcoin-vector-58",
           "published": "Thu, 11 Jun 2026 08:00:00 GMT"
-        },
-        {
-          "title": "Finding a Floor",
-          "url": "https://research.glassnode.com/the-week-onchain-week-23-2026",
-          "published": "Wed, 10 Jun 2026 17:06:26 GMT"
         }
       ],
-      "checked_at": "2026-06-23T10:14:29Z"
+      "checked_at": "2026-06-23T14:23:56Z"
     },
     {
       "name": "Delphi Digital",
@@ -359,7 +359,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-23T10:14:30Z"
+      "checked_at": "2026-06-23T14:23:57Z"
     },
     {
       "name": "Electric Capital",
@@ -371,7 +371,7 @@
       "error": null,
       "feed_urls": [],
       "items": [],
-      "checked_at": "2026-06-23T10:14:30Z"
+      "checked_at": "2026-06-23T14:23:57Z"
     },
     {
       "name": "Bankless",
@@ -444,7 +444,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-23T10:14:31Z"
+      "checked_at": "2026-06-23T14:23:58Z"
     },
     {
       "name": "Token Terminal",
@@ -517,7 +517,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-23T10:14:31Z"
+      "checked_at": "2026-06-23T14:23:58Z"
     }
   ],
   "articles": [
@@ -942,6 +942,16 @@
       "source_url": "https://www.paradigm.xyz/writing"
     },
     {
+      "id": "f0af45ef361c",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "Spot Orderbook Metrics Live on Glassnode",
+      "url": "https://research.glassnode.com/spot-orderbook-metrics",
+      "published": "Tue, 23 Jun 2026 13:42:49 GMT",
+      "first_seen": "2026-06-23T14:23:58Z",
+      "source_url": "https://research.glassnode.com/"
+    },
+    {
       "id": "6c0a87d4950c",
       "source": "Glassnode Research",
       "tier": 1,
@@ -1048,16 +1058,6 @@
       "title": "The Altcoin Vector #58",
       "url": "https://research.glassnode.com/the-altcoin-vector-58",
       "published": "Thu, 11 Jun 2026 08:00:00 GMT",
-      "first_seen": "2026-06-14T20:08:30Z",
-      "source_url": "https://research.glassnode.com/"
-    },
-    {
-      "id": "a788c8f1b4f4",
-      "source": "Glassnode Research",
-      "tier": 1,
-      "title": "Finding a Floor",
-      "url": "https://research.glassnode.com/the-week-onchain-week-23-2026",
-      "published": "Wed, 10 Jun 2026 17:06:26 GMT",
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://research.glassnode.com/"
     },
@@ -1310,6 +1310,16 @@
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "a788c8f1b4f4",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "Finding a Floor",
+      "url": "https://research.glassnode.com/the-week-onchain-week-23-2026",
+      "published": "Wed, 10 Jun 2026 17:06:26 GMT",
+      "first_seen": "2026-06-14T20:08:30Z",
+      "source_url": "https://research.glassnode.com/"
     },
     {
       "id": "7fd74825d0e5",
