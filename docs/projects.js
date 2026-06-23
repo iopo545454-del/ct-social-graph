@@ -1,6 +1,7 @@
-const v='20260614-blog-watch-v1';
+const v='20260623-project-atlas-schema-v2';
 const esc=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const idOf=p=>String(p.handle||p.name||'unknown').replace(/^@/,'');
+const projectName=p=>String(p.name||p.project||p.handle||'Unknown project').trim();
+const idOf=p=>String(p.handle||p.name||p.project||'unknown').replace(/^@/,'');
 const normUrl=u=>String(u||'').replace(/\?.*$/,'').replace(/\/$/,'');
 let profiles=[], posts=[], interactions=[], projects=[], mentionRows=[];
 let activeProjectKey=null;
@@ -28,14 +29,16 @@ function collect(){
     for(const p of (prof.projects_mentioned||[])){
       const key=idOf(p).toLowerCase();
       if(!key) continue;
-      const rec=map.get(key)||{id:idOf(p), key, name:p.name, handle:p.handle, mentions:[], stances:new Set(), evidence:new Set()};
+      const name=projectName(p);
+      const rec=map.get(key)||{id:idOf(p), key, name, handle:p.handle, mentions:[], stances:new Set(), evidence:new Set()};
+      rec.name=rec.name||name;
       rec.mentions.push({trader:prof.handle, stance:p.stance||'unclear', summary:p.summary||'', evidence_urls:p.evidence_urls||[]});
       rec.stances.add(p.stance||'unclear');
       (p.evidence_urls||[]).forEach(u=>{
         rec.evidence.add(u);
         rows.push({
           projectKey:key,
-          projectName:p.name || idOf(p),
+          projectName:name,
           projectHandle:p.handle,
           trader:prof.handle,
           stance:p.stance||'unclear',
@@ -47,7 +50,7 @@ function collect(){
       map.set(key,rec);
     }
   }
-  projects=[...map.values()].sort((a,b)=>b.mentions.length-a.mentions.length || b.evidence.size-a.evidence.size || a.name.localeCompare(b.name));
+  projects=[...map.values()].sort((a,b)=>b.mentions.length-a.mentions.length || b.evidence.size-a.evidence.size || String(a.name||a.id||'').localeCompare(String(b.name||b.id||'')));
   mentionRows=rows.sort((a,b)=>{
     const da=a.date==='undated'?'0000-00-00':a.date;
     const db=b.date==='undated'?'0000-00-00':b.date;
