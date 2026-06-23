@@ -1,4 +1,4 @@
-const v='20260623-project-atlas-schema-v2';
+const v='20260623-project-atlas-schema-v3';
 const esc=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const projectName=p=>String(p.name||p.project||p.handle||'Unknown project').trim();
 const idOf=p=>String(p.handle||p.name||p.project||'unknown').replace(/^@/,'');
