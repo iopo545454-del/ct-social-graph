@@ -2,9 +2,9 @@
   {
     "handle": "coin_casanova",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-17",
-    "profile_updated_at": "2026-06-17T02:20:00Z",
-    "taste_summary": "Observed X/Twitter evidence shows a short-horizon trader focused on low-float/FDV-style setups, hedging, rotation, options, and relative-value framing between crypto and equities. Interpretation confidence is medium because the scan found several original posts but few substantive replies.",
+    "period_end": "2026-06-23",
+    "profile_updated_at": "2026-06-23T06:08:36Z",
+    "taste_summary": "Observed X/Twitter evidence shows a short-horizon trader focused on low-float/FDV-style setups, hedging, rotation, options, and relative-value framing between crypto and equities. Interpretation confidence is medium because the scan found several original posts but few substantive replies. Latest June 23 reply adds a sector-rotation read: managed care and financials as likely rotations out of Magnificent 7/big-tech exposure while AI-buildout names behave differently.",
     "likes": [
       {
         "theme": "Low-float speculative setups with clear leaders",
@@ -38,9 +38,10 @@
       },
       {
         "theme": "Dashboard-driven sector/factor screening",
-        "summary": "Shared a Fable-generated dashboard for monitoring factors, sectors, and baskets, then used it to discuss Healthcare/XLV rotation and CI as a screened idea.",
+        "summary": "Shared a Fable-generated dashboard for monitoring factors, sectors, and baskets, then used it to discuss Healthcare/XLV rotation and CI as a screened idea. Latest reply added managed care and financials as likely rotation recipients out of MAGS/Magnificent 7 exposure.",
         "evidence_urls": [
-          "https://x.com/coin_casanova/status/2065996363503177739"
+          "https://x.com/coin_casanova/status/2065996363503177739",
+          "https://x.com/coin_casanova/status/2069224647313457249"
         ],
         "confidence": "medium"
       }
@@ -137,7 +138,8 @@
     },
     "open_questions": [
       "Need more reply/quote context to distinguish tactical shorts from fundamental dislikes.",
-      "SPCX reference needs follow-up once the IPO/trade context is clearer."
+      "SPCX reference needs follow-up once the IPO/trade context is clearer.",
+      "Track whether managed-care/financials rotation becomes a repeated coin_casanova equity theme or stays a one-reply macro note."
     ],
     "evidence_urls": [
       "https://x.com/coin_casanova/status/2065438838546477385",
@@ -148,7 +150,8 @@
       "https://x.com/coin_casanova/status/2065996363503177739",
       "https://x.com/coin_casanova/status/2065980497793318928",
       "https://x.com/coin_casanova/status/2066668048438952167",
-      "https://x.com/i/status/2066689100502163919"
+      "https://x.com/i/status/2066689100502163919",
+      "https://x.com/coin_casanova/status/2069224647313457249"
     ]
   },
   {

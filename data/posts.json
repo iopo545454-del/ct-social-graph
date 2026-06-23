@@ -1,6 +1,23 @@
 [
   {
     "date": "2026-06-23",
+    "handle": "coin_casanova",
+    "type": "reply/sector_rotation_macro",
+    "url": "https://x.com/coin_casanova/status/2069224647313457249",
+    "summary": "In reply context about Magnificent 7 weakness despite AI-buildout strength and a quiet managed-care/healthcare rally, said managed care and financials were likely rotations out of MAGS.",
+    "entities": [
+      "MAGS / Magnificent 7",
+      "managed care",
+      "healthcare",
+      "financials",
+      "sector rotation",
+      "AI buildout equities"
+    ],
+    "why_logged": "Fresh concise macro/process evidence for coin_casanova's factor/sector-rotation lens; not a project endorsement or price call.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-23",
     "handle": "airtightfish",
     "type": "quote/proofmarkets_conditional_futures_market",
     "url": "https://x.com/airtightfish/status/2069228960613843148",
