@@ -1,6 +1,17 @@
 [
   {
     "from": "airtightfish",
+    "to": "ProofMarkets",
+    "to_kind": "project",
+    "type": "quote/conditional_futures_market_listing",
+    "date": "2026-06-23",
+    "url": "https://x.com/airtightfish/status/2069228960613843148",
+    "summary": "Quoted ProofMarkets’ SOL-if-BTC-up/down Challenge market and framed conditional futures as broader than event markets, with room for experimentation in listed market types.",
+    "quality": "high",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "airtightfish",
     "to": "umia_finance",
     "to_kind": "project",
     "type": "quote/proofmarkets_umia_market_signals",

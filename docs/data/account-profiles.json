@@ -918,9 +918,9 @@
   {
     "handle": "airtightfish",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-22",
-    "profile_updated_at": "2026-06-22T21:56:05Z",
-    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence adds a tokenomics/accounting-process edge: he pushed against raw FDV for MetaDAO ownership-coin valuation and pointed toward adjusted supply / mNAV treatment. June 21 ryanchern reply adds another ProofMarkets/product-design datapoint: prediction markets need novel products that restore useful information surfaces beyond current category mix. Latest June 22 quote adds a light ProofMarkets ecosystem/partner signal: he promoted a SURGECAST with umia_finance and framed the topic as prediction/governance decisions becoming tradable signals.",
+    "period_end": "2026-06-23",
+    "profile_updated_at": "2026-06-23T01:40:00Z",
+    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence adds a tokenomics/accounting-process edge: he pushed against raw FDV for MetaDAO ownership-coin valuation and pointed toward adjusted supply / mNAV treatment. June 21 ryanchern reply adds another ProofMarkets/product-design datapoint: prediction markets need novel products that restore useful information surfaces beyond current category mix. June 22 quote added a light ProofMarkets ecosystem/partner signal via umia_finance/SURGECAST. Latest June 23 quote strengthens the ProofMarkets product-design trail with an actual conditional-futures Challenge market: SOL conditional on BTC up/down, framed as evidence that conditional futures can support experimental listed market types beyond event markets.",
     "likes": [
       {
         "theme": "Crypto access to private companies",
@@ -932,7 +932,7 @@
       },
       {
         "theme": "ProofMarkets community/onboarding",
-        "summary": "Repeatedly promoted ProofMarkets, referenced manual waitlist review after bot/AI filtering, invited feedback/market ideas, and now uses live STRC/MSTR/BTC overhang discourse as an example of where conditional markets can clarify hard-to-price uncertainty. Latest ryanchern reply says they will try to fix prediction-market nihilism caused by useful politics/economics volume collapsing below 6%.",
+        "summary": "Repeatedly promoted ProofMarkets, referenced manual waitlist review after bot/AI filtering, invited feedback/market ideas, and now uses live STRC/MSTR/BTC overhang plus a SOL-if-BTC-up/down Challenge market as examples of conditional futures/new listings. Latest evidence says conditional futures are not just for events and leave room for experimentation in new market types.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2064390683440341286",
           "https://x.com/airtightfish/status/2064743264691875927",
@@ -941,7 +941,8 @@
           "https://x.com/airtightfish/status/2067716891943096714",
           "https://x.com/airtightfish/status/2067715921859240042",
           "https://x.com/airtightfish/status/2068099380775665928",
-          "https://x.com/airtightfish/status/2068759628364550360"
+          "https://x.com/airtightfish/status/2068759628364550360",
+          "https://x.com/airtightfish/status/2069228960613843148"
         ],
         "confidence": "high"
       },
@@ -974,11 +975,12 @@
       },
       {
         "theme": "Prediction-market product design beyond gambling",
-        "summary": "Prediction-market design evidence now spans non-gambling market/listing primitives and a live BTC/STRC conditional-market example where conditional pricing is meant to clarify a hard-to-price information overhang.",
+        "summary": "Prediction-market design evidence now spans non-gambling market/listing primitives, a live BTC/STRC conditional-market example, and a new ProofMarkets Challenge market trading SOL conditional on BTC up/down; he frames conditional futures as useful beyond discrete event markets.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2067716891943096714",
           "https://x.com/airtightfish/status/2067715921859240042",
-          "https://x.com/airtightfish/status/2068099380775665928"
+          "https://x.com/airtightfish/status/2068099380775665928",
+          "https://x.com/airtightfish/status/2069228960613843148"
         ],
         "confidence": "medium"
       },
@@ -1033,7 +1035,7 @@
         "name": "ProofMarkets",
         "handle": "ProofMarkets",
         "stance": "positive",
-        "summary": "Repeated operating/project evidence: waitlist filtering, contest launch, manual onboarding, product-design replies around conditional futures/non-gambling markets, and a fresh BTC/STRC conditional-market example tied to the Saylor/MicroStrategy overhang. June 21 reply framed ProofMarkets/product work as a response to prediction-market nihilism and declining useful category volume. New June 22 evidence promotes a SURGECAST with umia_finance around prediction/governance decisions as tradable signals.",
+        "summary": "Repeated operating/project evidence: waitlist filtering, contest launch, manual onboarding, product-design replies around conditional futures/non-gambling markets, BTC/STRC conditional-market example, umia_finance/SURGECAST partner context, and now a SOL-if-BTC-up/down Challenge market framed as conditional-futures listing experimentation.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2064390683440341286",
           "https://x.com/airtightfish/status/2064743264691875927",
@@ -1046,7 +1048,8 @@
           "https://x.com/airtightfish/status/2067716891943096714",
           "https://x.com/airtightfish/status/2068099380775665928",
           "https://x.com/airtightfish/status/2068759628364550360",
-          "https://x.com/airtightfish/status/2069122628330086912"
+          "https://x.com/airtightfish/status/2069122628330086912",
+          "https://x.com/airtightfish/status/2069228960613843148"
         ]
       },
       {
@@ -1151,7 +1154,8 @@
       "Track whether airtightfish continues discussing token launch timing / points-program design beyond the nftboi_/umia_finance PMF thread.",
       "Track whether ProofMarkets conditional futures/non-gambling market design becomes a repeated public product theme or remains one ryanchern thread.",
       "Track whether ProofMarkets conditional markets become a repeated public response to major CT uncertainty events beyond STRC/MSTR.",
-      "Track whether ProofMarkets product work explicitly targets non-gambling/politics-economics category revival beyond current challenge/test markets."
+      "Track whether ProofMarkets product work explicitly targets non-gambling/politics-economics category revival beyond current challenge/test markets.",
+      "Track whether ProofMarkets conditional futures expand from challenge markets into durable public markets with non-event use cases."
     ],
     "evidence_urls": [
       "https://x.com/airtightfish/status/2065567457536831796",
@@ -1176,7 +1180,8 @@
       "https://x.com/airtightfish/status/2068016988975145285",
       "https://x.com/airtightfish/status/2068003676124258651",
       "https://x.com/airtightfish/status/2068759628364550360",
-      "https://x.com/airtightfish/status/2069122628330086912"
+      "https://x.com/airtightfish/status/2069122628330086912",
+      "https://x.com/airtightfish/status/2069228960613843148"
     ]
   },
   {

@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-06-23",
+    "handle": "airtightfish",
+    "type": "quote/proofmarkets_conditional_futures_market",
+    "url": "https://x.com/airtightfish/status/2069228960613843148",
+    "summary": "Quoted a ProofMarkets Challenge market for trading SOL conditional on BTC being up/down on the day, saying conditional futures are not just for events and there is room to experiment with new market types to list.",
+    "entities": [
+      "ProofMarkets",
+      "conditional futures",
+      "SOL",
+      "BTC",
+      "challenge markets",
+      "prediction markets",
+      "market listings"
+    ],
+    "why_logged": "Fresh source-close ProofMarkets product-design evidence: moves from commentary about conditional markets into an actual challenge-market/listing example.",
+    "confidence": "high"
+  },
+  {
     "date": "2026-06-22",
     "handle": "airtightfish",
     "type": "quote/proofmarkets_umia_market_signals",
