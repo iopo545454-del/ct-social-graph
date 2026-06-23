@@ -1,5 +1,16 @@
 [
   {
+    "from": "kelxyz_",
+    "to": "AlgodTrading",
+    "to_kind": "individual",
+    "type": "reply/sharded_inference_feasibility_diligence",
+    "date": "2026-06-23",
+    "url": "https://x.com/i/status/2069445079433936952",
+    "summary": "Engaged AlgodTrading's consumer-GPU inference-cost thread by asking how GLM 5.2-class sharded inference would work, where the claimed OpenRouter discounts come from, and whether 4090/A6000 clusters can perform well enough.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
     "from": "airtightfish",
     "to": "ProofMarkets",
     "to_kind": "project",

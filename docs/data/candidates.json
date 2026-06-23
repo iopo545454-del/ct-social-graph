@@ -482,5 +482,18 @@
     ],
     "first_seen": "2026-06-22",
     "confidence": "low"
+  },
+  {
+    "handle": "AlgodTrading",
+    "kind": "individual",
+    "status": "promoted_to_tier2",
+    "source": "kelxyz_ repeated compute-chain/inference-economics replies",
+    "reason": "Promoted after a second substantive kelxyz_ interaction: earlier compute-chain/datacenter-token launch valuation, then a June 23 technical sharded-inference / consumer-GPU cost-diligence thread.",
+    "evidence_urls": [
+      "https://x.com/kelxyz_/status/2066316917766291622",
+      "https://x.com/i/status/2069445079433936952"
+    ],
+    "first_seen": "2026-06-15",
+    "confidence": "medium"
   }
 ]

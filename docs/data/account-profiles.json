@@ -1211,9 +1211,9 @@
   {
     "handle": "CryptoTomYT",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-19",
-    "profile_updated_at": "2026-06-19T00:00:00Z",
-    "taste_summary": "Observed X/Twitter evidence is mostly trading-performance/social content, now with repeated public Legend Trade performance context and explicit style comments: mostly not trading onchain, more long equities / short crypto. Interpretation confidence remains medium-low because most non-performance replies are terse.",
+    "period_end": "2026-06-23",
+    "profile_updated_at": "2026-06-23T18:30:38Z",
+    "taste_summary": "Observed X/Twitter evidence is mostly trading-performance/social content, now with repeated public Legend Trade performance context and explicit style comments: mostly not trading onchain, more long equities / short crypto. Interpretation confidence remains medium-low because most non-performance replies are terse. Latest June 23 quote adds process color: he agrees with screen-time/pattern-recognition as the durable source of discretionary trading intuition.",
     "likes": [
       {
         "theme": "Transparent perps/trading performance",
@@ -1248,6 +1248,14 @@
           "https://x.com/CryptoTomYT/status/2067867313660117014",
           "https://x.com/CryptoTomYT/status/2067867864057745747",
           "https://x.com/CryptoTomYT/status/2067868039526445438"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "Screen-time-driven trading intuition",
+        "summary": "Endorsed a chartmagician1 post arguing thousands of hours of chart watching build pattern recognition and that copied signals/courses do not replace concentrated screen time.",
+        "evidence_urls": [
+          "https://x.com/CryptoTomYT/status/2069473889193779263"
         ],
         "confidence": "medium"
       }
@@ -1312,7 +1320,8 @@
       "https://x.com/CryptoTomYT/status/2066562689514774622",
       "https://x.com/CryptoTomYT/status/2067867313660117014",
       "https://x.com/CryptoTomYT/status/2067867864057745747",
-      "https://x.com/CryptoTomYT/status/2067868039526445438"
+      "https://x.com/CryptoTomYT/status/2067868039526445438",
+      "https://x.com/CryptoTomYT/status/2069473889193779263"
     ]
   },
   {
@@ -1963,9 +1972,9 @@
   {
     "handle": "kelxyz_",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-19",
-    "profile_updated_at": "2026-06-19T22:45:00Z",
-    "taste_summary": "Observed X/Twitter evidence is thesis-heavy around AI/crypto protocols, especially Pluralis, inference-market timing, decentralized/model-parallel training, alternative financing for inference/compute aggregation, and cautious evaluation of incentivized inference designs. New June 19 evidence says Nock is 'in the running' while explicitly noting no current design is fully convincing yet.",
+    "period_end": "2026-06-23",
+    "profile_updated_at": "2026-06-23T18:30:38Z",
+    "taste_summary": "Observed X/Twitter evidence is thesis-heavy around AI/crypto protocols, especially Pluralis, inference-market timing, decentralized/model-parallel training, alternative financing for inference/compute aggregation, and cautious evaluation of incentivized inference designs. New June 19 evidence says Nock is 'in the running' while explicitly noting no current design is fully convincing yet. Latest June 23 evidence adds two source-close filters: skepticism toward CA-in-bio coins, and technical due diligence on whether consumer-GPU/sharded inference can actually deliver GLM 5.2-class performance at claimed discounts.",
     "likes": [
       {
         "theme": "Pluralis and model-parallel decentralized training",
@@ -2023,6 +2032,14 @@
           "https://x.com/kelxyz_/status/2068083058306146524"
         ],
         "confidence": "medium"
+      },
+      {
+        "theme": "Inference-market technical diligence",
+        "summary": "Asked concrete feasibility questions about sharded inference, consumer-GPU clusters, and claimed OpenRouter discounts rather than accepting decentralized/permissionless inference economics at face value.",
+        "evidence_urls": [
+          "https://x.com/i/status/2069445079433936952"
+        ],
+        "confidence": "medium"
       }
     ],
     "dislikes": [
@@ -2039,6 +2056,14 @@
         "summary": "Underclass thesis criticized much of e-commerce as scam-front upcharged Chinese goods and favored physical retail authenticity/price in that frame.",
         "evidence_urls": [
           "https://x.com/kelxyz_/status/2064358765340557483"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "CA-in-bio token promotion",
+        "summary": "Said coins with contract addresses in bio have approximately zero medium-term hit rate, a concise negative filter for low-effort token promotion.",
+        "evidence_urls": [
+          "https://x.com/kelxyz_/status/2069445414302961694"
         ],
         "confidence": "medium"
       }
@@ -2101,6 +2126,15 @@
         "evidence_urls": [
           "https://x.com/kelxyz_/status/2064040097175974066"
         ]
+      },
+      {
+        "handle": "AlgodTrading",
+        "summary": "Repeated technical/economic counterparty for kelxyz_ on compute-chain launch valuation and consumer-GPU inference economics; promoted to Tier 2 after the June 23 sharded-inference thread.",
+        "evidence_urls": [
+          "https://x.com/kelxyz_/status/2066316917766291622",
+          "https://x.com/i/status/2069445079433936952"
+        ],
+        "confidence": "medium"
       }
     ],
     "style": {
@@ -2112,7 +2146,8 @@
       "Track whether Pluralis references continue beyond this cluster or were driven by a single conversation/news cycle.",
       "Need fuller source context for Permanent Underclass Index to map equities vs crypto relevance.",
       "Track whether kelxyz_'s ZEC/privacy-chain thesis recurs or was a one-day portfolio review after Mythos/formal-verification news.",
-      "Track whether Nock recurs in kelxyz_'s incentivized-inference/design filter or remains a one-off cautious mention."
+      "Track whether Nock recurs in kelxyz_'s incentivized-inference/design filter or remains a one-off cautious mention.",
+      "Track whether kelxyz_ continues probing consumer-GPU/sharded-inference economics after AlgodTrading/totheagi publish subnet benchmarks."
     ],
     "evidence_urls": [
       "https://x.com/kelxyz_/status/2065782384616780175",
@@ -2124,7 +2159,9 @@
       "https://x.com/kelxyz_/status/2066548579242500109",
       "https://x.com/kelxyz_/status/2067362394129543373",
       "https://x.com/kelxyz_/status/2068018630973849648",
-      "https://x.com/kelxyz_/status/2068083058306146524"
+      "https://x.com/kelxyz_/status/2068083058306146524",
+      "https://x.com/i/status/2069445079433936952",
+      "https://x.com/kelxyz_/status/2069445414302961694"
     ]
   }
 ]

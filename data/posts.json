@@ -1,6 +1,57 @@
 [
   {
     "date": "2026-06-23",
+    "handle": "CryptoTomYT",
+    "type": "quote/trading_screen_time_intuition",
+    "url": "https://x.com/CryptoTomYT/status/2069473889193779263",
+    "summary": "Quoted chartmagician1 on thousands of hours of chart screen time as the source of trading intuition and agreed, joking that he trades almost purely off 'balls tingling'.",
+    "entities": [
+      "chartmagician1",
+      "screen time",
+      "pattern recognition",
+      "trading intuition",
+      "discretionary trading"
+    ],
+    "why_logged": "Light but useful process evidence for CryptoTomYT: emphasizes experience/pattern recognition over copied signals or shortcuts.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-23",
+    "handle": "kelxyz_",
+    "type": "authored_post/contract_address_in_bio_filter",
+    "url": "https://x.com/kelxyz_/status/2069445414302961694",
+    "summary": "Said the medium-term hit rate of coins with contract addresses in bio is approximately zero, a concise negative filter for low-effort token promotion / CA-in-bio coins.",
+    "entities": [
+      "contract addresses in bio",
+      "memecoins",
+      "token promotion",
+      "due diligence filters"
+    ],
+    "why_logged": "Small but clear taste-map evidence for kelxyz_'s negative filters around low-quality token promotion; not a project-specific endorsement or fade.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-23",
+    "handle": "kelxyz_",
+    "type": "reply/consumer_gpu_inference_diligence",
+    "url": "https://x.com/i/status/2069445079433936952",
+    "summary": "In an AlgodTrading thread about consumer-GPU inference optimization, asked how a GLM 5.2-class model would run on a sharded inference platform, where 60-70% cost discounts versus OpenRouter would come from, and whether 4090/A6000 clusters would be too slow.",
+    "entities": [
+      "AlgodTrading",
+      "GLM 5.2",
+      "sharded inference",
+      "consumer GPU clusters",
+      "4090",
+      "A6000",
+      "OpenRouter",
+      "decentralized inference",
+      "Bittensor-style subnets"
+    ],
+    "why_logged": "Substantive technical diligence on the decentralized/permissionless inference thesis; useful because it is a specific feasibility/cost question rather than generic AI-token enthusiasm.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-23",
     "handle": "coin_casanova",
     "type": "reply/sector_rotation_macro",
     "url": "https://x.com/coin_casanova/status/2069224647313457249",
