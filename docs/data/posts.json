@@ -1,6 +1,73 @@
 [
   {
     "date": "2026-06-24",
+    "handle": "airtightfish",
+    "type": "authored_post/prestocks_kalshi_discount_liquidity",
+    "url": "https://x.com/airtightfish/status/2069880839849013449",
+    "summary": "Questioned why PreStocks priced Kalshi around a large discount to reported $40B fundraising talks, then followed up that he could not confidently exit and liquidity seemed to have disappeared despite liking the idea of products like this.",
+    "entities": [
+      "PreStocks",
+      "Kalshi",
+      "private-market secondaries",
+      "liquidity",
+      "valuation discount",
+      "execution risk"
+    ],
+    "why_logged": "Good source-close market-structure evidence for airtightfish: enthusiasm for prediction/secondary-market products combined with execution/liquidity criticism.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-24",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/hyperliquid_hype_long",
+    "url": "https://x.com/MoneyPrinter0x/status/2069923632147800265",
+    "summary": "Posted that he longed Hyperliquid/HYPE, adding another concise but direct Hyperliquid attention point after earlier HYPE/PURR chart and ecosystem mentions.",
+    "entities": [
+      "HYPE",
+      "Hyperliquid",
+      "long position"
+    ],
+    "why_logged": "Low-detail but useful because it corroborates repeated MoneyPrinter0x HYPE/Hyperliquid attention already present in the theme map.",
+    "confidence": "low"
+  },
+  {
+    "date": "2026-06-24",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/mu_earnings_options_trade",
+    "url": "https://x.com/MoneyPrinter0x/status/2069882831975932415",
+    "summary": "Flagged MU earnings with a chart of prior earnings reactions, said most of the play was in call options, then reacted to the Micron data-center revenue beat as a 'monster beat' while still holding calls into the next trading session.",
+    "entities": [
+      "MU",
+      "Micron",
+      "earnings",
+      "data-center revenue",
+      "call options",
+      "tradfi broker access",
+      "AI equities"
+    ],
+    "why_logged": "Useful MoneyPrinter0x process evidence: an event-driven AI-equity options setup with position expression and earnings-reaction context.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-24",
+    "handle": "AustinBarack",
+    "type": "reply/grass_tokenomics_value_accrual_defense",
+    "url": "https://x.com/AustinBarack/status/2069912129852019047",
+    "summary": "Pushed back on criticism that GRASS/Wynd tokenholders lack real value accrual, arguing GRASS has full ownership of IP, contracts, and revenue and that live-token protocols commonly raise substantial capital through token sales; positioned the July 7 holder call as the venue to clarify token economics.",
+    "entities": [
+      "GRASS",
+      "Wynd Labs",
+      "tokenholder value accrual",
+      "foundation ownership",
+      "IP/contracts/revenue",
+      "July 7 holder call",
+      "token sales"
+    ],
+    "why_logged": "High-signal AustinBarack project thesis evidence: direct tokenomics/value-accrual defense of an already tracked AI/data project, not generic bullishness.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-24",
     "handle": "MoneyPrinter0x",
     "type": "reply/post_trade_review_mstr_crwv_poet",
     "url": "https://x.com/MoneyPrinter0x/status/2069857449310622194",

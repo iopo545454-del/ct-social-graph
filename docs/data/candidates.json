@@ -1,15 +1,29 @@
 [
   {
-    "handle": "0xCryptoSam",
-    "kind": "individual",
+    "handle": "PreStocks",
+    "kind": "project",
     "status": "candidate",
-    "source": "airtightfish reply to GRASS tokenomics critique",
-    "reason": "Airtightfish engaged Sam's GRASS/Wynd value-accrual critique with a substantive conditional-futures/product-design response; one high-context edge only, so keep as candidate.",
+    "source": "airtightfish Kalshi private-market discount/liquidity post",
+    "reason": "airtightfish used PreStocks pricing to question the gap between Kalshi secondary-market valuation and reported fundraising valuation, then criticized the liquidity/execution; one market-structure evidence point only.",
     "evidence_urls": [
-      "https://x.com/airtightfish/status/2069782439862432083"
+      "https://x.com/airtightfish/status/2069880839849013449",
+      "https://x.com/airtightfish/status/2069923483262345313"
     ],
     "first_seen": "2026-06-24",
     "confidence": "low"
+  },
+  {
+    "handle": "0xCryptoSam",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "airtightfish and AustinBarack replies in GRASS tokenomics critique thread",
+    "reason": "Now engaged by both airtightfish and AustinBarack around GRASS/Wynd value-accrual/tokenomics arguments; still a candidate rather than Tier 2 because evidence is concentrated in one debate thread.",
+    "evidence_urls": [
+      "https://x.com/airtightfish/status/2069782439862432083",
+      "https://x.com/AustinBarack/status/2069912129852019047"
+    ],
+    "first_seen": "2026-06-24",
+    "confidence": "medium"
   },
   {
     "handle": "avax",
