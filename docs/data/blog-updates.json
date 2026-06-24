@@ -1,6 +1,6 @@
 {
-  "last_checked": "2026-06-24T19:32:54Z",
-  "new_count": 2,
+  "last_checked": "2026-06-24T23:39:40Z",
+  "new_count": 1,
   "sources": [
     {
       "name": "a16z crypto",
@@ -63,7 +63,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-24T19:32:50Z"
+      "checked_at": "2026-06-24T23:39:37Z"
     },
     {
       "name": "Multicoin Capital",
@@ -138,7 +138,7 @@
           "published": "Thu, 11 Sep 2025 00:00:00 GMT"
         }
       ],
-      "checked_at": "2026-06-24T19:32:51Z"
+      "checked_at": "2026-06-24T23:39:37Z"
     },
     {
       "name": "Pantera Blockchain Letter",
@@ -203,7 +203,7 @@
           "published": "Thu, 29 May 2025 16:37:35 +0000"
         }
       ],
-      "checked_at": "2026-06-24T19:32:52Z"
+      "checked_at": "2026-06-24T23:39:38Z"
     },
     {
       "name": "Paradigm",
@@ -223,6 +223,11 @@
         {
           "title": "Paradigm Predictions is a tool for exploring the landscape of prediction markets. We aim to make prediction market data intuitive, accessibl",
           "url": "https://www.paradigm.xyz/2026/02/introducing-paradigm-predictions",
+          "published": null
+        },
+        {
+          "title": "Paradigm Backs Kalshi in Latest Prediction Market Challenge",
+          "url": "https://www.paradigm.xyz/2026/06/paradigm-backs-kalshi-in-latest-prediction-market-challenge",
           "published": null
         },
         {
@@ -259,14 +264,9 @@
           "title": "PACTs: Protecting Your Bitcoin From a Quantum Sunset",
           "url": "https://www.paradigm.xyz/2026/05/pacts-protecting-your-bitcoin-from-a-quantum-sunset",
           "published": null
-        },
-        {
-          "title": "Paradigm Files Comment Letter on the CFTC\u2019s Prediction Markets Rulemaking",
-          "url": "https://www.paradigm.xyz/2026/04/paradigm-files-comment-letter-on-the-cftc-s-prediction-markets-rulemaking",
-          "published": null
         }
       ],
-      "checked_at": "2026-06-24T19:32:53Z"
+      "checked_at": "2026-06-24T23:39:38Z"
     },
     {
       "name": "Glassnode Research",
@@ -341,7 +341,7 @@
           "published": "Mon, 15 Jun 2026 15:20:07 GMT"
         }
       ],
-      "checked_at": "2026-06-24T19:32:53Z"
+      "checked_at": "2026-06-24T23:39:38Z"
     },
     {
       "name": "Delphi Digital",
@@ -359,7 +359,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-24T19:32:53Z"
+      "checked_at": "2026-06-24T23:39:39Z"
     },
     {
       "name": "Electric Capital",
@@ -371,7 +371,7 @@
       "error": null,
       "feed_urls": [],
       "items": [],
-      "checked_at": "2026-06-24T19:32:53Z"
+      "checked_at": "2026-06-24T23:39:39Z"
     },
     {
       "name": "Bankless",
@@ -444,7 +444,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-24T19:32:54Z"
+      "checked_at": "2026-06-24T23:39:40Z"
     },
     {
       "name": "Token Terminal",
@@ -517,7 +517,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-24T19:32:54Z"
+      "checked_at": "2026-06-24T23:39:40Z"
     }
   ],
   "articles": [
@@ -862,6 +862,16 @@
       "source_url": "https://www.paradigm.xyz/writing"
     },
     {
+      "id": "60f9107dd866",
+      "source": "Paradigm",
+      "tier": 1,
+      "title": "Paradigm Backs Kalshi in Latest Prediction Market Challenge",
+      "url": "https://www.paradigm.xyz/2026/06/paradigm-backs-kalshi-in-latest-prediction-market-challenge",
+      "published": null,
+      "first_seen": "2026-06-24T23:39:40Z",
+      "source_url": "https://www.paradigm.xyz/writing"
+    },
+    {
       "id": "e91e58fd3d1d",
       "source": "Paradigm",
       "tier": 1,
@@ -927,16 +937,6 @@
       "tier": 1,
       "title": "PACTs: Protecting Your Bitcoin From a Quantum Sunset",
       "url": "https://www.paradigm.xyz/2026/05/pacts-protecting-your-bitcoin-from-a-quantum-sunset",
-      "published": null,
-      "first_seen": "2026-06-14T20:08:30Z",
-      "source_url": "https://www.paradigm.xyz/writing"
-    },
-    {
-      "id": "f75d5dffaf90",
-      "source": "Paradigm",
-      "tier": 1,
-      "title": "Paradigm Files Comment Letter on the CFTC\u2019s Prediction Markets Rulemaking",
-      "url": "https://www.paradigm.xyz/2026/04/paradigm-files-comment-letter-on-the-cftc-s-prediction-markets-rulemaking",
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://www.paradigm.xyz/writing"
@@ -1310,6 +1310,16 @@
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "f75d5dffaf90",
+      "source": "Paradigm",
+      "tier": 1,
+      "title": "Paradigm Files Comment Letter on the CFTC\u2019s Prediction Markets Rulemaking",
+      "url": "https://www.paradigm.xyz/2026/04/paradigm-files-comment-letter-on-the-cftc-s-prediction-markets-rulemaking",
+      "published": null,
+      "first_seen": "2026-06-14T20:08:30Z",
+      "source_url": "https://www.paradigm.xyz/writing"
     },
     {
       "id": "50b6726321bc",
