@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
-  "period_end": "2026-06-23",
-  "profile_updated_at": "2026-06-23T21:30:00Z",
+  "period_end": "2026-06-24",
+  "profile_updated_at": "2026-06-24T00:00:00Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -55,9 +55,10 @@
         "Nock / incentivized inference",
         "consumer-GPU inference clusters",
         "GLM 5.2",
-        "sharded inference"
+        "sharded inference",
+        "Reflection / SpaceX compute demand"
       ],
-      "summary": "Observed X/Twitter evidence spans GeeGee on inference cost/observability plus EIGEN/SERV, MoneyPrinter0x on deterministic AI-agent harnesses, kelxyz_ on inference incentives/model-parallel training, and AustinBarack on OpenRouter/Fusion API price-performance and AI ROI benchmarking. These are adjacent but not identical themes, so keep examples close to source posts. New 2026-06-15 GeeGee evidence explicitly tied the next AI attention cycle to companies positioned in the AI cost-cutting layer. GeeGee's 2026-06-17 Osobear puzzle thread adds a counterexample/process note: for hidden-code crypto puzzle solving, he reported Opus/GPT-class models were not useful, so keep the AI-tools bucket grounded in specific tasks rather than broad capability claims. Latest GeeGee quote adds another cost-collapse/process point: more DeepSeek-like gains may come from infrastructure as foundation models commoditize. Latest kelxyz_ evidence adds a valuation/economic angle: alternative financing that subsidizes inference or aggregates training compute at scale may justify very large outcomes. New kelxyz_ follow-up keeps the inference-design bucket cautious: incentivized inference remains difficult, no current design is fully convincing yet, but Nock is in the running. New June 20 GeeGee replies add cautionary due-diligence color: Dark Bloom/EigenCloud needs to avoid grifty narrative behavior, and large AI product claims such as a Midjourney-scanner should be judged through incentives/funding context rather than demo hype. June 23 kelxyz_ replies add a practical diligence example: he pressed AlgodTrading on whether GLM 5.2-class sharded inference can run fast enough on 4090/A6000 consumer clusters and where the claimed OpenRouter cost discount comes from.",
+      "summary": "Observed X/Twitter evidence spans GeeGee on inference cost/observability plus EIGEN/SERV, MoneyPrinter0x on deterministic AI-agent harnesses, kelxyz_ on inference incentives/model-parallel training, and AustinBarack on OpenRouter/Fusion API price-performance and AI ROI benchmarking. These are adjacent but not identical themes, so keep examples close to source posts. New 2026-06-15 GeeGee evidence explicitly tied the next AI attention cycle to companies positioned in the AI cost-cutting layer. GeeGee's 2026-06-17 Osobear puzzle thread adds a counterexample/process note: for hidden-code crypto puzzle solving, he reported Opus/GPT-class models were not useful, so keep the AI-tools bucket grounded in specific tasks rather than broad capability claims. Latest GeeGee quote adds another cost-collapse/process point: more DeepSeek-like gains may come from infrastructure as foundation models commoditize. Latest kelxyz_ evidence adds a valuation/economic angle: alternative financing that subsidizes inference or aggregates training compute at scale may justify very large outcomes. New kelxyz_ follow-up keeps the inference-design bucket cautious: incentivized inference remains difficult, no current design is fully convincing yet, but Nock is in the running. New June 20 GeeGee replies add cautionary due-diligence color: Dark Bloom/EigenCloud needs to avoid grifty narrative behavior, and large AI product claims such as a Midjourney-scanner should be judged through incentives/funding context rather than demo hype. June 23 kelxyz_ replies add a practical diligence example: he pressed AlgodTrading on whether GLM 5.2-class sharded inference can run fast enough on 4090/A6000 consumer clusters and where the claimed OpenRouter cost discount comes from. June 24 kelxyz_ quote adds a market-size datapoint: a reported Reflection/SpaceX compute deal is used to argue scaled decentralized training can have sufficient TAM.",
       "evidence_urls": [
         "https://x.com/0xGeeGee/status/2065771227743138126",
         "https://x.com/MoneyPrinter0x/status/2065910048833102118",
@@ -77,7 +78,8 @@
         "https://x.com/kelxyz_/status/2068083058306146524",
         "https://x.com/0xGeeGee/status/2068229359375155485",
         "https://x.com/0xGeeGee/status/2068186616032624953",
-        "https://x.com/i/status/2069445079433936952"
+        "https://x.com/i/status/2069445079433936952",
+        "https://x.com/kelxyz_/status/2069597720566780216"
       ],
       "momentum": "rising",
       "confidence": "medium"
@@ -99,9 +101,10 @@
         "Worldcoin / WLD",
         "Aerodrome / AERO",
         "Iota",
-        "inference/verification/marketplace layers"
+        "inference/verification/marketplace layers",
+        "Reflection / SpaceX compute demand"
       ],
-      "summary": "AustinBarack and kelxyz_ remain the strongest decentralized-training/crypto-AI evidence. New airtightfish replies in an OpenRouter/Fusion API thread lightly add Iota/Pluralis plus inference, verification, and marketplace layers as a possible crypto bright spot; keep as source-close examples rather than consensus. Latest kelxyz_ mention adds a Pluralis/open-weights angle: China open labs slowly moving away from open source/open weights.",
+      "summary": "AustinBarack and kelxyz_ remain the strongest decentralized-training/crypto-AI evidence. New airtightfish replies in an OpenRouter/Fusion API thread lightly add Iota/Pluralis plus inference, verification, and marketplace layers as a possible crypto bright spot; keep as source-close examples rather than consensus. Latest kelxyz_ mention adds a Pluralis/open-weights angle: China open labs slowly moving away from open source/open weights. Latest kelxyz_ evidence strengthens the TAM side of the decentralized-training thesis via a reported Reflection/SpaceX compute deal rather than a specific token call.",
       "evidence_urls": [
         "https://x.com/AustinBarack/status/2065850799494738189",
         "https://x.com/AustinBarack/status/2057553290959700413",
@@ -112,7 +115,8 @@
         "https://x.com/AustinBarack/status/2066633860448706976",
         "https://x.com/i/status/2066675642951950705",
         "https://x.com/i/status/2066708058038829319",
-        "https://x.com/kelxyz_/status/2067362394129543373"
+        "https://x.com/kelxyz_/status/2067362394129543373",
+        "https://x.com/kelxyz_/status/2069597720566780216"
       ],
       "momentum": "rising",
       "confidence": "medium"
@@ -173,9 +177,11 @@
         "umia_finance",
         "Pear Protocol / PEAR",
         "PEAR-to-Hyperliquid migration",
-        "SOL/BTC conditional futures"
+        "SOL/BTC conditional futures",
+        "Solana Burn SIMD",
+        "SOL governance conditional market"
       ],
-      "summary": "Observed posts show coin_casanova arguing for organic crypto options demand, CryptoTomYT highlighting Tradexyz/Legend Trade performance context, airtightfish building/promoting ProofMarkets, AustinBarack using Hyperliquid/SPCX as a market-structure example, and 0xGeeGee naming Variational/Pear fee checks. These are separate infra/venue references rather than one unified thesis. Recent airtightfish/ProofMarkets evidence is product-led: onboarding/contest operations, conditional futures/non-gambling market-listing commentary, STRC/MSTR/BTC conditional markets, a umia_finance discussion about prediction/governance signals, and now a June 23 SOL-if-BTC-up/down Challenge market as conditional-futures listing experimentation. Keep this bucket close to evidence rather than turning it into abstract venue scoring.",
+      "summary": "Observed posts show coin_casanova arguing for organic crypto options demand, CryptoTomYT highlighting Tradexyz/Legend Trade performance context, airtightfish building/promoting ProofMarkets, AustinBarack using Hyperliquid/SPCX as a market-structure example, and 0xGeeGee naming Variational/Pear fee checks. These are separate infra/venue references rather than one unified thesis. Recent airtightfish/ProofMarkets evidence is product-led: onboarding/contest operations, conditional futures/non-gambling market-listing commentary, STRC/MSTR/BTC conditional markets, a umia_finance discussion about prediction/governance signals, and now a June 23 SOL-if-BTC-up/down Challenge market as conditional-futures listing experimentation. Keep this bucket close to evidence rather than turning it into abstract venue scoring. June 23 airtightfish evidence adds another ProofMarkets use case: pricing Solana Burn SIMD implementation odds and implied SOL impact, with caveats around governance signaling.",
       "evidence_urls": [
         "https://x.com/coin_casanova/status/2063848704499687605",
         "https://x.com/CryptoTomYT/status/2065238474907607090",
@@ -200,7 +206,8 @@
         "https://x.com/airtightfish/status/2068016988975145285",
         "https://x.com/airtightfish/status/2069122628330086912",
         "https://x.com/0xGeeGee/status/2069165089215656343",
-        "https://x.com/airtightfish/status/2069228960613843148"
+        "https://x.com/airtightfish/status/2069228960613843148",
+        "https://x.com/airtightfish/status/2069558654777356618"
       ],
       "momentum": "emerging",
       "confidence": "medium"

@@ -921,9 +921,9 @@
   {
     "handle": "airtightfish",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-23",
-    "profile_updated_at": "2026-06-23T21:30:00Z",
-    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence adds a tokenomics/accounting-process edge: he pushed against raw FDV for MetaDAO ownership-coin valuation and pointed toward adjusted supply / mNAV treatment. June 21 ryanchern reply adds another ProofMarkets/product-design datapoint: prediction markets need novel products that restore useful information surfaces beyond current category mix. June 22 quote added a light ProofMarkets ecosystem/partner signal via umia_finance/SURGECAST. Latest June 23 quote strengthens the ProofMarkets product-design trail with an actual conditional-futures Challenge market: SOL conditional on BTC up/down, framed as evidence that conditional futures can support experimental listed market types beyond event markets. Later June 23 replies add an Adjacent RED political-index feedback edge: he liked the index concept but wanted more volatility, saying ProofMarkets would love to list something like it as conditional indices develop.",
+    "period_end": "2026-06-24",
+    "profile_updated_at": "2026-06-24T00:00:00Z",
+    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence adds a tokenomics/accounting-process edge: he pushed against raw FDV for MetaDAO ownership-coin valuation and pointed toward adjusted supply / mNAV treatment. June 21 ryanchern reply adds another ProofMarkets/product-design datapoint: prediction markets need novel products that restore useful information surfaces beyond current category mix. June 22 quote added a light ProofMarkets ecosystem/partner signal via umia_finance/SURGECAST. Latest June 23 quote strengthens the ProofMarkets product-design trail with an actual conditional-futures Challenge market: SOL conditional on BTC up/down, framed as evidence that conditional futures can support experimental listed market types beyond event markets. Later June 23 replies add an Adjacent RED political-index feedback edge: he liked the index concept but wanted more volatility, saying ProofMarkets would love to list something like it as conditional indices develop. Latest June 23 evidence adds a concrete ProofMarkets/Solana tokenomics use case: he used a gated-MVP market to estimate Burn SIMD price impact and implementation odds, while caveating that failure would mainly matter as a signal on Solana's tokenomics direction.",
     "likes": [
       {
         "theme": "Crypto access to private companies",
@@ -935,7 +935,7 @@
       },
       {
         "theme": "ProofMarkets community/onboarding",
-        "summary": "Repeatedly promoted ProofMarkets, referenced manual waitlist review after bot/AI filtering, invited feedback/market ideas, and now uses live STRC/MSTR/BTC overhang plus a SOL-if-BTC-up/down Challenge market as examples of conditional futures/new listings. Latest evidence says conditional futures are not just for events and leave room for experimentation in new market types.",
+        "summary": "Repeatedly promoted ProofMarkets, referenced manual waitlist review after bot/AI filtering, invited feedback/market ideas, and now uses live STRC/MSTR/BTC overhang plus a SOL-if-BTC-up/down Challenge market as examples of conditional futures/new listings. Latest evidence says conditional futures are not just for events and leave room for experimentation in new market types. Latest evidence adds a SOL Burn SIMD market that priced implementation odds and price impact, showing interest in conditional markets as governance/signaling tools.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2064390683440341286",
           "https://x.com/airtightfish/status/2064743264691875927",
@@ -945,7 +945,8 @@
           "https://x.com/airtightfish/status/2067715921859240042",
           "https://x.com/airtightfish/status/2068099380775665928",
           "https://x.com/airtightfish/status/2068759628364550360",
-          "https://x.com/airtightfish/status/2069228960613843148"
+          "https://x.com/airtightfish/status/2069228960613843148",
+          "https://x.com/airtightfish/status/2069558654777356618"
         ],
         "confidence": "high"
       },
@@ -1039,7 +1040,7 @@
         "name": "ProofMarkets",
         "handle": "ProofMarkets",
         "stance": "positive",
-        "summary": "Repeated operating/project evidence: waitlist filtering, contest launch, manual onboarding, product-design replies around conditional futures/non-gambling markets, BTC/STRC conditional-market example, umia_finance/SURGECAST partner context, and now a SOL-if-BTC-up/down Challenge market framed as conditional-futures listing experimentation.",
+        "summary": "Repeated operating/project evidence: waitlist filtering, contest launch, manual onboarding, product-design replies around conditional futures/non-gambling markets, BTC/STRC conditional-market example, umia_finance/SURGECAST partner context, and now a SOL-if-BTC-up/down Challenge market framed as conditional-futures listing experimentation. Newest evidence uses ProofMarkets to price SOL Burn SIMD implementation odds and price impact.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2064390683440341286",
           "https://x.com/airtightfish/status/2064743264691875927",
@@ -1053,7 +1054,8 @@
           "https://x.com/airtightfish/status/2068099380775665928",
           "https://x.com/airtightfish/status/2068759628364550360",
           "https://x.com/airtightfish/status/2069122628330086912",
-          "https://x.com/airtightfish/status/2069228960613843148"
+          "https://x.com/airtightfish/status/2069228960613843148",
+          "https://x.com/airtightfish/status/2069558654777356618"
         ]
       },
       {
@@ -1119,6 +1121,15 @@
         "summary": "Called umia_finance “building something cool” in the context of a SURGECAST with ProofMarkets on prediction/governance as tradable signals. Promotional and early, so keep light.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2069122628330086912"
+        ]
+      },
+      {
+        "name": "Solana / SOL",
+        "handle": null,
+        "stance": "watching",
+        "summary": "Used SOL Burn SIMD governance/tokenomics proposal as a ProofMarkets conditional-pricing example; bullish if implemented but mostly priced in per the market.",
+        "evidence_urls": [
+          "https://x.com/airtightfish/status/2069558654777356618"
         ]
       }
     ],
@@ -1195,7 +1206,8 @@
       "https://x.com/airtightfish/status/2068759628364550360",
       "https://x.com/airtightfish/status/2069122628330086912",
       "https://x.com/airtightfish/status/2069228960613843148",
-      "https://x.com/i/status/2069522903314411586"
+      "https://x.com/i/status/2069522903314411586",
+      "https://x.com/airtightfish/status/2069558654777356618"
     ]
   },
   {
@@ -1986,18 +1998,19 @@
   {
     "handle": "kelxyz_",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-23",
-    "profile_updated_at": "2026-06-23T18:30:38Z",
-    "taste_summary": "Observed X/Twitter evidence is thesis-heavy around AI/crypto protocols, especially Pluralis, inference-market timing, decentralized/model-parallel training, alternative financing for inference/compute aggregation, and cautious evaluation of incentivized inference designs. New June 19 evidence says Nock is 'in the running' while explicitly noting no current design is fully convincing yet. Latest June 23 evidence adds two source-close filters: skepticism toward CA-in-bio coins, and technical due diligence on whether consumer-GPU/sharded inference can actually deliver GLM 5.2-class performance at claimed discounts.",
+    "period_end": "2026-06-24",
+    "profile_updated_at": "2026-06-24T00:00:00Z",
+    "taste_summary": "Observed X/Twitter evidence is thesis-heavy around AI/crypto protocols, especially Pluralis, inference-market timing, decentralized/model-parallel training, alternative financing for inference/compute aggregation, and cautious evaluation of incentivized inference designs. New June 19 evidence says Nock is 'in the running' while explicitly noting no current design is fully convincing yet. Latest June 23 evidence adds two source-close filters: skepticism toward CA-in-bio coins, and technical due diligence on whether consumer-GPU/sharded inference can actually deliver GLM 5.2-class performance at claimed discounts. Latest June 24 quote adds a TAM argument for decentralized training: a reported Reflection/SpaceX compute deal at ~$150M/month is used to push back on claims that decentralized training lacks enough demand if it scales.",
     "likes": [
       {
         "theme": "Pluralis and model-parallel decentralized training",
-        "summary": "Repeatedly described Pluralis as early but potentially a gigantic protocol if it scales models and vindicates model-parallel decentralized training.",
+        "summary": "Repeatedly described Pluralis as early but potentially a gigantic protocol if it scales models and vindicates model-parallel decentralized training. Latest quote uses a reported Reflection/SpaceX compute deal as a TAM datapoint for scaled decentralized training demand.",
         "evidence_urls": [
           "https://x.com/kelxyz_/status/2065782384616780175",
           "https://x.com/kelxyz_/status/2065782544566522156",
           "https://x.com/kelxyz_/status/2063836178990633419",
-          "https://x.com/kelxyz_/status/2065801491093348503"
+          "https://x.com/kelxyz_/status/2065801491093348503",
+          "https://x.com/kelxyz_/status/2069597720566780216"
         ],
         "confidence": "high"
       },
@@ -2124,6 +2137,15 @@
         "evidence_urls": [
           "https://x.com/kelxyz_/status/2068083058306146524"
         ]
+      },
+      {
+        "name": "Reflection",
+        "handle": null,
+        "stance": "watching",
+        "summary": "Mentioned via a reported SpaceX compute deal as a market-size datapoint for AI training demand; not a crypto-project endorsement.",
+        "evidence_urls": [
+          "https://x.com/kelxyz_/status/2069597720566780216"
+        ]
       }
     ],
     "people_respected": [
@@ -2175,7 +2197,8 @@
       "https://x.com/kelxyz_/status/2068018630973849648",
       "https://x.com/kelxyz_/status/2068083058306146524",
       "https://x.com/i/status/2069445079433936952",
-      "https://x.com/kelxyz_/status/2069445414302961694"
+      "https://x.com/kelxyz_/status/2069445414302961694",
+      "https://x.com/kelxyz_/status/2069597720566780216"
     ]
   }
 ]

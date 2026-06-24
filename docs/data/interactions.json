@@ -1,6 +1,17 @@
 [
   {
     "from": "airtightfish",
+    "to": "ProofMarkets",
+    "to_kind": "project",
+    "type": "authored_mention/sol_burn_simd_market_pricing",
+    "date": "2026-06-23",
+    "url": "https://x.com/airtightfish/status/2069558654777356618",
+    "summary": "Used ProofMarkets' gated MVP to translate Solana's Burn SIMD governance outcome into market-implied SOL price impact and implementation odds, with follow-up caveats about tokenomics signaling and alternative proposals.",
+    "quality": "high",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "airtightfish",
     "to": "adjacent___",
     "to_kind": "project",
     "type": "reply/index_market_listing_feedback",

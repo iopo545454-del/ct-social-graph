@@ -1,5 +1,41 @@
 [
   {
+    "date": "2026-06-24",
+    "handle": "kelxyz_",
+    "type": "quote/decentralized_training_tam",
+    "url": "https://x.com/kelxyz_/status/2069597720566780216",
+    "summary": "Quoted a reported SpaceX compute deal with Reflection at roughly $150M/month and used it as evidence that very large compute demand can exist for companies most CT has not heard of, pushing back on claims that decentralized training would lack sufficient TAM if it scales.",
+    "entities": [
+      "Reflection",
+      "SpaceX compute deal",
+      "decentralized training",
+      "AI compute demand",
+      "TAM",
+      "model training"
+    ],
+    "why_logged": "Fresh source-close update to kelxyz_'s decentralized-training/AI-compute thesis: it is a market-size argument rather than generic AI-token enthusiasm.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-23",
+    "handle": "airtightfish",
+    "type": "authored_post/proofmarkets_sol_burn_simd_pricing",
+    "url": "https://x.com/airtightfish/status/2069558654777356618",
+    "summary": "Used a ProofMarkets gated-MVP market to price the Solana Burn SIMD: market-implied +5.4% SOL price impact if implemented, ~80% implementation odds, and a read that the proposal is bullish but mostly priced in; follow-up said failure could be negative as a signal on Solana tokenomics unless replaced by a similar proposal.",
+    "entities": [
+      "ProofMarkets",
+      "Solana",
+      "SOL",
+      "Burn SIMD",
+      "tokenomics",
+      "prediction markets",
+      "conditional pricing",
+      "governance outcomes"
+    ],
+    "why_logged": "High-signal product-and-market-design evidence from airtightfish: concrete ProofMarkets use case linking governance outcomes to price impact/signaling, not just a project promo.",
+    "confidence": "high"
+  },
+  {
     "date": "2026-06-23",
     "handle": "MoneyPrinter0x",
     "type": "quote/ai_capital_markets_rotation",
