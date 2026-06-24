@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-06-24",
-  "profile_updated_at": "2026-06-24T12:00:00Z",
+  "profile_updated_at": "2026-06-24T16:00:00Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -107,7 +107,7 @@
         "inference/verification/marketplace layers",
         "Reflection / SpaceX compute demand"
       ],
-      "summary": "AustinBarack and kelxyz_ remain the strongest decentralized-training/crypto-AI evidence. New airtightfish replies in an OpenRouter/Fusion API thread lightly add Iota/Pluralis plus inference, verification, and marketplace layers as a possible crypto bright spot; keep as source-close examples rather than consensus. Latest kelxyz_ mention adds a Pluralis/open-weights angle: China open labs slowly moving away from open source/open weights. Latest kelxyz_ evidence strengthens the TAM side of the decentralized-training thesis via a reported Reflection/SpaceX compute deal rather than a specific token call.",
+      "summary": "AustinBarack and kelxyz_ remain the strongest decentralized-training/crypto-AI evidence. New airtightfish replies in an OpenRouter/Fusion API thread lightly add Iota/Pluralis plus inference, verification, and marketplace layers as a possible crypto bright spot; keep as source-close examples rather than consensus. Latest kelxyz_ mention adds a Pluralis/open-weights angle: China open labs slowly moving away from open source/open weights. Latest kelxyz_ evidence strengthens the TAM side of the decentralized-training thesis via a reported Reflection/SpaceX compute deal rather than a specific token call. Latest kelxyz_ reply adds a frontier-scale caveat: aggregating many weaker chips could be the right route, but nobody has proven it at those levels yet; this keeps the bucket positive-but-unproven rather than a solved-scaling claim.",
       "evidence_urls": [
         "https://x.com/AustinBarack/status/2065850799494738189",
         "https://x.com/AustinBarack/status/2057553290959700413",
@@ -119,7 +119,8 @@
         "https://x.com/i/status/2066675642951950705",
         "https://x.com/i/status/2066708058038829319",
         "https://x.com/kelxyz_/status/2067362394129543373",
-        "https://x.com/kelxyz_/status/2069597720566780216"
+        "https://x.com/kelxyz_/status/2069597720566780216",
+        "https://x.com/kelxyz_/status/2069791880766706101"
       ],
       "momentum": "rising",
       "confidence": "medium"
@@ -609,9 +610,10 @@
         "STRC/BTC conditional markets",
         "SOL/BTC conditional futures",
         "Adjacent RED index",
-        "conditional political indices"
+        "conditional political indices",
+        "GRASS / value attribution"
       ],
-      "summary": "airtightfish’s ryanchern-thread replies frame ProofMarkets/prediction markets around better listings, conditional futures, and non-gambling-market primitives; GeeGee’s Axiom-fee critique remains a negative fee/UX counterpoint. New June 23 evidence moves from commentary to product example: ProofMarkets listed a Challenge market for SOL conditional on BTC being up/down, and airtightfish said conditional futures are not just for events, leaving room for market-type experimentation. Later June 23 Adjacent RED thread adds index/listing feedback: airtightfish liked the political-futures index concept but wanted more volatility and pointed toward conditional-index variants as better ProofMarkets-style products. June 24 airtightfish reply keeps ProofMarkets attached to the critique that prediction markets need to become practical hedging tools, not just binary gambling markets.",
+      "summary": "airtightfish’s ryanchern-thread replies frame ProofMarkets/prediction markets around better listings, conditional futures, and non-gambling-market primitives; GeeGee’s Axiom-fee critique remains a negative fee/UX counterpoint. New June 23 evidence moves from commentary to product example: ProofMarkets listed a Challenge market for SOL conditional on BTC being up/down, and airtightfish said conditional futures are not just for events, leaving room for market-type experimentation. Later June 23 Adjacent RED thread adds index/listing feedback: airtightfish liked the political-futures index concept but wanted more volatility and pointed toward conditional-index variants as better ProofMarkets-style products. June 24 airtightfish reply keeps ProofMarkets attached to the critique that prediction markets need to become practical hedging tools, not just binary gambling markets. New airtightfish GRASS reply applies conditional markets to tokenomics/value-accrual discovery: a holder-call value-attribution announcement could be traded and used as market feedback to the team.",
       "evidence_urls": [
         "https://x.com/airtightfish/status/2067716891943096714",
         "https://x.com/airtightfish/status/2067715921859240042",
@@ -620,7 +622,8 @@
         "https://x.com/airtightfish/status/2068759628364550360",
         "https://x.com/airtightfish/status/2069228960613843148",
         "https://x.com/i/status/2069522903314411586",
-        "https://x.com/airtightfish/status/2069630693173326150"
+        "https://x.com/airtightfish/status/2069630693173326150",
+        "https://x.com/airtightfish/status/2069782439862432083"
       ],
       "momentum": "emerging",
       "confidence": "medium"
@@ -722,6 +725,7 @@
     "Track whether MoneyPrinter0x's AI rotation map keeps moving from chip bottlenecks into vertical applications and physical AI supply-chain names.",
     "Track whether Collector Crypt/CARDS receives repeated Tier 1 attention or stays a single coin_casanova watchlist/project-analysis post.",
     "Track whether Avalanche/FIFA token-incentive diligence becomes a recurring GeeGee enterprise-chain adoption filter.",
-    "Track whether coin_casanova’s GRASS/POD AI-token vehicle preference continues beyond the immediate Mythos-news/pump-fade context."
+    "Track whether coin_casanova’s GRASS/POD AI-token vehicle preference continues beyond the immediate Mythos-news/pump-fade context.",
+    "Track whether GRASS value-attribution conditional-market discussion recurs after the holder call, or remains one airtightfish reply."
   ]
 }

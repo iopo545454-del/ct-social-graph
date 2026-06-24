@@ -1,5 +1,17 @@
 [
   {
+    "handle": "0xCryptoSam",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "airtightfish reply to GRASS tokenomics critique",
+    "reason": "Airtightfish engaged Sam's GRASS/Wynd value-accrual critique with a substantive conditional-futures/product-design response; one high-context edge only, so keep as candidate.",
+    "evidence_urls": [
+      "https://x.com/airtightfish/status/2069782439862432083"
+    ],
+    "first_seen": "2026-06-24",
+    "confidence": "low"
+  },
+  {
     "handle": "avax",
     "kind": "project",
     "status": "candidate",

@@ -1,6 +1,40 @@
 [
   {
     "date": "2026-06-24",
+    "handle": "kelxyz_",
+    "type": "reply/decentralized_training_scale_uncertainty",
+    "url": "https://x.com/kelxyz_/status/2069791880766706101",
+    "summary": "Followed up the Reflection/SpaceX compute-demand post by acknowledging the unresolved technical question: aggregating many weaker chips may or may not reach frontier-scale training performance because nobody has proven it at those levels; if proven, decentralized training would see a capital bonanza.",
+    "entities": [
+      "decentralized training",
+      "consumer/less powerful chips",
+      "frontier-scale training",
+      "Reflection",
+      "SpaceX compute deal",
+      "technical feasibility"
+    ],
+    "why_logged": "Useful source-close caveat to kelxyz_’s decentralized-training thesis: positive on TAM/upside, but explicitly uncertain on scaling equivalence.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-24",
+    "handle": "airtightfish",
+    "type": "reply/grass_tokenomics_conditional_market",
+    "url": "https://x.com/airtightfish/status/2069782439862432083",
+    "summary": "In a GRASS/Wynd tokenomics critique thread, suggested conditional futures around whether Grass announces robust value attribution at its token-holder call, both as a tradable market and as useful feedback to the team; disclosed he is a Grass fan.",
+    "entities": [
+      "GRASS",
+      "Wynd Labs",
+      "conditional futures",
+      "tokenholder call",
+      "token value attribution",
+      "ProofMarkets-style market design"
+    ],
+    "why_logged": "Adds a clean bridge between airtightfish’s ProofMarkets/conditional-futures product design and a concrete tokenomics question around GRASS value capture.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-24",
     "handle": "coin_casanova",
     "type": "quote/ai_token_vehicle_selection",
     "url": "https://x.com/coin_casanova/status/2069734548959793603",

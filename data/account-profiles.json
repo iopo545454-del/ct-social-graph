@@ -960,8 +960,8 @@
     "handle": "airtightfish",
     "period_start": "2026-05-14",
     "period_end": "2026-06-24",
-    "profile_updated_at": "2026-06-24T12:00:00Z",
-    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence adds a tokenomics/accounting-process edge: he pushed against raw FDV for MetaDAO ownership-coin valuation and pointed toward adjusted supply / mNAV treatment. June 21 ryanchern reply adds another ProofMarkets/product-design datapoint: prediction markets need novel products that restore useful information surfaces beyond current category mix. June 22 quote added a light ProofMarkets ecosystem/partner signal via umia_finance/SURGECAST. Latest June 23 quote strengthens the ProofMarkets product-design trail with an actual conditional-futures Challenge market: SOL conditional on BTC up/down, framed as evidence that conditional futures can support experimental listed market types beyond event markets. Later June 23 replies add an Adjacent RED political-index feedback edge: he liked the index concept but wanted more volatility, saying ProofMarkets would love to list something like it as conditional indices develop. Latest June 23 evidence adds a concrete ProofMarkets/Solana tokenomics use case: he used a gated-MVP market to estimate Burn SIMD price impact and implementation odds, while caveating that failure would mainly matter as a signal on Solana's tokenomics direction. June 24 reply keeps ProofMarkets framed as an answer to the critique that current prediction markets are not practical hedging tools.",
+    "profile_updated_at": "2026-06-24T16:00:00Z",
+    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence adds a tokenomics/accounting-process edge: he pushed against raw FDV for MetaDAO ownership-coin valuation and pointed toward adjusted supply / mNAV treatment. June 21 ryanchern reply adds another ProofMarkets/product-design datapoint: prediction markets need novel products that restore useful information surfaces beyond current category mix. June 22 quote added a light ProofMarkets ecosystem/partner signal via umia_finance/SURGECAST. Latest June 23 quote strengthens the ProofMarkets product-design trail with an actual conditional-futures Challenge market: SOL conditional on BTC up/down, framed as evidence that conditional futures can support experimental listed market types beyond event markets. Later June 23 replies add an Adjacent RED political-index feedback edge: he liked the index concept but wanted more volatility, saying ProofMarkets would love to list something like it as conditional indices develop. Latest June 23 evidence adds a concrete ProofMarkets/Solana tokenomics use case: he used a gated-MVP market to estimate Burn SIMD price impact and implementation odds, while caveating that failure would mainly matter as a signal on Solana's tokenomics direction. June 24 reply keeps ProofMarkets framed as an answer to the critique that current prediction markets are not practical hedging tools. Latest June 24 GRASS reply extends the same conditional-futures design pattern from ProofMarkets demos into tokenomics discovery: use a conditional market around whether Grass announces robust token value attribution, while disclosing he is a Grass fan.",
     "likes": [
       {
         "theme": "Crypto access to private companies",
@@ -1017,14 +1017,15 @@
       },
       {
         "theme": "Prediction-market product design beyond gambling",
-        "summary": "Prediction-market design evidence now spans non-gambling market/listing primitives, a live BTC/STRC conditional-market example, and a new ProofMarkets Challenge market trading SOL conditional on BTC up/down; he frames conditional futures as useful beyond discrete event markets. Later June 23 replies add adjacent index-product evidence: he liked Adjacent's RED political-futures index but wanted more volatility before ProofMarkets-style listing. Latest reply points ProofMarkets at the “prediction markets are bad hedging tools” critique, reinforcing hedging/product-utility positioning.",
+        "summary": "Prediction-market design evidence now spans non-gambling market/listing primitives, a live BTC/STRC conditional-market example, and a new ProofMarkets Challenge market trading SOL conditional on BTC up/down; he frames conditional futures as useful beyond discrete event markets. Later June 23 replies add adjacent index-product evidence: he liked Adjacent's RED political-futures index but wanted more volatility before ProofMarkets-style listing. Latest reply points ProofMarkets at the “prediction markets are bad hedging tools” critique, reinforcing hedging/product-utility positioning. Newest GRASS reply applies that design to tokenomics: a conditional market around robust value attribution at a holder call could both create a trade and reveal market expectations.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2067716891943096714",
           "https://x.com/airtightfish/status/2067715921859240042",
           "https://x.com/airtightfish/status/2068099380775665928",
           "https://x.com/airtightfish/status/2069228960613843148",
           "https://x.com/i/status/2069522903314411586",
-          "https://x.com/airtightfish/status/2069630693173326150"
+          "https://x.com/airtightfish/status/2069630693173326150",
+          "https://x.com/airtightfish/status/2069782439862432083"
         ],
         "confidence": "medium"
       },
@@ -1172,6 +1173,15 @@
         "evidence_urls": [
           "https://x.com/airtightfish/status/2069558654777356618"
         ]
+      },
+      {
+        "name": "Grass / GRASS",
+        "handle": "getgrass_io",
+        "stance": "positive/watchful",
+        "summary": "Called himself a Grass fan while suggesting a conditional-futures market around whether Grass announces robust token value attribution at the holder call; useful as product-design/tokenomics evidence, not a full investment thesis.",
+        "evidence_urls": [
+          "https://x.com/airtightfish/status/2069782439862432083"
+        ]
       }
     ],
     "people_respected": [
@@ -1220,7 +1230,8 @@
       "Track whether ProofMarkets conditional futures/non-gambling market design becomes a repeated public product theme or remains one ryanchern thread.",
       "Track whether ProofMarkets conditional markets become a repeated public response to major CT uncertainty events beyond STRC/MSTR.",
       "Track whether ProofMarkets product work explicitly targets non-gambling/politics-economics category revival beyond current challenge/test markets.",
-      "Track whether ProofMarkets conditional futures expand from challenge markets into durable public markets with non-event use cases."
+      "Track whether ProofMarkets conditional futures expand from challenge markets into durable public markets with non-event use cases.",
+      "Track whether airtightfish’s GRASS tokenomics/value-attribution interest recurs beyond the conditional-market reply."
     ],
     "evidence_urls": [
       "https://x.com/airtightfish/status/2065567457536831796",
@@ -1249,7 +1260,8 @@
       "https://x.com/airtightfish/status/2069228960613843148",
       "https://x.com/i/status/2069522903314411586",
       "https://x.com/airtightfish/status/2069558654777356618",
-      "https://x.com/airtightfish/status/2069630693173326150"
+      "https://x.com/airtightfish/status/2069630693173326150",
+      "https://x.com/airtightfish/status/2069782439862432083"
     ]
   },
   {
@@ -2052,18 +2064,19 @@
     "handle": "kelxyz_",
     "period_start": "2026-05-14",
     "period_end": "2026-06-24",
-    "profile_updated_at": "2026-06-24T00:00:00Z",
-    "taste_summary": "Observed X/Twitter evidence is thesis-heavy around AI/crypto protocols, especially Pluralis, inference-market timing, decentralized/model-parallel training, alternative financing for inference/compute aggregation, and cautious evaluation of incentivized inference designs. New June 19 evidence says Nock is 'in the running' while explicitly noting no current design is fully convincing yet. Latest June 23 evidence adds two source-close filters: skepticism toward CA-in-bio coins, and technical due diligence on whether consumer-GPU/sharded inference can actually deliver GLM 5.2-class performance at claimed discounts. Latest June 24 quote adds a TAM argument for decentralized training: a reported Reflection/SpaceX compute deal at ~$150M/month is used to push back on claims that decentralized training lacks enough demand if it scales.",
+    "profile_updated_at": "2026-06-24T16:00:00Z",
+    "taste_summary": "Observed X/Twitter evidence is thesis-heavy around AI/crypto protocols, especially Pluralis, inference-market timing, decentralized/model-parallel training, alternative financing for inference/compute aggregation, and cautious evaluation of incentivized inference designs. New June 19 evidence says Nock is 'in the running' while explicitly noting no current design is fully convincing yet. Latest June 23 evidence adds two source-close filters: skepticism toward CA-in-bio coins, and technical due diligence on whether consumer-GPU/sharded inference can actually deliver GLM 5.2-class performance at claimed discounts. Latest June 24 quote adds a TAM argument for decentralized training: a reported Reflection/SpaceX compute deal at ~$150M/month is used to push back on claims that decentralized training lacks enough demand if it scales. A new follow-up adds the key caveat: aggregating many weaker chips into frontier-scale training remains unproven, and the upside exists precisely because the equivalence is not yet known.",
     "likes": [
       {
         "theme": "Pluralis and model-parallel decentralized training",
-        "summary": "Repeatedly described Pluralis as early but potentially a gigantic protocol if it scales models and vindicates model-parallel decentralized training. Latest quote uses a reported Reflection/SpaceX compute deal as a TAM datapoint for scaled decentralized training demand.",
+        "summary": "Repeatedly described Pluralis as early but potentially a gigantic protocol if it scales models and vindicates model-parallel decentralized training. Latest quote uses a reported Reflection/SpaceX compute deal as a TAM datapoint for scaled decentralized training demand. Follow-up caveat: approximating frontier clusters with many weaker chips is still unproven at frontier scale; proof would likely trigger major decentralized-training capital inflows.",
         "evidence_urls": [
           "https://x.com/kelxyz_/status/2065782384616780175",
           "https://x.com/kelxyz_/status/2065782544566522156",
           "https://x.com/kelxyz_/status/2063836178990633419",
           "https://x.com/kelxyz_/status/2065801491093348503",
-          "https://x.com/kelxyz_/status/2069597720566780216"
+          "https://x.com/kelxyz_/status/2069597720566780216",
+          "https://x.com/kelxyz_/status/2069791880766706101"
         ],
         "confidence": "high"
       },
@@ -2195,9 +2208,10 @@
         "name": "Reflection",
         "handle": null,
         "stance": "watching",
-        "summary": "Mentioned via a reported SpaceX compute deal as a market-size datapoint for AI training demand; not a crypto-project endorsement.",
+        "summary": "Mentioned via a reported SpaceX compute deal as a market-size datapoint for AI training demand; not a crypto-project endorsement. A follow-up caveated that decentralized alternatives still have to prove they can approximate frontier-scale clusters with aggregated weaker chips.",
         "evidence_urls": [
-          "https://x.com/kelxyz_/status/2069597720566780216"
+          "https://x.com/kelxyz_/status/2069597720566780216",
+          "https://x.com/kelxyz_/status/2069791880766706101"
         ]
       }
     ],
@@ -2236,7 +2250,8 @@
       "Need fuller source context for Permanent Underclass Index to map equities vs crypto relevance.",
       "Track whether kelxyz_'s ZEC/privacy-chain thesis recurs or was a one-day portfolio review after Mythos/formal-verification news.",
       "Track whether Nock recurs in kelxyz_'s incentivized-inference/design filter or remains a one-off cautious mention.",
-      "Track whether kelxyz_ continues probing consumer-GPU/sharded-inference economics after AlgodTrading/totheagi publish subnet benchmarks."
+      "Track whether kelxyz_ continues probing consumer-GPU/sharded-inference economics after AlgodTrading/totheagi publish subnet benchmarks.",
+      "Track whether kelxyz_ gets concrete proof/benchmarks that aggregated weaker chips can approximate frontier-scale training clusters."
     ],
     "evidence_urls": [
       "https://x.com/kelxyz_/status/2065782384616780175",
@@ -2251,7 +2266,8 @@
       "https://x.com/kelxyz_/status/2068083058306146524",
       "https://x.com/i/status/2069445079433936952",
       "https://x.com/kelxyz_/status/2069445414302961694",
-      "https://x.com/kelxyz_/status/2069597720566780216"
+      "https://x.com/kelxyz_/status/2069597720566780216",
+      "https://x.com/kelxyz_/status/2069791880766706101"
     ]
   }
 ]
