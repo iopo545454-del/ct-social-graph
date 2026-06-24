@@ -2,9 +2,9 @@
   {
     "handle": "coin_casanova",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-23",
-    "profile_updated_at": "2026-06-23T06:08:36Z",
-    "taste_summary": "Observed X/Twitter evidence shows a short-horizon trader focused on low-float/FDV-style setups, hedging, rotation, options, and relative-value framing between crypto and equities. Interpretation confidence is medium because the scan found several original posts but few substantive replies. Latest June 23 reply adds a sector-rotation read: managed care and financials as likely rotations out of Magnificent 7/big-tech exposure while AI-buildout names behave differently.",
+    "period_end": "2026-06-24",
+    "profile_updated_at": "2026-06-24T07:00:00Z",
+    "taste_summary": "Observed X/Twitter evidence shows a short-horizon trader focused on low-float/FDV-style setups, hedging, rotation, options, and relative-value framing between crypto and equities. Interpretation confidence is medium because the scan found several original posts but few substantive replies. Latest June 24 CARDS/Collector Crypt post adds a more fundamental project-analysis mode: he can like an illiquid token setup while still requiring tokenholder accrual proof, better liquidity/volume, and cleaner technical support before chasing.",
     "likes": [
       {
         "theme": "Low-float speculative setups with clear leaders",
@@ -42,6 +42,14 @@
         "evidence_urls": [
           "https://x.com/coin_casanova/status/2065996363503177739",
           "https://x.com/coin_casanova/status/2069224647313457249"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "Project analysis with tokenholder-accrual and liquidity discipline",
+        "summary": "CARDS/Collector Crypt read combined fundamental growth, tokenholder value accrual, whale/OTC/liquidity mechanics, and chart support rather than only price momentum.",
+        "evidence_urls": [
+          "https://x.com/coin_casanova/status/2069649318982885840"
         ],
         "confidence": "medium"
       }
@@ -122,11 +130,12 @@
       },
       {
         "name": "CARDS",
-        "handle": null,
-        "stance": "positive",
-        "summary": "Used CARDS price action climbing a wall of worry as evidence that skepticism around valuation/value accrual may be wrong in the short term.",
+        "handle": "Collector_Crypt",
+        "stance": "positive/watchlist",
+        "summary": "Earlier treated CARDS price action as climbing a wall of worry; June 24 follow-up gave a fuller constructive-but-disciplined Collector Crypt analysis around gacha/P2P marketplace growth, buybacks/burns, tokenholder accrual proof, OTC absorption risk, and need for a short-term reset before chasing.",
         "evidence_urls": [
-          "https://x.com/coin_casanova/status/2065980497793318928"
+          "https://x.com/coin_casanova/status/2065980497793318928",
+          "https://x.com/coin_casanova/status/2069649318982885840"
         ]
       }
     ],
@@ -139,7 +148,8 @@
     "open_questions": [
       "Need more reply/quote context to distinguish tactical shorts from fundamental dislikes.",
       "SPCX reference needs follow-up once the IPO/trade context is clearer.",
-      "Track whether managed-care/financials rotation becomes a repeated coin_casanova equity theme or stays a one-reply macro note."
+      "Track whether managed-care/financials rotation becomes a repeated coin_casanova equity theme or stays a one-reply macro note.",
+      "Track whether Collector Crypt/CARDS becomes a repeated coin_casanova project focus or remains a one-off detailed watchlist post."
     ],
     "evidence_urls": [
       "https://x.com/coin_casanova/status/2065438838546477385",
@@ -151,7 +161,8 @@
       "https://x.com/coin_casanova/status/2065980497793318928",
       "https://x.com/coin_casanova/status/2066668048438952167",
       "https://x.com/i/status/2066689100502163919",
-      "https://x.com/coin_casanova/status/2069224647313457249"
+      "https://x.com/coin_casanova/status/2069224647313457249",
+      "https://x.com/coin_casanova/status/2069649318982885840"
     ]
   },
   {

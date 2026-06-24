@@ -1,6 +1,25 @@
 [
   {
     "date": "2026-06-24",
+    "handle": "coin_casanova",
+    "type": "authored_project_analysis",
+    "url": "https://x.com/coin_casanova/status/2069649318982885840",
+    "summary": "Detailed Collector Crypt / CARDS analysis: gacha and marketplace growth, buyback/burn/value-accrual expectations, reduced whale concentration, and liquid-fund interest are partly priced in; direct tokenholder accrual proof and sustained P2P/secondary-market volume are not fully priced in. Flagged OTC/liquidity risks and said a short-term reset/support test looks preferable to chasing.",
+    "entities": [
+      "Collector Crypt",
+      "CARDS",
+      "gacha",
+      "P2P marketplace volume",
+      "tokenholder value accrual",
+      "buybacks/burns",
+      "OTC liquidity",
+      "Solana"
+    ],
+    "why_logged": "High-context project-specific fundamental plus technical read from a Tier 1 account; useful update to coin_casanova’s CARDS/illiquid-token taste map.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-24",
     "handle": "kelxyz_",
     "type": "quote/decentralized_training_tam",
     "url": "https://x.com/kelxyz_/status/2069597720566780216",

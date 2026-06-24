@@ -1,5 +1,16 @@
 [
   {
+    "from": "coin_casanova",
+    "to": "Collector_Crypt",
+    "to_kind": "project",
+    "type": "authored_mention/project_analysis",
+    "date": "2026-06-24",
+    "url": "https://x.com/coin_casanova/status/2069649318982885840",
+    "summary": "Analyzed Collector Crypt / CARDS through tokenholder accrual, gacha/P2P marketplace growth, OTC-liquidity absorption risk, and near-term chart-reset needs; constructive but not a blind chase.",
+    "quality": "high",
+    "created_tier2_candidate": true
+  },
+  {
     "from": "airtightfish",
     "to": "ProofMarkets",
     "to_kind": "project",

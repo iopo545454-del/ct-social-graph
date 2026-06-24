@@ -507,5 +507,17 @@
     ],
     "first_seen": "2026-06-23",
     "confidence": "low"
+  },
+  {
+    "handle": "Collector_Crypt",
+    "kind": "project",
+    "status": "candidate",
+    "source": "coin_casanova CARDS / Collector Crypt project analysis",
+    "reason": "coin_casanova gave a detailed CARDS/Collector Crypt fundamental and technical analysis around gacha/P2P growth, tokenholder accrual, buybacks/burns, OTC-liquidity risk, and short-term reset needs. One high-quality Tier 1 evidence point, so keep candidate/mention-ledger rather than Tier 2.",
+    "evidence_urls": [
+      "https://x.com/coin_casanova/status/2069649318982885840"
+    ],
+    "first_seen": "2026-06-24",
+    "confidence": "medium"
   }
 ]
