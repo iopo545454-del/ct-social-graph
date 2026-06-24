@@ -3,8 +3,8 @@
     "handle": "coin_casanova",
     "period_start": "2026-05-14",
     "period_end": "2026-06-24",
-    "profile_updated_at": "2026-06-24T07:00:00Z",
-    "taste_summary": "Observed X/Twitter evidence shows a short-horizon trader focused on low-float/FDV-style setups, hedging, rotation, options, and relative-value framing between crypto and equities. Interpretation confidence is medium because the scan found several original posts but few substantive replies. Latest June 24 CARDS/Collector Crypt post adds a more fundamental project-analysis mode: he can like an illiquid token setup while still requiring tokenholder accrual proof, better liquidity/volume, and cleaner technical support before chasing.",
+    "profile_updated_at": "2026-06-24T12:00:00Z",
+    "taste_summary": "Observed X/Twitter evidence shows a short-horizon trader focused on low-float/FDV-style setups, hedging, rotation, options, and relative-value framing between crypto and equities. Interpretation confidence is medium because the scan found several original posts but few substantive replies. Latest June 24 CARDS/Collector Crypt post adds a more fundamental project-analysis mode: he can like an illiquid token setup while still requiring tokenholder accrual proof, better liquidity/volume, and cleaner technical support before chasing. Later June 24 follow-ups add a relative AI-token vehicle filter: fade crowded VVV/news-pump behavior, watch whether POD has real substance, and prefer GRASS as a near-term AI/data-token trade into a July catalyst.",
     "likes": [
       {
         "theme": "Low-float speculative setups with clear leaders",
@@ -28,11 +28,13 @@
       },
       {
         "theme": "Narrative leaders over fragmented basket pumps",
-        "summary": "In the Mythos-news pump, argued that scattering flows across TAO, VVV, POD, and AKT was inferior to concentrating under one leader; follow-up emphasized real-user usability and subscription-burn evidence before deciding the best vehicle.",
+        "summary": "In the Mythos-news pump, argued that scattering flows across TAO, VVV, POD, and AKT was inferior to concentrating under one leader; follow-up emphasized real-user usability and subscription-burn evidence before deciding the best vehicle. June 24 follow-up sharpened the filter: VVV looked weak after heavy shilling, POD may warrant more research, and GRASS was the preferred AI-token vehicle into a possible July catalyst.",
         "evidence_urls": [
           "https://x.com/coin_casanova/status/2066000974163169390",
           "https://x.com/coin_casanova/status/2066005931121574382",
-          "https://x.com/coin_casanova/status/2066010501512134674"
+          "https://x.com/coin_casanova/status/2066010501512134674",
+          "https://x.com/coin_casanova/status/2069731903838757209",
+          "https://x.com/coin_casanova/status/2069734548959793603"
         ],
         "confidence": "high"
       },
@@ -114,9 +116,10 @@
         "name": "POD",
         "handle": null,
         "stance": "watching",
-        "summary": "Mentioned as VVV beta in the Mythos-news AI-token rotation; needs follow-up before promotion.",
+        "summary": "Repeated AI-token basket mention: initially VVV beta in the Mythos-news rotation, now described as maybe having “more to it” and worth further research after VVV underperformed the news pivot. Candidate only.",
         "evidence_urls": [
-          "https://x.com/coin_casanova/status/2066005931121574382"
+          "https://x.com/coin_casanova/status/2066005931121574382",
+          "https://x.com/coin_casanova/status/2069731903838757209"
         ]
       },
       {
@@ -137,6 +140,15 @@
           "https://x.com/coin_casanova/status/2065980497793318928",
           "https://x.com/coin_casanova/status/2069649318982885840"
         ]
+      },
+      {
+        "name": "GRASS",
+        "handle": "getgrass_io",
+        "stance": "positive/watchlist",
+        "summary": "Previously only a broader AI/data token in AustinBarack evidence; coin_casanova now names GRASS as his preferred AI-token vehicle to long into a possible July “earnings” game based on an AI-equities source’s favorite crypto-AI list.",
+        "evidence_urls": [
+          "https://x.com/coin_casanova/status/2069734548959793603"
+        ]
       }
     ],
     "people_respected": [],
@@ -149,7 +161,8 @@
       "Need more reply/quote context to distinguish tactical shorts from fundamental dislikes.",
       "SPCX reference needs follow-up once the IPO/trade context is clearer.",
       "Track whether managed-care/financials rotation becomes a repeated coin_casanova equity theme or stays a one-reply macro note.",
-      "Track whether Collector Crypt/CARDS becomes a repeated coin_casanova project focus or remains a one-off detailed watchlist post."
+      "Track whether Collector Crypt/CARDS becomes a repeated coin_casanova project focus or remains a one-off detailed watchlist post.",
+      "Track whether coin_casanova’s GRASS/POD relative AI-token vehicle filter recurs or was only a post-Mythos-news follow-up."
     ],
     "evidence_urls": [
       "https://x.com/coin_casanova/status/2065438838546477385",
@@ -162,14 +175,16 @@
       "https://x.com/coin_casanova/status/2066668048438952167",
       "https://x.com/i/status/2066689100502163919",
       "https://x.com/coin_casanova/status/2069224647313457249",
-      "https://x.com/coin_casanova/status/2069649318982885840"
+      "https://x.com/coin_casanova/status/2069649318982885840",
+      "https://x.com/coin_casanova/status/2069731903838757209",
+      "https://x.com/coin_casanova/status/2069734548959793603"
     ]
   },
   {
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
     "period_end": "2026-06-22",
-    "profile_updated_at": "2026-06-22T21:56:05Z",
+    "profile_updated_at": "2026-06-24T12:00:00Z",
     "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Latest evidence adds a public-equity AI-imaging proxy note via BFLY/Butterfly Network, while earlier June 19 evidence sharpened STRC/depeg risk and founder-governance filters; new June 20 quotes add STRC marketing/math and risk-metric skepticism. New late-June-20 evidence adds a negative verification-provider credibility read via AccountableData/MainStreet, adjacent to his broader DeFi/RWA attestation and structured-credit risk filters. Latest reply-level evidence adds two AI diligence qualifiers: caution that Dark Bloom/EigenCloud should avoid grifty narrative behavior, and skepticism/curiosity around a Midjourney-scanner claim framed through incentives and fundraising context. June 21 replies add an incentive/timing layer to the MainStreet/Accountable verification-risk thread: he questioned PennyWorks for disclosing prior MainStreet concerns only after the controversy was public and framed delayed disclosure as potentially self-promotional. June 22 quote-post evidence extends his prediction-market skepticism into marketing credibility: he linked a Polymarket paid-promoter/deceptive-video investigation to likely similar tactics in TCGs. Latest June 22 quote adds a direct MSTR/BTC spread expression: he framed “MSTR down, BTC up” as his best-case day after quoting a question about why MSTR holders should stay if Saylor sells common for cash. Latest June 22 reply adds Pear Protocol/PEAR migration diligence: he is willing to re-check the Hyperliquid migration setup, but his first filter is fee drag versus constructing the pair trade directly.",
     "likes": [
       {
@@ -668,6 +683,15 @@
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2069165089215656343"
         ]
+      },
+      {
+        "name": "Avalanche / AVAX",
+        "handle": "avax",
+        "stance": "diligence",
+        "summary": "Asked whether FIFA received AVAX tokens in connection with Avalanche digital-ticketing issuance; incentive/disclosure diligence rather than a positive project view.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2069649601477689596"
+        ]
       }
     ],
     "people_respected": [
@@ -705,7 +729,8 @@
       "Watch whether GeeGee’s Strategy/STRC critique stays focused on structural risk or broadens into a durable critique of AI-productivity/financial-engineering marketing.",
       "Track whether AccountableData/MainStreet becomes a repeated GeeGee verification/attestation-risk topic or remains a one-off negative reaction.",
       "Track whether GeeGee's MainStreet/verification-provider critique remains about specific disclosure incentives or broadens into a durable DeFi attestation-provider trust filter.",
-      "Track whether GeeGee’s Polymarket/TCG promoter skepticism becomes a broader critique of gambling-adjacent crypto marketing or remains a one-off WSJ-investigation quote."
+      "Track whether GeeGee’s Polymarket/TCG promoter skepticism becomes a broader critique of gambling-adjacent crypto marketing or remains a one-off WSJ-investigation quote.",
+      "Track whether GeeGee continues probing enterprise-chain adoption announcements for token incentives/disclosure, starting with Avalanche/FIFA."
     ],
     "evidence_urls": [
       "https://x.com/0xGeeGee/status/2065771227743138126",
@@ -750,7 +775,9 @@
       "https://x.com/0xGeeGee/status/2068778330778698064",
       "https://x.com/0xGeeGee/status/2068773492342833345",
       "https://x.com/0xGeeGee/status/2069006938843599007",
-      "https://x.com/0xGeeGee/status/2069165089215656343"
+      "https://x.com/0xGeeGee/status/2069165089215656343",
+      "https://x.com/0xGeeGee/status/2069649601477689596",
+      "https://x.com/0xGeeGee/status/2069649220215386456"
     ]
   },
   {
@@ -933,8 +960,8 @@
     "handle": "airtightfish",
     "period_start": "2026-05-14",
     "period_end": "2026-06-24",
-    "profile_updated_at": "2026-06-24T00:00:00Z",
-    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence adds a tokenomics/accounting-process edge: he pushed against raw FDV for MetaDAO ownership-coin valuation and pointed toward adjusted supply / mNAV treatment. June 21 ryanchern reply adds another ProofMarkets/product-design datapoint: prediction markets need novel products that restore useful information surfaces beyond current category mix. June 22 quote added a light ProofMarkets ecosystem/partner signal via umia_finance/SURGECAST. Latest June 23 quote strengthens the ProofMarkets product-design trail with an actual conditional-futures Challenge market: SOL conditional on BTC up/down, framed as evidence that conditional futures can support experimental listed market types beyond event markets. Later June 23 replies add an Adjacent RED political-index feedback edge: he liked the index concept but wanted more volatility, saying ProofMarkets would love to list something like it as conditional indices develop. Latest June 23 evidence adds a concrete ProofMarkets/Solana tokenomics use case: he used a gated-MVP market to estimate Burn SIMD price impact and implementation odds, while caveating that failure would mainly matter as a signal on Solana's tokenomics direction.",
+    "profile_updated_at": "2026-06-24T12:00:00Z",
+    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence adds a tokenomics/accounting-process edge: he pushed against raw FDV for MetaDAO ownership-coin valuation and pointed toward adjusted supply / mNAV treatment. June 21 ryanchern reply adds another ProofMarkets/product-design datapoint: prediction markets need novel products that restore useful information surfaces beyond current category mix. June 22 quote added a light ProofMarkets ecosystem/partner signal via umia_finance/SURGECAST. Latest June 23 quote strengthens the ProofMarkets product-design trail with an actual conditional-futures Challenge market: SOL conditional on BTC up/down, framed as evidence that conditional futures can support experimental listed market types beyond event markets. Later June 23 replies add an Adjacent RED political-index feedback edge: he liked the index concept but wanted more volatility, saying ProofMarkets would love to list something like it as conditional indices develop. Latest June 23 evidence adds a concrete ProofMarkets/Solana tokenomics use case: he used a gated-MVP market to estimate Burn SIMD price impact and implementation odds, while caveating that failure would mainly matter as a signal on Solana's tokenomics direction. June 24 reply keeps ProofMarkets framed as an answer to the critique that current prediction markets are not practical hedging tools.",
     "likes": [
       {
         "theme": "Crypto access to private companies",
@@ -990,13 +1017,14 @@
       },
       {
         "theme": "Prediction-market product design beyond gambling",
-        "summary": "Prediction-market design evidence now spans non-gambling market/listing primitives, a live BTC/STRC conditional-market example, and a new ProofMarkets Challenge market trading SOL conditional on BTC up/down; he frames conditional futures as useful beyond discrete event markets. Later June 23 replies add adjacent index-product evidence: he liked Adjacent's RED political-futures index but wanted more volatility before ProofMarkets-style listing.",
+        "summary": "Prediction-market design evidence now spans non-gambling market/listing primitives, a live BTC/STRC conditional-market example, and a new ProofMarkets Challenge market trading SOL conditional on BTC up/down; he frames conditional futures as useful beyond discrete event markets. Later June 23 replies add adjacent index-product evidence: he liked Adjacent's RED political-futures index but wanted more volatility before ProofMarkets-style listing. Latest reply points ProofMarkets at the “prediction markets are bad hedging tools” critique, reinforcing hedging/product-utility positioning.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2067716891943096714",
           "https://x.com/airtightfish/status/2067715921859240042",
           "https://x.com/airtightfish/status/2068099380775665928",
           "https://x.com/airtightfish/status/2069228960613843148",
-          "https://x.com/i/status/2069522903314411586"
+          "https://x.com/i/status/2069522903314411586",
+          "https://x.com/airtightfish/status/2069630693173326150"
         ],
         "confidence": "medium"
       },
@@ -1051,7 +1079,7 @@
         "name": "ProofMarkets",
         "handle": "ProofMarkets",
         "stance": "positive",
-        "summary": "Repeated operating/project evidence: waitlist filtering, contest launch, manual onboarding, product-design replies around conditional futures/non-gambling markets, BTC/STRC conditional-market example, umia_finance/SURGECAST partner context, and now a SOL-if-BTC-up/down Challenge market framed as conditional-futures listing experimentation. Newest evidence uses ProofMarkets to price SOL Burn SIMD implementation odds and price impact.",
+        "summary": "Repeated operating/project evidence: waitlist filtering, contest launch, manual onboarding, product-design replies around conditional futures/non-gambling markets, BTC/STRC conditional-market example, umia_finance/SURGECAST partner context, and now a SOL-if-BTC-up/down Challenge market framed as conditional-futures listing experimentation. Newest evidence uses ProofMarkets to price SOL Burn SIMD implementation odds and price impact. June 24 reply again positioned ProofMarkets against a critique that current prediction markets fail as real hedging tools.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2064390683440341286",
           "https://x.com/airtightfish/status/2064743264691875927",
@@ -1066,7 +1094,8 @@
           "https://x.com/airtightfish/status/2068759628364550360",
           "https://x.com/airtightfish/status/2069122628330086912",
           "https://x.com/airtightfish/status/2069228960613843148",
-          "https://x.com/airtightfish/status/2069558654777356618"
+          "https://x.com/airtightfish/status/2069558654777356618",
+          "https://x.com/airtightfish/status/2069630693173326150"
         ]
       },
       {
@@ -1110,9 +1139,10 @@
         "name": "ProofMarkets",
         "handle": "ProofMarkets",
         "stance": "building/operating",
-        "summary": "Latest update showed conditional pricing in internal tests while preparing a paper trading contest, with a follow-up on early market settlement.",
+        "summary": "Latest update showed conditional pricing in internal tests while preparing a paper trading contest, with a follow-up on early market settlement. June 24 reply again positioned ProofMarkets against a critique that current prediction markets fail as real hedging tools.",
         "evidence_urls": [
-          "https://x.com/airtightfish/status/2067032953994072416"
+          "https://x.com/airtightfish/status/2067032953994072416",
+          "https://x.com/airtightfish/status/2069630693173326150"
         ],
         "confidence": "high"
       },
@@ -1218,7 +1248,8 @@
       "https://x.com/airtightfish/status/2069122628330086912",
       "https://x.com/airtightfish/status/2069228960613843148",
       "https://x.com/i/status/2069522903314411586",
-      "https://x.com/airtightfish/status/2069558654777356618"
+      "https://x.com/airtightfish/status/2069558654777356618",
+      "https://x.com/airtightfish/status/2069630693173326150"
     ]
   },
   {
@@ -1461,8 +1492,8 @@
     "handle": "MoneyPrinter0x",
     "period_start": "2026-05-14",
     "period_end": "2026-06-23",
-    "profile_updated_at": "2026-06-23T21:30:00Z",
-    "taste_summary": "Observed X/Twitter evidence shows an event-driven trader mixing AI-equity rotations, short-dated options, macro/rate catalysts, strict invalidation/risk caps, and public post-trade review. New June 19 evidence adds a self-review of the MSTR/CRWV/POET short book after rotating from broad shorts into short-term bullish equities, while still treating BTC upside as capped until the STRC/MSTR overhang has a fix path. Latest June 23 quote refreshes his AI-equity rotation map: from GPU capex into CPU/memory for agentic AI, then vertical integrations, and eventually physical AI / Apple robotics supply chain.",
+    "profile_updated_at": "2026-06-24T12:00:00Z",
+    "taste_summary": "Observed X/Twitter evidence shows an event-driven trader mixing AI-equity rotations, short-dated options, macro/rate catalysts, strict invalidation/risk caps, and public post-trade review. New June 19 evidence adds a self-review of the MSTR/CRWV/POET short book after rotating from broad shorts into short-term bullish equities, while still treating BTC upside as capped until the STRC/MSTR overhang has a fix path. Latest June 23 quote refreshes his AI-equity rotation map: from GPU capex into CPU/memory for agentic AI, then vertical integrations, and eventually physical AI / Apple robotics supply chain. June 24 DRAM/MU post adds another execution-level memory/AI-equity example with stop range, risk percentage, earnings catalyst, and explicit invalidation.",
     "likes": [
       {
         "theme": "AI agent harnesses and deterministic quality gates",
@@ -1892,6 +1923,15 @@
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2067850513614606714"
         ]
+      },
+      {
+        "name": "DRAM / Micron memory trade",
+        "handle": null,
+        "stance": "watching",
+        "summary": "Active memory-semiconductor setup: DRAM filled around 70, stops 68–69 (~2.2% risk), used as MU counter-retrace exposure into earnings with cheap invalidation.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2069692832236134890"
+        ]
       }
     ],
     "people_respected": [
@@ -1948,7 +1988,8 @@
       "Track whether BTC remains structurally capped in his framing after STRC/MSTR overhang developments.",
       "Track whether MoneyPrinter0x publishes more post-trade reviews that make execution/hedging/research lessons a recurring profile layer.",
       "Watch whether MoneyPrinter0x turns HYPE/NQ fractal comparisons into a repeated cross-market framework or it stays a one-off chart request.",
-      "Track whether MoneyPrinter0x's AI rotation map keeps moving from chip bottlenecks into vertical applications and physical AI supply-chain names."
+      "Track whether MoneyPrinter0x's AI rotation map keeps moving from chip bottlenecks into vertical applications and physical AI supply-chain names.",
+      "Track whether MoneyPrinter0x keeps expressing the AI-equity rotation via memory/Micron-style earnings setups after the DRAM trade."
     ],
     "evidence_urls": [
       "https://x.com/MoneyPrinter0x/status/2065910048833102118",
@@ -2003,7 +2044,8 @@
       "https://x.com/MoneyPrinter0x/status/2067864876643721389",
       "https://x.com/MoneyPrinter0x/status/2067879268311503019",
       "https://x.com/MoneyPrinter0x/status/2068277914454679787",
-      "https://x.com/MoneyPrinter0x/status/2069500973559800116"
+      "https://x.com/MoneyPrinter0x/status/2069500973559800116",
+      "https://x.com/MoneyPrinter0x/status/2069692832236134890"
     ]
   },
   {

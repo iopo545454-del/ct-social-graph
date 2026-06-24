@@ -1,5 +1,31 @@
 [
   {
+    "handle": "avax",
+    "kind": "project",
+    "status": "candidate",
+    "source": "0xGeeGee Avalanche/FIFA enterprise-adoption diligence reply",
+    "reason": "GeeGee asked a concrete token-incentive/disclosure question about FIFA digital-ticketing issuance on Avalanche; single diligence edge only, so keep as candidate.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2069649601477689596"
+    ],
+    "first_seen": "2026-06-24",
+    "confidence": "low"
+  },
+  {
+    "handle": "POD",
+    "kind": "project",
+    "status": "candidate",
+    "source": "coin_casanova repeated POD/AI-token vehicle-selection mentions",
+    "reason": "coin_casanova now has repeated POD mentions around Mythos/AI-token rotation and said there may be more to research, but it is still a tentative vehicle-selection note rather than a tracked-project thesis.",
+    "evidence_urls": [
+      "https://x.com/coin_casanova/status/2066005931121574382",
+      "https://x.com/coin_casanova/status/2069731903838757209",
+      "https://x.com/coin_casanova/status/2069734548959793603"
+    ],
+    "first_seen": "2026-06-24",
+    "confidence": "low"
+  },
+  {
     "handle": "goodalexander",
     "kind": "individual",
     "status": "candidate",

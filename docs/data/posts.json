@@ -2,6 +2,76 @@
   {
     "date": "2026-06-24",
     "handle": "coin_casanova",
+    "type": "quote/ai_token_vehicle_selection",
+    "url": "https://x.com/coin_casanova/status/2069734548959793603",
+    "summary": "Quoted a toptickcrypto AI-project list and said his AI-equities source likes GRASS/KLED/POD; leaned toward longing GRASS into a July “earnings” game while still treating the trade as vehicle-selection rather than broad AI-token endorsement.",
+    "entities": [
+      "GRASS",
+      "KLED",
+      "POD",
+      "crypto AI projects",
+      "AI equities",
+      "Solana",
+      "July earnings game"
+    ],
+    "why_logged": "Fresh source-close update to coin_casanova’s AI-token basket filter: GRASS is the preferred near-term vehicle while POD remains a research candidate.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-24",
+    "handle": "coin_casanova",
+    "type": "authored_post/ai_token_pump_fade",
+    "url": "https://x.com/coin_casanova/status/2069731903838757209",
+    "summary": "Revisited the Mythos-driven AI-token pump: VVV had been heavily shilled but traded below the news pivot, while POD looked like it might have more underneath it and deserved more research; concluded these news pumps are often fades.",
+    "entities": [
+      "VVV",
+      "POD",
+      "TAO",
+      "AKT",
+      "Mythos news",
+      "AI-token pump",
+      "news-pivot fade"
+    ],
+    "why_logged": "Useful negative/relative evidence: separates VVV fade from possible POD follow-up and reinforces coin_casanova’s preference for fading crowded news-pump baskets.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-24",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_trade_setup/memory_semis",
+    "url": "https://x.com/MoneyPrinter0x/status/2069692832236134890",
+    "summary": "Posted an active DRAM/Micron setup: filled DRAM around 70, stops in the 68–69 range for roughly 2.2% risk, using it as MU counter-retrace exposure into earnings with cheap invalidation if the continuation fails.",
+    "entities": [
+      "DRAM",
+      "Micron",
+      "MU",
+      "memory semiconductors",
+      "earnings",
+      "cheap invalidation",
+      "risk-managed trade setup"
+    ],
+    "why_logged": "Adds source-close execution detail to MoneyPrinter0x’s AI/memory-equities rotation map: explicit stop/risk/invalidation rather than generic bullishness.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-24",
+    "handle": "0xGeeGee",
+    "type": "authored_macro/south_america_event_risk",
+    "url": "https://x.com/0xGeeGee/status/2069649220215386456",
+    "summary": "Flagged a South America macro/political morning: Colombia’s Right winning “as planned” plus Venezuela disclosing/leaking roughly $240B in debt, more than expected.",
+    "entities": [
+      "Colombia election",
+      "Venezuela debt",
+      "South America macro",
+      "sovereign debt",
+      "event risk"
+    ],
+    "why_logged": "Light macro/event-risk evidence for GeeGee; not project-specific but useful for his political/sovereign-risk tape.",
+    "confidence": "low"
+  },
+  {
+    "date": "2026-06-24",
+    "handle": "coin_casanova",
     "type": "authored_project_analysis",
     "url": "https://x.com/coin_casanova/status/2069649318982885840",
     "summary": "Detailed Collector Crypt / CARDS analysis: gacha and marketplace growth, buyback/burn/value-accrual expectations, reduced whale concentration, and liquid-fund interest are partly priced in; direct tokenholder accrual proof and sustained P2P/secondary-market volume are not fully priced in. Flagged OTC/liquidity risks and said a short-term reset/support test looks preferable to chasing.",

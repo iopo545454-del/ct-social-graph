@@ -1,5 +1,27 @@
 [
   {
+    "from": "0xGeeGee",
+    "to": "avax",
+    "to_kind": "project",
+    "type": "reply/token_incentive_diligence",
+    "date": "2026-06-24",
+    "url": "https://x.com/0xGeeGee/status/2069649601477689596",
+    "summary": "Asked Avalanche/SVP Growth whether FIFA received any AVAX tokens related or unrelated to FIFA digital-ticketing issuance, a concise incentive/disclosure diligence question around enterprise adoption claims.",
+    "quality": "medium",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "airtightfish",
+    "to": "ProofMarkets",
+    "to_kind": "project",
+    "type": "reply/hedging_tool_positioning",
+    "date": "2026-06-24",
+    "url": "https://x.com/airtightfish/status/2069630693173326150",
+    "summary": "In a thread arguing prediction markets are poor real hedging tools due to binary payouts, liquidity, and standardization limits, pointed again to ProofMarkets as the relevant product direction.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
     "from": "coin_casanova",
     "to": "Collector_Crypt",
     "to_kind": "project",
