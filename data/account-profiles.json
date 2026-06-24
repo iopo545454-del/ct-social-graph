@@ -1503,9 +1503,9 @@
   {
     "handle": "MoneyPrinter0x",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-23",
-    "profile_updated_at": "2026-06-24T12:00:00Z",
-    "taste_summary": "Observed X/Twitter evidence shows an event-driven trader mixing AI-equity rotations, short-dated options, macro/rate catalysts, strict invalidation/risk caps, and public post-trade review. New June 19 evidence adds a self-review of the MSTR/CRWV/POET short book after rotating from broad shorts into short-term bullish equities, while still treating BTC upside as capped until the STRC/MSTR overhang has a fix path. Latest June 23 quote refreshes his AI-equity rotation map: from GPU capex into CPU/memory for agentic AI, then vertical integrations, and eventually physical AI / Apple robotics supply chain. June 24 DRAM/MU post adds another execution-level memory/AI-equity example with stop range, risk percentage, earnings catalyst, and explicit invalidation.",
+    "period_end": "2026-06-24",
+    "profile_updated_at": "2026-06-24T19:30:19Z",
+    "taste_summary": "Observed X/Twitter evidence shows an event-driven trader mixing AI-equity rotations, short-dated options, macro/rate catalysts, strict invalidation/risk caps, and public post-trade review. New June 19 evidence adds a self-review of the MSTR/CRWV/POET short book after rotating from broad shorts into short-term bullish equities, while still treating BTC upside as capped until the STRC/MSTR overhang has a fix path. Latest June 23 quote refreshes his AI-equity rotation map: from GPU capex into CPU/memory for agentic AI, then vertical integrations, and eventually physical AI / Apple robotics supply chain. June 24 DRAM/MU post adds another execution-level memory/AI-equity example with stop range, risk percentage, earnings catalyst, and explicit invalidation. Latest June 24 follow-ups add process evidence after the DRAM/MU setup: he reviewed the MSTR/CRWV/POET short book, credited MSTR as the main driver, and stressed execution/hedging/stops, while also saying overnight SPCX/Anthropic IPO risk should be scaled down as event exposure changes.",
     "likes": [
       {
         "theme": "AI agent harnesses and deterministic quality gates",
@@ -1537,14 +1537,16 @@
       },
       {
         "theme": "AI-equity infrastructure baskets",
-        "summary": "Weekly watchlist emphasized neoclouds, indium phosphide/photonics, open-source-model beneficiaries, CPU/edge infrastructure, and follow-up additions like INTC/AMPG; June 16 follow-up said ARM, QCOM, neoclouds, and photonics were “looking very good” as forward-looking regime-change monitors. June 18 added a live AMPG $10 milestone inside the same AI-equity/multiday-book context, though this is price-action evidence rather than a fresh thesis. Latest June 23 quote restated the capital-markets rotation map from GPUs toward CPU/memory bottlenecks, vertical AI integrations, and later physical AI/Apple robotics supply-chain exposure.",
+        "summary": "Weekly watchlist emphasized neoclouds, indium phosphide/photonics, open-source-model beneficiaries, CPU/edge infrastructure, and follow-up additions like INTC/AMPG; June 16 follow-up said ARM, QCOM, neoclouds, and photonics were “looking very good” as forward-looking regime-change monitors. June 18 added a live AMPG $10 milestone inside the same AI-equity/multiday-book context, though this is price-action evidence rather than a fresh thesis. Latest June 23 quote restated the capital-markets rotation map from GPUs toward CPU/memory bottlenecks, vertical AI integrations, and later physical AI/Apple robotics supply-chain exposure. June 24 MU/DRAM posts keep memory semis on the active AI-equity/event watchlist, including a prior-earnings chart as he positioned around Micron.",
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2066030025942655219",
           "https://x.com/MoneyPrinter0x/status/2066030572896764191",
           "https://x.com/MoneyPrinter0x/status/2066043375472750643",
           "https://x.com/MoneyPrinter0x/status/2066861466645672020",
           "https://x.com/MoneyPrinter0x/status/2067592240541921597",
-          "https://x.com/MoneyPrinter0x/status/2069500973559800116"
+          "https://x.com/MoneyPrinter0x/status/2069500973559800116",
+          "https://x.com/MoneyPrinter0x/status/2069692832236134890",
+          "https://x.com/MoneyPrinter0x/status/2069861029816000604"
         ],
         "confidence": "high"
       },
@@ -1566,7 +1568,7 @@
       },
       {
         "theme": "Macro/Fed uncertainty shorts with capped VaR",
-        "summary": "June 17-19 posts made a short-term macro expression concrete: full-portfolio short stance capped at 20% VaR, with MSTR/POET/CRWV shorts around Fed/Warsh forward-guidance uncertainty; later cut most shorts when AM downside failed, retained MSTR, and then posted a self-review noting MSTR drove most returns while execution/stop management/hedging/research needed improvement.",
+        "summary": "June 17-19 posts made a short-term macro expression concrete: full-portfolio short stance capped at 20% VaR, with MSTR/POET/CRWV shorts around Fed/Warsh forward-guidance uncertainty; later cut most shorts when AM downside failed, retained MSTR, and then posted a self-review noting MSTR drove most returns while execution/stop management/hedging/research needed improvement. Latest follow-up adds attribution: MSTR drove most returns while CRWV/POET were smaller, and he framed improvements around hedging, execution, historical modeling, stop management, and cleaner expressions.",
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2067353313344156054",
           "https://x.com/MoneyPrinter0x/status/2067335139554914480",
@@ -1577,7 +1579,8 @@
           "https://x.com/MoneyPrinter0x/status/2067610046851403910",
           "https://x.com/MoneyPrinter0x/status/2067621321757057404",
           "https://x.com/MoneyPrinter0x/status/2067598251780612186",
-          "https://x.com/MoneyPrinter0x/status/2067879268311503019"
+          "https://x.com/MoneyPrinter0x/status/2067879268311503019",
+          "https://x.com/MoneyPrinter0x/status/2069857449310622194"
         ],
         "confidence": "high"
       },
@@ -1619,11 +1622,12 @@
       },
       {
         "theme": "Short-dated event-risk options with explicit asymmetric sizing",
-        "summary": "June 16-17 posts showed short-dated SOXL/SPCX calls around FOMC, explicit willingness to expect zero on risky options, quick rotation into SPCX, and follow-through closing >60% on SPCX 1DTE calls bought minutes before the prior close.",
+        "summary": "June 16-17 posts showed short-dated SOXL/SPCX calls around FOMC, explicit willingness to expect zero on risky options, quick rotation into SPCX, and follow-through closing >60% on SPCX 1DTE calls bought minutes before the prior close. A June 24 reply added that SPCX/Anthropic IPO overnight risk should be scaled down as the event window changes, reinforcing dynamic derisking rather than static FOMO.",
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2066969667940553125",
           "https://x.com/MoneyPrinter0x/status/2066999597000692143",
-          "https://x.com/MoneyPrinter0x/status/2067239109492695496"
+          "https://x.com/MoneyPrinter0x/status/2067239109492695496",
+          "https://x.com/MoneyPrinter0x/status/2069856428102467635"
         ],
         "confidence": "medium-high"
       },
@@ -2064,8 +2068,8 @@
     "handle": "kelxyz_",
     "period_start": "2026-05-14",
     "period_end": "2026-06-24",
-    "profile_updated_at": "2026-06-24T16:00:00Z",
-    "taste_summary": "Observed X/Twitter evidence is thesis-heavy around AI/crypto protocols, especially Pluralis, inference-market timing, decentralized/model-parallel training, alternative financing for inference/compute aggregation, and cautious evaluation of incentivized inference designs. New June 19 evidence says Nock is 'in the running' while explicitly noting no current design is fully convincing yet. Latest June 23 evidence adds two source-close filters: skepticism toward CA-in-bio coins, and technical due diligence on whether consumer-GPU/sharded inference can actually deliver GLM 5.2-class performance at claimed discounts. Latest June 24 quote adds a TAM argument for decentralized training: a reported Reflection/SpaceX compute deal at ~$150M/month is used to push back on claims that decentralized training lacks enough demand if it scales. A new follow-up adds the key caveat: aggregating many weaker chips into frontier-scale training remains unproven, and the upside exists precisely because the equivalence is not yet known.",
+    "profile_updated_at": "2026-06-24T19:30:19Z",
+    "taste_summary": "Observed X/Twitter evidence is thesis-heavy around AI/crypto protocols, especially Pluralis, inference-market timing, decentralized/model-parallel training, alternative financing for inference/compute aggregation, and cautious evaluation of incentivized inference designs. New June 19 evidence says Nock is 'in the running' while explicitly noting no current design is fully convincing yet. Latest June 23 evidence adds two source-close filters: skepticism toward CA-in-bio coins, and technical due diligence on whether consumer-GPU/sharded inference can actually deliver GLM 5.2-class performance at claimed discounts. Latest June 24 quote adds a TAM argument for decentralized training: a reported Reflection/SpaceX compute deal at ~$150M/month is used to push back on claims that decentralized training lacks enough demand if it scales. A new follow-up adds the key caveat: aggregating many weaker chips into frontier-scale training remains unproven, and the upside exists precisely because the equivalence is not yet known. Latest non-crypto June 24 post adds a style/culture layer: he framed status markets around wealth, fitness, and hard-to-fake revolutionary action, which fits the account’s broader mimetic/reflexivity analysis but is not project evidence.",
     "likes": [
       {
         "theme": "Pluralis and model-parallel decentralized training",
@@ -2090,11 +2094,12 @@
       },
       {
         "theme": "Macro/culture theses around AI and the underclass",
-        "summary": "Wrote a detailed Permanent Underclass Index equities thesis around consumer quality barbell, AI resilience, slop dividends, physical retail, and dopamine/pharma/delivery overlaps.",
+        "summary": "Wrote a detailed Permanent Underclass Index equities thesis around consumer quality barbell, AI resilience, slop dividends, physical retail, and dopamine/pharma/delivery overlaps. New June 24 culture post generalizes the same mimetic/status lens to wealth saturation, fake fitness, and scarce hard-to-fake revolutionary action.",
         "evidence_urls": [
           "https://x.com/kelxyz_/status/2064358765340557483",
           "https://x.com/kelxyz_/status/2064360494949953681",
-          "https://x.com/kelxyz_/status/2064365937927631203"
+          "https://x.com/kelxyz_/status/2064365937927631203",
+          "https://x.com/kelxyz_/status/2069860756414144593"
         ],
         "confidence": "medium"
       },

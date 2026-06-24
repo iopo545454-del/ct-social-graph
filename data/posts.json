@@ -1,6 +1,60 @@
 [
   {
     "date": "2026-06-24",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/post_trade_review_mstr_crwv_poet",
+    "url": "https://x.com/MoneyPrinter0x/status/2069857449310622194",
+    "summary": "Followed up on the MSTR/CRWV/POET short book: CRWV worked as a short, he held most of the MSTR short until the prior day, MSTR drove most of the return while CRWV/POET were smaller, and the lesson set emphasized hedging, execution, historical modeling, stops, and risk-adjusted expression choice.",
+    "entities": [
+      "MSTR",
+      "CRWV",
+      "POET",
+      "short book",
+      "post-trade review",
+      "hedging",
+      "execution",
+      "risk-adjusted expressions"
+    ],
+    "why_logged": "High-signal MoneyPrinter0x process evidence: explicit post-trade review and attribution across the recent macro/AI-equity short cluster, not just a ticker update.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-24",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/ipo_overnight_risk_derisking",
+    "url": "https://x.com/MoneyPrinter0x/status/2069856428102467635",
+    "summary": "Revisited earlier leverage warnings around SPCX/Anthropic IPO risk and said overnight risk should gradually scale down into/after the SPCX IPO except for assets with active markets; framed this as avoiding FOMO and preparing for multiple scenarios rather than absolutes.",
+    "entities": [
+      "SPCX",
+      "Anthropic IPO",
+      "overnight risk",
+      "leverage",
+      "derisking",
+      "event risk",
+      "scenario planning"
+    ],
+    "why_logged": "Extends the SPCX/FOMC/options cluster with a cleaner risk-management rule: scale event exposure as overnight/listing risk changes instead of treating the setup as binary.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-24",
+    "handle": "kelxyz_",
+    "type": "authored_post/culture_revolutionary_status",
+    "url": "https://x.com/kelxyz_/status/2069860756414144593",
+    "summary": "Posted a broader culture/status thesis: the 'rich person' status slot is saturated and fake fitness may follow, while authentic revolutionary action is scarcer and harder to fake; predicted disillusioned youth could produce more revolutionary figures globally.",
+    "entities": [
+      "status games",
+      "wealth meme saturation",
+      "fitness meme",
+      "revolutionary figures",
+      "youth disillusionment",
+      "global social unrest"
+    ],
+    "why_logged": "Not a project mention, but useful light profile/style evidence for kelxyz_: combines mimetic/status analysis with macro-social reflexivity, matching the account’s non-purely-trading thesis layer.",
+    "confidence": "low"
+  },
+  {
+    "date": "2026-06-24",
     "handle": "kelxyz_",
     "type": "reply/decentralized_training_scale_uncertainty",
     "url": "https://x.com/kelxyz_/status/2069791880766706101",
