@@ -1,6 +1,6 @@
 {
-  "last_checked": "2026-06-24T15:25:01Z",
-  "new_count": 1,
+  "last_checked": "2026-06-24T19:32:54Z",
+  "new_count": 2,
   "sources": [
     {
       "name": "a16z crypto",
@@ -63,7 +63,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-24T15:24:58Z"
+      "checked_at": "2026-06-24T19:32:50Z"
     },
     {
       "name": "Multicoin Capital",
@@ -138,7 +138,7 @@
           "published": "Thu, 11 Sep 2025 00:00:00 GMT"
         }
       ],
-      "checked_at": "2026-06-24T15:24:58Z"
+      "checked_at": "2026-06-24T19:32:51Z"
     },
     {
       "name": "Pantera Blockchain Letter",
@@ -203,7 +203,7 @@
           "published": "Thu, 29 May 2025 16:37:35 +0000"
         }
       ],
-      "checked_at": "2026-06-24T15:24:59Z"
+      "checked_at": "2026-06-24T19:32:52Z"
     },
     {
       "name": "Paradigm",
@@ -266,7 +266,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-24T15:25:00Z"
+      "checked_at": "2026-06-24T19:32:53Z"
     },
     {
       "name": "Glassnode Research",
@@ -306,6 +306,11 @@
           "published": "Wed, 20 May 2026 10:00:00 GMT"
         },
         {
+          "title": "Waiting for Buyers",
+          "url": "https://research.glassnode.com/the-week-onchain-week-25-2026",
+          "published": "Wed, 24 Jun 2026 17:31:56 GMT"
+        },
+        {
           "title": "The Bitcoin Vector #61",
           "url": "https://research.glassnode.com/the-bitcoin-vector-61",
           "published": "Wed, 24 Jun 2026 13:00:00 GMT"
@@ -334,14 +339,9 @@
           "title": "BTC Market Pulse: Week 25",
           "url": "https://research.glassnode.com/btc-market-pulse-week-25",
           "published": "Mon, 15 Jun 2026 15:20:07 GMT"
-        },
-        {
-          "title": "The Bitcoin Vector #59",
-          "url": "https://research.glassnode.com/the-bitcoin-vector-59",
-          "published": "Thu, 11 Jun 2026 08:45:00 GMT"
         }
       ],
-      "checked_at": "2026-06-24T15:25:00Z"
+      "checked_at": "2026-06-24T19:32:53Z"
     },
     {
       "name": "Delphi Digital",
@@ -359,7 +359,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-24T15:25:00Z"
+      "checked_at": "2026-06-24T19:32:53Z"
     },
     {
       "name": "Electric Capital",
@@ -371,7 +371,7 @@
       "error": null,
       "feed_urls": [],
       "items": [],
-      "checked_at": "2026-06-24T15:25:00Z"
+      "checked_at": "2026-06-24T19:32:53Z"
     },
     {
       "name": "Bankless",
@@ -439,12 +439,12 @@
           "published": null
         },
         {
-          "title": "Analysis The Hyperliquid Altcoin That's Getting Interesting Again Kinetiq dominates liquid HYPE staking but its core business is shrinking. ",
-          "url": "https://www.bankless.com/read/the-hyperliquid-altcoin-thats-getting-interesting-again",
+          "title": "News Hyperliquid Passes AQA v2 to Fund More HYPE Buybacks 90% of USDC yield on Hyperliquid will fund HYPE buybacks starting Oct. 3, creating",
+          "url": "https://www.bankless.com/read/news/hyperliquid-passes-aqa-v2-to-fund-more-hype-buybacks",
           "published": null
         }
       ],
-      "checked_at": "2026-06-24T15:25:01Z"
+      "checked_at": "2026-06-24T19:32:54Z"
     },
     {
       "name": "Token Terminal",
@@ -517,7 +517,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-24T15:25:01Z"
+      "checked_at": "2026-06-24T19:32:54Z"
     }
   ],
   "articles": [
@@ -992,6 +992,16 @@
       "source_url": "https://research.glassnode.com/"
     },
     {
+      "id": "2e1001b56f82",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "Waiting for Buyers",
+      "url": "https://research.glassnode.com/the-week-onchain-week-25-2026",
+      "published": "Wed, 24 Jun 2026 17:31:56 GMT",
+      "first_seen": "2026-06-24T19:32:54Z",
+      "source_url": "https://research.glassnode.com/"
+    },
+    {
       "id": "b9a4392744e4",
       "source": "Glassnode Research",
       "tier": 1,
@@ -1049,16 +1059,6 @@
       "url": "https://research.glassnode.com/btc-market-pulse-week-25",
       "published": "Mon, 15 Jun 2026 15:20:07 GMT",
       "first_seen": "2026-06-15T16:35:36Z",
-      "source_url": "https://research.glassnode.com/"
-    },
-    {
-      "id": "50b6726321bc",
-      "source": "Glassnode Research",
-      "tier": 1,
-      "title": "The Bitcoin Vector #59",
-      "url": "https://research.glassnode.com/the-bitcoin-vector-59",
-      "published": "Thu, 11 Jun 2026 08:45:00 GMT",
-      "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://research.glassnode.com/"
     },
     {
@@ -1182,13 +1182,13 @@
       "source_url": "https://www.bankless.com/read"
     },
     {
-      "id": "86d0de6551c4",
+      "id": "4c6bee9e8312",
       "source": "Bankless",
       "tier": 2,
-      "title": "Analysis The Hyperliquid Altcoin That's Getting Interesting Again Kinetiq dominates liquid HYPE staking but its core business is shrinking. ",
-      "url": "https://www.bankless.com/read/the-hyperliquid-altcoin-thats-getting-interesting-again",
+      "title": "News Hyperliquid Passes AQA v2 to Fund More HYPE Buybacks 90% of USDC yield on Hyperliquid will fund HYPE buybacks starting Oct. 3, creating",
+      "url": "https://www.bankless.com/read/news/hyperliquid-passes-aqa-v2-to-fund-more-hype-buybacks",
       "published": null,
-      "first_seen": "2026-06-18T19:14:29Z",
+      "first_seen": "2026-06-24T19:32:54Z",
       "source_url": "https://www.bankless.com/read"
     },
     {
@@ -1310,6 +1310,26 @@
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "50b6726321bc",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "The Bitcoin Vector #59",
+      "url": "https://research.glassnode.com/the-bitcoin-vector-59",
+      "published": "Thu, 11 Jun 2026 08:45:00 GMT",
+      "first_seen": "2026-06-14T20:08:30Z",
+      "source_url": "https://research.glassnode.com/"
+    },
+    {
+      "id": "86d0de6551c4",
+      "source": "Bankless",
+      "tier": 2,
+      "title": "Analysis The Hyperliquid Altcoin That's Getting Interesting Again Kinetiq dominates liquid HYPE staking but its core business is shrinking. ",
+      "url": "https://www.bankless.com/read/the-hyperliquid-altcoin-thats-getting-interesting-again",
+      "published": null,
+      "first_seen": "2026-06-18T19:14:29Z",
+      "source_url": "https://www.bankless.com/read"
     },
     {
       "id": "ce8e3f3f246f",
