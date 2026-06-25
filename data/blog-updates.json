@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-25T07:55:33Z",
+  "last_checked": "2026-06-25T16:12:00Z",
   "new_count": 1,
   "sources": [
     {
@@ -63,7 +63,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-25T07:55:28Z"
+      "checked_at": "2026-06-25T16:11:55Z"
     },
     {
       "name": "Multicoin Capital",
@@ -77,6 +77,11 @@
         "https://multicoin.capital/rss.xml"
       ],
       "items": [
+        {
+          "title": "Hyperliquid (HYPE) Analysis & Valuation",
+          "url": "https://multicoin.capital/2026/06/25/hyperliquid-hype-analysis-and-valuation",
+          "published": "Thu, 25 Jun 2026 00:00:00 GMT"
+        },
         {
           "title": "Investing for the Long Haul",
           "url": "https://multicoin.capital/2026/03/24/investing-for-the-long-haul",
@@ -131,14 +136,9 @@
           "title": "IBRL",
           "url": "https://multicoin.capital/2025/10/02/double-zero-ibrl",
           "published": "Thu, 02 Oct 2025 00:00:00 GMT"
-        },
-        {
-          "title": "No title",
-          "url": "https://multicoin.capital/2025/09/11/creating-the-worlds-leading-solana-treasury-company",
-          "published": "Thu, 11 Sep 2025 00:00:00 GMT"
         }
       ],
-      "checked_at": "2026-06-25T07:55:29Z"
+      "checked_at": "2026-06-25T16:11:56Z"
     },
     {
       "name": "Pantera Blockchain Letter",
@@ -203,7 +203,7 @@
           "published": "Thu, 29 May 2025 16:37:35 +0000"
         }
       ],
-      "checked_at": "2026-06-25T07:55:29Z"
+      "checked_at": "2026-06-25T16:11:58Z"
     },
     {
       "name": "Paradigm",
@@ -266,7 +266,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-25T07:55:30Z"
+      "checked_at": "2026-06-25T16:11:58Z"
     },
     {
       "name": "Glassnode Research",
@@ -341,7 +341,7 @@
           "published": "Wed, 17 Jun 2026 07:53:46 GMT"
         }
       ],
-      "checked_at": "2026-06-25T07:55:31Z"
+      "checked_at": "2026-06-25T16:11:58Z"
     },
     {
       "name": "Delphi Digital",
@@ -359,7 +359,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-25T07:55:32Z"
+      "checked_at": "2026-06-25T16:11:59Z"
     },
     {
       "name": "Electric Capital",
@@ -371,7 +371,7 @@
       "error": null,
       "feed_urls": [],
       "items": [],
-      "checked_at": "2026-06-25T07:55:32Z"
+      "checked_at": "2026-06-25T16:11:59Z"
     },
     {
       "name": "Bankless",
@@ -444,7 +444,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-25T07:55:33Z"
+      "checked_at": "2026-06-25T16:12:00Z"
     },
     {
       "name": "Token Terminal",
@@ -517,7 +517,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-25T07:55:33Z"
+      "checked_at": "2026-06-25T16:12:00Z"
     }
   ],
   "articles": [
@@ -620,6 +620,16 @@
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://a16zcrypto.com/posts/"
+    },
+    {
+      "id": "6e5893a95e64",
+      "source": "Multicoin Capital",
+      "tier": 1,
+      "title": "Hyperliquid (HYPE) Analysis & Valuation",
+      "url": "https://multicoin.capital/2026/06/25/hyperliquid-hype-analysis-and-valuation",
+      "published": "Thu, 25 Jun 2026 00:00:00 GMT",
+      "first_seen": "2026-06-25T16:12:00Z",
+      "source_url": "https://multicoin.capital/blog/"
     },
     {
       "id": "3af4da333771",
@@ -728,16 +738,6 @@
       "title": "IBRL",
       "url": "https://multicoin.capital/2025/10/02/double-zero-ibrl",
       "published": "Thu, 02 Oct 2025 00:00:00 GMT",
-      "first_seen": "2026-06-14T20:08:30Z",
-      "source_url": "https://multicoin.capital/blog/"
-    },
-    {
-      "id": "92e742c93885",
-      "source": "Multicoin Capital",
-      "tier": 1,
-      "title": "No title",
-      "url": "https://multicoin.capital/2025/09/11/creating-the-worlds-leading-solana-treasury-company",
-      "published": "Thu, 11 Sep 2025 00:00:00 GMT",
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://multicoin.capital/blog/"
     },
@@ -1310,6 +1310,16 @@
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "92e742c93885",
+      "source": "Multicoin Capital",
+      "tier": 1,
+      "title": "No title",
+      "url": "https://multicoin.capital/2025/09/11/creating-the-worlds-leading-solana-treasury-company",
+      "published": "Thu, 11 Sep 2025 00:00:00 GMT",
+      "first_seen": "2026-06-14T20:08:30Z",
+      "source_url": "https://multicoin.capital/blog/"
     },
     {
       "id": "e67274cb76ba",
