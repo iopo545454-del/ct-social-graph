@@ -1,6 +1,99 @@
 [
   {
     "date": "2026-06-25",
+    "handle": "airtightfish",
+    "type": "reply/product_feedback",
+    "url": "https://x.com/airtightfish/status/2070174374406091055",
+    "summary": "In prediction-market product discussion, said ProofMarkets is still in MVP and nothing from the idea set is implemented yet; added that Kalshi is better while Polymarket/UMA is really bad.",
+    "entities": [
+      "ProofMarkets",
+      "Kalshi",
+      "Polymarket",
+      "UMA",
+      "prediction-market product design",
+      "MVP"
+    ],
+    "why_logged": "Useful caveat/competitive filter: airtightfish is not blindly hyping all PM venues; he distinguishes MVP status and gives a negative Polymarket/UMA product-quality read.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-25",
+    "handle": "airtightfish",
+    "type": "quote/project_update",
+    "url": "https://x.com/airtightfish/status/2070163896762073583",
+    "summary": "Quoted a ProofMarkets BTC/STRC conditional market and said MVP markets are already showing the value of positioning around different events, even when the market is interesting in the wrong direction.",
+    "entities": [
+      "ProofMarkets",
+      "BTC",
+      "STRC",
+      "conditional market",
+      "MVP",
+      "event positioning"
+    ],
+    "why_logged": "Fresh direct ProofMarkets product evidence from airtightfish, extending the conditional-market/non-gambling market design stream with a BTC/STRC example.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-25",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/equity_catalyst",
+    "url": "https://x.com/MoneyPrinter0x/status/2070158988298334495",
+    "summary": "Flagged BB/BlackBerry as a possible White House cybersecurity/privacy-communications beneficiary after earlier buying more BB on earnings and repeated intraday 'looking good' follow-ups.",
+    "entities": [
+      "BB",
+      "BlackBerry",
+      "cybersecurity",
+      "privacy communications",
+      "White House",
+      "earnings",
+      "equity catalyst"
+    ],
+    "why_logged": "Adds a specific non-crypto equity catalyst to the already repeated BB attention; keep in profile/process layer rather than promoting as a crypto project.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-25",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/macro_event_trade",
+    "url": "https://x.com/i/status/2070066740550340944",
+    "summary": "Argued the June inflation expectations print could surprise lower after sharp drops in near-term expectations and bond yields, creating asymmetric upside for risk assets into Friday; follow-ups favored MU/DRAM or SOXL longs around PCE/pre-print weakness with stops set before the event.",
+    "entities": [
+      "June inflation expectations",
+      "PCE",
+      "bond yields",
+      "risk assets",
+      "MU",
+      "DRAM",
+      "SOXL",
+      "event-risk longs",
+      "stops"
+    ],
+    "why_logged": "Extends his macro-to-options/equity process: data-release timing, vehicle selection, and asymmetric risk setup are all explicit.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-25",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/process",
+    "url": "https://x.com/i/status/2070102566806118461",
+    "summary": "Explained why AMPG was not in the immediate next-leg basket: in low-breadth convex regimes, the bellwether alpha asset should lead first, then liquidity flows down the risk curve from memory to CPU to connectivity/neoclouds, with AMPG/space-signals-network exposure later and more idiosyncratic.",
+    "entities": [
+      "AMPG",
+      "memory semis",
+      "DRAM",
+      "MU",
+      "CPU beta",
+      "connectivity",
+      "neoclouds",
+      "800VDC",
+      "risk-curve sequencing",
+      "momentum regime"
+    ],
+    "why_logged": "Useful process evidence: he is not merely listing tickers, but ranking sector-beta propagation and treating early risk-curve distribution as a possible weak-follow-through signal.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-25",
     "handle": "MoneyPrinter0x",
     "type": "quote_post/post_warsh_phase2_ai_equity_rotation",
     "url": "https://x.com/MoneyPrinter0x/status/2070084392152891433",

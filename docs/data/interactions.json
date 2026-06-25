@@ -1,5 +1,27 @@
 [
   {
+    "from": "airtightfish",
+    "to": "unknown_counterparty",
+    "to_kind": "individual",
+    "type": "reply/prediction_market_competitive_filter",
+    "date": "2026-06-25",
+    "url": "https://x.com/airtightfish/status/2070174374406091055",
+    "summary": "Responded in a prediction-market product discussion that ProofMarkets is still MVP, Kalshi is better, and Polymarket/UMA is really bad; substantive product-quality filter but counterparty unavailable from search result.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "airtightfish",
+    "to": "ProofMarkets",
+    "to_kind": "project",
+    "type": "quote/btc_strc_conditional_market",
+    "date": "2026-06-25",
+    "url": "https://x.com/airtightfish/status/2070163896762073583",
+    "summary": "Quoted ProofMarkets' BTC/STRC conditional market and framed MVP markets as already demonstrating the value of event-positioning primitives.",
+    "quality": "high",
+    "created_tier2_candidate": false
+  },
+  {
     "from": "0xGeeGee",
     "to": "jaibhavnani",
     "to_kind": "individual",

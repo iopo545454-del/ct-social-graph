@@ -975,8 +975,8 @@
     "handle": "airtightfish",
     "period_start": "2026-05-14",
     "period_end": "2026-06-25",
-    "profile_updated_at": "2026-06-25T03:44:51Z",
-    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence adds a tokenomics/accounting-process edge: he pushed against raw FDV for MetaDAO ownership-coin valuation and pointed toward adjusted supply / mNAV treatment. June 21 ryanchern reply adds another ProofMarkets/product-design datapoint: prediction markets need novel products that restore useful information surfaces beyond current category mix. June 22 quote added a light ProofMarkets ecosystem/partner signal via umia_finance/SURGECAST. Latest June 23 quote strengthens the ProofMarkets product-design trail with an actual conditional-futures Challenge market: SOL conditional on BTC up/down, framed as evidence that conditional futures can support experimental listed market types beyond event markets. Later June 23 replies add an Adjacent RED political-index feedback edge: he liked the index concept but wanted more volatility, saying ProofMarkets would love to list something like it as conditional indices develop. Latest June 23 evidence adds a concrete ProofMarkets/Solana tokenomics use case: he used a gated-MVP market to estimate Burn SIMD price impact and implementation odds, while caveating that failure would mainly matter as a signal on Solana's tokenomics direction. June 24 reply keeps ProofMarkets framed as an answer to the critique that current prediction markets are not practical hedging tools. Latest June 24 GRASS reply extends the same conditional-futures design pattern from ProofMarkets demos into tokenomics discovery: use a conditional market around whether Grass announces robust token value attribution, while disclosing he is a Grass fan. PreStocks/Kalshi post adds a private-market liquidity/execution layer: he likes the idea of pre-IPO secondary-style products, but criticized disappearing liquidity and inability to exit. June 25 follow-up adds an important ProofMarkets caveat: the SOL Burn SIMD market was a very illiquid gated-MVP/test market, useful only as directional information rather than a robust liquid pricing venue.",
+    "profile_updated_at": "2026-06-25T16:08:33Z",
+    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence adds a tokenomics/accounting-process edge: he pushed against raw FDV for MetaDAO ownership-coin valuation and pointed toward adjusted supply / mNAV treatment. June 21 ryanchern reply adds another ProofMarkets/product-design datapoint: prediction markets need novel products that restore useful information surfaces beyond current category mix. June 22 quote added a light ProofMarkets ecosystem/partner signal via umia_finance/SURGECAST. Latest June 23 quote strengthens the ProofMarkets product-design trail with an actual conditional-futures Challenge market: SOL conditional on BTC up/down, framed as evidence that conditional futures can support experimental listed market types beyond event markets. Later June 23 replies add an Adjacent RED political-index feedback edge: he liked the index concept but wanted more volatility, saying ProofMarkets would love to list something like it as conditional indices develop. Latest June 23 evidence adds a concrete ProofMarkets/Solana tokenomics use case: he used a gated-MVP market to estimate Burn SIMD price impact and implementation odds, while caveating that failure would mainly matter as a signal on Solana's tokenomics direction. June 24 reply keeps ProofMarkets framed as an answer to the critique that current prediction markets are not practical hedging tools. Latest June 24 GRASS reply extends the same conditional-futures design pattern from ProofMarkets demos into tokenomics discovery: use a conditional market around whether Grass announces robust token value attribution, while disclosing he is a Grass fan. PreStocks/Kalshi post adds a private-market liquidity/execution layer: he likes the idea of pre-IPO secondary-style products, but criticized disappearing liquidity and inability to exit. June 25 follow-up adds an important ProofMarkets caveat: the SOL Burn SIMD market was a very illiquid gated-MVP/test market, useful only as directional information rather than a robust liquid pricing venue. June 25 adds another direct ProofMarkets MVP example via a BTC/STRC conditional market, plus a useful caveat/competitive filter: ProofMarkets is still MVP, Kalshi is better today, and Polymarket/UMA are viewed negatively.",
     "likes": [
       {
         "theme": "Crypto access to private companies",
@@ -1097,6 +1097,14 @@
           "https://x.com/airtightfish/status/2067075588364333472"
         ],
         "confidence": "medium"
+      },
+      {
+        "theme": "Polymarket / UMA product quality",
+        "summary": "In a prediction-market product discussion, said Kalshi is better and Polymarket/UMA is really bad, while caveating that ProofMarkets is still MVP.",
+        "evidence_urls": [
+          "https://x.com/airtightfish/status/2070174374406091055"
+        ],
+        "confidence": "medium"
       }
     ],
     "projects_mentioned": [
@@ -1104,7 +1112,7 @@
         "name": "ProofMarkets",
         "handle": "ProofMarkets",
         "stance": "positive",
-        "summary": "Repeated operating/project evidence: waitlist filtering, contest launch, manual onboarding, product-design replies around conditional futures/non-gambling markets, BTC/STRC conditional-market example, umia_finance/SURGECAST partner context, and now a SOL-if-BTC-up/down Challenge market framed as conditional-futures listing experimentation. Newest evidence uses ProofMarkets to price SOL Burn SIMD implementation odds and price impact. June 24 reply again positioned ProofMarkets against a critique that current prediction markets fail as real hedging tools. Latest June 25 reply caveats the SOL Burn SIMD market as very illiquid and gated-MVP/test-market data, while still directionally informative.",
+        "summary": "Repeated operating/project evidence: waitlist filtering, contest launch, manual onboarding, product-design replies around conditional futures/non-gambling markets, BTC/STRC conditional-market example, umia_finance/SURGECAST partner context, and now a SOL-if-BTC-up/down Challenge market framed as conditional-futures listing experimentation. Newest evidence uses ProofMarkets to price SOL Burn SIMD implementation odds and price impact. June 24 reply again positioned ProofMarkets against a critique that current prediction markets fail as real hedging tools. Latest June 25 reply caveats the SOL Burn SIMD market as very illiquid and gated-MVP/test-market data, while still directionally informative. June 25 added a BTC/STRC conditional-market quote and an explicit MVP caveat alongside a Kalshi-better / Polymarket-UMA-negative product-quality comparison.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2064390683440341286",
           "https://x.com/airtightfish/status/2064743264691875927",
@@ -1121,7 +1129,9 @@
           "https://x.com/airtightfish/status/2069228960613843148",
           "https://x.com/airtightfish/status/2069558654777356618",
           "https://x.com/airtightfish/status/2069630693173326150",
-          "https://x.com/airtightfish/status/2069949639055315379"
+          "https://x.com/airtightfish/status/2069949639055315379",
+          "https://x.com/airtightfish/status/2070163896762073583",
+          "https://x.com/airtightfish/status/2070174374406091055"
         ]
       },
       {
@@ -1258,7 +1268,8 @@
       "Track whether ProofMarkets conditional futures expand from challenge markets into durable public markets with non-event use cases.",
       "Track whether airtightfish’s GRASS tokenomics/value-attribution interest recurs beyond the conditional-market reply.",
       "Track whether PreStocks/private-market secondaries become a repeated airtightfish market-structure focus or remain one liquidity complaint.",
-      "Watch whether ProofMarkets can move beyond directional but very illiquid gated-MVP markets into enough liquidity for more robust market-implied signals."
+      "Watch whether ProofMarkets can move beyond directional but very illiquid gated-MVP markets into enough liquidity for more robust market-implied signals.",
+      "Track whether airtightfish continues comparing ProofMarkets against Kalshi/Polymarket/UMA in concrete product-quality terms or whether this was a one-off reply."
     ],
     "evidence_urls": [
       "https://x.com/airtightfish/status/2065567457536831796",
@@ -1291,7 +1302,9 @@
       "https://x.com/airtightfish/status/2069782439862432083",
       "https://x.com/airtightfish/status/2069880839849013449",
       "https://x.com/airtightfish/status/2069923483262345313",
-      "https://x.com/airtightfish/status/2069949639055315379"
+      "https://x.com/airtightfish/status/2069949639055315379",
+      "https://x.com/airtightfish/status/2070163896762073583",
+      "https://x.com/airtightfish/status/2070174374406091055"
     ]
   },
   {
@@ -1534,8 +1547,8 @@
     "handle": "MoneyPrinter0x",
     "period_start": "2026-05-14",
     "period_end": "2026-06-25",
-    "profile_updated_at": "2026-06-25T11:59:37Z",
-    "taste_summary": "Observed X/Twitter evidence shows an event-driven trader mixing AI-equity rotations, short-dated options, macro/rate catalysts, strict invalidation/risk caps, and public post-trade review. New June 19 evidence adds a self-review of the MSTR/CRWV/POET short book after rotating from broad shorts into short-term bullish equities, while still treating BTC upside as capped until the STRC/MSTR overhang has a fix path. Latest June 23 quote refreshes his AI-equity rotation map: from GPU capex into CPU/memory for agentic AI, then vertical integrations, and eventually physical AI / Apple robotics supply chain. June 24 DRAM/MU post adds another execution-level memory/AI-equity example with stop range, risk percentage, earnings catalyst, and explicit invalidation. Latest June 24 follow-ups add process evidence after the DRAM/MU setup: he reviewed the MSTR/CRWV/POET short book, credited MSTR as the main driver, and stressed execution/hedging/stops, while also saying overnight SPCX/Anthropic IPO risk should be scaled down as event exposure changes. Late June 24 update adds MU/Micron as another event-driven AI-equity options setup and a fresh direct HYPE long, reinforcing his focus on high-beta AI/crypto expressions with explicit position expression. June 25 evidence sharpens the post-Warsh AI-equity map: DRAM/MU as bellwether alpha, CPU/agentic names as first-order beta, connectivity/photonics as second-order beta, 800VDC/power and AMPG as later-order beneficiaries, with IGV/MSTR hedges and Friday inflation-expectations invalidation/confirmation.",
+    "profile_updated_at": "2026-06-25T16:08:33Z",
+    "taste_summary": "Observed X/Twitter evidence shows an event-driven trader mixing AI-equity rotations, short-dated options, macro/rate catalysts, strict invalidation/risk caps, and public post-trade review. New June 19 evidence adds a self-review of the MSTR/CRWV/POET short book after rotating from broad shorts into short-term bullish equities, while still treating BTC upside as capped until the STRC/MSTR overhang has a fix path. Latest June 23 quote refreshes his AI-equity rotation map: from GPU capex into CPU/memory for agentic AI, then vertical integrations, and eventually physical AI / Apple robotics supply chain. June 24 DRAM/MU post adds another execution-level memory/AI-equity example with stop range, risk percentage, earnings catalyst, and explicit invalidation. Latest June 24 follow-ups add process evidence after the DRAM/MU setup: he reviewed the MSTR/CRWV/POET short book, credited MSTR as the main driver, and stressed execution/hedging/stops, while also saying overnight SPCX/Anthropic IPO risk should be scaled down as event exposure changes. Late June 24 update adds MU/Micron as another event-driven AI-equity options setup and a fresh direct HYPE long, reinforcing his focus on high-beta AI/crypto expressions with explicit position expression. June 25 evidence sharpens the post-Warsh AI-equity map: DRAM/MU as bellwether alpha, CPU/agentic names as first-order beta, connectivity/photonics/neoclouds as second-order beta, 800VDC/power and AMPG-style exposure as later beneficiaries, with IGV/MSTR hedges and Friday inflation-expectations/PCE invalidation/confirmation. BB remains a repeated non-crypto equity/cybersecurity catalyst, not a crypto-project promotion.",
     "likes": [
       {
         "theme": "AI agent harnesses and deterministic quality gates",
@@ -1749,6 +1762,15 @@
           "https://x.com/MoneyPrinter0x/status/2070093252552761684"
         ],
         "confidence": "high"
+      },
+      {
+        "theme": "Risk-curve sequencing in AI equity rotations",
+        "summary": "Ranks immediate alpha in memory/DRAM/MU, then first/second-order beta through CPU and connectivity/neoclouds, with 800VDC and AMPG-style exposure later; treats early distribution down the curve as a possible weak-follow-through signal.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2070111413138289056",
+          "https://x.com/i/status/2070102566806118461"
+        ],
+        "confidence": "high"
       }
     ],
     "dislikes": [
@@ -1810,11 +1832,13 @@
         "name": "BB",
         "handle": null,
         "stance": "positive",
-        "summary": "Repeated positive trading references, calls entered at $6, outperforming, and increased position.",
+        "summary": "Repeated positive trading references, calls entered at $6, outperforming, and increased position. June 25 added more BB evidence: bought more after earnings, repeated intraday positive chart follow-ups, and flagged a possible White House cybersecurity/privacy-communications catalyst.",
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2059694258047816007",
           "https://x.com/MoneyPrinter0x/status/2064776521026576864",
-          "https://x.com/MoneyPrinter0x/status/2062070134714560749"
+          "https://x.com/MoneyPrinter0x/status/2062070134714560749",
+          "https://x.com/MoneyPrinter0x/status/2070109791817753068",
+          "https://x.com/MoneyPrinter0x/status/2070158988298334495"
         ]
       },
       {
@@ -2058,7 +2082,8 @@
       "Track whether MoneyPrinter0x publishes more post-trade reviews that make execution/hedging/research lessons a recurring profile layer.",
       "Watch whether MoneyPrinter0x turns HYPE/NQ fractal comparisons into a repeated cross-market framework or it stays a one-off chart request.",
       "Track whether MoneyPrinter0x's AI rotation map keeps moving from chip bottlenecks into vertical applications and physical AI supply-chain names.",
-      "Track whether MoneyPrinter0x keeps expressing the AI-equity rotation via memory/Micron-style earnings setups after the DRAM trade."
+      "Track whether MoneyPrinter0x keeps expressing the AI-equity rotation via memory/Micron-style earnings setups after the DRAM trade.",
+      "Track whether MoneyPrinter0x's risk-curve sequencing from memory into CPU/connectivity/neoclouds becomes a durable framework beyond the current post-Warsh/inflation setup."
     ],
     "evidence_urls": [
       "https://x.com/MoneyPrinter0x/status/2065910048833102118",
@@ -2116,7 +2141,11 @@
       "https://x.com/MoneyPrinter0x/status/2069500973559800116",
       "https://x.com/MoneyPrinter0x/status/2069692832236134890",
       "https://x.com/MoneyPrinter0x/status/2069882831975932415",
-      "https://x.com/MoneyPrinter0x/status/2069923632147800265"
+      "https://x.com/MoneyPrinter0x/status/2069923632147800265",
+      "https://x.com/MoneyPrinter0x/status/2070111413138289056",
+      "https://x.com/i/status/2070102566806118461",
+      "https://x.com/i/status/2070066740550340944",
+      "https://x.com/MoneyPrinter0x/status/2070158988298334495"
     ]
   },
   {
