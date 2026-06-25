@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-06-25",
+    "handle": "airtightfish",
+    "type": "reply/proofmarkets_sol_burn_market_liquidity_caveat",
+    "url": "https://x.com/airtightfish/status/2069949639055315379",
+    "summary": "Clarified that the ProofMarkets SOL Burn SIMD market was very illiquid and part of a gated MVP/test market, but still held some directional information about implementation odds and SOL price impact.",
+    "entities": [
+      "ProofMarkets",
+      "Solana Burn SIMD",
+      "SOL",
+      "conditional market",
+      "gated MVP",
+      "liquidity caveat",
+      "directional information"
+    ],
+    "why_logged": "Useful source-close caveat on airtightfish/ProofMarkets evidence: the market-design signal is interesting, but he explicitly frames the liquidity as very thin and experimental.",
+    "confidence": "medium"
+  },
+  {
     "date": "2026-06-24",
     "handle": "airtightfish",
     "type": "authored_post/prestocks_kalshi_discount_liquidity",

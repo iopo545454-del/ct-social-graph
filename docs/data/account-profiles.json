@@ -962,9 +962,9 @@
   {
     "handle": "airtightfish",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-24",
-    "profile_updated_at": "2026-06-24T23:36:45Z",
-    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence adds a tokenomics/accounting-process edge: he pushed against raw FDV for MetaDAO ownership-coin valuation and pointed toward adjusted supply / mNAV treatment. June 21 ryanchern reply adds another ProofMarkets/product-design datapoint: prediction markets need novel products that restore useful information surfaces beyond current category mix. June 22 quote added a light ProofMarkets ecosystem/partner signal via umia_finance/SURGECAST. Latest June 23 quote strengthens the ProofMarkets product-design trail with an actual conditional-futures Challenge market: SOL conditional on BTC up/down, framed as evidence that conditional futures can support experimental listed market types beyond event markets. Later June 23 replies add an Adjacent RED political-index feedback edge: he liked the index concept but wanted more volatility, saying ProofMarkets would love to list something like it as conditional indices develop. Latest June 23 evidence adds a concrete ProofMarkets/Solana tokenomics use case: he used a gated-MVP market to estimate Burn SIMD price impact and implementation odds, while caveating that failure would mainly matter as a signal on Solana's tokenomics direction. June 24 reply keeps ProofMarkets framed as an answer to the critique that current prediction markets are not practical hedging tools. Latest June 24 GRASS reply extends the same conditional-futures design pattern from ProofMarkets demos into tokenomics discovery: use a conditional market around whether Grass announces robust token value attribution, while disclosing he is a Grass fan. PreStocks/Kalshi post adds a private-market liquidity/execution layer: he likes the idea of pre-IPO secondary-style products, but criticized disappearing liquidity and inability to exit.",
+    "period_end": "2026-06-25",
+    "profile_updated_at": "2026-06-25T03:44:51Z",
+    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence adds a tokenomics/accounting-process edge: he pushed against raw FDV for MetaDAO ownership-coin valuation and pointed toward adjusted supply / mNAV treatment. June 21 ryanchern reply adds another ProofMarkets/product-design datapoint: prediction markets need novel products that restore useful information surfaces beyond current category mix. June 22 quote added a light ProofMarkets ecosystem/partner signal via umia_finance/SURGECAST. Latest June 23 quote strengthens the ProofMarkets product-design trail with an actual conditional-futures Challenge market: SOL conditional on BTC up/down, framed as evidence that conditional futures can support experimental listed market types beyond event markets. Later June 23 replies add an Adjacent RED political-index feedback edge: he liked the index concept but wanted more volatility, saying ProofMarkets would love to list something like it as conditional indices develop. Latest June 23 evidence adds a concrete ProofMarkets/Solana tokenomics use case: he used a gated-MVP market to estimate Burn SIMD price impact and implementation odds, while caveating that failure would mainly matter as a signal on Solana's tokenomics direction. June 24 reply keeps ProofMarkets framed as an answer to the critique that current prediction markets are not practical hedging tools. Latest June 24 GRASS reply extends the same conditional-futures design pattern from ProofMarkets demos into tokenomics discovery: use a conditional market around whether Grass announces robust token value attribution, while disclosing he is a Grass fan. PreStocks/Kalshi post adds a private-market liquidity/execution layer: he likes the idea of pre-IPO secondary-style products, but criticized disappearing liquidity and inability to exit. June 25 follow-up adds an important ProofMarkets caveat: the SOL Burn SIMD market was a very illiquid gated-MVP/test market, useful only as directional information rather than a robust liquid pricing venue.",
     "likes": [
       {
         "theme": "Crypto access to private companies",
@@ -1092,7 +1092,7 @@
         "name": "ProofMarkets",
         "handle": "ProofMarkets",
         "stance": "positive",
-        "summary": "Repeated operating/project evidence: waitlist filtering, contest launch, manual onboarding, product-design replies around conditional futures/non-gambling markets, BTC/STRC conditional-market example, umia_finance/SURGECAST partner context, and now a SOL-if-BTC-up/down Challenge market framed as conditional-futures listing experimentation. Newest evidence uses ProofMarkets to price SOL Burn SIMD implementation odds and price impact. June 24 reply again positioned ProofMarkets against a critique that current prediction markets fail as real hedging tools.",
+        "summary": "Repeated operating/project evidence: waitlist filtering, contest launch, manual onboarding, product-design replies around conditional futures/non-gambling markets, BTC/STRC conditional-market example, umia_finance/SURGECAST partner context, and now a SOL-if-BTC-up/down Challenge market framed as conditional-futures listing experimentation. Newest evidence uses ProofMarkets to price SOL Burn SIMD implementation odds and price impact. June 24 reply again positioned ProofMarkets against a critique that current prediction markets fail as real hedging tools. Latest June 25 reply caveats the SOL Burn SIMD market as very illiquid and gated-MVP/test-market data, while still directionally informative.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2064390683440341286",
           "https://x.com/airtightfish/status/2064743264691875927",
@@ -1108,7 +1108,8 @@
           "https://x.com/airtightfish/status/2069122628330086912",
           "https://x.com/airtightfish/status/2069228960613843148",
           "https://x.com/airtightfish/status/2069558654777356618",
-          "https://x.com/airtightfish/status/2069630693173326150"
+          "https://x.com/airtightfish/status/2069630693173326150",
+          "https://x.com/airtightfish/status/2069949639055315379"
         ]
       },
       {
@@ -1244,7 +1245,8 @@
       "Track whether ProofMarkets product work explicitly targets non-gambling/politics-economics category revival beyond current challenge/test markets.",
       "Track whether ProofMarkets conditional futures expand from challenge markets into durable public markets with non-event use cases.",
       "Track whether airtightfish’s GRASS tokenomics/value-attribution interest recurs beyond the conditional-market reply.",
-      "Track whether PreStocks/private-market secondaries become a repeated airtightfish market-structure focus or remain one liquidity complaint."
+      "Track whether PreStocks/private-market secondaries become a repeated airtightfish market-structure focus or remain one liquidity complaint.",
+      "Watch whether ProofMarkets can move beyond directional but very illiquid gated-MVP markets into enough liquidity for more robust market-implied signals."
     ],
     "evidence_urls": [
       "https://x.com/airtightfish/status/2065567457536831796",
@@ -1276,7 +1278,8 @@
       "https://x.com/airtightfish/status/2069630693173326150",
       "https://x.com/airtightfish/status/2069782439862432083",
       "https://x.com/airtightfish/status/2069880839849013449",
-      "https://x.com/airtightfish/status/2069923483262345313"
+      "https://x.com/airtightfish/status/2069923483262345313",
+      "https://x.com/airtightfish/status/2069949639055315379"
     ]
   },
   {

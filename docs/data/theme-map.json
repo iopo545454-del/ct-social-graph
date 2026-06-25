@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
-  "period_end": "2026-06-24",
-  "profile_updated_at": "2026-06-24T23:36:45Z",
+  "period_end": "2026-06-25",
+  "profile_updated_at": "2026-06-25T03:44:51Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -192,7 +192,7 @@
         "Kalshi",
         "MU options"
       ],
-      "summary": "Observed posts show coin_casanova arguing for organic crypto options demand, CryptoTomYT highlighting Tradexyz/Legend Trade performance context, airtightfish building/promoting ProofMarkets, AustinBarack using Hyperliquid/SPCX as a market-structure example, and 0xGeeGee naming Variational/Pear fee checks. These are separate infra/venue references rather than one unified thesis. Recent airtightfish/ProofMarkets evidence is product-led: onboarding/contest operations, conditional futures/non-gambling market-listing commentary, STRC/MSTR/BTC conditional markets, a umia_finance discussion about prediction/governance signals, and now a June 23 SOL-if-BTC-up/down Challenge market as conditional-futures listing experimentation. Keep this bucket close to evidence rather than turning it into abstract venue scoring. June 23 airtightfish evidence adds another ProofMarkets use case: pricing Solana Burn SIMD implementation odds and implied SOL impact, with caveats around governance signaling. June 24 reply added another ProofMarkets-as-hedging-tool signal in response to a thread criticizing current prediction-market payout/liquidity/standardization limits. New airtightfish PreStocks/Kalshi evidence broadens the infrastructure bucket into private-market/prediction-market liquidity: valuation gaps are interesting, but disappearing exit liquidity is the central critique.",
+      "summary": "Observed posts show coin_casanova arguing for organic crypto options demand, CryptoTomYT highlighting Tradexyz/Legend Trade performance context, airtightfish building/promoting ProofMarkets, AustinBarack using Hyperliquid/SPCX as a market-structure example, and 0xGeeGee naming Variational/Pear fee checks. These are separate infra/venue references rather than one unified thesis. Recent airtightfish/ProofMarkets evidence is product-led: onboarding/contest operations, conditional futures/non-gambling market-listing commentary, STRC/MSTR/BTC conditional markets, a umia_finance discussion about prediction/governance signals, and now a June 23 SOL-if-BTC-up/down Challenge market as conditional-futures listing experimentation. Keep this bucket close to evidence rather than turning it into abstract venue scoring. June 23 airtightfish evidence adds another ProofMarkets use case: pricing Solana Burn SIMD implementation odds and implied SOL impact, with caveats around governance signaling. June 24 reply added another ProofMarkets-as-hedging-tool signal in response to a thread criticizing current prediction-market payout/liquidity/standardization limits. New airtightfish PreStocks/Kalshi evidence broadens the infrastructure bucket into private-market/prediction-market liquidity: valuation gaps are interesting, but disappearing exit liquidity is the central critique. June 25 caveat: airtightfish said the ProofMarkets SOL Burn SIMD market was very illiquid and only a gated-MVP/test market, so treat this as directional product evidence rather than a liquid market signal.",
       "evidence_urls": [
         "https://x.com/coin_casanova/status/2063848704499687605",
         "https://x.com/CryptoTomYT/status/2065238474907607090",
@@ -222,7 +222,8 @@
         "https://x.com/airtightfish/status/2069630693173326150",
         "https://x.com/airtightfish/status/2069880839849013449",
         "https://x.com/airtightfish/status/2069923483262345313",
-        "https://x.com/MoneyPrinter0x/status/2069882831975932415"
+        "https://x.com/MoneyPrinter0x/status/2069882831975932415",
+        "https://x.com/airtightfish/status/2069949639055315379"
       ],
       "momentum": "emerging",
       "confidence": "medium"
@@ -630,7 +631,7 @@
         "conditional political indices",
         "GRASS / value attribution"
       ],
-      "summary": "airtightfish’s ryanchern-thread replies frame ProofMarkets/prediction markets around better listings, conditional futures, and non-gambling-market primitives; GeeGee’s Axiom-fee critique remains a negative fee/UX counterpoint. New June 23 evidence moves from commentary to product example: ProofMarkets listed a Challenge market for SOL conditional on BTC being up/down, and airtightfish said conditional futures are not just for events, leaving room for market-type experimentation. Later June 23 Adjacent RED thread adds index/listing feedback: airtightfish liked the political-futures index concept but wanted more volatility and pointed toward conditional-index variants as better ProofMarkets-style products. June 24 airtightfish reply keeps ProofMarkets attached to the critique that prediction markets need to become practical hedging tools, not just binary gambling markets. New airtightfish GRASS reply applies conditional markets to tokenomics/value-accrual discovery: a holder-call value-attribution announcement could be traded and used as market feedback to the team.",
+      "summary": "airtightfish’s ryanchern-thread replies frame ProofMarkets/prediction markets around better listings, conditional futures, and non-gambling-market primitives; GeeGee’s Axiom-fee critique remains a negative fee/UX counterpoint. New June 23 evidence moves from commentary to product example: ProofMarkets listed a Challenge market for SOL conditional on BTC being up/down, and airtightfish said conditional futures are not just for events, leaving room for market-type experimentation. Later June 23 Adjacent RED thread adds index/listing feedback: airtightfish liked the political-futures index concept but wanted more volatility and pointed toward conditional-index variants as better ProofMarkets-style products. June 24 airtightfish reply keeps ProofMarkets attached to the critique that prediction markets need to become practical hedging tools, not just binary gambling markets. New airtightfish GRASS reply applies conditional markets to tokenomics/value-accrual discovery: a holder-call value-attribution announcement could be traded and used as market feedback to the team. June 25 follow-up adds a visibility caveat: the SOL Burn SIMD market was very illiquid gated-MVP data, but airtightfish still considered it directionally informative.",
       "evidence_urls": [
         "https://x.com/airtightfish/status/2067716891943096714",
         "https://x.com/airtightfish/status/2067715921859240042",
@@ -640,7 +641,8 @@
         "https://x.com/airtightfish/status/2069228960613843148",
         "https://x.com/i/status/2069522903314411586",
         "https://x.com/airtightfish/status/2069630693173326150",
-        "https://x.com/airtightfish/status/2069782439862432083"
+        "https://x.com/airtightfish/status/2069782439862432083",
+        "https://x.com/airtightfish/status/2069949639055315379"
       ],
       "momentum": "emerging",
       "confidence": "medium"
