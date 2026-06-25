@@ -1,5 +1,16 @@
 [
   {
+    "from": "0xGeeGee",
+    "to": "jaibhavnani",
+    "to_kind": "individual",
+    "type": "reply/yearn_yvusd_structured_risk",
+    "date": "2026-06-25",
+    "url": "https://x.com/0xGeeGee/status/2070037247085170699",
+    "summary": "Replied in jaibhavnani's Yearn yvUSD vault thread that current distribution appears to leave no senior-capital exposure, while preserving a caution flag around the structure; context included InfiniFi/STRC-derivative risk concerns.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
     "from": "AustinBarack",
     "to": "0xCryptoSam",
     "to_kind": "individual",

@@ -1,6 +1,25 @@
 [
   {
     "date": "2026-06-25",
+    "handle": "0xGeeGee",
+    "type": "reply/yearn_yvusd_senior_capital_risk",
+    "url": "https://x.com/0xGeeGee/status/2070037247085170699",
+    "summary": "In a Yearn yvUSD vault / unlocked-capital thread, replied that with the current distribution there is no exposure for senior capital, while still saying users need to be careful; context included concerns about InfiniFi/STRC-derivative exposure and crypto-native liquidity preferences.",
+    "entities": [
+      "Yearn",
+      "yvUSD",
+      "senior capital",
+      "unlocked liquidity",
+      "InfiniFi",
+      "STRC derivatives",
+      "DeFi yield vaults",
+      "structured-risk distribution"
+    ],
+    "why_logged": "Fresh source-close 0xGeeGee structured-DeFi risk evidence: extends his InfiniFi/STRC and senior/junior capital-stack analysis into Yearn yvUSD vault risk distribution rather than a generic yield comment.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-25",
     "handle": "airtightfish",
     "type": "reply/proofmarkets_sol_burn_market_liquidity_caveat",
     "url": "https://x.com/airtightfish/status/2069949639055315379",

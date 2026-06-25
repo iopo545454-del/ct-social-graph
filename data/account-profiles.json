@@ -183,9 +183,9 @@
   {
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-22",
-    "profile_updated_at": "2026-06-24T12:00:00Z",
-    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Latest evidence adds a public-equity AI-imaging proxy note via BFLY/Butterfly Network, while earlier June 19 evidence sharpened STRC/depeg risk and founder-governance filters; new June 20 quotes add STRC marketing/math and risk-metric skepticism. New late-June-20 evidence adds a negative verification-provider credibility read via AccountableData/MainStreet, adjacent to his broader DeFi/RWA attestation and structured-credit risk filters. Latest reply-level evidence adds two AI diligence qualifiers: caution that Dark Bloom/EigenCloud should avoid grifty narrative behavior, and skepticism/curiosity around a Midjourney-scanner claim framed through incentives and fundraising context. June 21 replies add an incentive/timing layer to the MainStreet/Accountable verification-risk thread: he questioned PennyWorks for disclosing prior MainStreet concerns only after the controversy was public and framed delayed disclosure as potentially self-promotional. June 22 quote-post evidence extends his prediction-market skepticism into marketing credibility: he linked a Polymarket paid-promoter/deceptive-video investigation to likely similar tactics in TCGs. Latest June 22 quote adds a direct MSTR/BTC spread expression: he framed “MSTR down, BTC up” as his best-case day after quoting a question about why MSTR holders should stay if Saylor sells common for cash. Latest June 22 reply adds Pear Protocol/PEAR migration diligence: he is willing to re-check the Hyperliquid migration setup, but his first filter is fee drag versus constructing the pair trade directly.",
+    "period_end": "2026-06-25",
+    "profile_updated_at": "2026-06-25T08:15:00Z",
+    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Latest evidence adds a public-equity AI-imaging proxy note via BFLY/Butterfly Network, while earlier June 19 evidence sharpened STRC/depeg risk and founder-governance filters; new June 20 quotes add STRC marketing/math and risk-metric skepticism. New late-June-20 evidence adds a negative verification-provider credibility read via AccountableData/MainStreet, adjacent to his broader DeFi/RWA attestation and structured-credit risk filters. Latest reply-level evidence adds two AI diligence qualifiers: caution that Dark Bloom/EigenCloud should avoid grifty narrative behavior, and skepticism/curiosity around a Midjourney-scanner claim framed through incentives and fundraising context. June 21 replies add an incentive/timing layer to the MainStreet/Accountable verification-risk thread: he questioned PennyWorks for disclosing prior MainStreet concerns only after the controversy was public and framed delayed disclosure as potentially self-promotional. June 22 quote-post evidence extends his prediction-market skepticism into marketing credibility: he linked a Polymarket paid-promoter/deceptive-video investigation to likely similar tactics in TCGs. Latest June 22 quote adds a direct MSTR/BTC spread expression: he framed “MSTR down, BTC up” as his best-case day after quoting a question about why MSTR holders should stay if Saylor sells common for cash. Latest June 22 reply adds Pear Protocol/PEAR migration diligence: he is willing to re-check the Hyperliquid migration setup, but his first filter is fee drag versus constructing the pair trade directly. June 25 Yearn yvUSD reply extends the same structured-DeFi lens into vault distribution mechanics: he noted senior capital currently has no exposure under the distribution while still warning caution around InfiniFi/STRC-related exposure concerns.",
     "likes": [
       {
         "theme": "AI inference efficiency and optimization layers",
@@ -324,11 +324,12 @@
       },
       {
         "theme": "Structured DeFi credit / tranche risk analysis",
-        "summary": "Analyzed InfiniFi collateral exposure to STRC by separating headline haircut from junior-tranche loss absorption and locked-capital mechanics; follow-up said stress should create a healthier junior/senior capital-stack rebalance with junior capital more compensated for actual risk.",
+        "summary": "Analyzed InfiniFi collateral exposure to STRC by separating headline haircut from junior-tranche loss absorption and locked-capital mechanics; follow-up said stress should create a healthier junior/senior capital-stack rebalance with junior capital more compensated for actual risk. Latest Yearn yvUSD reply applies the same framework to vault distribution: senior capital may have no current exposure, but the structure still requires caution.",
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2067869838978990356",
           "https://x.com/0xGeeGee/status/2067879097376625129",
-          "https://x.com/0xGeeGee/status/2067910420296274243"
+          "https://x.com/0xGeeGee/status/2067910420296274243",
+          "https://x.com/0xGeeGee/status/2070037247085170699"
         ],
         "confidence": "medium"
       },
@@ -692,6 +693,15 @@
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2069649601477689596"
         ]
+      },
+      {
+        "name": "Yearn / yvUSD",
+        "handle": null,
+        "stance": "analytical/cautious",
+        "summary": "In a yvUSD vault discussion, said current distribution creates no exposure for senior capital but still needs caution, especially in context of InfiniFi/STRC-derivative exposure concerns.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2070037247085170699"
+        ]
       }
     ],
     "people_respected": [
@@ -730,7 +740,8 @@
       "Track whether AccountableData/MainStreet becomes a repeated GeeGee verification/attestation-risk topic or remains a one-off negative reaction.",
       "Track whether GeeGee's MainStreet/verification-provider critique remains about specific disclosure incentives or broadens into a durable DeFi attestation-provider trust filter.",
       "Track whether GeeGee’s Polymarket/TCG promoter skepticism becomes a broader critique of gambling-adjacent crypto marketing or remains a one-off WSJ-investigation quote.",
-      "Track whether GeeGee continues probing enterprise-chain adoption announcements for token incentives/disclosure, starting with Avalanche/FIFA."
+      "Track whether GeeGee continues probing enterprise-chain adoption announcements for token incentives/disclosure, starting with Avalanche/FIFA.",
+      "Track whether GeeGee keeps applying senior/junior capital-stack analysis to Yearn/yvUSD and other DeFi vault wrappers, or whether this was one follow-up to InfiniFi/STRC concerns."
     ],
     "evidence_urls": [
       "https://x.com/0xGeeGee/status/2065771227743138126",
@@ -777,7 +788,8 @@
       "https://x.com/0xGeeGee/status/2069006938843599007",
       "https://x.com/0xGeeGee/status/2069165089215656343",
       "https://x.com/0xGeeGee/status/2069649601477689596",
-      "https://x.com/0xGeeGee/status/2069649220215386456"
+      "https://x.com/0xGeeGee/status/2069649220215386456",
+      "https://x.com/0xGeeGee/status/2070037247085170699"
     ]
   },
   {
