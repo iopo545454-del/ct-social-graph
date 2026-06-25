@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-24T23:39:40Z",
+  "last_checked": "2026-06-25T07:55:33Z",
   "new_count": 1,
   "sources": [
     {
@@ -63,7 +63,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-24T23:39:37Z"
+      "checked_at": "2026-06-25T07:55:28Z"
     },
     {
       "name": "Multicoin Capital",
@@ -138,7 +138,7 @@
           "published": "Thu, 11 Sep 2025 00:00:00 GMT"
         }
       ],
-      "checked_at": "2026-06-24T23:39:37Z"
+      "checked_at": "2026-06-25T07:55:29Z"
     },
     {
       "name": "Pantera Blockchain Letter",
@@ -203,7 +203,7 @@
           "published": "Thu, 29 May 2025 16:37:35 +0000"
         }
       ],
-      "checked_at": "2026-06-24T23:39:38Z"
+      "checked_at": "2026-06-25T07:55:29Z"
     },
     {
       "name": "Paradigm",
@@ -266,7 +266,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-24T23:39:38Z"
+      "checked_at": "2026-06-25T07:55:30Z"
     },
     {
       "name": "Glassnode Research",
@@ -306,6 +306,11 @@
           "published": "Wed, 20 May 2026 10:00:00 GMT"
         },
         {
+          "title": "The Altcoin Vector #60",
+          "url": "https://research.glassnode.com/the-altcoin-vector-60",
+          "published": "Thu, 25 Jun 2026 07:17:53 GMT"
+        },
+        {
           "title": "Waiting for Buyers",
           "url": "https://research.glassnode.com/the-week-onchain-week-25-2026",
           "published": "Wed, 24 Jun 2026 17:31:56 GMT"
@@ -334,14 +339,9 @@
           "title": "The Bitcoin Vector #60",
           "url": "https://research.glassnode.com/the-bitcoin-vector-60",
           "published": "Wed, 17 Jun 2026 07:53:46 GMT"
-        },
-        {
-          "title": "BTC Market Pulse: Week 25",
-          "url": "https://research.glassnode.com/btc-market-pulse-week-25",
-          "published": "Mon, 15 Jun 2026 15:20:07 GMT"
         }
       ],
-      "checked_at": "2026-06-24T23:39:38Z"
+      "checked_at": "2026-06-25T07:55:31Z"
     },
     {
       "name": "Delphi Digital",
@@ -359,7 +359,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-24T23:39:39Z"
+      "checked_at": "2026-06-25T07:55:32Z"
     },
     {
       "name": "Electric Capital",
@@ -371,7 +371,7 @@
       "error": null,
       "feed_urls": [],
       "items": [],
-      "checked_at": "2026-06-24T23:39:39Z"
+      "checked_at": "2026-06-25T07:55:32Z"
     },
     {
       "name": "Bankless",
@@ -444,7 +444,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-24T23:39:40Z"
+      "checked_at": "2026-06-25T07:55:33Z"
     },
     {
       "name": "Token Terminal",
@@ -517,7 +517,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-24T23:39:40Z"
+      "checked_at": "2026-06-25T07:55:33Z"
     }
   ],
   "articles": [
@@ -992,6 +992,16 @@
       "source_url": "https://research.glassnode.com/"
     },
     {
+      "id": "02d92128d044",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "The Altcoin Vector #60",
+      "url": "https://research.glassnode.com/the-altcoin-vector-60",
+      "published": "Thu, 25 Jun 2026 07:17:53 GMT",
+      "first_seen": "2026-06-25T07:55:33Z",
+      "source_url": "https://research.glassnode.com/"
+    },
+    {
       "id": "2e1001b56f82",
       "source": "Glassnode Research",
       "tier": 1,
@@ -1049,16 +1059,6 @@
       "url": "https://research.glassnode.com/the-bitcoin-vector-60",
       "published": "Wed, 17 Jun 2026 07:53:46 GMT",
       "first_seen": "2026-06-17T10:17:31Z",
-      "source_url": "https://research.glassnode.com/"
-    },
-    {
-      "id": "e67274cb76ba",
-      "source": "Glassnode Research",
-      "tier": 1,
-      "title": "BTC Market Pulse: Week 25",
-      "url": "https://research.glassnode.com/btc-market-pulse-week-25",
-      "published": "Mon, 15 Jun 2026 15:20:07 GMT",
-      "first_seen": "2026-06-15T16:35:36Z",
       "source_url": "https://research.glassnode.com/"
     },
     {
@@ -1310,6 +1310,16 @@
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "e67274cb76ba",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "BTC Market Pulse: Week 25",
+      "url": "https://research.glassnode.com/btc-market-pulse-week-25",
+      "published": "Mon, 15 Jun 2026 15:20:07 GMT",
+      "first_seen": "2026-06-15T16:35:36Z",
+      "source_url": "https://research.glassnode.com/"
     },
     {
       "id": "f75d5dffaf90",
