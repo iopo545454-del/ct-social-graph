@@ -795,9 +795,9 @@
   {
     "handle": "AustinBarack",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-24",
-    "profile_updated_at": "2026-06-24T23:36:45Z",
-    "taste_summary": "Observed X/Twitter evidence is strongly thesis-driven around private/anonymized AI, Venice/VVV, decentralized training, open-source models, and AI data protocols. Interpretation confidence is high for Venice/VVV because multiple authored posts and replies repeat the same framing. Latest June 24 evidence strengthens his GRASS tokenomics stance: he directly defended foundation ownership of IP/contracts/revenue and token-sale financing against value-accrual skepticism, while pointing to the July 7 holder call as the clarifying catalyst.",
+    "period_end": "2026-06-25",
+    "profile_updated_at": "2026-06-25T20:20:00Z",
+    "taste_summary": "Observed X/Twitter evidence is strongly thesis-driven around private/anonymized AI, Venice/VVV, decentralized training, open-source models, and AI data protocols. Interpretation confidence is high for Venice/VVV because multiple authored posts and replies repeat the same framing. Latest June 24 evidence strengthens his GRASS tokenomics stance: he directly defended foundation ownership of IP/contracts/revenue and token-sale financing against value-accrual skepticism, while pointing to the July 7 holder call as the clarifying catalyst. Latest June 25 evidence refreshes his Venice/VVV conviction: he used the market-stress dip as an entry framing and gave concrete 4mm month-end / 10mm year-end user-growth estimates.",
     "likes": [
       {
         "theme": "Private/anonymized AI usage",
@@ -865,13 +865,14 @@
         "name": "Venice / VVV",
         "handle": "AskVenice",
         "stance": "positive",
-        "summary": "Core repeated positive thesis: private AI product with rapid user growth, top models, subscriptions/credits, and privacy tailwind from centralized AI restrictions. New usage evidence: Austin said no one is bullish enough as token usage is up only after reported 85B+ daily Venice LLM tokens. Latest evidence adds GLM 5.2/open-source-model quality as another private/encrypted Venice use case.",
+        "summary": "Core repeated positive thesis: private AI product with rapid user growth, top models, subscriptions/credits, and privacy tailwind from centralized AI restrictions. New usage evidence: Austin said no one is bullish enough as token usage is up only after reported 85B+ daily Venice LLM tokens. Latest evidence adds GLM 5.2/open-source-model quality as another private/encrypted Venice use case. June 25 update added dip-buy framing after MicroStrategy-driven stress and concrete user-growth estimates around 4mm month-end / 10mm year-end.",
         "evidence_urls": [
           "https://x.com/AustinBarack/status/2065642988470972861",
           "https://x.com/AustinBarack/status/2065896297010475257",
           "https://x.com/AustinBarack/status/2065857217199235306",
           "https://x.com/AustinBarack/status/2066897528037986414",
-          "https://x.com/AustinBarack/status/2067255909600972830"
+          "https://x.com/AustinBarack/status/2067255909600972830",
+          "https://x.com/AustinBarack/status/2070181102011248964"
         ]
       },
       {
@@ -968,7 +969,8 @@
       "https://x.com/AustinBarack/status/2066888860022312981",
       "https://x.com/AustinBarack/status/2066990363844247802",
       "https://x.com/AustinBarack/status/2067255909600972830",
-      "https://x.com/AustinBarack/status/2069912129852019047"
+      "https://x.com/AustinBarack/status/2069912129852019047",
+      "https://x.com/AustinBarack/status/2070181102011248964"
     ]
   },
   {
@@ -1547,8 +1549,8 @@
     "handle": "MoneyPrinter0x",
     "period_start": "2026-05-14",
     "period_end": "2026-06-25",
-    "profile_updated_at": "2026-06-25T16:08:33Z",
-    "taste_summary": "Observed X/Twitter evidence shows an event-driven trader mixing AI-equity rotations, short-dated options, macro/rate catalysts, strict invalidation/risk caps, and public post-trade review. New June 19 evidence adds a self-review of the MSTR/CRWV/POET short book after rotating from broad shorts into short-term bullish equities, while still treating BTC upside as capped until the STRC/MSTR overhang has a fix path. Latest June 23 quote refreshes his AI-equity rotation map: from GPU capex into CPU/memory for agentic AI, then vertical integrations, and eventually physical AI / Apple robotics supply chain. June 24 DRAM/MU post adds another execution-level memory/AI-equity example with stop range, risk percentage, earnings catalyst, and explicit invalidation. Latest June 24 follow-ups add process evidence after the DRAM/MU setup: he reviewed the MSTR/CRWV/POET short book, credited MSTR as the main driver, and stressed execution/hedging/stops, while also saying overnight SPCX/Anthropic IPO risk should be scaled down as event exposure changes. Late June 24 update adds MU/Micron as another event-driven AI-equity options setup and a fresh direct HYPE long, reinforcing his focus on high-beta AI/crypto expressions with explicit position expression. June 25 evidence sharpens the post-Warsh AI-equity map: DRAM/MU as bellwether alpha, CPU/agentic names as first-order beta, connectivity/photonics/neoclouds as second-order beta, 800VDC/power and AMPG-style exposure as later beneficiaries, with IGV/MSTR hedges and Friday inflation-expectations/PCE invalidation/confirmation. BB remains a repeated non-crypto equity/cybersecurity catalyst, not a crypto-project promotion.",
+    "profile_updated_at": "2026-06-25T20:20:00Z",
+    "taste_summary": "Observed X/Twitter evidence shows an event-driven trader mixing AI-equity rotations, short-dated options, macro/rate catalysts, strict invalidation/risk caps, and public post-trade review. New June 19 evidence adds a self-review of the MSTR/CRWV/POET short book after rotating from broad shorts into short-term bullish equities, while still treating BTC upside as capped until the STRC/MSTR overhang has a fix path. Latest June 23 quote refreshes his AI-equity rotation map: from GPU capex into CPU/memory for agentic AI, then vertical integrations, and eventually physical AI / Apple robotics supply chain. June 24 DRAM/MU post adds another execution-level memory/AI-equity example with stop range, risk percentage, earnings catalyst, and explicit invalidation. Latest June 24 follow-ups add process evidence after the DRAM/MU setup: he reviewed the MSTR/CRWV/POET short book, credited MSTR as the main driver, and stressed execution/hedging/stops, while also saying overnight SPCX/Anthropic IPO risk should be scaled down as event exposure changes. Late June 24 update adds MU/Micron as another event-driven AI-equity options setup and a fresh direct HYPE long, reinforcing his focus on high-beta AI/crypto expressions with explicit position expression. June 25 evidence sharpens the post-Warsh AI-equity map: DRAM/MU as bellwether alpha, CPU/agentic names as first-order beta, connectivity/photonics/neoclouds as second-order beta, 800VDC/power and AMPG-style exposure as later beneficiaries, with IGV/MSTR hedges and Friday inflation-expectations/PCE invalidation/confirmation. BB remains a repeated non-crypto equity/cybersecurity catalyst, not a crypto-project promotion. Latest June 25 evidence strengthens the event-driven AI-infrastructure equity style: he connected inflation-expectations timing, Apple AI-flation headlines, DRAM/MU as the alpha leg, and explicit stop discipline on DRAM calls into one catalyst trade.",
     "likes": [
       {
         "theme": "AI agent harnesses and deterministic quality gates",
@@ -1769,6 +1771,15 @@
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2070111413138289056",
           "https://x.com/i/status/2070102566806118461"
+        ],
+        "confidence": "high"
+      },
+      {
+        "theme": "AI-infrastructure equity baskets around macro catalysts",
+        "summary": "Uses scheduled macro prints and AI-infrastructure supply/demand narratives to express risk through memory/DRAM/MU first, then CPU, connectivity/photonics, power, and selected opportunistic names; latest execution included explicit tight-stop discipline before the print.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2070201105766912415",
+          "https://x.com/MoneyPrinter0x/status/2070235567863087539"
         ],
         "confidence": "high"
       }
@@ -2145,15 +2156,18 @@
       "https://x.com/MoneyPrinter0x/status/2070111413138289056",
       "https://x.com/i/status/2070102566806118461",
       "https://x.com/i/status/2070066740550340944",
-      "https://x.com/MoneyPrinter0x/status/2070158988298334495"
+      "https://x.com/MoneyPrinter0x/status/2070158988298334495",
+      "https://x.com/MoneyPrinter0x/status/2070201105766912415",
+      "https://x.com/MoneyPrinter0x/status/2070235567863087539",
+      "https://x.com/MoneyPrinter0x/status/2070230649907335427"
     ]
   },
   {
     "handle": "kelxyz_",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-24",
-    "profile_updated_at": "2026-06-24T19:30:19Z",
-    "taste_summary": "Observed X/Twitter evidence is thesis-heavy around AI/crypto protocols, especially Pluralis, inference-market timing, decentralized/model-parallel training, alternative financing for inference/compute aggregation, and cautious evaluation of incentivized inference designs. New June 19 evidence says Nock is 'in the running' while explicitly noting no current design is fully convincing yet. Latest June 23 evidence adds two source-close filters: skepticism toward CA-in-bio coins, and technical due diligence on whether consumer-GPU/sharded inference can actually deliver GLM 5.2-class performance at claimed discounts. Latest June 24 quote adds a TAM argument for decentralized training: a reported Reflection/SpaceX compute deal at ~$150M/month is used to push back on claims that decentralized training lacks enough demand if it scales. A new follow-up adds the key caveat: aggregating many weaker chips into frontier-scale training remains unproven, and the upside exists precisely because the equivalence is not yet known. Latest non-crypto June 24 post adds a style/culture layer: he framed status markets around wealth, fitness, and hard-to-fake revolutionary action, which fits the account’s broader mimetic/reflexivity analysis but is not project evidence.",
+    "period_end": "2026-06-25",
+    "profile_updated_at": "2026-06-25T20:20:00Z",
+    "taste_summary": "Observed X/Twitter evidence is thesis-heavy around AI/crypto protocols, especially Pluralis, inference-market timing, decentralized/model-parallel training, alternative financing for inference/compute aggregation, and cautious evaluation of incentivized inference designs. New June 19 evidence says Nock is 'in the running' while explicitly noting no current design is fully convincing yet. Latest June 23 evidence adds two source-close filters: skepticism toward CA-in-bio coins, and technical due diligence on whether consumer-GPU/sharded inference can actually deliver GLM 5.2-class performance at claimed discounts. Latest June 24 quote adds a TAM argument for decentralized training: a reported Reflection/SpaceX compute deal at ~$150M/month is used to push back on claims that decentralized training lacks enough demand if it scales. A new follow-up adds the key caveat: aggregating many weaker chips into frontier-scale training remains unproven, and the upside exists precisely because the equivalence is not yet known. Latest non-crypto June 24 post adds a style/culture layer: he framed status markets around wealth, fitness, and hard-to-fake revolutionary action, which fits the account’s broader mimetic/reflexivity analysis but is not project evidence. Latest June 25 evidence adds an inference-demand adoption lens: he is constructive on more inference calls over time, but separates that from unresolved local-vs-cloud and robotics-adoption questions.",
     "likes": [
       {
         "theme": "Pluralis and model-parallel decentralized training",
@@ -2220,6 +2234,15 @@
         "summary": "Asked concrete feasibility questions about sharded inference, consumer-GPU clusters, and claimed OpenRouter discounts rather than accepting decentralized/permissionless inference economics at face value.",
         "evidence_urls": [
           "https://x.com/i/status/2069445079433936952"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "Inference-demand growth with adoption caveats",
+        "summary": "Constructive on longer-term growth in inference calls and agentic-loop usage, but keeps uncertainty around local vs cloud execution and is skeptical of robotics narratives outside factory automation until practice catches up.",
+        "evidence_urls": [
+          "https://x.com/kelxyz_/status/2070189827824226442",
+          "https://x.com/kelxyz_/status/2070209448044380612"
         ],
         "confidence": "medium"
       }
@@ -2356,7 +2379,9 @@
       "https://x.com/i/status/2069445079433936952",
       "https://x.com/kelxyz_/status/2069445414302961694",
       "https://x.com/kelxyz_/status/2069597720566780216",
-      "https://x.com/kelxyz_/status/2069791880766706101"
+      "https://x.com/kelxyz_/status/2069791880766706101",
+      "https://x.com/kelxyz_/status/2070189827824226442",
+      "https://x.com/kelxyz_/status/2070209448044380612"
     ]
   }
 ]

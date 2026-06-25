@@ -1,5 +1,27 @@
 [
   {
+    "from": "MoneyPrinter0x",
+    "to": "unknown_counterparty",
+    "to_kind": "individual",
+    "type": "reply/agentic_market_data_workflow",
+    "date": "2026-06-25",
+    "url": "https://x.com/MoneyPrinter0x/status/2070230649907335427",
+    "summary": "Suggested building a harness and using an agent loop with 3-5 independent adversarial peer-review agents to run more async tasks concurrently; nearby reply suggested connecting the workflow to Databento/Polygon/IBKR market data.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "kelxyz_",
+    "to": "unknown_counterparty",
+    "to_kind": "individual",
+    "type": "reply/inference_calls_cloud_vs_local",
+    "date": "2026-06-25",
+    "url": "https://x.com/kelxyz_/status/2070209448044380612",
+    "summary": "Replied that he is happy to bet on a longer-term trend toward more inference calls, while remaining unsure on local versus cloud execution and skeptical that robotics is as serious in practice as in narrative outside factory automation.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
     "from": "airtightfish",
     "to": "unknown_counterparty",
     "to_kind": "individual",

@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-06-25",
-  "profile_updated_at": "2026-06-25T16:08:33Z",
+  "profile_updated_at": "2026-06-25T20:20:00Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -18,7 +18,7 @@
         "GLM 5.2",
         "GRASS"
       ],
-      "summary": "Observed X/Twitter posts from AustinBarack repeatedly frame centralized AI restrictions and possible user-data compulsion as a tailwind for Venice/VVV. Keep as direct evidence bucket rather than broad consensus; coin_casanova had a tactical VVV short, so cross-account stance is not uniform. New 2026-06-14 coin_casanova evidence treated the Mythos-driven AI-token basket as a trade-construction problem rather than a uniform fundamental endorsement. Latest AustinBarack evidence quoted Venice usage data and argued VVV is under-owned because token usage is 'literally up only'. New AustinBarack evidence adds GLM 5.2 on Venice: open-source coding/agent model quality plus private/encrypted execution. Latest coin_casanova update is negative/relative for crowded VVV after the news pivot while keeping POD/GRASS on the research/trade list, so the bucket remains mixed rather than consensus-positive. AustinBarack’s late-June GRASS reply shifts part of this bucket from usage/privacy into tokenomics/value-accrual diligence: foundation ownership of IP/contracts/revenue and the July 7 holder call are now key evidence points.",
+      "summary": "Observed X/Twitter posts from AustinBarack repeatedly frame centralized AI restrictions and possible user-data compulsion as a tailwind for Venice/VVV. Keep as direct evidence bucket rather than broad consensus; coin_casanova had a tactical VVV short, so cross-account stance is not uniform. New 2026-06-14 coin_casanova evidence treated the Mythos-driven AI-token basket as a trade-construction problem rather than a uniform fundamental endorsement. Latest AustinBarack evidence quoted Venice usage data and argued VVV is under-owned because token usage is 'literally up only'. New AustinBarack evidence adds GLM 5.2 on Venice: open-source coding/agent model quality plus private/encrypted execution. Latest coin_casanova update is negative/relative for crowded VVV after the news pivot while keeping POD/GRASS on the research/trade list, so the bucket remains mixed rather than consensus-positive. AustinBarack’s late-June GRASS reply shifts part of this bucket from usage/privacy into tokenomics/value-accrual diligence: foundation ownership of IP/contracts/revenue and the July 7 holder call are now key evidence points. June 25 AustinBarack evidence keeps Venice/VVV in the active tape with dip-buy framing and explicit 4mm/10mm user-growth estimates.",
       "evidence_urls": [
         "https://x.com/AustinBarack/status/2065642988470972861",
         "https://x.com/AustinBarack/status/2065850799494738189",
@@ -30,7 +30,8 @@
         "https://x.com/AustinBarack/status/2067255909600972830",
         "https://x.com/coin_casanova/status/2069731903838757209",
         "https://x.com/coin_casanova/status/2069734548959793603",
-        "https://x.com/AustinBarack/status/2069912129852019047"
+        "https://x.com/AustinBarack/status/2069912129852019047",
+        "https://x.com/AustinBarack/status/2070181102011248964"
       ],
       "momentum": "rising",
       "confidence": "high"
@@ -67,7 +68,7 @@
         "connectivity / photonics beta",
         "800VDC power beta"
       ],
-      "summary": "Observed X/Twitter evidence spans GeeGee on inference cost/observability plus EIGEN/SERV, MoneyPrinter0x on deterministic AI-agent harnesses, kelxyz_ on inference incentives/model-parallel training, and AustinBarack on OpenRouter/Fusion API price-performance and AI ROI benchmarking. These are adjacent but not identical themes, so keep examples close to source posts. New 2026-06-15 GeeGee evidence explicitly tied the next AI attention cycle to companies positioned in the AI cost-cutting layer. GeeGee's 2026-06-17 Osobear puzzle thread adds a counterexample/process note: for hidden-code crypto puzzle solving, he reported Opus/GPT-class models were not useful, so keep the AI-tools bucket grounded in specific tasks rather than broad capability claims. Latest GeeGee quote adds another cost-collapse/process point: more DeepSeek-like gains may come from infrastructure as foundation models commoditize. Latest kelxyz_ evidence adds a valuation/economic angle: alternative financing that subsidizes inference or aggregates training compute at scale may justify very large outcomes. New kelxyz_ follow-up keeps the inference-design bucket cautious: incentivized inference remains difficult, no current design is fully convincing yet, but Nock is in the running. New June 20 GeeGee replies add cautionary due-diligence color: Dark Bloom/EigenCloud needs to avoid grifty narrative behavior, and large AI product claims such as a Midjourney-scanner should be judged through incentives/funding context rather than demo hype. June 23 kelxyz_ replies add a practical diligence example: he pressed AlgodTrading on whether GLM 5.2-class sharded inference can run fast enough on 4090/A6000 consumer clusters and where the claimed OpenRouter cost discount comes from. June 24 kelxyz_ quote adds a market-size datapoint: a reported Reflection/SpaceX compute deal is used to argue scaled decentralized training can have sufficient TAM. MoneyPrinter0x MU/Micron post is a public-equity proxy rather than crypto infrastructure, but it belongs as AI data-center demand evidence because the trade was expressed through earnings/calls around a large data-center revenue beat. June 25 MoneyPrinter0x posts sharpen the public-equity proxy layer: memory/DRAM and MU as near-term AI alpha, CPU/agentic names as first-order beta, connectivity/photonics as second-order beta, and 800VDC/power as later-order beta rather than a single undifferentiated AI basket.",
+      "summary": "Observed X/Twitter evidence spans GeeGee on inference cost/observability plus EIGEN/SERV, MoneyPrinter0x on deterministic AI-agent harnesses, kelxyz_ on inference incentives/model-parallel training, and AustinBarack on OpenRouter/Fusion API price-performance and AI ROI benchmarking. These are adjacent but not identical themes, so keep examples close to source posts. New 2026-06-15 GeeGee evidence explicitly tied the next AI attention cycle to companies positioned in the AI cost-cutting layer. GeeGee's 2026-06-17 Osobear puzzle thread adds a counterexample/process note: for hidden-code crypto puzzle solving, he reported Opus/GPT-class models were not useful, so keep the AI-tools bucket grounded in specific tasks rather than broad capability claims. Latest GeeGee quote adds another cost-collapse/process point: more DeepSeek-like gains may come from infrastructure as foundation models commoditize. Latest kelxyz_ evidence adds a valuation/economic angle: alternative financing that subsidizes inference or aggregates training compute at scale may justify very large outcomes. New kelxyz_ follow-up keeps the inference-design bucket cautious: incentivized inference remains difficult, no current design is fully convincing yet, but Nock is in the running. New June 20 GeeGee replies add cautionary due-diligence color: Dark Bloom/EigenCloud needs to avoid grifty narrative behavior, and large AI product claims such as a Midjourney-scanner should be judged through incentives/funding context rather than demo hype. June 23 kelxyz_ replies add a practical diligence example: he pressed AlgodTrading on whether GLM 5.2-class sharded inference can run fast enough on 4090/A6000 consumer clusters and where the claimed OpenRouter cost discount comes from. June 24 kelxyz_ quote adds a market-size datapoint: a reported Reflection/SpaceX compute deal is used to argue scaled decentralized training can have sufficient TAM. MoneyPrinter0x MU/Micron post is a public-equity proxy rather than crypto infrastructure, but it belongs as AI data-center demand evidence because the trade was expressed through earnings/calls around a large data-center revenue beat. June 25 MoneyPrinter0x posts sharpen the public-equity proxy layer: memory/DRAM and MU as near-term AI alpha, CPU/agentic names as first-order beta, connectivity/photonics as second-order beta, and 800VDC/power as later-order beta rather than a single undifferentiated AI basket. June 25 additions keep the bucket concrete: MoneyPrinter0x mapped AI-flation/memory demand into a DRAM/MU-led equity trade and agentic market-data workflows, while kelxyz_ framed inference-call growth as an adoption curve with local-vs-cloud and robotics caveats.",
       "evidence_urls": [
         "https://x.com/0xGeeGee/status/2065771227743138126",
         "https://x.com/MoneyPrinter0x/status/2065910048833102118",
@@ -92,7 +93,11 @@
         "https://x.com/MoneyPrinter0x/status/2069882831975932415",
         "https://x.com/MoneyPrinter0x/status/2070084392152891433",
         "https://x.com/MoneyPrinter0x/status/2070102566806118461",
-        "https://x.com/MoneyPrinter0x/status/2070111413138289056"
+        "https://x.com/MoneyPrinter0x/status/2070111413138289056",
+        "https://x.com/MoneyPrinter0x/status/2070201105766912415",
+        "https://x.com/kelxyz_/status/2070189827824226442",
+        "https://x.com/kelxyz_/status/2070209448044380612",
+        "https://x.com/MoneyPrinter0x/status/2070230649907335427"
       ],
       "momentum": "rising",
       "confidence": "medium"

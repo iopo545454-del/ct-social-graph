@@ -1,6 +1,80 @@
 [
   {
     "date": "2026-06-25",
+    "handle": "kelxyz_",
+    "type": "authored_post/inference_demand",
+    "url": "https://x.com/kelxyz_/status/2070189827824226442",
+    "summary": "Argued the bullish memory/inference-demand case is still early because most people are not yet heavy terminal/agentic-loop users, while current token usage is concentrated among a tiny power-user base whose demand shifts can matter quickly.",
+    "entities": [
+      "agentic loops",
+      "terminal users",
+      "token usage",
+      "inference demand",
+      "memory demand",
+      "power users"
+    ],
+    "why_logged": "Adds kelxyz_ to the same memory/inference-demand tape as MoneyPrinter0x, but from an adoption/usage-distribution angle rather than ticker execution.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-25",
+    "handle": "AustinBarack",
+    "type": "authored_post/project_update",
+    "url": "https://x.com/AustinBarack/status/2070181102011248964",
+    "summary": "Framed the MicroStrategy-driven market stress as an attractive VVV/Venice entry: VVV back near $13 despite accelerating fundamentals, with Venice estimated near 4mm users by month-end and 10mm users by year-end in play.",
+    "entities": [
+      "Venice",
+      "VVV",
+      "AskVenice",
+      "MicroStrategy market stress",
+      "consumer AI",
+      "user growth"
+    ],
+    "why_logged": "Fresh direct Venice/VVV conviction evidence from AustinBarack with concrete user-growth estimates and dip-buy framing.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-25",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/trade_execution",
+    "url": "https://x.com/MoneyPrinter0x/status/2070235567863087539",
+    "summary": "Said he filled DRAM calls on size, explicitly warned the trade was very risky/NFA/DYOR, and planned a tight stop before the 11am EST June inflation-expectations print.",
+    "entities": [
+      "DRAM calls",
+      "June inflation expectations",
+      "event-risk trade",
+      "stop loss"
+    ],
+    "why_logged": "Keeps the execution/risk-management layer close to the macro-memory thesis; useful because it shows position sizing and stop discipline around a scheduled catalyst.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-25",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/macro_ai_memory_playbook",
+    "url": "https://x.com/MoneyPrinter0x/status/2070201105766912415",
+    "summary": "Expanded the post-Warsh Phase 2 playbook after a market shakeout: treated Apple device price hikes as AI-flation sentiment rather than core inflation, kept memory/DRAM/MU as the alpha leg, and listed CPU, connectivity/photonics, power, BB/QNX, and neocloud-style names as downstream beta/opportunistic legs into the June inflation-expectations print.",
+    "entities": [
+      "June inflation expectations",
+      "AI-flation",
+      "DRAM",
+      "MU",
+      "INTC",
+      "QCOM",
+      "ARM",
+      "ALAB",
+      "CRDO",
+      "BB",
+      "QNX",
+      "memory semis",
+      "connectivity/photonics",
+      "800VDC power"
+    ],
+    "why_logged": "Clear process evidence for MoneyPrinter0x: macro event timing plus AI-infrastructure equity basket construction and invalidation framing, not just a ticker call.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-25",
     "handle": "airtightfish",
     "type": "reply/product_feedback",
     "url": "https://x.com/airtightfish/status/2070174374406091055",
