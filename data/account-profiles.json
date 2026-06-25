@@ -1533,9 +1533,9 @@
   {
     "handle": "MoneyPrinter0x",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-24",
-    "profile_updated_at": "2026-06-24T23:36:45Z",
-    "taste_summary": "Observed X/Twitter evidence shows an event-driven trader mixing AI-equity rotations, short-dated options, macro/rate catalysts, strict invalidation/risk caps, and public post-trade review. New June 19 evidence adds a self-review of the MSTR/CRWV/POET short book after rotating from broad shorts into short-term bullish equities, while still treating BTC upside as capped until the STRC/MSTR overhang has a fix path. Latest June 23 quote refreshes his AI-equity rotation map: from GPU capex into CPU/memory for agentic AI, then vertical integrations, and eventually physical AI / Apple robotics supply chain. June 24 DRAM/MU post adds another execution-level memory/AI-equity example with stop range, risk percentage, earnings catalyst, and explicit invalidation. Latest June 24 follow-ups add process evidence after the DRAM/MU setup: he reviewed the MSTR/CRWV/POET short book, credited MSTR as the main driver, and stressed execution/hedging/stops, while also saying overnight SPCX/Anthropic IPO risk should be scaled down as event exposure changes. Late June 24 update adds MU/Micron as another event-driven AI-equity options setup and a fresh direct HYPE long, reinforcing his focus on high-beta AI/crypto expressions with explicit position expression.",
+    "period_end": "2026-06-25",
+    "profile_updated_at": "2026-06-25T11:59:37Z",
+    "taste_summary": "Observed X/Twitter evidence shows an event-driven trader mixing AI-equity rotations, short-dated options, macro/rate catalysts, strict invalidation/risk caps, and public post-trade review. New June 19 evidence adds a self-review of the MSTR/CRWV/POET short book after rotating from broad shorts into short-term bullish equities, while still treating BTC upside as capped until the STRC/MSTR overhang has a fix path. Latest June 23 quote refreshes his AI-equity rotation map: from GPU capex into CPU/memory for agentic AI, then vertical integrations, and eventually physical AI / Apple robotics supply chain. June 24 DRAM/MU post adds another execution-level memory/AI-equity example with stop range, risk percentage, earnings catalyst, and explicit invalidation. Latest June 24 follow-ups add process evidence after the DRAM/MU setup: he reviewed the MSTR/CRWV/POET short book, credited MSTR as the main driver, and stressed execution/hedging/stops, while also saying overnight SPCX/Anthropic IPO risk should be scaled down as event exposure changes. Late June 24 update adds MU/Micron as another event-driven AI-equity options setup and a fresh direct HYPE long, reinforcing his focus on high-beta AI/crypto expressions with explicit position expression. June 25 evidence sharpens the post-Warsh AI-equity map: DRAM/MU as bellwether alpha, CPU/agentic names as first-order beta, connectivity/photonics as second-order beta, 800VDC/power and AMPG as later-order beneficiaries, with IGV/MSTR hedges and Friday inflation-expectations invalidation/confirmation.",
     "likes": [
       {
         "theme": "AI agent harnesses and deterministic quality gates",
@@ -1567,7 +1567,7 @@
       },
       {
         "theme": "AI-equity infrastructure baskets",
-        "summary": "Weekly watchlist emphasized neoclouds, indium phosphide/photonics, open-source-model beneficiaries, CPU/edge infrastructure, and follow-up additions like INTC/AMPG; June 16 follow-up said ARM, QCOM, neoclouds, and photonics were “looking very good” as forward-looking regime-change monitors. June 18 added a live AMPG $10 milestone inside the same AI-equity/multiday-book context, though this is price-action evidence rather than a fresh thesis. Latest June 23 quote restated the capital-markets rotation map from GPUs toward CPU/memory bottlenecks, vertical AI integrations, and later physical AI/Apple robotics supply-chain exposure. June 24 MU/DRAM posts keep memory semis on the active AI-equity/event watchlist, including a prior-earnings chart as he positioned around Micron.",
+        "summary": "Weekly watchlist emphasized neoclouds, indium phosphide/photonics, open-source-model beneficiaries, CPU/edge infrastructure, and follow-up additions like INTC/AMPG; June 16 follow-up said ARM, QCOM, neoclouds, and photonics were “looking very good” as forward-looking regime-change monitors. June 18 added a live AMPG $10 milestone inside the same AI-equity/multiday-book context, though this is price-action evidence rather than a fresh thesis. Latest June 23 quote restated the capital-markets rotation map from GPUs toward CPU/memory bottlenecks, vertical AI integrations, and later physical AI/Apple robotics supply-chain exposure. June 24 MU/DRAM posts keep memory semis on the active AI-equity/event watchlist, including a prior-earnings chart as he positioned around Micron. June 25 post-Warsh playbook makes the hierarchy explicit: DRAM/MU alpha, CPU/agentic first-order beta, CRDO/ALAB connectivity second-order beta, 800VDC/power later, and TE/BB more decoupled opportunities.",
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2066030025942655219",
           "https://x.com/MoneyPrinter0x/status/2066030572896764191",
@@ -1576,7 +1576,10 @@
           "https://x.com/MoneyPrinter0x/status/2067592240541921597",
           "https://x.com/MoneyPrinter0x/status/2069500973559800116",
           "https://x.com/MoneyPrinter0x/status/2069692832236134890",
-          "https://x.com/MoneyPrinter0x/status/2069861029816000604"
+          "https://x.com/MoneyPrinter0x/status/2069861029816000604",
+          "https://x.com/MoneyPrinter0x/status/2070084392152891433",
+          "https://x.com/MoneyPrinter0x/status/2070102566806118461",
+          "https://x.com/MoneyPrinter0x/status/2070111413138289056"
         ],
         "confidence": "high"
       },
@@ -1736,6 +1739,16 @@
           "https://x.com/MoneyPrinter0x/status/2069901602006417668"
         ],
         "confidence": "medium"
+      },
+      {
+        "theme": "Post-Warsh macro/event confirmation trading",
+        "summary": "Frames the Warsh/PCE/inflation-expectations sequence as a phased regime shift: Phase 1 panic/sentiment arb ending after May PCE, Phase 2 trends-create-narratives beginning if Friday inflation expectations confirm; uses staggered entries, sector hierarchy, explicit hedges, and invalidation tied to the print.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2070084392152891433",
+          "https://x.com/MoneyPrinter0x/status/2070089793313366025",
+          "https://x.com/MoneyPrinter0x/status/2070093252552761684"
+        ],
+        "confidence": "high"
       }
     ],
     "dislikes": [
