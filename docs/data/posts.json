@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-06-26",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/macro_event_update",
+    "url": "https://x.com/MoneyPrinter0x/status/2070418682149540343",
+    "summary": "Updated the June inflation-expectations event setup before the 10am EST print: preliminary expectations were 4.6%, he estimated a 4.5-4.7% final range, highlighted the unusually large WTI-vs-expectations divergence plus retracing yields, and framed a soft print as the trigger for dovish repricing/risk-asset upside with invalidation if the print is not soft.",
+    "entities": [
+      "June inflation expectations",
+      "WTI oil divergence",
+      "Treasury yields",
+      "Warsh spike retrace",
+      "dovish repricing",
+      "risk assets",
+      "event invalidation"
+    ],
+    "why_logged": "High-signal continuation of MoneyPrinter0x’s June 25 macro/AI-equity event book because it corrects the catalyst timing, states the expected data range, and keeps invalidation explicit rather than adding a generic bullish call.",
+    "confidence": "high"
+  },
+  {
     "date": "2026-06-25",
     "handle": "kelxyz_",
     "type": "authored_post/inference_demand",
