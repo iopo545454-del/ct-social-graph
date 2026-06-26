@@ -2771,5 +2771,53 @@
     ],
     "why_logged": "Substantive product/go-to-market filter from airtightfish: token/points mechanics are acceptable only when tied to real PMF and correct metrics, not as fake traction.",
     "confidence": "medium"
+  },
+  {
+    "date": "2026-06-26",
+    "handle": "MoneyPrinter0x",
+    "type": "quote/post_event_update",
+    "url": "https://x.com/MoneyPrinter0x/status/2070529743301357692",
+    "summary": "After the 10am inflation-expectations print, explicitly marked the specific June 26 inflation-mispricing / DRAM-HYPE catalyst thesis as invalidated and said he exited the position.",
+    "entities": [
+      "June inflation expectations",
+      "DRAM",
+      "HYPE",
+      "event-driven invalidation",
+      "risk management",
+      "macro catalyst"
+    ],
+    "why_logged": "Closes the earlier pre-print setup with direct post-event accountability: the catalyst thesis was invalidated and the position was exited rather than rationalized.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-26",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/post_event_clarification",
+    "url": "https://x.com/MoneyPrinter0x/status/2070541680407986448",
+    "summary": "Clarified that 1-year inflation expectations printed at consensus, so remaining upside would not come from the specific inflation-expectations mispricing view.",
+    "entities": [
+      "inflation expectations",
+      "event-risk trading",
+      "risk assets",
+      "invalidation"
+    ],
+    "why_logged": "Useful nuance for the evidence tape: separates invalidation of one catalyst from broader market bias, reinforcing his scenario-based trading process.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-26",
+    "handle": "CryptoTomYT",
+    "type": "authored_post/hyperliquid_valuation_reaction",
+    "url": "https://x.com/CryptoTomYT/status/2070298040506732801",
+    "summary": "Reacted skeptically/humorously to Multicoin-style Hyperliquid projections around $689 HYPE and roughly $8B ARR by 2028, saying he wants whatever they are smoking but that it would be a movie if it plays out.",
+    "entities": [
+      "Hyperliquid",
+      "HYPE",
+      "Multicoin Capital",
+      "ARR projection",
+      "valuation model"
+    ],
+    "why_logged": "Adds a higher-context CryptoTomYT Hyperliquid evidence point: not a venue-performance screenshot, but a trader reaction to very aggressive HYPE fundamental projections.",
+    "confidence": "medium"
   }
 ]
