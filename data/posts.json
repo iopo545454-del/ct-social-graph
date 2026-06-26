@@ -2,6 +2,23 @@
   {
     "date": "2026-06-26",
     "handle": "MoneyPrinter0x",
+    "type": "authored_post/trade_execution",
+    "url": "https://x.com/MoneyPrinter0x/status/2070419992194248985",
+    "summary": "Added DRAM and HYPE while saying he was frontrunning part (iii) of the June inflation-expectations thesis; kept invalidation tied to the Friday 10am EST print after correcting the earlier 11am timing.",
+    "entities": [
+      "DRAM",
+      "HYPE",
+      "Hyperliquid",
+      "June inflation expectations",
+      "event invalidation",
+      "risk assets"
+    ],
+    "why_logged": "Fresh execution/positioning evidence directly attached to the existing June 26 macro catalyst book: it shows the selected vehicles and keeps the print-based invalidation explicit.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-26",
+    "handle": "MoneyPrinter0x",
     "type": "authored_post/macro_event_update",
     "url": "https://x.com/MoneyPrinter0x/status/2070418682149540343",
     "summary": "Updated the June inflation-expectations event setup before the 10am EST print: preliminary expectations were 4.6%, he estimated a 4.5-4.7% final range, highlighted the unusually large WTI-vs-expectations divergence plus retracing yields, and framed a soft print as the trigger for dovish repricing/risk-asset upside with invalidation if the print is not soft.",

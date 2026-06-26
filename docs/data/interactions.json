@@ -3,6 +3,17 @@
     "from": "MoneyPrinter0x",
     "to": "unknown_counterparty",
     "to_kind": "individual",
+    "type": "reply/macro_trade_framework_defense",
+    "date": "2026-06-26",
+    "url": "https://x.com/MoneyPrinter0x/status/2070433715025830275",
+    "summary": "In a criticism thread around the June inflation-expectations thesis, clarified that risk assets were near a top, he had reduced overnight leveraged exposure while keeping spot, and the setup should be read probabilistically with staged validation/invalidation rather than as a static bullish call.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "unknown_counterparty",
+    "to_kind": "individual",
     "type": "reply/agentic_market_data_workflow",
     "date": "2026-06-25",
     "url": "https://x.com/MoneyPrinter0x/status/2070230649907335427",
