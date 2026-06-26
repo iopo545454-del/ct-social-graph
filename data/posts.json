@@ -1,6 +1,62 @@
 [
   {
     "date": "2026-06-26",
+    "handle": "0xGeeGee",
+    "type": "authored_post/purr_relative_value_filter",
+    "url": "https://x.com/0xGeeGee/status/2070595528962752997",
+    "summary": "Called PURR “trash” but said even including the closest strikes its mNAV was not yet interesting enough for a relative short, though it could become interesting if higher.",
+    "entities": [
+      "PURR",
+      "mNAV",
+      "relative short",
+      "Hyperliquid ecosystem",
+      "relative value"
+    ],
+    "why_logged": "Adds a concise GeeGee relative-value filter: negative project-quality view is separated from whether the valuation/strike setup is attractive enough to short.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-26",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/liquidity_path_and_equity_exposure",
+    "url": "https://x.com/MoneyPrinter0x/status/2070607771872231749",
+    "summary": "Outlined the current liquidity path as broader external risk → HYPE → BTC/SOL → HYPE, with some assets still too far from the path; nearby reply said he remains positioned in robotics/RTOS equities via BB while avoiding low-OI, wide-spread LEAPs.",
+    "entities": [
+      "HYPE",
+      "BTC",
+      "SOL",
+      "liquidity path",
+      "BB",
+      "BlackBerry",
+      "robotics",
+      "RTOS",
+      "LEAP spreads",
+      "low OI"
+    ],
+    "why_logged": "Useful process evidence linking crypto rotation sequencing with his equity book and options-liquidity filter.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-26",
+    "handle": "MoneyPrinter0x",
+    "type": "quote_post/hype_sol_liquidity_thesis",
+    "url": "https://x.com/MoneyPrinter0x/status/2070604794377719998",
+    "summary": "Built a comparative crypto-exposure thesis around HYPE versus SOL: HYPE remains the “right curve” / golden-standard long-term infra play, while SOL is a minority “left curve” exposure helped by the OpenAI “sol” naming catalyst; he described using 12h TWAPs and an 80/20 right-curve allocation rather than chasing all attention flows.",
+    "entities": [
+      "HYPE",
+      "Hyperliquid",
+      "SOL",
+      "OpenAI sol naming catalyst",
+      "tokenized synthetics/perps",
+      "SEC staff statements",
+      "TWAP execution",
+      "right-curve/left-curve framing"
+    ],
+    "why_logged": "High-signal update to MoneyPrinter0x’s HYPE preference: it adds allocation, execution, relative SOL framing, and regulatory/perps context instead of a generic bullish ticker mention.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-26",
     "handle": "MoneyPrinter0x",
     "type": "authored_post/trade_execution",
     "url": "https://x.com/MoneyPrinter0x/status/2070419992194248985",

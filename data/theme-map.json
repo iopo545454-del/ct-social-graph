@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-06-26",
-  "profile_updated_at": "2026-06-26T16:53:00Z",
+  "profile_updated_at": "2026-06-26T21:00:20Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -152,9 +152,12 @@
         "Hyperliquid / HYPE",
         "PURR / Hyperliquid ecosystem",
         "Multicoin Capital HYPE valuation report",
-        "$689 HYPE / $8B ARR projection"
+        "$689 HYPE / $8B ARR projection",
+        "SOL / Solana",
+        "OpenAI sol naming catalyst",
+        "right-curve/left-curve framing"
       ],
-      "summary": "zuqaquz showed repeated, explicit Hyperliquid/HYPE preference across originals and replies. coin_casanova referenced liking HYPE retest dynamics. MoneyPrinter0x now has repeated concise HYPE/Hyperliquid attention: earlier terse positive mentions, PURR/Hyperliquid ecosystem follow-up, and a June 20 HYPE-vs-NQ fractal overlay request. Useful as corroborating attention, but much of the MoneyPrinter evidence remains chart/process-led rather than a full thesis. Late June 24 MoneyPrinter0x explicitly posted a HYPE long, adding a clearer position signal to his previously concise chart/ecosystem references. June 26 MoneyPrinter0x added HYPE again alongside DRAM as a catalyst-positioning vehicle into the inflation-expectations event window, reinforcing attention but still mostly trade/execution-led. CryptoTomYT now adds a skeptical valuation-reaction data point: he found Multicoin-style $689 HYPE / $8B ARR by 2028 assumptions extremely aggressive, while acknowledging the upside scenario would be notable if realized.",
+      "summary": "zuqaquz showed repeated, explicit Hyperliquid/HYPE preference across originals and replies. coin_casanova referenced liking HYPE retest dynamics. MoneyPrinter0x now has repeated concise HYPE/Hyperliquid attention: earlier terse positive mentions, PURR/Hyperliquid ecosystem follow-up, and a June 20 HYPE-vs-NQ fractal overlay request. Useful as corroborating attention, but much of the MoneyPrinter evidence remains chart/process-led rather than a full thesis. Late June 24 MoneyPrinter0x explicitly posted a HYPE long, adding a clearer position signal to his previously concise chart/ecosystem references. June 26 MoneyPrinter0x added HYPE again alongside DRAM as a catalyst-positioning vehicle into the inflation-expectations event window, reinforcing attention but still mostly trade/execution-led. CryptoTomYT now adds a skeptical valuation-reaction data point: he found Multicoin-style $689 HYPE / $8B ARR by 2028 assumptions extremely aggressive, while acknowledging the upside scenario would be notable if realized. Late June 26 MoneyPrinter0x sharpened the HYPE thesis: HYPE is the “right curve” / golden-standard infra exposure and primary crypto allocation, while SOL is a smaller left-curve catalyst trade after OpenAI “sol” attention; he also described the current liquidity path as broader risk → HYPE → BTC/SOL → HYPE.",
       "evidence_urls": [
         "https://x.com/zuqaquz/status/2063748710882738618",
         "https://x.com/zuqaquz/status/2063001072893940119",
@@ -166,7 +169,10 @@
         "https://x.com/MoneyPrinter0x/status/2068277914454679787",
         "https://x.com/MoneyPrinter0x/status/2069923632147800265",
         "https://x.com/MoneyPrinter0x/status/2070419992194248985",
-        "https://x.com/CryptoTomYT/status/2070298040506732801"
+        "https://x.com/CryptoTomYT/status/2070298040506732801",
+        "https://x.com/MoneyPrinter0x/status/2070604794377719998",
+        "https://x.com/MoneyPrinter0x/status/2070607771872231749",
+        "https://x.com/MoneyPrinter0x/status/2070592846282076384"
       ],
       "momentum": "rising",
       "confidence": "high",
@@ -210,9 +216,12 @@
         "PreStocks",
         "Kalshi",
         "MU options",
-        "BTC/STRC conditional market"
+        "BTC/STRC conditional market",
+        "tokenized synthetics/perps",
+        "PURR",
+        "relative mNAV shorts"
       ],
-      "summary": "Observed posts show coin_casanova arguing for organic crypto options demand, CryptoTomYT highlighting Tradexyz/Legend Trade performance context, airtightfish building/promoting ProofMarkets, AustinBarack using Hyperliquid/SPCX as a market-structure example, and 0xGeeGee naming Variational/Pear fee checks. These are separate infra/venue references rather than one unified thesis. Recent airtightfish/ProofMarkets evidence is product-led: onboarding/contest operations, conditional futures/non-gambling market-listing commentary, STRC/MSTR/BTC conditional markets, a umia_finance discussion about prediction/governance signals, and now a June 23 SOL-if-BTC-up/down Challenge market as conditional-futures listing experimentation. Keep this bucket close to evidence rather than turning it into abstract venue scoring. June 23 airtightfish evidence adds another ProofMarkets use case: pricing Solana Burn SIMD implementation odds and implied SOL impact, with caveats around governance signaling. June 24 reply added another ProofMarkets-as-hedging-tool signal in response to a thread criticizing current prediction-market payout/liquidity/standardization limits. New airtightfish PreStocks/Kalshi evidence broadens the infrastructure bucket into private-market/prediction-market liquidity: valuation gaps are interesting, but disappearing exit liquidity is the central critique. June 25 caveat: airtightfish said the ProofMarkets SOL Burn SIMD market was very illiquid and only a gated-MVP/test market, so treat this as directional product evidence rather than a liquid market signal. June 25 airtightfish adds a BTC/STRC ProofMarkets conditional-market example and explicitly frames the MVP as showing event-positioning value.",
+      "summary": "Observed posts show coin_casanova arguing for organic crypto options demand, CryptoTomYT highlighting Tradexyz/Legend Trade performance context, airtightfish building/promoting ProofMarkets, AustinBarack using Hyperliquid/SPCX as a market-structure example, and 0xGeeGee naming Variational/Pear fee checks. These are separate infra/venue references rather than one unified thesis. Recent airtightfish/ProofMarkets evidence is product-led: onboarding/contest operations, conditional futures/non-gambling market-listing commentary, STRC/MSTR/BTC conditional markets, a umia_finance discussion about prediction/governance signals, and now a June 23 SOL-if-BTC-up/down Challenge market as conditional-futures listing experimentation. Keep this bucket close to evidence rather than turning it into abstract venue scoring. June 23 airtightfish evidence adds another ProofMarkets use case: pricing Solana Burn SIMD implementation odds and implied SOL impact, with caveats around governance signaling. June 24 reply added another ProofMarkets-as-hedging-tool signal in response to a thread criticizing current prediction-market payout/liquidity/standardization limits. New airtightfish PreStocks/Kalshi evidence broadens the infrastructure bucket into private-market/prediction-market liquidity: valuation gaps are interesting, but disappearing exit liquidity is the central critique. June 25 caveat: airtightfish said the ProofMarkets SOL Burn SIMD market was very illiquid and only a gated-MVP/test market, so treat this as directional product evidence rather than a liquid market signal. June 25 airtightfish adds a BTC/STRC ProofMarkets conditional-market example and explicitly frames the MVP as showing event-positioning value. June 26 adds two compact infra/relative-value examples: MoneyPrinter0x tied HYPE to tokenized synthetics/perps and regulatory context, while 0xGeeGee called PURR poor quality but not yet attractive enough as a relative mNAV short.",
       "evidence_urls": [
         "https://x.com/coin_casanova/status/2063848704499687605",
         "https://x.com/CryptoTomYT/status/2065238474907607090",
@@ -244,7 +253,9 @@
         "https://x.com/airtightfish/status/2069923483262345313",
         "https://x.com/MoneyPrinter0x/status/2069882831975932415",
         "https://x.com/airtightfish/status/2069949639055315379",
-        "https://x.com/airtightfish/status/2070163896762073583"
+        "https://x.com/airtightfish/status/2070163896762073583",
+        "https://x.com/MoneyPrinter0x/status/2070604794377719998",
+        "https://x.com/0xGeeGee/status/2070595528962752997"
       ],
       "momentum": "emerging",
       "confidence": "medium"

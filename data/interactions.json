@@ -3,6 +3,28 @@
     "from": "MoneyPrinter0x",
     "to": "unknown_counterparty",
     "to_kind": "individual",
+    "type": "reply/liquidity_path_crypto_rotation",
+    "date": "2026-06-26",
+    "url": "https://x.com/MoneyPrinter0x/status/2070607771872231749",
+    "summary": "Outlined a rotation path from broader external risk into HYPE, then BTC/SOL, then back to HYPE; useful process reply but counterparty unavailable from search result.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "unknown_counterparty",
+    "to_kind": "individual",
+    "type": "quote/hype_sol_right_curve_thesis",
+    "date": "2026-06-26",
+    "url": "https://x.com/MoneyPrinter0x/status/2070604794377719998",
+    "summary": "Quoted/responded in a crypto outperformance thread with a substantive HYPE-vs-SOL framework: HYPE as primary long-term infra exposure, SOL as minority left-curve/catalyst exposure, with TWAP execution and liquidity-path awareness. Counterparty not available from search result.",
+    "quality": "high",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "unknown_counterparty",
+    "to_kind": "individual",
     "type": "reply/macro_trade_framework_defense",
     "date": "2026-06-26",
     "url": "https://x.com/MoneyPrinter0x/status/2070433715025830275",

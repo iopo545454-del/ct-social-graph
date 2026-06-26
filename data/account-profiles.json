@@ -183,8 +183,8 @@
   {
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-25",
-    "profile_updated_at": "2026-06-25T08:15:00Z",
+    "period_end": "2026-06-26",
+    "profile_updated_at": "2026-06-26T21:00:20Z",
     "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Latest evidence adds a public-equity AI-imaging proxy note via BFLY/Butterfly Network, while earlier June 19 evidence sharpened STRC/depeg risk and founder-governance filters; new June 20 quotes add STRC marketing/math and risk-metric skepticism. New late-June-20 evidence adds a negative verification-provider credibility read via AccountableData/MainStreet, adjacent to his broader DeFi/RWA attestation and structured-credit risk filters. Latest reply-level evidence adds two AI diligence qualifiers: caution that Dark Bloom/EigenCloud should avoid grifty narrative behavior, and skepticism/curiosity around a Midjourney-scanner claim framed through incentives and fundraising context. June 21 replies add an incentive/timing layer to the MainStreet/Accountable verification-risk thread: he questioned PennyWorks for disclosing prior MainStreet concerns only after the controversy was public and framed delayed disclosure as potentially self-promotional. June 22 quote-post evidence extends his prediction-market skepticism into marketing credibility: he linked a Polymarket paid-promoter/deceptive-video investigation to likely similar tactics in TCGs. Latest June 22 quote adds a direct MSTR/BTC spread expression: he framed “MSTR down, BTC up” as his best-case day after quoting a question about why MSTR holders should stay if Saylor sells common for cash. Latest June 22 reply adds Pear Protocol/PEAR migration diligence: he is willing to re-check the Hyperliquid migration setup, but his first filter is fee drag versus constructing the pair trade directly. June 25 Yearn yvUSD reply extends the same structured-DeFi lens into vault distribution mechanics: he noted senior capital currently has no exposure under the distribution while still warning caution around InfiniFi/STRC-related exposure concerns.",
     "likes": [
       {
@@ -352,6 +352,14 @@
           "https://x.com/0xGeeGee/status/2068033995984576787"
         ],
         "confidence": "high"
+      },
+      {
+        "theme": "Relative-value shorts require both project-quality and valuation setup",
+        "summary": "PURR post separated negative project-quality language from trade entry: even if the token is bad, mNAV/strike context was not yet attractive enough for a relative short until higher.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2070595528962752997"
+        ],
+        "confidence": "medium"
       }
     ],
     "dislikes": [
@@ -702,6 +710,15 @@
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2070037247085170699"
         ]
+      },
+      {
+        "name": "PURR",
+        "handle": null,
+        "stance": "negative quality / not yet attractive relative short",
+        "summary": "Called PURR trash but said the mNAV/closest-strike setup was not yet interesting enough for a relative short unless higher, keeping valuation discipline separate from quality view.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2070595528962752997"
+        ]
       }
     ],
     "people_respected": [
@@ -741,7 +758,8 @@
       "Track whether GeeGee's MainStreet/verification-provider critique remains about specific disclosure incentives or broadens into a durable DeFi attestation-provider trust filter.",
       "Track whether GeeGee’s Polymarket/TCG promoter skepticism becomes a broader critique of gambling-adjacent crypto marketing or remains a one-off WSJ-investigation quote.",
       "Track whether GeeGee continues probing enterprise-chain adoption announcements for token incentives/disclosure, starting with Avalanche/FIFA.",
-      "Track whether GeeGee keeps applying senior/junior capital-stack analysis to Yearn/yvUSD and other DeFi vault wrappers, or whether this was one follow-up to InfiniFi/STRC concerns."
+      "Track whether GeeGee keeps applying senior/junior capital-stack analysis to Yearn/yvUSD and other DeFi vault wrappers, or whether this was one follow-up to InfiniFi/STRC concerns.",
+      "Watch whether PURR becomes a repeated GeeGee relative-value short candidate or remains a one-off Hyperliquid-ecosystem comment."
     ],
     "evidence_urls": [
       "https://x.com/0xGeeGee/status/2065771227743138126",
@@ -789,7 +807,8 @@
       "https://x.com/0xGeeGee/status/2069165089215656343",
       "https://x.com/0xGeeGee/status/2069649601477689596",
       "https://x.com/0xGeeGee/status/2069649220215386456",
-      "https://x.com/0xGeeGee/status/2070037247085170699"
+      "https://x.com/0xGeeGee/status/2070037247085170699",
+      "https://x.com/0xGeeGee/status/2070595528962752997"
     ]
   },
   {
@@ -1552,7 +1571,7 @@
     "handle": "MoneyPrinter0x",
     "period_start": "2026-05-14",
     "period_end": "2026-06-26",
-    "profile_updated_at": "2026-06-26T16:53:00Z",
+    "profile_updated_at": "2026-06-26T21:00:20Z",
     "taste_summary": "Observed X/Twitter evidence shows an event-driven trader mixing AI-equity rotations, short-dated options, macro/rate catalysts, strict invalidation/risk caps, and public post-trade review. New June 19 evidence adds a self-review of the MSTR/CRWV/POET short book after rotating from broad shorts into short-term bullish equities, while still treating BTC upside as capped until the STRC/MSTR overhang has a fix path. Latest June 23 quote refreshes his AI-equity rotation map: from GPU capex into CPU/memory for agentic AI, then vertical integrations, and eventually physical AI / Apple robotics supply chain. June 24 DRAM/MU post adds another execution-level memory/AI-equity example with stop range, risk percentage, earnings catalyst, and explicit invalidation. Latest June 24 follow-ups add process evidence after the DRAM/MU setup: he reviewed the MSTR/CRWV/POET short book, credited MSTR as the main driver, and stressed execution/hedging/stops, while also saying overnight SPCX/Anthropic IPO risk should be scaled down as event exposure changes. Late June 24 update adds MU/Micron as another event-driven AI-equity options setup and a fresh direct HYPE long, reinforcing his focus on high-beta AI/crypto expressions with explicit position expression. June 25 evidence sharpens the post-Warsh AI-equity map: DRAM/MU as bellwether alpha, CPU/agentic names as first-order beta, connectivity/photonics/neoclouds as second-order beta, 800VDC/power and AMPG-style exposure as later beneficiaries, with IGV/MSTR hedges and Friday inflation-expectations/PCE invalidation/confirmation. BB remains a repeated non-crypto equity/cybersecurity catalyst, not a crypto-project promotion. Latest June 25 evidence strengthens the event-driven AI-infrastructure equity style: he connected inflation-expectations timing, Apple AI-flation headlines, DRAM/MU as the alpha leg, and explicit stop discipline on DRAM calls into one catalyst trade. Latest June 26 evidence keeps the same book active into the catalyst: he corrected the inflation-expectations release time to 10am EST, estimated a 4.5-4.7% print range from WTI/yield divergences, and kept the primary invalidation as the print failing to come in soft. Latest June 26 reply-level evidence adds a defensive/process layer: after criticism of the inflation-expectations setup, he emphasized probabilistic EV, staged validation, reduced overnight leverage near a risk-asset top, and keeping the trade separate from a long-term marriage. Post-print update now closes that setup: he marked the inflation-expectations thesis invalidated after consensus data and exited, while clarifying that any remaining upside must come from a different driver.",
     "likes": [
       {
@@ -1791,6 +1810,15 @@
           "https://x.com/MoneyPrinter0x/status/2070418682149540343"
         ],
         "confidence": "high"
+      },
+      {
+        "theme": "HYPE/SOL right-curve versus left-curve framing",
+        "summary": "Keeps HYPE as the long-term “right curve”/infra standard and primary crypto exposure while allowing a smaller SOL “left curve” catalyst trade after the OpenAI “sol” naming attention; execution is staged with TWAPs and awareness of likely retraces.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2070604794377719998",
+          "https://x.com/MoneyPrinter0x/status/2070607771872231749"
+        ],
+        "confidence": "high"
       }
     ],
     "dislikes": [
@@ -1864,12 +1892,15 @@
       {
         "name": "HYPE / PURR",
         "handle": null,
-        "stance": "positive/trading long",
-        "summary": "Repeated concise HYPE/Hyperliquid attention now includes an explicit long entry post, in addition to earlier chart/ecosystem mentions.",
+        "stance": "positive/high-conviction trading and long-term infra exposure",
+        "summary": "Repeated HYPE/Hyperliquid attention now includes explicit high-conviction relative framing: HYPE as the “right curve” / golden-standard infra play, primary crypto exposure, and first stop on the current liquidity path before BTC/SOL rotation.",
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2060346351154794656",
           "https://x.com/MoneyPrinter0x/status/2068277914454679787",
-          "https://x.com/MoneyPrinter0x/status/2069923632147800265"
+          "https://x.com/MoneyPrinter0x/status/2069923632147800265",
+          "https://x.com/MoneyPrinter0x/status/2070419992194248985",
+          "https://x.com/MoneyPrinter0x/status/2070604794377719998",
+          "https://x.com/MoneyPrinter0x/status/2070607771872231749"
         ]
       },
       {
@@ -1925,13 +1956,16 @@
       {
         "name": "Hyperliquid / HYPE",
         "handle": "HyperliquidX",
-        "stance": "positive",
-        "summary": "Repeated HYPE/Hyperliquid attention now includes terse positive mentions, a HYPE momentum chart post, and a June 20 request to overlay an April HYPE fractal against NQ futures. Still medium confidence because the evidence is concise/chart-led rather than a full written thesis. June 26 update added HYPE again, this time explicitly alongside DRAM as a catalyst-positioning vehicle into the inflation-expectations print.",
+        "stance": "positive/high-conviction trading and long-term infra exposure",
+        "summary": "Repeated HYPE/Hyperliquid attention now includes explicit high-conviction relative framing: HYPE as the “right curve” / golden-standard infra play, primary crypto exposure, and first stop on the current liquidity path before BTC/SOL rotation.",
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2066275337655451745",
           "https://x.com/MoneyPrinter0x/status/2066749652788228496",
           "https://x.com/MoneyPrinter0x/status/2068277914454679787",
-          "https://x.com/MoneyPrinter0x/status/2070419992194248985"
+          "https://x.com/MoneyPrinter0x/status/2070419992194248985",
+          "https://x.com/MoneyPrinter0x/status/2069923632147800265",
+          "https://x.com/MoneyPrinter0x/status/2070604794377719998",
+          "https://x.com/MoneyPrinter0x/status/2070607771872231749"
         ]
       },
       {
@@ -2047,6 +2081,16 @@
           "https://x.com/MoneyPrinter0x/status/2069692832236134890",
           "https://x.com/MoneyPrinter0x/status/2070419992194248985"
         ]
+      },
+      {
+        "name": "SOL / Solana",
+        "handle": null,
+        "stance": "tactical/minority positive",
+        "summary": "Treated SOL as a smaller left-curve/catalyst exposure after the OpenAI “sol” naming attention, but explicitly inferior to HYPE as the core infra thesis.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2070604794377719998",
+          "https://x.com/MoneyPrinter0x/status/2070592846282076384"
+        ]
       }
     ],
     "people_respected": [
@@ -2106,7 +2150,8 @@
       "Track whether MoneyPrinter0x's AI rotation map keeps moving from chip bottlenecks into vertical applications and physical AI supply-chain names.",
       "Track whether MoneyPrinter0x keeps expressing the AI-equity rotation via memory/Micron-style earnings setups after the DRAM trade.",
       "Track whether MoneyPrinter0x's risk-curve sequencing from memory into CPU/connectivity/neoclouds becomes a durable framework beyond the current post-Warsh/inflation setup.",
-      "Track whether MoneyPrinter0x follows the invalidated June 26 inflation-expectations setup with a deeper post-trade review, or simply rotates the risk-on thesis to other drivers."
+      "Track whether MoneyPrinter0x follows the invalidated June 26 inflation-expectations setup with a deeper post-trade review, or simply rotates the risk-on thesis to other drivers.",
+      "Track whether the HYPE/SOL right-curve framing persists after the OpenAI “sol” catalyst fades."
     ],
     "evidence_urls": [
       "https://x.com/MoneyPrinter0x/status/2065910048833102118",
@@ -2179,7 +2224,10 @@
       "https://x.com/MoneyPrinter0x/status/2070406877264203991",
       "https://x.com/MoneyPrinter0x/status/2070433715025830275",
       "https://x.com/MoneyPrinter0x/status/2070529743301357692",
-      "https://x.com/MoneyPrinter0x/status/2070541680407986448"
+      "https://x.com/MoneyPrinter0x/status/2070541680407986448",
+      "https://x.com/MoneyPrinter0x/status/2070604794377719998",
+      "https://x.com/MoneyPrinter0x/status/2070607771872231749",
+      "https://x.com/MoneyPrinter0x/status/2070607425535946933"
     ]
   },
   {
