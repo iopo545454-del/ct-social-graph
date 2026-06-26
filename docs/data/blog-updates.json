@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-06-26T12:45:31Z",
+  "last_checked": "2026-06-26T21:03:23Z",
   "new_count": 1,
   "sources": [
     {
@@ -63,7 +63,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-26T12:45:28Z"
+      "checked_at": "2026-06-26T21:03:19Z"
     },
     {
       "name": "Multicoin Capital",
@@ -138,7 +138,7 @@
           "published": "Thu, 02 Oct 2025 00:00:00 GMT"
         }
       ],
-      "checked_at": "2026-06-26T12:45:28Z"
+      "checked_at": "2026-06-26T21:03:20Z"
     },
     {
       "name": "Pantera Blockchain Letter",
@@ -203,7 +203,7 @@
           "published": "Thu, 29 May 2025 16:37:35 +0000"
         }
       ],
-      "checked_at": "2026-06-26T12:45:29Z"
+      "checked_at": "2026-06-26T21:03:21Z"
     },
     {
       "name": "Paradigm",
@@ -266,7 +266,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-26T12:45:30Z"
+      "checked_at": "2026-06-26T21:03:21Z"
     },
     {
       "name": "Glassnode Research",
@@ -341,7 +341,7 @@
           "published": "Wed, 17 Jun 2026 14:53:09 GMT"
         }
       ],
-      "checked_at": "2026-06-26T12:45:30Z"
+      "checked_at": "2026-06-26T21:03:21Z"
     },
     {
       "name": "Delphi Digital",
@@ -359,7 +359,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-26T12:45:30Z"
+      "checked_at": "2026-06-26T21:03:22Z"
     },
     {
       "name": "Electric Capital",
@@ -371,7 +371,7 @@
       "error": null,
       "feed_urls": [],
       "items": [],
-      "checked_at": "2026-06-26T12:45:31Z"
+      "checked_at": "2026-06-26T21:03:22Z"
     },
     {
       "name": "Bankless",
@@ -439,12 +439,12 @@
           "published": null
         },
         {
-          "title": "News Hyperliquid Passes AQA v2 to Fund More HYPE Buybacks 90% of USDC yield on Hyperliquid will fund HYPE buybacks starting Oct. 3, creating",
-          "url": "https://www.bankless.com/read/news/hyperliquid-passes-aqa-v2-to-fund-more-hype-buybacks",
+          "title": "Analysis Why CME Is Really Suing the CFTC Over Perps CME wants Kalshi's Bitcoin perp reclassified as a swap, not banned. That distinction re",
+          "url": "https://www.bankless.com/read/why-cme-suing-cftc-perps",
           "published": null
         }
       ],
-      "checked_at": "2026-06-26T12:45:31Z"
+      "checked_at": "2026-06-26T21:03:23Z"
     },
     {
       "name": "Token Terminal",
@@ -517,7 +517,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-06-26T12:45:31Z"
+      "checked_at": "2026-06-26T21:03:23Z"
     }
   ],
   "articles": [
@@ -1182,13 +1182,13 @@
       "source_url": "https://www.bankless.com/read"
     },
     {
-      "id": "4c6bee9e8312",
+      "id": "2e6413e4bcd2",
       "source": "Bankless",
       "tier": 2,
-      "title": "News Hyperliquid Passes AQA v2 to Fund More HYPE Buybacks 90% of USDC yield on Hyperliquid will fund HYPE buybacks starting Oct. 3, creating",
-      "url": "https://www.bankless.com/read/news/hyperliquid-passes-aqa-v2-to-fund-more-hype-buybacks",
+      "title": "Analysis Why CME Is Really Suing the CFTC Over Perps CME wants Kalshi's Bitcoin perp reclassified as a swap, not banned. That distinction re",
+      "url": "https://www.bankless.com/read/why-cme-suing-cftc-perps",
       "published": null,
-      "first_seen": "2026-06-24T19:32:54Z",
+      "first_seen": "2026-06-26T21:03:23Z",
       "source_url": "https://www.bankless.com/read"
     },
     {
@@ -1310,6 +1310,16 @@
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "4c6bee9e8312",
+      "source": "Bankless",
+      "tier": 2,
+      "title": "News Hyperliquid Passes AQA v2 to Fund More HYPE Buybacks 90% of USDC yield on Hyperliquid will fund HYPE buybacks starting Oct. 3, creating",
+      "url": "https://www.bankless.com/read/news/hyperliquid-passes-aqa-v2-to-fund-more-hype-buybacks",
+      "published": null,
+      "first_seen": "2026-06-24T19:32:54Z",
+      "source_url": "https://www.bankless.com/read"
     },
     {
       "id": "1537703e0565",
