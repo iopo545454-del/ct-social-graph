@@ -3,6 +3,28 @@
     "from": "MoneyPrinter0x",
     "to": "unknown_counterparty",
     "to_kind": "individual",
+    "type": "reply/btc_twaps_scaled_orders",
+    "date": "2026-06-27",
+    "url": "https://x.com/MoneyPrinter0x/status/2070839627229909174",
+    "summary": "Clarified that BTC can still tank more, so accumulation should be done through four-month TWAPs weighted later in the window or combined with scaled orders rather than high-leverage immediate chasing.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "unknown_counterparty",
+    "to_kind": "individual",
+    "type": "reply/liquidity_macro_timing",
+    "date": "2026-06-27",
+    "url": "https://x.com/MoneyPrinter0x/status/2070845738305868047",
+    "summary": "Expanded the October-low thesis by saying forward-looking macros align with October as the likely worst point for hike sentiment and circulating market liquidity.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "unknown_counterparty",
+    "to_kind": "individual",
     "type": "reply/btc_accumulation_execution",
     "date": "2026-06-27",
     "url": "https://x.com/MoneyPrinter0x/status/2070830998628053247",

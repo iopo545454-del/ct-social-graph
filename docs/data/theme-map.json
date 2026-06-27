@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-06-27",
-  "profile_updated_at": "2026-06-27T13:45:00Z",
+  "profile_updated_at": "2026-06-27T17:45:00Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -775,12 +775,15 @@
         "liquidity macros",
         "TWAP/scaled orders"
       ],
-      "summary": "Single-account June 27 evidence from MoneyPrinter0x: possible BTC bear-market bottom between now and October 6, 2026, with low/no leverage and staged TWAP/scaled-order accumulation. Keep as a source-close process bucket until later validation/invalidation.",
+      "summary": "Single-account June 27 evidence from MoneyPrinter0x: possible BTC bear-market bottom between now and October 6, 2026, with low/no leverage and staged TWAP/scaled-order accumulation. Keep as a source-close process bucket until later validation/invalidation. Follow-up replies add the important caveat that BTC can still trade lower, so the practical expression is back-weighted TWAP/scaled-order execution; a later terse “new dawn” post reinforces the same four-month cycle window.",
       "evidence_urls": [
         "https://x.com/MoneyPrinter0x/status/2070829990460170382",
         "https://x.com/MoneyPrinter0x/status/2070830998628053247",
         "https://x.com/MoneyPrinter0x/status/2070835621774430685",
-        "https://x.com/MoneyPrinter0x/status/2070840681518489963"
+        "https://x.com/MoneyPrinter0x/status/2070840681518489963",
+        "https://x.com/MoneyPrinter0x/status/2070839627229909174",
+        "https://x.com/MoneyPrinter0x/status/2070845738305868047",
+        "https://x.com/MoneyPrinter0x/status/2070909520768082317"
       ],
       "momentum": "emerging",
       "confidence": "medium"

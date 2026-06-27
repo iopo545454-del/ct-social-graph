@@ -2,6 +2,53 @@
   {
     "date": "2026-06-27",
     "handle": "MoneyPrinter0x",
+    "type": "authored_post/crypto_new_dawn_countdown",
+    "url": "https://x.com/MoneyPrinter0x/status/2070909520768082317",
+    "summary": "Posted that crypto is four months away from a new dawn, a terse continuation of the same October-2026 window after the longer BTC bottom/TWAP thread earlier in the day.",
+    "entities": [
+      "crypto market cycle",
+      "October 2026",
+      "BTC accumulation window",
+      "macro turning point"
+    ],
+    "why_logged": "Low-detail standalone post, but it directly reinforces the dated four-month crypto-cycle thesis already logged from the same day.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-27",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/btc_twaps_scaled_orders",
+    "url": "https://x.com/MoneyPrinter0x/status/2070839627229909174",
+    "summary": "Clarified that the setup can still tank BTC more and suggested either four-month TWAPs weighted toward the back of the window or combining TWAPs with scaled orders.",
+    "entities": [
+      "BTC",
+      "TWAP execution",
+      "scaled orders",
+      "drawdown risk",
+      "October 2026"
+    ],
+    "why_logged": "Adds practical execution/risk detail to the BTC accumulation-window thesis, emphasizing that the view is not an all-in immediate bottom call.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-27",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/liquidity_macro_timing",
+    "url": "https://x.com/MoneyPrinter0x/status/2070845738305868047",
+    "summary": "Restated the macro timing argument: forward-looking macro conditions happen to align with October being the worst point for hike sentiment and circulating market liquidity.",
+    "entities": [
+      "BTC",
+      "liquidity macros",
+      "rate-hike sentiment",
+      "October 2026",
+      "market liquidity"
+    ],
+    "why_logged": "Keeps the source evidence close for the October-bottom rationale rather than only storing the headline date.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-27",
+    "handle": "MoneyPrinter0x",
     "type": "authored_thread/btc_october_accumulation_window",
     "url": "https://x.com/MoneyPrinter0x/status/2070829990460170382",
     "summary": "Doubled down on a BTC bear-market-bottom window between now and October 6, 2026, framing the idea as macro/cycle research rather than a high-leverage immediate bull call.",
