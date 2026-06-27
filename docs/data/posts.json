@@ -1,6 +1,84 @@
 [
   {
     "date": "2026-06-27",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_thread/btc_october_accumulation_window",
+    "url": "https://x.com/MoneyPrinter0x/status/2070829990460170382",
+    "summary": "Doubled down on a BTC bear-market-bottom window between now and October 6, 2026, framing the idea as macro/cycle research rather than a high-leverage immediate bull call.",
+    "entities": [
+      "BTC",
+      "October 2026 bottom window",
+      "macro cycle",
+      "bear-market bottom",
+      "accumulation"
+    ],
+    "why_logged": "New high-signal thesis shift after prior STRC/MSTR-overhang caution: introduces a dated BTC accumulation window that should be tracked for follow-up validation/invalidation.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-27",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/execution_framework",
+    "url": "https://x.com/MoneyPrinter0x/status/2070830998628053247",
+    "summary": "Suggested BTC accumulation over the next four months with no leverage or only 1.25–1.5x max, using a mix of TWAPs and scaled orders; tied timing to possible rate hikes largely being complete by October.",
+    "entities": [
+      "BTC",
+      "TWAP execution",
+      "scaled orders",
+      "low leverage",
+      "rate hikes",
+      "October 2026"
+    ],
+    "why_logged": "Adds actionable execution/risk-management detail to the BTC October-bottom thesis; useful because it specifies leverage limits and order design.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-27",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/macro_confluence",
+    "url": "https://x.com/MoneyPrinter0x/status/2070835621774430685",
+    "summary": "Explained the October-low confluence as roughly 364–365 days from cycle top plus most expected rate hikes being behind the market by then and liquidity macros bottoming.",
+    "entities": [
+      "BTC",
+      "cycle top timing",
+      "rate hikes",
+      "liquidity macros",
+      "October 2026"
+    ],
+    "why_logged": "Captures the reasoning behind the new BTC accumulation window instead of only the headline date.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-27",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/performance_context",
+    "url": "https://x.com/MoneyPrinter0x/status/2070836944364253540",
+    "summary": "Defended recent performance by clarifying he never called a broad crypto bull market; said the past three months were roughly 90% equities plus Hyperliquid and less than 10% other plays, with imperfections acknowledged.",
+    "entities": [
+      "equities",
+      "Hyperliquid",
+      "crypto bull-market framing",
+      "performance attribution",
+      "risk communication"
+    ],
+    "why_logged": "Useful profile/process evidence: clarifies how he wants recent calls categorized—equity + Hyperliquid-led, not blanket crypto bullishness.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-27",
+    "handle": "CryptoTomYT",
+    "type": "authored_post/hyperliquid_attention",
+    "url": "https://x.com/CryptoTomYT/status/2070669003849076840",
+    "summary": "Posted the terse one-word signal “hyperliquid.”",
+    "entities": [
+      "Hyperliquid",
+      "HYPE"
+    ],
+    "why_logged": "Low-context but useful as repeated CryptoTomYT Hyperliquid attention one day after reacting to aggressive HYPE valuation projections; keep light, not a full thesis.",
+    "confidence": "low"
+  },
+  {
+    "date": "2026-06-27",
     "handle": "coin_casanova",
     "type": "authored_post/grass_xpl_event_trade",
     "url": "https://x.com/coin_casanova/status/2070696084243136646",
