@@ -2,9 +2,9 @@
   {
     "handle": "coin_casanova",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-24",
-    "profile_updated_at": "2026-06-24T12:00:00Z",
-    "taste_summary": "Observed X/Twitter evidence shows a short-horizon trader focused on low-float/FDV-style setups, hedging, rotation, options, and relative-value framing between crypto and equities. Interpretation confidence is medium because the scan found several original posts but few substantive replies. Latest June 24 CARDS/Collector Crypt post adds a more fundamental project-analysis mode: he can like an illiquid token setup while still requiring tokenholder accrual proof, better liquidity/volume, and cleaner technical support before chasing. Later June 24 follow-ups add a relative AI-token vehicle filter: fade crowded VVV/news-pump behavior, watch whether POD has real substance, and prefer GRASS as a near-term AI/data-token trade into a July catalyst.",
+    "period_end": "2026-06-27",
+    "profile_updated_at": "2026-06-27T02:35:00Z",
+    "taste_summary": "Observed X/Twitter evidence shows a short-horizon trader focused on low-float/FDV-style setups, hedging, rotation, options, and relative-value framing between crypto and equities. Interpretation confidence is medium because the scan found several original posts but few substantive replies. Latest June 24 CARDS/Collector Crypt post adds a more fundamental project-analysis mode: he can like an illiquid token setup while still requiring tokenholder accrual proof, better liquidity/volume, and cleaner technical support before chasing. Later June 24 follow-ups add a relative AI-token vehicle filter: fade crowded VVV/news-pump behavior, watch whether POD has real substance, and prefer GRASS as a near-term AI/data-token trade into a July catalyst. Latest June 27 evidence extends the GRASS/POD AI-token vehicle filter: he compared GRASS with XPL and framed GRASS as a surprise-heavy July-call/earnings-style catalyst while XPL depends more on locked-supply tracking.",
     "likes": [
       {
         "theme": "Low-float speculative setups with clear leaders",
@@ -28,13 +28,14 @@
       },
       {
         "theme": "Narrative leaders over fragmented basket pumps",
-        "summary": "In the Mythos-news pump, argued that scattering flows across TAO, VVV, POD, and AKT was inferior to concentrating under one leader; follow-up emphasized real-user usability and subscription-burn evidence before deciding the best vehicle. June 24 follow-up sharpened the filter: VVV looked weak after heavy shilling, POD may warrant more research, and GRASS was the preferred AI-token vehicle into a possible July catalyst.",
+        "summary": "In the Mythos-news pump, argued that scattering flows across TAO, VVV, POD, and AKT was inferior to concentrating under one leader; follow-up emphasized real-user usability and subscription-burn evidence before deciding the best vehicle. June 24 follow-up sharpened the filter: VVV looked weak after heavy shilling, POD may warrant more research, and GRASS was the preferred AI-token vehicle into a possible July catalyst. June 27 update keeps GRASS in focus as an event/call-driven vehicle and adds XPL as a contrasting locked-supply/float-tracking setup.",
         "evidence_urls": [
           "https://x.com/coin_casanova/status/2066000974163169390",
           "https://x.com/coin_casanova/status/2066005931121574382",
           "https://x.com/coin_casanova/status/2066010501512134674",
           "https://x.com/coin_casanova/status/2069731903838757209",
-          "https://x.com/coin_casanova/status/2069734548959793603"
+          "https://x.com/coin_casanova/status/2069734548959793603",
+          "https://x.com/coin_casanova/status/2070696084243136646"
         ],
         "confidence": "high"
       },
@@ -145,9 +146,19 @@
         "name": "GRASS",
         "handle": "getgrass_io",
         "stance": "positive/watchlist",
-        "summary": "Previously only a broader AI/data token in AustinBarack evidence; coin_casanova now names GRASS as his preferred AI-token vehicle to long into a possible July “earnings” game based on an AI-equities source’s favorite crypto-AI list.",
+        "summary": "Previously named GRASS as preferred AI-token vehicle into a possible July catalyst; June 27 follow-up compares GRASS with XPL and frames the GRASS call as an earnings-like surprise catalyst where outcome uncertainty is the core trade.",
         "evidence_urls": [
-          "https://x.com/coin_casanova/status/2069734548959793603"
+          "https://x.com/coin_casanova/status/2069734548959793603",
+          "https://x.com/coin_casanova/status/2070696084243136646"
+        ]
+      },
+      {
+        "name": "XPL",
+        "handle": null,
+        "stance": "watching",
+        "summary": "Compared against GRASS for a trade; key diligence point is locked XPL / supply overhang mechanics. One tactical evidence point only.",
+        "evidence_urls": [
+          "https://x.com/coin_casanova/status/2070696084243136646"
         ]
       }
     ],
@@ -162,7 +173,8 @@
       "SPCX reference needs follow-up once the IPO/trade context is clearer.",
       "Track whether managed-care/financials rotation becomes a repeated coin_casanova equity theme or stays a one-reply macro note.",
       "Track whether Collector Crypt/CARDS becomes a repeated coin_casanova project focus or remains a one-off detailed watchlist post.",
-      "Track whether coin_casanova’s GRASS/POD relative AI-token vehicle filter recurs or was only a post-Mythos-news follow-up."
+      "Track whether coin_casanova’s GRASS/POD relative AI-token vehicle filter recurs or was only a post-Mythos-news follow-up.",
+      "Track whether XPL recurs as a coin_casanova float/unlock setup or remains a one-off comparison against GRASS."
     ],
     "evidence_urls": [
       "https://x.com/coin_casanova/status/2065438838546477385",
@@ -177,7 +189,8 @@
       "https://x.com/coin_casanova/status/2069224647313457249",
       "https://x.com/coin_casanova/status/2069649318982885840",
       "https://x.com/coin_casanova/status/2069731903838757209",
-      "https://x.com/coin_casanova/status/2069734548959793603"
+      "https://x.com/coin_casanova/status/2069734548959793603",
+      "https://x.com/coin_casanova/status/2070696084243136646"
     ]
   },
   {

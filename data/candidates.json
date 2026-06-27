@@ -1,5 +1,17 @@
 [
   {
+    "handle": "XPL",
+    "kind": "project",
+    "status": "candidate",
+    "source": "coin_casanova GRASS-vs-XPL event-trade comparison",
+    "reason": "coin_casanova compared XPL against GRASS for a near-term trade and said the key thing to track is locked XPL; single tactical float/unlock evidence point, so keep as candidate/mention-ledger only.",
+    "evidence_urls": [
+      "https://x.com/coin_casanova/status/2070696084243136646"
+    ],
+    "first_seen": "2026-06-27",
+    "confidence": "low"
+  },
+  {
     "handle": "PreStocks",
     "kind": "project",
     "status": "candidate",

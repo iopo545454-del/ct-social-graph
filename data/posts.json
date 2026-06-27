@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-06-27",
+    "handle": "coin_casanova",
+    "type": "authored_post/grass_xpl_event_trade",
+    "url": "https://x.com/coin_casanova/status/2070696084243136646",
+    "summary": "Compared GRASS versus XPL as a trade setup: XPL diligence centers on locked-XPL supply/float mechanics, while GRASS is framed as a surprise-heavy July-call/“earnings call” catalyst where the outcome can violently resolve either direction.",
+    "entities": [
+      "GRASS",
+      "XPL",
+      "locked XPL",
+      "holder call",
+      "event trade",
+      "AI/data token catalyst"
+    ],
+    "why_logged": "Extends coin_casanova’s GRASS/POD AI-token vehicle-selection thread with a clearer event-catalyst framing and introduces XPL as a low-confidence float/unlock watch item.",
+    "confidence": "medium"
+  },
+  {
     "date": "2026-06-26",
     "handle": "MoneyPrinter0x",
     "type": "reply/hype_bb_purr_ranking",
