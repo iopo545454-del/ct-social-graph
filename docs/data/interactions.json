@@ -3,6 +3,17 @@
     "from": "MoneyPrinter0x",
     "to": "unknown_counterparty",
     "to_kind": "individual",
+    "type": "reply/hype_bb_purr_relative_preference",
+    "date": "2026-06-26",
+    "url": "https://x.com/MoneyPrinter0x/status/2070652648282624088",
+    "summary": "In a relative-preference reply, said HYPE is preferred over BB if forced to choose, while PURR is only tail convexity on the HYPE ecosystem; useful ranking edge but counterparty unavailable from search result.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "unknown_counterparty",
+    "to_kind": "individual",
     "type": "reply/liquidity_path_crypto_rotation",
     "date": "2026-06-26",
     "url": "https://x.com/MoneyPrinter0x/status/2070607771872231749",

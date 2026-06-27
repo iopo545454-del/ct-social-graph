@@ -1,6 +1,57 @@
 [
   {
     "date": "2026-06-26",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/hype_bb_purr_ranking",
+    "url": "https://x.com/MoneyPrinter0x/status/2070652648282624088",
+    "summary": "Ranked HYPE over BB over PURR when forced to choose: bullish on both HYPE and BB, but HYPE is preferred to BB, while PURR is treated as tail convexity on HYPE.",
+    "entities": [
+      "HYPE",
+      "BB",
+      "PURR",
+      "Hyperliquid ecosystem",
+      "tail convexity",
+      "relative ranking"
+    ],
+    "why_logged": "Compact but useful cross-asset preference ordering across his highest-conviction crypto/equity exposures.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-26",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/bb_robotics_rtos_thesis",
+    "url": "https://x.com/MoneyPrinter0x/status/2070628768998371725",
+    "summary": "Restated BB/BlackBerry as a high-conviction robotics/RTOS equity exposure with a 20–25bn market-cap target by Q2 2027, framed as a bottleneck asset that is less tied to memory/CPU/connectivity cycles and not an attention trade.",
+    "entities": [
+      "BB",
+      "BlackBerry",
+      "robotics",
+      "RTOS",
+      "Q2 2027",
+      "risk-adjusted equity exposure"
+    ],
+    "why_logged": "Adds a fresh long-horizon equity thesis and target to the existing MoneyPrinter0x AI/robotics equity profile; useful because it is specific and risk-adjusted rather than generic bullishness.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-26",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/hype_primary_crypto_allocation",
+    "url": "https://x.com/MoneyPrinter0x/status/2070644820373389560",
+    "summary": "Reiterated HYPE as the main long-term crypto allocation: a “right curve” / golden-standard infra exposure for the next five years, helped by SEC staff-statement context around tokenized synthetics/perps; said new orders are being TWAPed over 12h because retraces are possible.",
+    "entities": [
+      "HYPE",
+      "Hyperliquid",
+      "tokenized synthetics/perps",
+      "SEC staff statement",
+      "TWAP execution",
+      "right-curve framing"
+    ],
+    "why_logged": "High-signal continuation of MoneyPrinter0x’s HYPE thesis because it states allocation priority, time horizon, regulatory/perps rationale, and execution method rather than only ticker enthusiasm.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-26",
     "handle": "0xGeeGee",
     "type": "authored_post/purr_relative_value_filter",
     "url": "https://x.com/0xGeeGee/status/2070595528962752997",

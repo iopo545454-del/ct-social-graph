@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
-  "period_end": "2026-06-26",
-  "profile_updated_at": "2026-06-26T21:00:20Z",
+  "period_end": "2026-06-27",
+  "profile_updated_at": "2026-06-27T01:08:14Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -155,9 +155,11 @@
         "$689 HYPE / $8B ARR projection",
         "SOL / Solana",
         "OpenAI sol naming catalyst",
-        "right-curve/left-curve framing"
+        "right-curve/left-curve framing",
+        "BB / BlackBerry robotics RTOS comparison",
+        "PURR as HYPE tail convexity"
       ],
-      "summary": "zuqaquz showed repeated, explicit Hyperliquid/HYPE preference across originals and replies. coin_casanova referenced liking HYPE retest dynamics. MoneyPrinter0x now has repeated concise HYPE/Hyperliquid attention: earlier terse positive mentions, PURR/Hyperliquid ecosystem follow-up, and a June 20 HYPE-vs-NQ fractal overlay request. Useful as corroborating attention, but much of the MoneyPrinter evidence remains chart/process-led rather than a full thesis. Late June 24 MoneyPrinter0x explicitly posted a HYPE long, adding a clearer position signal to his previously concise chart/ecosystem references. June 26 MoneyPrinter0x added HYPE again alongside DRAM as a catalyst-positioning vehicle into the inflation-expectations event window, reinforcing attention but still mostly trade/execution-led. CryptoTomYT now adds a skeptical valuation-reaction data point: he found Multicoin-style $689 HYPE / $8B ARR by 2028 assumptions extremely aggressive, while acknowledging the upside scenario would be notable if realized. Late June 26 MoneyPrinter0x sharpened the HYPE thesis: HYPE is the “right curve” / golden-standard infra exposure and primary crypto allocation, while SOL is a smaller left-curve catalyst trade after OpenAI “sol” attention; he also described the current liquidity path as broader risk → HYPE → BTC/SOL → HYPE.",
+      "summary": "zuqaquz showed repeated, explicit Hyperliquid/HYPE preference across originals and replies. coin_casanova referenced liking HYPE retest dynamics. MoneyPrinter0x now has repeated concise HYPE/Hyperliquid attention: earlier terse positive mentions, PURR/Hyperliquid ecosystem follow-up, and a June 20 HYPE-vs-NQ fractal overlay request. Useful as corroborating attention, but much of the MoneyPrinter evidence remains chart/process-led rather than a full thesis. Late June 24 MoneyPrinter0x explicitly posted a HYPE long, adding a clearer position signal to his previously concise chart/ecosystem references. June 26 MoneyPrinter0x added HYPE again alongside DRAM as a catalyst-positioning vehicle into the inflation-expectations event window, reinforcing attention but still mostly trade/execution-led. CryptoTomYT now adds a skeptical valuation-reaction data point: he found Multicoin-style $689 HYPE / $8B ARR by 2028 assumptions extremely aggressive, while acknowledging the upside scenario would be notable if realized. Late June 26 MoneyPrinter0x sharpened the HYPE thesis: HYPE is the “right curve” / golden-standard infra exposure and primary crypto allocation, while SOL is a smaller left-curve catalyst trade after OpenAI “sol” attention; he also described the current liquidity path as broader risk → HYPE → BTC/SOL → HYPE. Late June 26 MoneyPrinter0x evidence further clarifies hierarchy: HYPE is his primary five-year crypto/infra allocation, SOL is secondary/tactical, and PURR is only tail convexity on HYPE; a separate reply ranks HYPE above BB and PURR.",
       "evidence_urls": [
         "https://x.com/zuqaquz/status/2063748710882738618",
         "https://x.com/zuqaquz/status/2063001072893940119",
@@ -172,7 +174,9 @@
         "https://x.com/CryptoTomYT/status/2070298040506732801",
         "https://x.com/MoneyPrinter0x/status/2070604794377719998",
         "https://x.com/MoneyPrinter0x/status/2070607771872231749",
-        "https://x.com/MoneyPrinter0x/status/2070592846282076384"
+        "https://x.com/MoneyPrinter0x/status/2070592846282076384",
+        "https://x.com/MoneyPrinter0x/status/2070644820373389560",
+        "https://x.com/MoneyPrinter0x/status/2070652648282624088"
       ],
       "momentum": "rising",
       "confidence": "high",
