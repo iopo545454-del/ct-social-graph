@@ -1,5 +1,16 @@
 [
   {
+    "from": "0xGeeGee",
+    "to": "aerodromefi",
+    "to_kind": "project",
+    "type": "reply/aero_perp_spot_conversion_risk",
+    "date": "2026-06-28",
+    "url": "https://x.com/0xGeeGee/status/2071286452357374290",
+    "summary": "In an AERO perp/spot-conversion discussion, said spot conversion appears likely to play out fine and he would not expect disruptions on the AERO perp leg; useful because it ties his active VELO/AERO exposure to a concrete execution-risk view.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
     "from": "MoneyPrinter0x",
     "to": "unknown_counterparty",
     "to_kind": "individual",

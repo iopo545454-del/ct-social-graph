@@ -1,6 +1,60 @@
 [
   {
     "date": "2026-06-28",
+    "handle": "0xGeeGee",
+    "type": "quote_post/portfolio_scouting_update",
+    "url": "https://x.com/0xGeeGee/status/2071284161378181291",
+    "summary": "Said there is not much to update after closing several trades: BTC/MSTR and RKLB puts were closed, BP was partially closed, and current holds include EIGEN plus VELO/AERO where spread/funding still looks okay though EIGEN momentum is diminishing.",
+    "entities": [
+      "BTC/MSTR",
+      "RKLB puts",
+      "Backpack / BP",
+      "EIGEN",
+      "VELO",
+      "AERO",
+      "position management",
+      "spread/funding"
+    ],
+    "why_logged": "Concise but source-close portfolio/process update: confirms prior GeeGee thesis buckets were actively traded and distinguishes closed positions from still-held EIGEN/VELO/AERO exposure.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-28",
+    "handle": "coin_casanova",
+    "type": "quote_post/cards_trend_reset_risk_management",
+    "url": "https://x.com/coin_casanova/status/2071259149674168528",
+    "summary": "Updated the CARDS/Collector Crypt thesis by saying a full trend reset is needed: time, price, and volatility should move supply from weak to strong hands; emphasized mental-health/risk management over holding large losses and wanted cleaner support despite RSI divergence.",
+    "entities": [
+      "CARDS",
+      "Collector Crypt",
+      "trend reset",
+      "weak-to-strong hands",
+      "RSI divergence",
+      "risk management",
+      "tokenholder accrual"
+    ],
+    "why_logged": "Useful follow-up to the June 24 CARDS analysis because it changes the near-term stance from constructive watchlist to wait-for-reset/risk-managed discipline without abandoning the project thesis.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-28",
+    "handle": "0xGeeGee",
+    "type": "quote_post/ai_model_routing_cost_optimization",
+    "url": "https://x.com/0xGeeGee/status/2071252445297062098",
+    "summary": "Argued that 2026+ AI work will be defined by optimization for specific use cases rather than tokenmaxxing the newest frontier model; cited evidence that open-source/cheaper models can be sufficient for many tasks and that routing/model infrastructure matters as intelligence commoditizes.",
+    "entities": [
+      "AI model routing",
+      "open-source models",
+      "inference cost optimization",
+      "coding harnesses",
+      "China LLM trends",
+      "tokenmaxxing fade"
+    ],
+    "why_logged": "High-signal continuation of GeeGee's AI efficiency/cost-layer thesis, now applied to practical model routing and use-case optimization rather than only broad AI-infra commentary.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-28",
     "handle": "MoneyPrinter0x",
     "type": "reply/defensive_portfolio_allocation",
     "url": "https://x.com/MoneyPrinter0x/status/2071145461923148120",

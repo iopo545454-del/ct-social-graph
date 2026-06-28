@@ -3,8 +3,8 @@
     "handle": "coin_casanova",
     "period_start": "2026-05-14",
     "period_end": "2026-06-28",
-    "profile_updated_at": "2026-06-28T03:00:00Z",
-    "taste_summary": "Observed X/Twitter evidence shows a short-horizon trader focused on low-float/FDV-style setups, hedging, rotation, options, and relative-value framing between crypto and equities. Interpretation confidence is medium because the scan found several original posts but few substantive replies. Latest June 24 CARDS/Collector Crypt post adds a more fundamental project-analysis mode: he can like an illiquid token setup while still requiring tokenholder accrual proof, better liquidity/volume, and cleaner technical support before chasing. Later June 24 follow-ups add a relative AI-token vehicle filter: fade crowded VVV/news-pump behavior, watch whether POD has real substance, and prefer GRASS as a near-term AI/data-token trade into a July catalyst. Latest June 27 evidence extends the GRASS/POD AI-token vehicle filter: he compared GRASS with XPL and framed GRASS as a surprise-heavy July-call/earnings-style catalyst while XPL depends more on locked-supply tracking. June 28 reply-level evidence extends the Derive/options thesis: he defended DRV as fair/slightly undervalued through options-volume growth, real usage, and higher buyback share, while stressing small initial sizing and volume-confirmed scale-up.",
+    "profile_updated_at": "2026-06-28T18:05:00Z",
+    "taste_summary": "Observed X/Twitter evidence shows a short-horizon trader focused on low-float/FDV-style setups, hedging, rotation, options, and relative-value framing between crypto and equities. Interpretation confidence is medium because the scan found several original posts but few substantive replies. Latest June 24 CARDS/Collector Crypt post adds a more fundamental project-analysis mode: he can like an illiquid token setup while still requiring tokenholder accrual proof, better liquidity/volume, and cleaner technical support before chasing. Later June 24 follow-ups add a relative AI-token vehicle filter: fade crowded VVV/news-pump behavior, watch whether POD has real substance, and prefer GRASS as a near-term AI/data-token trade into a July catalyst. Latest June 27 evidence extends the GRASS/POD AI-token vehicle filter: he compared GRASS with XPL and framed GRASS as a surprise-heavy July-call/earnings-style catalyst while XPL depends more on locked-supply tracking. June 28 reply-level evidence extends the Derive/options thesis: he defended DRV as fair/slightly undervalued through options-volume growth, real usage, and higher buyback share, while stressing small initial sizing and volume-confirmed scale-up. Latest June 28 CARDS update shifts the near-term read toward reset/risk management: he still tracks Collector Crypt fundamentals, but says the trend needs time/price/volatility to transfer supply to stronger hands and explicitly prioritizes mental health over holding large losses.",
     "likes": [
       {
         "theme": "Low-float speculative setups with clear leaders",
@@ -51,9 +51,10 @@
       },
       {
         "theme": "Project analysis with tokenholder-accrual and liquidity discipline",
-        "summary": "CARDS/Collector Crypt read combined fundamental growth, tokenholder value accrual, whale/OTC/liquidity mechanics, and chart support rather than only price momentum.",
+        "summary": "CARDS/Collector Crypt read combined fundamental growth, tokenholder value accrual, whale/OTC/liquidity mechanics, and chart support rather than only price momentum. June 28 CARDS follow-up adds near-term discipline: wait for a fuller trend reset and cleaner support rather than holding large drawdowns through volatility.",
         "evidence_urls": [
-          "https://x.com/coin_casanova/status/2069649318982885840"
+          "https://x.com/coin_casanova/status/2069649318982885840",
+          "https://x.com/coin_casanova/status/2071259149674168528"
         ],
         "confidence": "medium"
       }
@@ -137,11 +138,12 @@
       {
         "name": "CARDS",
         "handle": "Collector_Crypt",
-        "stance": "positive/watchlist",
-        "summary": "Earlier treated CARDS price action as climbing a wall of worry; June 24 follow-up gave a fuller constructive-but-disciplined Collector Crypt analysis around gacha/P2P marketplace growth, buybacks/burns, tokenholder accrual proof, OTC absorption risk, and need for a short-term reset before chasing.",
+        "stance": "positive/watchlist but waiting for reset",
+        "summary": "Earlier treated CARDS price action as climbing a wall of worry; June 24 follow-up gave a fuller constructive-but-disciplined Collector Crypt analysis around gacha/P2P marketplace growth, buybacks/burns, tokenholder accrual proof, OTC absorption risk, and need for a short-term reset before chasing. June 28 update says the chart/setup needs a full trend reset and better support, with risk management/mental health prioritized over bagholding.",
         "evidence_urls": [
           "https://x.com/coin_casanova/status/2065980497793318928",
-          "https://x.com/coin_casanova/status/2069649318982885840"
+          "https://x.com/coin_casanova/status/2069649318982885840",
+          "https://x.com/coin_casanova/status/2071259149674168528"
         ]
       },
       {
@@ -177,7 +179,8 @@
       "Track whether Collector Crypt/CARDS becomes a repeated coin_casanova project focus or remains a one-off detailed watchlist post.",
       "Track whether coin_casanova’s GRASS/POD relative AI-token vehicle filter recurs or was only a post-Mythos-news follow-up.",
       "Track whether XPL recurs as a coin_casanova float/unlock setup or remains a one-off comparison against GRASS.",
-      "Track whether coin_casanova keeps updating DRV/Derive sizing based on onchain options volume and buyback changes, or whether this remains one follow-up to the original June 6 position thread."
+      "Track whether coin_casanova keeps updating DRV/Derive sizing based on onchain options volume and buyback changes, or whether this remains one follow-up to the original June 6 position thread.",
+      "Track whether coin_casanova re-enters/updates CARDS after the requested time-price-volatility trend reset, or whether the project fades from his active watchlist."
     ],
     "evidence_urls": [
       "https://x.com/coin_casanova/status/2065438838546477385",
@@ -194,22 +197,24 @@
       "https://x.com/coin_casanova/status/2069731903838757209",
       "https://x.com/coin_casanova/status/2069734548959793603",
       "https://x.com/coin_casanova/status/2070696084243136646",
-      "https://x.com/coin_casanova/status/2071060395075531026"
+      "https://x.com/coin_casanova/status/2071060395075531026",
+      "https://x.com/coin_casanova/status/2071259149674168528"
     ]
   },
   {
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-26",
-    "profile_updated_at": "2026-06-26T21:00:20Z",
-    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Latest evidence adds a public-equity AI-imaging proxy note via BFLY/Butterfly Network, while earlier June 19 evidence sharpened STRC/depeg risk and founder-governance filters; new June 20 quotes add STRC marketing/math and risk-metric skepticism. New late-June-20 evidence adds a negative verification-provider credibility read via AccountableData/MainStreet, adjacent to his broader DeFi/RWA attestation and structured-credit risk filters. Latest reply-level evidence adds two AI diligence qualifiers: caution that Dark Bloom/EigenCloud should avoid grifty narrative behavior, and skepticism/curiosity around a Midjourney-scanner claim framed through incentives and fundraising context. June 21 replies add an incentive/timing layer to the MainStreet/Accountable verification-risk thread: he questioned PennyWorks for disclosing prior MainStreet concerns only after the controversy was public and framed delayed disclosure as potentially self-promotional. June 22 quote-post evidence extends his prediction-market skepticism into marketing credibility: he linked a Polymarket paid-promoter/deceptive-video investigation to likely similar tactics in TCGs. Latest June 22 quote adds a direct MSTR/BTC spread expression: he framed “MSTR down, BTC up” as his best-case day after quoting a question about why MSTR holders should stay if Saylor sells common for cash. Latest June 22 reply adds Pear Protocol/PEAR migration diligence: he is willing to re-check the Hyperliquid migration setup, but his first filter is fee drag versus constructing the pair trade directly. June 25 Yearn yvUSD reply extends the same structured-DeFi lens into vault distribution mechanics: he noted senior capital currently has no exposure under the distribution while still warning caution around InfiniFi/STRC-related exposure concerns.",
+    "period_end": "2026-06-28",
+    "profile_updated_at": "2026-06-28T18:05:00Z",
+    "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Latest evidence adds a public-equity AI-imaging proxy note via BFLY/Butterfly Network, while earlier June 19 evidence sharpened STRC/depeg risk and founder-governance filters; new June 20 quotes add STRC marketing/math and risk-metric skepticism. New late-June-20 evidence adds a negative verification-provider credibility read via AccountableData/MainStreet, adjacent to his broader DeFi/RWA attestation and structured-credit risk filters. Latest reply-level evidence adds two AI diligence qualifiers: caution that Dark Bloom/EigenCloud should avoid grifty narrative behavior, and skepticism/curiosity around a Midjourney-scanner claim framed through incentives and fundraising context. June 21 replies add an incentive/timing layer to the MainStreet/Accountable verification-risk thread: he questioned PennyWorks for disclosing prior MainStreet concerns only after the controversy was public and framed delayed disclosure as potentially self-promotional. June 22 quote-post evidence extends his prediction-market skepticism into marketing credibility: he linked a Polymarket paid-promoter/deceptive-video investigation to likely similar tactics in TCGs. Latest June 22 quote adds a direct MSTR/BTC spread expression: he framed “MSTR down, BTC up” as his best-case day after quoting a question about why MSTR holders should stay if Saylor sells common for cash. Latest June 22 reply adds Pear Protocol/PEAR migration diligence: he is willing to re-check the Hyperliquid migration setup, but his first filter is fee drag versus constructing the pair trade directly. June 25 Yearn yvUSD reply extends the same structured-DeFi lens into vault distribution mechanics: he noted senior capital currently has no exposure under the distribution while still warning caution around InfiniFi/STRC-related exposure concerns. Latest June 28 evidence adds two process updates: he reiterated the AI-efficiency thesis through use-case-specific model routing/open-source cost optimization, then posted a position update showing BTC/MSTR and RKLB puts closed, BP partially closed, and EIGEN plus VELO/AERO still held with AERO conversion/perp risk seen as manageable.",
     "likes": [
       {
         "theme": "AI inference efficiency and optimization layers",
-        "summary": "Predicted a 2026 DeepSeek-style moment for inference where cost awareness, observability, and better harnesses/architectures matter more. Latest quote added that more DeepSeek-like cost collapses may come from infrastructure progress as foundation models commoditize.",
+        "summary": "Predicted a 2026 DeepSeek-style moment for inference where cost awareness, observability, and better harnesses/architectures matter more. Latest quote added that more DeepSeek-like cost collapses may come from infrastructure progress as foundation models commoditize. June 28 model-routing update sharpened this into a product/use-case filter: do not default to the newest frontier model when cheaper/open-source models and routing infrastructure can deliver enough quality.",
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2065771227743138126",
-          "https://x.com/0xGeeGee/status/2067328339170243046"
+          "https://x.com/0xGeeGee/status/2067328339170243046",
+          "https://x.com/0xGeeGee/status/2071252445297062098"
         ],
         "confidence": "medium"
       },
@@ -243,10 +248,11 @@
       },
       {
         "theme": "RWA credit and tokenized brokerage rails",
-        "summary": "Named MORPHO as dominant open-credit/yield-bearing-assets player and BP/Backpack/Securitize as watch items for tokenized equities/brokerage; follow-up added possible PLUME exposure based on GRVT/Bybit distribution/integration momentum.",
+        "summary": "Named MORPHO as dominant open-credit/yield-bearing-assets player and BP/Backpack/Securitize as watch items for tokenized equities/brokerage; follow-up added possible PLUME exposure based on GRVT/Bybit distribution/integration momentum. June 28 portfolio update says BP was partially closed, so current BP evidence is still a watch/position-management thread rather than unchanged conviction.",
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2066111310916694078",
-          "https://x.com/0xGeeGee/status/2066449564631286159"
+          "https://x.com/0xGeeGee/status/2066449564631286159",
+          "https://x.com/0xGeeGee/status/2071284161378181291"
         ],
         "confidence": "medium"
       },
@@ -506,10 +512,11 @@
         "name": "EIGEN / EigenCloud",
         "handle": "eigencloud",
         "stance": "positive",
-        "summary": "Bought some EIGEN after the EigenLayer pivot to EigenCloud/DarkBloom AI inference; sees lower FDV and possible revenue accrual, while acknowledging restaking disappointment. Follow-up reply adds grift-risk caution around the Dark Bloom pivot/narrative.",
+        "summary": "Bought some EIGEN after the EigenLayer pivot to EigenCloud/DarkBloom AI inference; sees lower FDV and possible revenue accrual, while acknowledging restaking disappointment. Follow-up reply adds grift-risk caution around the Dark Bloom pivot/narrative. June 28 portfolio update still lists EIGEN as held, but notes momentum is diminishing a bit.",
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2066111310916694078",
-          "https://x.com/0xGeeGee/status/2068229359375155485"
+          "https://x.com/0xGeeGee/status/2068229359375155485",
+          "https://x.com/0xGeeGee/status/2071284161378181291"
         ]
       },
       {
@@ -534,9 +541,10 @@
         "name": "Backpack / BP",
         "handle": "Backpack",
         "stance": "watching",
-        "summary": "Watching tokenized brokerage/assets on Solana with low circulating supply; caveated team/usage concerns.",
+        "summary": "Watching tokenized brokerage/assets on Solana with low circulating supply; caveated team/usage concerns. June 28 portfolio update says BP was partially closed.",
         "evidence_urls": [
-          "https://x.com/0xGeeGee/status/2066111310916694078"
+          "https://x.com/0xGeeGee/status/2066111310916694078",
+          "https://x.com/0xGeeGee/status/2071284161378181291"
         ]
       },
       {
@@ -736,6 +744,25 @@
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2070595528962752997"
         ]
+      },
+      {
+        "name": "Aerodrome / AERO",
+        "handle": "aerodromefi",
+        "stance": "positive/held with execution caveat",
+        "summary": "June 28 portfolio update says VELO/AERO remains held because spread/funding still looks okay; nearby reply said spot conversion would likely play out fine and he would not expect disruption on the AERO perp leg.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2071284161378181291",
+          "https://x.com/0xGeeGee/status/2071286452357374290"
+        ]
+      },
+      {
+        "name": "VELO",
+        "handle": null,
+        "stance": "positive/held with AERO-pair context",
+        "summary": "Mentioned alongside AERO as still held in a June 28 position update where spread/funding still looked okay; one evidence point only and tied to AERO execution context.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2071284161378181291"
+        ]
       }
     ],
     "people_respected": [
@@ -776,7 +803,8 @@
       "Track whether GeeGee’s Polymarket/TCG promoter skepticism becomes a broader critique of gambling-adjacent crypto marketing or remains a one-off WSJ-investigation quote.",
       "Track whether GeeGee continues probing enterprise-chain adoption announcements for token incentives/disclosure, starting with Avalanche/FIFA.",
       "Track whether GeeGee keeps applying senior/junior capital-stack analysis to Yearn/yvUSD and other DeFi vault wrappers, or whether this was one follow-up to InfiniFi/STRC concerns.",
-      "Watch whether PURR becomes a repeated GeeGee relative-value short candidate or remains a one-off Hyperliquid-ecosystem comment."
+      "Watch whether PURR becomes a repeated GeeGee relative-value short candidate or remains a one-off Hyperliquid-ecosystem comment.",
+      "Track whether GeeGee’s VELO/AERO held-position evidence becomes a durable Base/venue thesis or remains one position-management update."
     ],
     "evidence_urls": [
       "https://x.com/0xGeeGee/status/2065771227743138126",
@@ -825,7 +853,10 @@
       "https://x.com/0xGeeGee/status/2069649601477689596",
       "https://x.com/0xGeeGee/status/2069649220215386456",
       "https://x.com/0xGeeGee/status/2070037247085170699",
-      "https://x.com/0xGeeGee/status/2070595528962752997"
+      "https://x.com/0xGeeGee/status/2070595528962752997",
+      "https://x.com/0xGeeGee/status/2071252445297062098",
+      "https://x.com/0xGeeGee/status/2071284161378181291",
+      "https://x.com/0xGeeGee/status/2071286452357374290"
     ]
   },
   {
