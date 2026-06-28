@@ -1,5 +1,16 @@
 [
   {
+    "from": "MoneyPrinter0x",
+    "to": "unknown_counterparty",
+    "to_kind": "individual",
+    "type": "reply/defensive_portfolio_allocation",
+    "date": "2026-06-28",
+    "url": "https://x.com/MoneyPrinter0x/status/2071145461923148120",
+    "summary": "Responded to portfolio-allocation questions by describing a separate automated IBKR/tradfi preservation book, low crypto exposure except Hyperliquid, hard stops/factor limits, and an 80/20 barbell split between defensive net-worth preservation and active upside seeking.",
+    "quality": "high",
+    "created_tier2_candidate": false
+  },
+  {
     "from": "coin_casanova",
     "to": "Xccvrid",
     "to_kind": "individual",

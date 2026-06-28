@@ -1,6 +1,50 @@
 [
   {
     "date": "2026-06-28",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/defensive_portfolio_allocation",
+    "url": "https://x.com/MoneyPrinter0x/status/2071145461923148120",
+    "summary": "Explained that the majority of earned capital sits in a separate automated self-rebalancing IBKR portfolio of global ETFs, commodities, and bonds with hard stops and factor limits; crypto is near-zero versus tradfi except Hyperliquid, with BTC/SOL-style exposure usually accessed via tradfi ETFs and hedged separately.",
+    "entities": [
+      "IBKR",
+      "global ETFs",
+      "commodities",
+      "bonds",
+      "factor limits",
+      "black-swan risk",
+      "off-ramped capital",
+      "Hyperliquid",
+      "BTC ETFs",
+      "SOL ETFs",
+      "80/20 rule",
+      "barbell strategy"
+    ],
+    "why_logged": "Adds concrete allocation/process detail beneath the capital-preservation post; useful source-close evidence for how he separates wealth preservation from active trading books.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-28",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/capital_preservation_process",
+    "url": "https://x.com/i/status/2071136250371916286",
+    "summary": "Posted that the primary job is not losing money; if capital is preserved, opportunities eventually come. Follow-up replies described keeping most earned capital in a separate automated IBKR/tradfi preservation portfolio targeting global purchasing-power defense rather than aggressive returns.",
+    "entities": [
+      "capital preservation",
+      "barbell strategy",
+      "IBKR",
+      "tradfi ETFs",
+      "commodities",
+      "bonds",
+      "hard stops",
+      "single-factor exposure limits",
+      "off-ramping",
+      "Hyperliquid"
+    ],
+    "why_logged": "High-signal process/profile evidence: it clarifies portfolio construction around a defensive automated tradfi book plus a smaller active/high-upside book, and explains why prior crypto exposure is mostly HYPE rather than broad crypto risk.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-28",
     "handle": "coin_casanova",
     "type": "reply/derive_tokenomics_volume_framework",
     "url": "https://x.com/coin_casanova/status/2071060395075531026",

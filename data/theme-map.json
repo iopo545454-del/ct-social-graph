@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-06-28",
-  "profile_updated_at": "2026-06-28T03:00:00Z",
+  "profile_updated_at": "2026-06-28T14:33:30Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -161,7 +161,7 @@
         "BB / BlackBerry robotics RTOS comparison",
         "PURR as HYPE tail convexity"
       ],
-      "summary": "zuqaquz showed repeated, explicit Hyperliquid/HYPE preference across originals and replies. coin_casanova referenced liking HYPE retest dynamics. MoneyPrinter0x now has repeated concise HYPE/Hyperliquid attention: earlier terse positive mentions, PURR/Hyperliquid ecosystem follow-up, and a June 20 HYPE-vs-NQ fractal overlay request. Useful as corroborating attention, but much of the MoneyPrinter evidence remains chart/process-led rather than a full thesis. Late June 24 MoneyPrinter0x explicitly posted a HYPE long, adding a clearer position signal to his previously concise chart/ecosystem references. June 26 MoneyPrinter0x added HYPE again alongside DRAM as a catalyst-positioning vehicle into the inflation-expectations event window, reinforcing attention but still mostly trade/execution-led. CryptoTomYT now adds a skeptical valuation-reaction data point: he found Multicoin-style $689 HYPE / $8B ARR by 2028 assumptions extremely aggressive, while acknowledging the upside scenario would be notable if realized. Late June 26 MoneyPrinter0x sharpened the HYPE thesis: HYPE is the “right curve” / golden-standard infra exposure and primary crypto allocation, while SOL is a smaller left-curve catalyst trade after OpenAI “sol” attention; he also described the current liquidity path as broader risk → HYPE → BTC/SOL → HYPE. Late June 26 MoneyPrinter0x evidence further clarifies hierarchy: HYPE is his primary five-year crypto/infra allocation, SOL is secondary/tactical, and PURR is only tail convexity on HYPE; a separate reply ranks HYPE above BB and PURR. June 27 adds two light continuation points: MoneyPrinter0x clarified recent performance was largely equities plus Hyperliquid rather than broad crypto, and CryptoTomYT posted a terse “hyperliquid.” Keep CryptoTomYT evidence as attention, not a developed thesis.",
+      "summary": "zuqaquz showed repeated, explicit Hyperliquid/HYPE preference across originals and replies. coin_casanova referenced liking HYPE retest dynamics. MoneyPrinter0x now has repeated concise HYPE/Hyperliquid attention: earlier terse positive mentions, PURR/Hyperliquid ecosystem follow-up, and a June 20 HYPE-vs-NQ fractal overlay request. Useful as corroborating attention, but much of the MoneyPrinter evidence remains chart/process-led rather than a full thesis. Late June 24 MoneyPrinter0x explicitly posted a HYPE long, adding a clearer position signal to his previously concise chart/ecosystem references. June 26 MoneyPrinter0x added HYPE again alongside DRAM as a catalyst-positioning vehicle into the inflation-expectations event window, reinforcing attention but still mostly trade/execution-led. CryptoTomYT now adds a skeptical valuation-reaction data point: he found Multicoin-style $689 HYPE / $8B ARR by 2028 assumptions extremely aggressive, while acknowledging the upside scenario would be notable if realized. Late June 26 MoneyPrinter0x sharpened the HYPE thesis: HYPE is the “right curve” / golden-standard infra exposure and primary crypto allocation, while SOL is a smaller left-curve catalyst trade after OpenAI “sol” attention; he also described the current liquidity path as broader risk → HYPE → BTC/SOL → HYPE. Late June 26 MoneyPrinter0x evidence further clarifies hierarchy: HYPE is his primary five-year crypto/infra allocation, SOL is secondary/tactical, and PURR is only tail convexity on HYPE; a separate reply ranks HYPE above BB and PURR. June 27 adds two light continuation points: MoneyPrinter0x clarified recent performance was largely equities plus Hyperliquid rather than broad crypto, and CryptoTomYT posted a terse “hyperliquid.” Keep CryptoTomYT evidence as attention, not a developed thesis. June 28 defensive-portfolio reply adds another allocation clue: MoneyPrinter0x says crypto exposure is near-zero versus tradfi except Hyperliquid, reinforcing HYPE/Hyperliquid as the exception inside an otherwise defensive/off-ramped net-worth setup.",
       "evidence_urls": [
         "https://x.com/zuqaquz/status/2063748710882738618",
         "https://x.com/zuqaquz/status/2063001072893940119",
@@ -180,7 +180,8 @@
         "https://x.com/MoneyPrinter0x/status/2070644820373389560",
         "https://x.com/MoneyPrinter0x/status/2070652648282624088",
         "https://x.com/MoneyPrinter0x/status/2070836944364253540",
-        "https://x.com/CryptoTomYT/status/2070669003849076840"
+        "https://x.com/CryptoTomYT/status/2070669003849076840",
+        "https://x.com/MoneyPrinter0x/status/2071145461923148120"
       ],
       "momentum": "rising",
       "confidence": "high",
@@ -789,6 +790,31 @@
       ],
       "momentum": "emerging",
       "confidence": "medium"
+    },
+    {
+      "theme": "Capital preservation and barbell portfolio construction",
+      "accounts_positive": [
+        "MoneyPrinter0x"
+      ],
+      "accounts_negative": [],
+      "projects": [
+        "IBKR",
+        "global ETFs",
+        "commodities",
+        "bonds",
+        "Hyperliquid / HYPE",
+        "BTC/SOL ETF-style exposure",
+        "hard stops",
+        "single-factor exposure limits"
+      ],
+      "summary": "Single-account June 28 evidence from MoneyPrinter0x: public trading activity is not presented as the whole net-worth strategy. He says the primary job is to not lose money, keeps most earned capital in a separate automated IBKR/tradfi preservation portfolio, uses hard stops and factor limits, keeps crypto near-zero versus tradfi except Hyperliquid, and frames the setup as an 80/20 barbell between defensive purchasing-power preservation and active upside seeking.",
+      "evidence_urls": [
+        "https://x.com/i/status/2071136250371916286",
+        "https://x.com/MoneyPrinter0x/status/2071145461923148120",
+        "https://x.com/MoneyPrinter0x/status/2071141722688507950"
+      ],
+      "momentum": "emerging",
+      "confidence": "medium"
     }
   ],
   "open_questions": [
@@ -863,6 +889,7 @@
     "Track whether XPL/locked-supply mechanics recur in coin_casanova posts or remain a one-off GRASS comparison.",
     "Track whether MoneyPrinter0x updates or invalidates the June 27 BTC October-bottom window before the stated October 6 date.",
     "Track whether CryptoTomYT develops a fuller Hyperliquid/HYPE thesis beyond terse attention posts and valuation reactions.",
-    "Track whether coin_casanova’s DRV/Derive position gets scaled only after further onchain options-volume growth, as stated in the June 28 reply."
+    "Track whether coin_casanova’s DRV/Derive position gets scaled only after further onchain options-volume growth, as stated in the June 28 reply.",
+    "Track whether MoneyPrinter0x repeats the capital-preservation/off-ramped IBKR barbell framework or whether it remains a one-day context reply."
   ]
 }
