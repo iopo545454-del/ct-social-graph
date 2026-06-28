@@ -1,6 +1,26 @@
 [
   {
     "date": "2026-06-28",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/robotics_sector_rotation",
+    "url": "https://x.com/MoneyPrinter0x/status/2071321614122463666",
+    "summary": "Shifted the near-term AI-equity rotation lens toward robotics, saying beta appears to be aggressively rotating into the robot sector after memory-sector weakness; named BOT and CCXI as current watch items while saying BB remains the obvious/core robotics-RTOS exposure.",
+    "entities": [
+      "robotics sector",
+      "BOT",
+      "CCXI",
+      "BB",
+      "BlackBerry",
+      "AI equities",
+      "sector rotation",
+      "beta rotation",
+      "LEAPs"
+    ],
+    "why_logged": "Fresh source-close continuation of MoneyPrinter0x’s AI-equity rotation framework: it moves attention from memory/CPU/connectivity into robotics names and adds BOT/CCXI as watchlist tickers while keeping BB central.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-28",
     "handle": "0xGeeGee",
     "type": "quote_post/portfolio_scouting_update",
     "url": "https://x.com/0xGeeGee/status/2071284161378181291",

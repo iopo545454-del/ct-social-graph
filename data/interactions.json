@@ -1,6 +1,17 @@
 [
   {
     "from": "0xGeeGee",
+    "to": "evabeylin",
+    "to_kind": "individual",
+    "type": "reply/prediction_market_sportsbook_resolution_conventions",
+    "date": "2026-06-28",
+    "url": "https://x.com/0xGeeGee/status/2071360045032280266",
+    "summary": "In a Polymarket World Cup market-resolution discussion, said resolving a 3-way market by the 90-minute result when an X/draw option exists is common traditional sportsbook practice; framed the issue as market-structure/rules convention rather than a unique Polymarket anomaly.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "0xGeeGee",
     "to": "aerodromefi",
     "to_kind": "project",
     "type": "reply/aero_perp_spot_conversion_risk",
