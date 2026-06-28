@@ -2,9 +2,9 @@
   {
     "handle": "coin_casanova",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-27",
-    "profile_updated_at": "2026-06-27T02:35:00Z",
-    "taste_summary": "Observed X/Twitter evidence shows a short-horizon trader focused on low-float/FDV-style setups, hedging, rotation, options, and relative-value framing between crypto and equities. Interpretation confidence is medium because the scan found several original posts but few substantive replies. Latest June 24 CARDS/Collector Crypt post adds a more fundamental project-analysis mode: he can like an illiquid token setup while still requiring tokenholder accrual proof, better liquidity/volume, and cleaner technical support before chasing. Later June 24 follow-ups add a relative AI-token vehicle filter: fade crowded VVV/news-pump behavior, watch whether POD has real substance, and prefer GRASS as a near-term AI/data-token trade into a July catalyst. Latest June 27 evidence extends the GRASS/POD AI-token vehicle filter: he compared GRASS with XPL and framed GRASS as a surprise-heavy July-call/earnings-style catalyst while XPL depends more on locked-supply tracking.",
+    "period_end": "2026-06-28",
+    "profile_updated_at": "2026-06-28T03:00:00Z",
+    "taste_summary": "Observed X/Twitter evidence shows a short-horizon trader focused on low-float/FDV-style setups, hedging, rotation, options, and relative-value framing between crypto and equities. Interpretation confidence is medium because the scan found several original posts but few substantive replies. Latest June 24 CARDS/Collector Crypt post adds a more fundamental project-analysis mode: he can like an illiquid token setup while still requiring tokenholder accrual proof, better liquidity/volume, and cleaner technical support before chasing. Later June 24 follow-ups add a relative AI-token vehicle filter: fade crowded VVV/news-pump behavior, watch whether POD has real substance, and prefer GRASS as a near-term AI/data-token trade into a July catalyst. Latest June 27 evidence extends the GRASS/POD AI-token vehicle filter: he compared GRASS with XPL and framed GRASS as a surprise-heavy July-call/earnings-style catalyst while XPL depends more on locked-supply tracking. June 28 reply-level evidence extends the Derive/options thesis: he defended DRV as fair/slightly undervalued through options-volume growth, real usage, and higher buyback share, while stressing small initial sizing and volume-confirmed scale-up.",
     "likes": [
       {
         "theme": "Low-float speculative setups with clear leaders",
@@ -20,9 +20,10 @@
       },
       {
         "theme": "Crypto options/hedging infrastructure",
-        "summary": "Argued crypto participants are experienced enough for a real options market and contrasted organic options usage with prior airdrop-farming attempts.",
+        "summary": "Argued crypto participants are experienced enough for a real options market and contrasted organic options usage with prior airdrop-farming attempts. June 28 follow-up made the DRV thesis more tokenomics/valuation-specific: options volume growth, 25%→30% buyback share, and scale-up only if onchain options volume keeps growing.",
         "evidence_urls": [
-          "https://x.com/coin_casanova/status/2063848704499687605"
+          "https://x.com/coin_casanova/status/2063848704499687605",
+          "https://x.com/coin_casanova/status/2071060395075531026"
         ],
         "confidence": "medium"
       },
@@ -99,9 +100,10 @@
         "name": "Derive",
         "handle": "derive_xyz",
         "stance": "positive",
-        "summary": "Quoted Derive volume update while arguing crypto options demand is becoming organic.",
+        "summary": "Quoted Derive volume update while arguing crypto options demand is becoming organic. June 28 reply defended DRV as fair/slightly undervalued on growing options volume, real usage, and buyback increase while warning not to all-in before further volume confirmation.",
         "evidence_urls": [
-          "https://x.com/coin_casanova/status/2063848704499687605"
+          "https://x.com/coin_casanova/status/2063848704499687605",
+          "https://x.com/coin_casanova/status/2071060395075531026"
         ]
       },
       {
@@ -174,7 +176,8 @@
       "Track whether managed-care/financials rotation becomes a repeated coin_casanova equity theme or stays a one-reply macro note.",
       "Track whether Collector Crypt/CARDS becomes a repeated coin_casanova project focus or remains a one-off detailed watchlist post.",
       "Track whether coin_casanova’s GRASS/POD relative AI-token vehicle filter recurs or was only a post-Mythos-news follow-up.",
-      "Track whether XPL recurs as a coin_casanova float/unlock setup or remains a one-off comparison against GRASS."
+      "Track whether XPL recurs as a coin_casanova float/unlock setup or remains a one-off comparison against GRASS.",
+      "Track whether coin_casanova keeps updating DRV/Derive sizing based on onchain options volume and buyback changes, or whether this remains one follow-up to the original June 6 position thread."
     ],
     "evidence_urls": [
       "https://x.com/coin_casanova/status/2065438838546477385",
@@ -190,7 +193,8 @@
       "https://x.com/coin_casanova/status/2069649318982885840",
       "https://x.com/coin_casanova/status/2069731903838757209",
       "https://x.com/coin_casanova/status/2069734548959793603",
-      "https://x.com/coin_casanova/status/2070696084243136646"
+      "https://x.com/coin_casanova/status/2070696084243136646",
+      "https://x.com/coin_casanova/status/2071060395075531026"
     ]
   },
   {

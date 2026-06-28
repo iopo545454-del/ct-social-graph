@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-06-28",
+    "handle": "coin_casanova",
+    "type": "reply/derive_tokenomics_volume_framework",
+    "url": "https://x.com/coin_casanova/status/2071060395075531026",
+    "summary": "Replied in a DRV/Derive valuation thread that the token is slightly undervalued/fair-valued because options volume has grown from roughly $500M to $1B, DRV is the only options token with growth plus real usage, and the buyback share increased from 25% to 30%; emphasized starting small and increasing size only if onchain options volume keeps growing.",
+    "entities": [
+      "Derive / DRV",
+      "onchain options",
+      "buybacks",
+      "token value accrual",
+      "volume growth",
+      "risk-managed sizing"
+    ],
+    "why_logged": "High-signal follow-up to coin_casanova's Derive/options thesis: adds valuation discipline, buyback/tokenomics reasoning, and explicit scale-up condition rather than just a bullish options narrative.",
+    "confidence": "high"
+  },
+  {
     "date": "2026-06-27",
     "handle": "MoneyPrinter0x",
     "type": "authored_post/crypto_new_dawn_countdown",
