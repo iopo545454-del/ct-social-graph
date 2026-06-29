@@ -2,6 +2,64 @@
   {
     "date": "2026-06-29",
     "handle": "MoneyPrinter0x",
+    "type": "authored_post/ewy_korea_calls_breadth_trade",
+    "url": "https://x.com/MoneyPrinter0x/status/2071688664187326776",
+    "summary": "Posted that he bought EWY calls into the close, a tactical country-ETF/calls expression in the same late-day tape as his broader market-breadth and momentum comments.",
+    "entities": [
+      "EWY",
+      "Korea ETF",
+      "calls",
+      "country ETF",
+      "risk-on breadth",
+      "tactical options"
+    ],
+    "why_logged": "Useful light evidence because it broadens the current MoneyPrinter0x risk-on tape beyond crypto/AI equities into country-ETF options; keep as tactical, not a durable thesis yet.",
+    "confidence": "low"
+  },
+  {
+    "date": "2026-06-29",
+    "handle": "0xGeeGee",
+    "type": "quote_post/ai_work_units_financial_rationalization",
+    "url": "https://x.com/0xGeeGee/status/2071704509420654868",
+    "summary": "Quoted an AI accounting/workflow article and argued that AI has to undergo financial rationalization: 'Work Units' become the missing accounting object for tracing AI workflows from origin through process to results.",
+    "entities": [
+      "AI financial rationalization",
+      "Work Units",
+      "AI workflow accounting",
+      "AI observability",
+      "model operations",
+      "AI ROI"
+    ],
+    "why_logged": "High-signal continuation of GeeGee's AI efficiency/optimization layer: it adds an accounting/lineage primitive to his existing focus on inference cost, routing, and practical AI infrastructure.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-29",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/shaz_sec_filing_position",
+    "url": "https://x.com/MoneyPrinter0x/status/2071703521200943507",
+    "summary": "Posted that he bought a large amount of SHAZ around $88, using Leopold Aschenbrenner/13G/private-placement filing context to frame the setup; nearby follow-ups tied the position to a broader risk-on/momentum tape and said the day had unusually broad market participation.",
+    "entities": [
+      "SHAZ",
+      "Leopold Aschenbrenner",
+      "13G filing",
+      "private placement",
+      "risk-on breadth",
+      "momentum trading",
+      "SEC filing diligence"
+    ],
+    "why_logged": "Fresh source-close MoneyPrinter0x evidence: not a generic ticker chase; he anchored the trade to filing/private-placement context while also showing a tactical momentum/risk-on regime read.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2071707139505102889",
+      "https://x.com/MoneyPrinter0x/status/2071712058194923647",
+      "https://x.com/MoneyPrinter0x/status/2071719091782729970",
+      "https://x.com/MoneyPrinter0x/status/2071708211217084720"
+    ]
+  },
+  {
+    "date": "2026-06-29",
+    "handle": "MoneyPrinter0x",
     "type": "authored_post/capital_management_research_process",
     "url": "https://x.com/MoneyPrinter0x/status/2071655207860416992",
     "summary": "Posted high-engagement process/passion commentary around capital management plus qualitative/quantitative research; nearby image post said he loves capital management, and a follow-up clarified that most positions are no longer managed manually: he builds a thesis and then expresses it through discretionary, hybrid, or sometimes fully systematic execution.",

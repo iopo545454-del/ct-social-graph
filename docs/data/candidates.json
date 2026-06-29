@@ -1,5 +1,18 @@
 [
   {
+    "handle": "SHAZ",
+    "kind": "project",
+    "status": "candidate",
+    "source": "MoneyPrinter0x SHAZ filing/private-placement position post",
+    "reason": "MoneyPrinter0x bought SHAZ and framed the setup through Leopold Aschenbrenner/13G/private-placement context; one tactical equity/ticker evidence point only, so keep as candidate/mention-ledger rather than Tier 2.",
+    "evidence_urls": [
+      "https://x.com/MoneyPrinter0x/status/2071703521200943507",
+      "https://x.com/MoneyPrinter0x/status/2071707139505102889"
+    ],
+    "first_seen": "2026-06-29",
+    "confidence": "low"
+  },
+  {
     "handle": "XPL",
     "kind": "project",
     "status": "candidate",
