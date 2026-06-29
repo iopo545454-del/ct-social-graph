@@ -2,6 +2,30 @@
   {
     "date": "2026-06-29",
     "handle": "MoneyPrinter0x",
+    "type": "authored_post/capital_management_research_process",
+    "url": "https://x.com/MoneyPrinter0x/status/2071655207860416992",
+    "summary": "Posted high-engagement process/passion commentary around capital management plus qualitative/quantitative research; nearby image post said he loves capital management, and a follow-up clarified that most positions are no longer managed manually: he builds a thesis and then expresses it through discretionary, hybrid, or sometimes fully systematic execution.",
+    "entities": [
+      "capital management",
+      "qualitative research",
+      "quantitative research",
+      "discretionary execution",
+      "hybrid execution",
+      "systematic execution",
+      "thesis expression",
+      "automated position management"
+    ],
+    "why_logged": "Useful profile/process evidence close to source: it turns prior TWAP/scaled-order and multi-book comments into a clearer self-description of how he converts theses into execution systems.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2071652502140080353",
+      "https://x.com/MoneyPrinter0x/status/2071656433486372896",
+      "https://x.com/MoneyPrinter0x/status/2071655836464930954"
+    ]
+  },
+  {
+    "date": "2026-06-29",
+    "handle": "MoneyPrinter0x",
     "type": "authored_post/strc_spcx_aggressive_risk_on_bids",
     "url": "https://x.com/MoneyPrinter0x/status/2071584362538430549",
     "summary": "Posted that he had bid a large amount of STRC, shortly after comparing longing STRC at 80 this cycle to GCR shorting LUNA at the UST depeg last cycle; also posted that SPCX calls filled. This marks a tactical risk-on flip around STRC/SPCX rather than the earlier STRC/MSTR-overhang caution.",

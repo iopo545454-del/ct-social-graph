@@ -3,6 +3,21 @@
     "from": "MoneyPrinter0x",
     "to": "unknown_counterparty",
     "to_kind": "individual",
+    "type": "reply/hybrid_systematic_thesis_execution",
+    "date": "2026-06-29",
+    "url": "https://x.com/MoneyPrinter0x/status/2071656433486372896",
+    "summary": "In follow-up to a capital-management post, clarified that most positions are not managed manually anymore: he builds a thesis and uses discretionary, hybrid, or sometimes fully systematic execution as the expression layer.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2071655207860416992",
+      "https://x.com/MoneyPrinter0x/status/2071652502140080353"
+    ]
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "unknown_counterparty",
+    "to_kind": "individual",
     "type": "reply/soxl_mu_proxy_risk",
     "date": "2026-06-29",
     "url": "https://x.com/MoneyPrinter0x/status/2071516442479190270",
