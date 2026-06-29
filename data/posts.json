@@ -2,6 +2,54 @@
   {
     "date": "2026-06-29",
     "handle": "MoneyPrinter0x",
+    "type": "authored_post/strc_spcx_aggressive_risk_on_bids",
+    "url": "https://x.com/MoneyPrinter0x/status/2071584362538430549",
+    "summary": "Posted that he had bid a large amount of STRC, shortly after comparing longing STRC at 80 this cycle to GCR shorting LUNA at the UST depeg last cycle; also posted that SPCX calls filled. This marks a tactical risk-on flip around STRC/SPCX rather than the earlier STRC/MSTR-overhang caution.",
+    "entities": [
+      "STRC",
+      "MSTR",
+      "SPCX calls",
+      "risk-on bidding",
+      "tactical flip",
+      "Strategy capital structure"
+    ],
+    "why_logged": "Useful because it changes/complicates prior MoneyPrinter0x STRC evidence: earlier posts treated STRC/MSTR as an overhang, while the new tape shows aggressive tactical STRC buying and continued SPCX options trading.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2071573443733070140",
+      "https://x.com/MoneyPrinter0x/status/2071594277608513978",
+      "https://x.com/MoneyPrinter0x/status/2071570293307719801"
+    ]
+  },
+  {
+    "date": "2026-06-29",
+    "handle": "coin_casanova",
+    "type": "quote_post/cards_ai_slop_priced_in_update",
+    "url": "https://x.com/coin_casanova/status/2071604817055875463",
+    "summary": "Revisited the CARDS/Collector Crypt thesis and said much of the bull/bear case had already been priced five days earlier; pushed back on AI-generated negative takes, repeated core variables around gacha growth, buyback/value accrual, whale dilution, P2P marketplace volume, and OTC-buying risk, while still saying a short-term chart reset is likely needed.",
+    "entities": [
+      "CARDS",
+      "Collector Crypt",
+      "AI slop",
+      "gacha growth",
+      "buybacks",
+      "tokenholder value accrual",
+      "whale dilution",
+      "P2P marketplace volume",
+      "OTC buying",
+      "chart reset"
+    ],
+    "why_logged": "Source-close continuation of coin_casanova's CARDS project-analysis tape: it keeps the thesis active while separating fundamental variables from near-term reset/risk-management discipline.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/coin_casanova/status/2071601472253644997",
+      "https://x.com/coin_casanova/status/2071259149674168528",
+      "https://x.com/coin_casanova/status/2069649318982885840"
+    ]
+  },
+  {
+    "date": "2026-06-29",
+    "handle": "MoneyPrinter0x",
     "type": "reply/thread_robotics_etf_mnav_accounting",
     "url": "https://x.com/MoneyPrinter0x/status/2071486329050034606",
     "summary": "In a robotics ETF / closed-end-fund discussion, said he dislikes high mNAV for a vehicle holding public names plus private pre-IPO robotics companies, but expects most market participants to bid the ETF anyway; follow-ups framed the trade as robotics mindshare/liquidity rotation plus awareness of private-equity accounting/illiquidity tricks rather than pure NAV discipline.",

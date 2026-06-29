@@ -2,9 +2,9 @@
   {
     "handle": "coin_casanova",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-28",
-    "profile_updated_at": "2026-06-28T18:05:00Z",
-    "taste_summary": "Observed X/Twitter evidence shows a short-horizon trader focused on low-float/FDV-style setups, hedging, rotation, options, and relative-value framing between crypto and equities. Interpretation confidence is medium because the scan found several original posts but few substantive replies. Latest June 24 CARDS/Collector Crypt post adds a more fundamental project-analysis mode: he can like an illiquid token setup while still requiring tokenholder accrual proof, better liquidity/volume, and cleaner technical support before chasing. Later June 24 follow-ups add a relative AI-token vehicle filter: fade crowded VVV/news-pump behavior, watch whether POD has real substance, and prefer GRASS as a near-term AI/data-token trade into a July catalyst. Latest June 27 evidence extends the GRASS/POD AI-token vehicle filter: he compared GRASS with XPL and framed GRASS as a surprise-heavy July-call/earnings-style catalyst while XPL depends more on locked-supply tracking. June 28 reply-level evidence extends the Derive/options thesis: he defended DRV as fair/slightly undervalued through options-volume growth, real usage, and higher buyback share, while stressing small initial sizing and volume-confirmed scale-up. Latest June 28 CARDS update shifts the near-term read toward reset/risk management: he still tracks Collector Crypt fundamentals, but says the trend needs time/price/volatility to transfer supply to stronger hands and explicitly prioritizes mental health over holding large losses.",
+    "period_end": "2026-06-29",
+    "profile_updated_at": "2026-06-29T15:10:00Z",
+    "taste_summary": "Observed X/Twitter evidence shows a short-horizon trader focused on low-float/FDV-style setups, hedging, rotation, options, and relative-value framing between crypto and equities. Interpretation confidence is medium because the scan found several original posts but few substantive replies. Latest June 24 CARDS/Collector Crypt post adds a more fundamental project-analysis mode: he can like an illiquid token setup while still requiring tokenholder accrual proof, better liquidity/volume, and cleaner technical support before chasing. Later June 24 follow-ups add a relative AI-token vehicle filter: fade crowded VVV/news-pump behavior, watch whether POD has real substance, and prefer GRASS as a near-term AI/data-token trade into a July catalyst. Latest June 27 evidence extends the GRASS/POD AI-token vehicle filter: he compared GRASS with XPL and framed GRASS as a surprise-heavy July-call/earnings-style catalyst while XPL depends more on locked-supply tracking. June 28 reply-level evidence extends the Derive/options thesis: he defended DRV as fair/slightly undervalued through options-volume growth, real usage, and higher buyback share, while stressing small initial sizing and volume-confirmed scale-up. Latest June 28 CARDS update shifts the near-term read toward reset/risk management: he still tracks Collector Crypt fundamentals, but says the trend needs time/price/volatility to transfer supply to stronger hands and explicitly prioritizes mental health over holding large losses. Latest June 29 CARDS update keeps Collector Crypt active but not chaseable: he argues AI-slop bearish takes are late/low-quality, repeats the real diligence variables (gacha growth, buybacks/value accrual, whale dilution, P2P volume, OTC absorption), and still wants a short-term reset.",
     "likes": [
       {
         "theme": "Low-float speculative setups with clear leaders",
@@ -51,10 +51,11 @@
       },
       {
         "theme": "Project analysis with tokenholder-accrual and liquidity discipline",
-        "summary": "CARDS/Collector Crypt read combined fundamental growth, tokenholder value accrual, whale/OTC/liquidity mechanics, and chart support rather than only price momentum. June 28 CARDS follow-up adds near-term discipline: wait for a fuller trend reset and cleaner support rather than holding large drawdowns through volatility.",
+        "summary": "CARDS/Collector Crypt read combined fundamental growth, tokenholder value accrual, whale/OTC/liquidity mechanics, and chart support rather than only price momentum. June 28 CARDS follow-up adds near-term discipline: wait for a fuller trend reset and cleaner support rather than holding large drawdowns through volatility. June 29 update kept the same framework active: he pushed back on low-quality AI-bearish summaries while re-listing the operational/value-accrual variables and still requiring near-term chart reset discipline.",
         "evidence_urls": [
           "https://x.com/coin_casanova/status/2069649318982885840",
-          "https://x.com/coin_casanova/status/2071259149674168528"
+          "https://x.com/coin_casanova/status/2071259149674168528",
+          "https://x.com/coin_casanova/status/2071604817055875463"
         ],
         "confidence": "medium"
       }
@@ -139,11 +140,13 @@
         "name": "CARDS",
         "handle": "Collector_Crypt",
         "stance": "positive/watchlist but waiting for reset",
-        "summary": "Earlier treated CARDS price action as climbing a wall of worry; June 24 follow-up gave a fuller constructive-but-disciplined Collector Crypt analysis around gacha/P2P marketplace growth, buybacks/burns, tokenholder accrual proof, OTC absorption risk, and need for a short-term reset before chasing. June 28 update says the chart/setup needs a full trend reset and better support, with risk management/mental health prioritized over bagholding.",
+        "summary": "Earlier treated CARDS price action as climbing a wall of worry; June 24 follow-up gave a fuller constructive-but-disciplined Collector Crypt analysis around gacha/P2P marketplace growth, buybacks/burns, tokenholder accrual proof, OTC absorption risk, and need for a short-term reset before chasing. June 28 update says the chart/setup needs a full trend reset and better support, with risk management/mental health prioritized over bagholding. June 29 follow-up says AI-slop bearish takes are late, but still frames CARDS as needing a short-term reset while tracking gacha growth, buybacks/value accrual, whale dilution, P2P marketplace volume, and OTC absorption risk.",
         "evidence_urls": [
           "https://x.com/coin_casanova/status/2065980497793318928",
           "https://x.com/coin_casanova/status/2069649318982885840",
-          "https://x.com/coin_casanova/status/2071259149674168528"
+          "https://x.com/coin_casanova/status/2071259149674168528",
+          "https://x.com/coin_casanova/status/2071604817055875463",
+          "https://x.com/coin_casanova/status/2071601472253644997"
         ]
       },
       {
@@ -180,7 +183,8 @@
       "Track whether coin_casanova’s GRASS/POD relative AI-token vehicle filter recurs or was only a post-Mythos-news follow-up.",
       "Track whether XPL recurs as a coin_casanova float/unlock setup or remains a one-off comparison against GRASS.",
       "Track whether coin_casanova keeps updating DRV/Derive sizing based on onchain options volume and buyback changes, or whether this remains one follow-up to the original June 6 position thread.",
-      "Track whether coin_casanova re-enters/updates CARDS after the requested time-price-volatility trend reset, or whether the project fades from his active watchlist."
+      "Track whether coin_casanova re-enters/updates CARDS after the requested time-price-volatility trend reset, or whether the project fades from his active watchlist.",
+      "Track whether coin_casanova keeps using CARDS updates to separate low-quality AI-generated criticism from real tokenholder-accrual/liquidity diligence, or whether attention fades after the reset."
     ],
     "evidence_urls": [
       "https://x.com/coin_casanova/status/2065438838546477385",
@@ -198,7 +202,9 @@
       "https://x.com/coin_casanova/status/2069734548959793603",
       "https://x.com/coin_casanova/status/2070696084243136646",
       "https://x.com/coin_casanova/status/2071060395075531026",
-      "https://x.com/coin_casanova/status/2071259149674168528"
+      "https://x.com/coin_casanova/status/2071259149674168528",
+      "https://x.com/coin_casanova/status/2071604817055875463",
+      "https://x.com/coin_casanova/status/2071601472253644997"
     ]
   },
   {
@@ -1625,8 +1631,8 @@
     "handle": "MoneyPrinter0x",
     "period_start": "2026-05-14",
     "period_end": "2026-06-29",
-    "profile_updated_at": "2026-06-29T11:16:53Z",
-    "taste_summary": "Observed X/Twitter evidence shows an event-driven trader mixing AI-equity rotations, short-dated options, macro/rate catalysts, strict invalidation/risk caps, and public post-trade review. New June 19 evidence adds a self-review of the MSTR/CRWV/POET short book after rotating from broad shorts into short-term bullish equities, while still treating BTC upside as capped until the STRC/MSTR overhang has a fix path. Latest June 23 quote refreshes his AI-equity rotation map: from GPU capex into CPU/memory for agentic AI, then vertical integrations, and eventually physical AI / Apple robotics supply chain. June 24 DRAM/MU post adds another execution-level memory/AI-equity example with stop range, risk percentage, earnings catalyst, and explicit invalidation. Latest June 24 follow-ups add process evidence after the DRAM/MU setup: he reviewed the MSTR/CRWV/POET short book, credited MSTR as the main driver, and stressed execution/hedging/stops, while also saying overnight SPCX/Anthropic IPO risk should be scaled down as event exposure changes. Late June 24 update adds MU/Micron as another event-driven AI-equity options setup and a fresh direct HYPE long, reinforcing his focus on high-beta AI/crypto expressions with explicit position expression. June 25 evidence sharpens the post-Warsh AI-equity map: DRAM/MU as bellwether alpha, CPU/agentic names as first-order beta, connectivity/photonics/neoclouds as second-order beta, 800VDC/power and AMPG-style exposure as later beneficiaries, with IGV/MSTR hedges and Friday inflation-expectations/PCE invalidation/confirmation. BB remains a repeated non-crypto equity/cybersecurity catalyst, not a crypto-project promotion. Latest June 25 evidence strengthens the event-driven AI-infrastructure equity style: he connected inflation-expectations timing, Apple AI-flation headlines, DRAM/MU as the alpha leg, and explicit stop discipline on DRAM calls into one catalyst trade. Latest June 26 evidence keeps the same book active into the catalyst: he corrected the inflation-expectations release time to 10am EST, estimated a 4.5-4.7% print range from WTI/yield divergences, and kept the primary invalidation as the print failing to come in soft. Latest June 26 reply-level evidence adds a defensive/process layer: after criticism of the inflation-expectations setup, he emphasized probabilistic EV, staged validation, reduced overnight leverage near a risk-asset top, and keeping the trade separate from a long-term marriage. Post-print update now closes that setup: he marked the inflation-expectations thesis invalidated after consensus data and exited, while clarifying that any remaining upside must come from a different driver. Late June 26 follow-up evidence makes the high-conviction hierarchy clearer: HYPE is the primary long-term crypto/infra allocation, BB is a robotics/RTOS equity compounder with a Q2 2027 target, and PURR is only tail convexity on the HYPE ecosystem. Latest June 27 evidence introduces a dated BTC accumulation thesis: possible bear-market bottom between now and October 6, with low/no leverage, TWAP/scaled orders, rate-hike/liquidity confluence, and explicit clarification that recent strength was equities + Hyperliquid rather than a broad crypto bull-market call. Latest June 27 follow-ups keep the BTC-window thesis source-close: he explicitly allowed further BTC downside, recommended four-month TWAPs/back-weighted scaling rather than leverage, and then compressed the view into a “four months away from a new dawn” crypto-cycle post. Latest June 28 evidence adds an explicit wealth-preservation layer: he says the primary job is not losing money, keeps most earned capital in a separate automated IBKR/tradfi portfolio of global ETFs/commodities/bonds with hard stops and factor limits, and treats crypto exposure as near-zero versus tradfi except Hyperliquid; this reframes the active trading book as the high-upside side of an 80/20 barbell rather than the whole net-worth strategy. Latest June 28 evidence shifts his AI-equity rotation focus toward robotics beta: he named BOT and CCXI as current watch items while keeping BB as the default/core robotics-RTOS exposure, and follow-up referenced waiting for Monday open to get LEAPs. June 29 replies extend the robotics rotation into ETF/closed-end-fund structure: he dislikes elevated mNAV/private-company accounting but still expects bid pressure from robotics mindshare and liquidity rotation. June 29 evidence updates the live tape from sector/process commentary into actual positioning: he posted a QQQ-gated bid basket (SOXL, BB, CCXI, BOT, HYPE, BTC, SOL), then clarified scaled/TWAP entries with built-in invalidations and SOXL as the MU/memory proxy.",
+    "profile_updated_at": "2026-06-29T15:10:00Z",
+    "taste_summary": "Observed X/Twitter evidence shows an event-driven trader mixing AI-equity rotations, short-dated options, macro/rate catalysts, strict invalidation/risk caps, and public post-trade review. New June 19 evidence adds a self-review of the MSTR/CRWV/POET short book after rotating from broad shorts into short-term bullish equities, while still treating BTC upside as capped until the STRC/MSTR overhang has a fix path. Latest June 23 quote refreshes his AI-equity rotation map: from GPU capex into CPU/memory for agentic AI, then vertical integrations, and eventually physical AI / Apple robotics supply chain. June 24 DRAM/MU post adds another execution-level memory/AI-equity example with stop range, risk percentage, earnings catalyst, and explicit invalidation. Latest June 24 follow-ups add process evidence after the DRAM/MU setup: he reviewed the MSTR/CRWV/POET short book, credited MSTR as the main driver, and stressed execution/hedging/stops, while also saying overnight SPCX/Anthropic IPO risk should be scaled down as event exposure changes. Late June 24 update adds MU/Micron as another event-driven AI-equity options setup and a fresh direct HYPE long, reinforcing his focus on high-beta AI/crypto expressions with explicit position expression. June 25 evidence sharpens the post-Warsh AI-equity map: DRAM/MU as bellwether alpha, CPU/agentic names as first-order beta, connectivity/photonics/neoclouds as second-order beta, 800VDC/power and AMPG-style exposure as later beneficiaries, with IGV/MSTR hedges and Friday inflation-expectations/PCE invalidation/confirmation. BB remains a repeated non-crypto equity/cybersecurity catalyst, not a crypto-project promotion. Latest June 25 evidence strengthens the event-driven AI-infrastructure equity style: he connected inflation-expectations timing, Apple AI-flation headlines, DRAM/MU as the alpha leg, and explicit stop discipline on DRAM calls into one catalyst trade. Latest June 26 evidence keeps the same book active into the catalyst: he corrected the inflation-expectations release time to 10am EST, estimated a 4.5-4.7% print range from WTI/yield divergences, and kept the primary invalidation as the print failing to come in soft. Latest June 26 reply-level evidence adds a defensive/process layer: after criticism of the inflation-expectations setup, he emphasized probabilistic EV, staged validation, reduced overnight leverage near a risk-asset top, and keeping the trade separate from a long-term marriage. Post-print update now closes that setup: he marked the inflation-expectations thesis invalidated after consensus data and exited, while clarifying that any remaining upside must come from a different driver. Late June 26 follow-up evidence makes the high-conviction hierarchy clearer: HYPE is the primary long-term crypto/infra allocation, BB is a robotics/RTOS equity compounder with a Q2 2027 target, and PURR is only tail convexity on the HYPE ecosystem. Latest June 27 evidence introduces a dated BTC accumulation thesis: possible bear-market bottom between now and October 6, with low/no leverage, TWAP/scaled orders, rate-hike/liquidity confluence, and explicit clarification that recent strength was equities + Hyperliquid rather than a broad crypto bull-market call. Latest June 27 follow-ups keep the BTC-window thesis source-close: he explicitly allowed further BTC downside, recommended four-month TWAPs/back-weighted scaling rather than leverage, and then compressed the view into a “four months away from a new dawn” crypto-cycle post. Latest June 28 evidence adds an explicit wealth-preservation layer: he says the primary job is not losing money, keeps most earned capital in a separate automated IBKR/tradfi portfolio of global ETFs/commodities/bonds with hard stops and factor limits, and treats crypto exposure as near-zero versus tradfi except Hyperliquid; this reframes the active trading book as the high-upside side of an 80/20 barbell rather than the whole net-worth strategy. Latest June 28 evidence shifts his AI-equity rotation focus toward robotics beta: he named BOT and CCXI as current watch items while keeping BB as the default/core robotics-RTOS exposure, and follow-up referenced waiting for Monday open to get LEAPs. June 29 replies extend the robotics rotation into ETF/closed-end-fund structure: he dislikes elevated mNAV/private-company accounting but still expects bid pressure from robotics mindshare and liquidity rotation. June 29 evidence updates the live tape from sector/process commentary into actual positioning: he posted a QQQ-gated bid basket (SOXL, BB, CCXI, BOT, HYPE, BTC, SOL), then clarified scaled/TWAP entries with built-in invalidations and SOXL as the MU/memory proxy. Latest June 29 evidence complicates the earlier STRC/MSTR-overhang caution: he aggressively bid STRC, compared a long-STRC setup to a prior-cycle GCR/LUNA asymmetry, praised an MSTR bottom call, and filled SPCX calls; treat as tactical risk-on execution, not a settled fundamental reversal.",
     "likes": [
       {
         "theme": "AI agent harnesses and deterministic quality gates",
@@ -1918,12 +1924,15 @@
       },
       {
         "theme": "QQQ-gated risk-on basket bidding",
-        "summary": "Posted a live bid basket spanning AI semis, robotics, Hyperliquid/HYPE, BTC and SOL, but framed continuation around QQQ not sustaining its downtrend; follow-up execution used scaled/TWAP orders with built-in invalidations.",
+        "summary": "Posted a live bid basket spanning AI semis, robotics, Hyperliquid/HYPE, BTC and SOL, but framed continuation around QQQ not sustaining its downtrend; follow-up execution used scaled/TWAP orders with built-in invalidations. Later June 29 posts showed actual aggressive STRC bidding and SPCX call fills, indicating the QQQ-gated basket moved from watchlist into tactical execution on selected names.",
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2071506995123724526",
           "https://x.com/MoneyPrinter0x/status/2071516321167352148",
           "https://x.com/MoneyPrinter0x/status/2071516442479190270",
-          "https://x.com/MoneyPrinter0x/status/2071514297575113004"
+          "https://x.com/MoneyPrinter0x/status/2071514297575113004",
+          "https://x.com/MoneyPrinter0x/status/2071584362538430549",
+          "https://x.com/MoneyPrinter0x/status/2071594277608513978",
+          "https://x.com/MoneyPrinter0x/status/2071573443733070140"
         ],
         "confidence": "medium"
       }
@@ -2128,12 +2137,13 @@
         "name": "SPCX",
         "handle": null,
         "stance": "trading/positive short-term",
-        "summary": "Rotated from SOXL calls to SPCX calls into FOMC, said SPCX benefits most on an upside surprise, then posted same-day SPCX 0DTE/ITM calls and closed >60% on 1DTE calls; short-term event trade rather than durable project preference.",
+        "summary": "Rotated from SOXL calls to SPCX calls into FOMC, said SPCX benefits most on an upside surprise, then posted same-day SPCX 0DTE/ITM calls and closed >60% on 1DTE calls; short-term event trade rather than durable project preference. June 29 post added another SPCX call fill in the broader risk-on tape.",
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2066969667940553125",
           "https://x.com/MoneyPrinter0x/status/2066974046622040180",
           "https://x.com/MoneyPrinter0x/status/2067075729339363371",
-          "https://x.com/MoneyPrinter0x/status/2067239109492695496"
+          "https://x.com/MoneyPrinter0x/status/2067239109492695496",
+          "https://x.com/MoneyPrinter0x/status/2071594277608513978"
         ]
       },
       {
@@ -2184,10 +2194,13 @@
       {
         "name": "BTC / STRC / MSTR overhang",
         "handle": null,
-        "stance": "negative/structurally capped",
-        "summary": "Argued BTC upside is structurally capped until the STRC/MSTR overhang is resolved or shows a credible fix path.",
+        "stance": "mixed: structural caution, tactical STRC long",
+        "summary": "Earlier argued BTC upside was structurally capped until the STRC/MSTR overhang was resolved or had a credible fix path. June 29 tape complicates that read: he aggressively bid STRC, compared longing STRC at 80 to GCR shorting LUNA at UST depeg, and praised an MSTR bottom call; treat as a tactical risk-on flip around the same structure rather than a clean long-term endorsement.",
         "evidence_urls": [
-          "https://x.com/MoneyPrinter0x/status/2067850513614606714"
+          "https://x.com/MoneyPrinter0x/status/2067850513614606714",
+          "https://x.com/MoneyPrinter0x/status/2071584362538430549",
+          "https://x.com/MoneyPrinter0x/status/2071573443733070140",
+          "https://x.com/MoneyPrinter0x/status/2071570293307719801"
         ]
       },
       {
@@ -2294,7 +2307,8 @@
       "Track whether the defensive IBKR/tradfi portfolio remains a recurring public framework or was a one-day explanation of net-worth preservation.",
       "Track whether BOT/CCXI become repeated MoneyPrinter0x robotics-equity exposures or remain one tactical sector-rotation watchlist mention.",
       "Watch whether MoneyPrinter0x’s robotics ETF/mNAV comments become a durable wrapper-selection framework or were only a short-cycle robotics beta discussion.",
-      "Track whether MoneyPrinter0x’s June 29 QQQ-gated SOXL/BB/CCXI/BOT/HYPE/BTC/SOL bid basket follows through or gets invalidated by the QQQ downtrend trigger."
+      "Track whether MoneyPrinter0x’s June 29 QQQ-gated SOXL/BB/CCXI/BOT/HYPE/BTC/SOL bid basket follows through or gets invalidated by the QQQ downtrend trigger.",
+      "Track whether the June 29 STRC tactical long/bid is a durable reversal of prior STRC/MSTR-overhang caution or only a short-horizon asymmetry trade."
     ],
     "evidence_urls": [
       "https://x.com/MoneyPrinter0x/status/2065910048833102118",
@@ -2381,7 +2395,11 @@
       "https://x.com/i/status/2071136250371916286",
       "https://x.com/MoneyPrinter0x/status/2071145461923148120",
       "https://x.com/MoneyPrinter0x/status/2071141722688507950",
-      "https://x.com/MoneyPrinter0x/status/2071321614122463666"
+      "https://x.com/MoneyPrinter0x/status/2071321614122463666",
+      "https://x.com/MoneyPrinter0x/status/2071584362538430549",
+      "https://x.com/MoneyPrinter0x/status/2071573443733070140",
+      "https://x.com/MoneyPrinter0x/status/2071594277608513978",
+      "https://x.com/MoneyPrinter0x/status/2071570293307719801"
     ]
   },
   {
