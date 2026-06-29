@@ -1,5 +1,20 @@
 [
   {
+    "from": "MoneyPrinter0x",
+    "to": "unknown_counterparty",
+    "to_kind": "individual",
+    "type": "reply/robotics_etf_mnav_accounting",
+    "date": "2026-06-29",
+    "url": "https://x.com/MoneyPrinter0x/status/2071486329050034606",
+    "summary": "Replied in a robotics ETF discussion that he dislikes elevated mNAV for a vehicle combining public robotics holdings with private pre-IPO companies, but expects the market to bid the ETF through a robotics mindshare/liquidity cycle; follow-ups noted VC-style valuation pops, illiquidity, and private-equity accounting tricks.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2071487834347987029",
+      "https://x.com/MoneyPrinter0x/status/2071488375820071144"
+    ]
+  },
+  {
     "from": "0xGeeGee",
     "to": "evabeylin",
     "to_kind": "individual",

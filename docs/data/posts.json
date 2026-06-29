@@ -1,5 +1,30 @@
 [
   {
+    "date": "2026-06-29",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/thread_robotics_etf_mnav_accounting",
+    "url": "https://x.com/MoneyPrinter0x/status/2071486329050034606",
+    "summary": "In a robotics ETF / closed-end-fund discussion, said he dislikes high mNAV for a vehicle holding public names plus private pre-IPO robotics companies, but expects most market participants to bid the ETF anyway; follow-ups framed the trade as robotics mindshare/liquidity rotation plus awareness of private-equity accounting/illiquidity tricks rather than pure NAV discipline.",
+    "entities": [
+      "robotics ETF",
+      "Robostrategy",
+      "mNAV",
+      "private pre-IPO companies",
+      "private equity accounting",
+      "robotics supply chain",
+      "application-layer robotics",
+      "mindshare rotation",
+      "liquidity rotation",
+      "BB"
+    ],
+    "why_logged": "High-signal continuation of MoneyPrinter0x’s robotics rotation: distinguishes valuation/NAV skepticism from willingness to trade a crowded ETF/robotics attention cycle, and connects robotics beta to private-market accounting mechanics.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2071487834347987029",
+      "https://x.com/MoneyPrinter0x/status/2071488375820071144"
+    ]
+  },
+  {
     "date": "2026-06-28",
     "handle": "MoneyPrinter0x",
     "type": "authored_post/robotics_sector_rotation",
