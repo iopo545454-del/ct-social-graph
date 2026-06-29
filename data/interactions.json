@@ -3,6 +3,31 @@
     "from": "MoneyPrinter0x",
     "to": "unknown_counterparty",
     "to_kind": "individual",
+    "type": "reply/soxl_mu_proxy_risk",
+    "date": "2026-06-29",
+    "url": "https://x.com/MoneyPrinter0x/status/2071516442479190270",
+    "summary": "Clarified that MU exposure was being proxied through SOXL because MU is the largest holding; nearby downside-monitoring reply said SOXL and memory would likely take the hit if the non-zero adverse scenario played out.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2071514297575113004"
+    ]
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "unknown_counterparty",
+    "to_kind": "individual",
+    "type": "reply/scaled_twap_basket_execution",
+    "date": "2026-06-29",
+    "url": "https://x.com/MoneyPrinter0x/status/2071516321167352148",
+    "summary": "In follow-up to the June 29 bidding basket, described using a mix of scaled orders and TWAP orders with built-in invalidations, while bidding into the 9:30–10:00am range and watching how the setup developed.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "unknown_counterparty",
+    "to_kind": "individual",
     "type": "reply/robotics_etf_mnav_accounting",
     "date": "2026-06-29",
     "url": "https://x.com/MoneyPrinter0x/status/2071486329050034606",

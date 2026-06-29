@@ -3228,5 +3228,58 @@
     ],
     "why_logged": "Adds a higher-context CryptoTomYT Hyperliquid evidence point: not a venue-performance screenshot, but a trader reaction to very aggressive HYPE fundamental projections.",
     "confidence": "medium"
+  },
+  {
+    "date": "2026-06-29",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/risk_on_bid_list",
+    "url": "https://x.com/MoneyPrinter0x/status/2071506995123724526",
+    "summary": "Posted an active 'bidding' list — SOXL, BB, CCXI, BOT, HYPE, BTC, SOL — while saying QQQ was being watched closely and would be the invalidation trigger if its downtrend continued.",
+    "entities": [
+      "SOXL",
+      "BB",
+      "CCXI",
+      "BOT",
+      "HYPE",
+      "BTC",
+      "SOL",
+      "QQQ",
+      "risk-on basket",
+      "invalidation"
+    ],
+    "why_logged": "High-signal continuation of MoneyPrinter0x's process tape: explicit basket, timing, and QQQ-gated invalidation rather than generic ticker bullishness.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-29",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/process_execution",
+    "url": "https://x.com/MoneyPrinter0x/status/2071516321167352148",
+    "summary": "Explained execution for the active bid basket: mixes scaled orders and TWAP orders to get exposure across scenarios with built-in invalidations, and was bidding into the 9:30–10:00am range while monitoring the setup.",
+    "entities": [
+      "scaled orders",
+      "TWAP",
+      "position entry",
+      "invalidation",
+      "intraday execution"
+    ],
+    "why_logged": "Useful execution detail attached to the June 29 basket post; shows scenario-based entry mechanics rather than a simple price call.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-29",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/sector_proxy",
+    "url": "https://x.com/MoneyPrinter0x/status/2071516442479190270",
+    "summary": "Clarified that the MU/memory exposure was being proxied through SOXL because MU is the largest holding, while a nearby reply noted SOXL/memory would likely take the hit if the monitored downside scenario occurred.",
+    "entities": [
+      "SOXL",
+      "MU",
+      "memory semiconductors",
+      "sector proxy",
+      "downside monitoring"
+    ],
+    "why_logged": "Adds source-close implementation detail for the recurring memory/AI-equity basket: broad ETF proxy selection and downside-monitoring caveat.",
+    "confidence": "medium"
   }
 ]
