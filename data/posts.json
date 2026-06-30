@@ -1,6 +1,129 @@
 [
   {
     "date": "2026-06-30",
+    "handle": "0xGeeGee",
+    "type": "quote/compute_financialization_obstacles",
+    "url": "https://x.com/0xGeeGee/status/2071985155955130576",
+    "summary": "Quoted jvb_xyz's compute-financialization thread and agreed that compute becoming an important commodity likely makes financialization inevitable, but that chip/vintage/region/contract fragmentation creates harder obstacles than normal commodities.",
+    "entities": [
+      "compute financialization",
+      "AI compute",
+      "datacenter capacity",
+      "basis risk",
+      "chip/vintage fragmentation",
+      "jvb_xyz"
+    ],
+    "why_logged": "Extends GeeGee's AI infrastructure/accounting interest into compute-as-commodity market-structure skepticism; also overlaps with kelxyz_'s same-thread USDAI question.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-30",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/neocloud_sector_runway",
+    "url": "https://x.com/MoneyPrinter0x/status/2071978682705752541",
+    "summary": "Asked whether neoclouds become a larger business sector than frontier labs, OSS labs, or individual FAANGs because every model needs datacenters; highlighted a regionally advantaged player trading at a much lower valuation than peers.",
+    "entities": [
+      "neoclouds",
+      "AI datacenters",
+      "frontier labs",
+      "OSS labs",
+      "FAANG",
+      "regional monopolies",
+      "AI capex"
+    ],
+    "why_logged": "Adds a more explicit sector-level neocloud/datacenter thesis to MoneyPrinter0x's recent SHAZ and AI-equity rotation evidence.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-30",
+    "handle": "MoneyPrinter0x",
+    "type": "quote/shaz_anthropic_datacenter_thesis",
+    "url": "https://x.com/MoneyPrinter0x/status/2071968750883180974",
+    "summary": "Expanded SHAZ/SharonAI diligence around a potential Anthropic-Australia datacenter angle: Leopold Aschenbrenner/Situational Awareness stake, Anthropic hiring context, FluidStack precedent, and purchase around an $86/$1.36B market-cap range.",
+    "entities": [
+      "SHAZ",
+      "SharonAI",
+      "Anthropic",
+      "Australia datacenters",
+      "Leopold Aschenbrenner",
+      "Situational Awareness",
+      "FluidStack"
+    ],
+    "why_logged": "Second-day SHAZ evidence moves the candidate from a bare filing trade toward a named AI-datacenter/neocloud thesis, but still should remain candidate until more independent corroboration.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-30",
+    "handle": "AustinBarack",
+    "type": "authored_post/aero_revenue_leadership_thesis",
+    "url": "https://x.com/AustinBarack/status/2071927149255414261",
+    "summary": "Said there is a very high chance Aerodrome becomes the number-one spot exchange by revenue on Ethereum mainnet within a month, while the market still prices AERO like only a Base DEX.",
+    "entities": [
+      "Aerodrome",
+      "AERO",
+      "Ethereum mainnet",
+      "spot exchange revenue",
+      "Base DEX",
+      "revenue leadership"
+    ],
+    "why_logged": "Extends repeated AustinBarack AERO evidence with a concrete near-term revenue-ranking claim tied to mainnet expansion.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-30",
+    "handle": "AustinBarack",
+    "type": "quote/x_money_growth_spend_framework",
+    "url": "https://x.com/AustinBarack/status/2071928530548797691",
+    "summary": "Reacted to X Money's reported 6% APY/cashback launch by arguing early sustainability is not the point if CAC/payback is positive, comparing aggressive fintech growth spend to Uber-style market-share acquisition and saying crypto projects often underuse this playbook.",
+    "entities": [
+      "X Money",
+      "Polymarket Money",
+      "customer acquisition",
+      "growth spend",
+      "cashback",
+      "APY",
+      "crypto go-to-market"
+    ],
+    "why_logged": "Useful product/business-model filter from AustinBarack: willingness to favor aggressive growth spend over buybacks when ROI on customer acquisition is clear.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-30",
+    "handle": "kelxyz_",
+    "type": "reply/usdai_compute_contract_diligence",
+    "url": "https://x.com/kelxyz_/status/2071985065924473343",
+    "summary": "Asked how USDAI fits with jvb_xyz's framing that compute financialization will likely involve narrow, ugly, basis-heavy contracts around specific chips, regions, terms, and vintages.",
+    "entities": [
+      "USDAI",
+      "compute financialization",
+      "basis risk",
+      "AI compute contracts",
+      "jvb_xyz",
+      "chip/vintage specificity"
+    ],
+    "why_logged": "Adds a concrete kelxyz_ diligence question around whether crypto-native compute-finance projects address real fragmentation rather than broad AI-compute narrative packaging.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-30",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/robotics_tokens_vs_equities_filter",
+    "url": "https://x.com/MoneyPrinter0x/status/2071931254698656034",
+    "summary": "Said he has not found a good robotics token yet: hardware/robotics companies have weak reasons to raise via IDOs versus traditional capital, many token attempts look vaporware, crypto liquidity is thin, and current EV is better in equities until market/project conditions change.",
+    "entities": [
+      "robotics",
+      "physical AI",
+      "robotics tokens",
+      "IDOs",
+      "equities",
+      "vaporware",
+      "crypto liquidity"
+    ],
+    "why_logged": "High-signal filter separating his robotics/physical-AI equity rotation from crypto-token exposure; prevents over-reading robotics beta as a token thesis.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-30",
     "handle": "AustinBarack",
     "type": "authored_post/grass_tokenholder_call_catalyst",
     "url": "https://x.com/AustinBarack/status/2071926139258622082",

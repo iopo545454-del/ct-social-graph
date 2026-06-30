@@ -1,5 +1,71 @@
 [
   {
+    "from": "0xGeeGee",
+    "to": "jvb_xyz",
+    "to_kind": "individual",
+    "type": "quote/compute_financialization_market_structure",
+    "date": "2026-06-30",
+    "url": "https://x.com/0xGeeGee/status/2071985155955130576",
+    "summary": "Quoted jvb_xyz's compute-financialization thread and agreed that AI compute becoming commodity-like is plausible but much harder to financialize than normal commodities due to fragmentation and contract-specific obstacles.",
+    "quality": "medium",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "kelxyz_",
+    "to": "jvb_xyz",
+    "to_kind": "individual",
+    "type": "reply/usdai_compute_contract_diligence",
+    "date": "2026-06-30",
+    "url": "https://x.com/kelxyz_/status/2071985065924473343",
+    "summary": "Asked how USDAI fits with jvb_xyz's 'narrow, ugly, basis-heavy contracts' view of compute financialization across chip, region, term, and vintage specificity.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "kelxyz_",
+    "to": "USDAI",
+    "to_kind": "project",
+    "type": "reply/compute_finance_project_diligence",
+    "date": "2026-06-30",
+    "url": "https://x.com/kelxyz_/status/2071985065924473343",
+    "summary": "Used USDAI as the concrete project to test whether crypto-native compute finance can handle narrow/basis-heavy real compute contracts rather than broad AI-compute abstraction.",
+    "quality": "medium",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "unknown_counterparty",
+    "to_kind": "individual",
+    "type": "reply/robotics_tokens_vs_equities_filter",
+    "date": "2026-06-30",
+    "url": "https://x.com/MoneyPrinter0x/status/2071931254698656034",
+    "summary": "In response to a robotics-token question, said no good token candidates yet: robotics hardware has little reason to IDO, many attempts look vaporware, crypto liquidity is thin, and equities currently offer better EV for physical-AI exposure.",
+    "quality": "high",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "AustinBarack",
+    "to": "aerodromefi",
+    "to_kind": "project",
+    "type": "authored_mention/revenue_leadership_thesis",
+    "date": "2026-06-30",
+    "url": "https://x.com/AustinBarack/status/2071927149255414261",
+    "summary": "Predicted Aerodrome has a high chance to become the #1 Ethereum-mainnet spot exchange by revenue within a month, while still priced like a Base-only DEX.",
+    "quality": "high",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "AustinBarack",
+    "to": "X Money",
+    "to_kind": "project",
+    "type": "quote/growth_spend_framework",
+    "date": "2026-06-30",
+    "url": "https://x.com/AustinBarack/status/2071928530548797691",
+    "summary": "Used X Money's reported APY/cashback launch to argue that aggressive customer-acquisition spend can be rational when ROI/payback is clear, and that crypto projects should consider growth spend rather than default buybacks.",
+    "quality": "medium",
+    "created_tier2_candidate": true
+  },
+  {
     "from": "AustinBarack",
     "to": "HyperliquidX",
     "to_kind": "project",

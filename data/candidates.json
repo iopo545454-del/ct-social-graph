@@ -1,5 +1,42 @@
 [
   {
+    "handle": "jvb_xyz",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "0xGeeGee quote and kelxyz_ reply in compute-financialization thread",
+    "reason": "Both 0xGeeGee and kelxyz_ engaged with jvb_xyz's compute financialization / basis-heavy contract framing; useful AI-compute market-structure counterparty but still one conversation cluster, so candidate not Tier 2.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2071985155955130576",
+      "https://x.com/kelxyz_/status/2071985065924473343"
+    ],
+    "first_seen": "2026-06-30",
+    "confidence": "medium"
+  },
+  {
+    "handle": "USDAI",
+    "kind": "project",
+    "status": "candidate",
+    "source": "kelxyz_ compute-finance diligence reply",
+    "reason": "kelxyz_ used USDAI as the test case for whether crypto-native compute-finance projects can handle narrow, basis-heavy chip/region/term/vintage contracts. One diligence question only, so keep as low-confidence candidate/mention-ledger item.",
+    "evidence_urls": [
+      "https://x.com/kelxyz_/status/2071985065924473343"
+    ],
+    "first_seen": "2026-06-30",
+    "confidence": "low"
+  },
+  {
+    "handle": "X Money",
+    "kind": "project",
+    "status": "candidate",
+    "source": "AustinBarack quote on X Money launch economics",
+    "reason": "AustinBarack used X Money's reported APY/cashback launch as a business-model example for aggressive customer acquisition and growth spend; one external fintech/product framing, so candidate/mention-ledger only.",
+    "evidence_urls": [
+      "https://x.com/AustinBarack/status/2071928530548797691"
+    ],
+    "first_seen": "2026-06-30",
+    "confidence": "low"
+  },
+  {
     "handle": "SHAZ",
     "kind": "project",
     "status": "candidate",

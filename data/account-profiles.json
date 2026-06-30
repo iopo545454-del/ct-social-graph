@@ -2,8 +2,8 @@
   {
     "handle": "coin_casanova",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-29",
-    "profile_updated_at": "2026-06-29T15:10:00Z",
+    "period_end": "2026-06-30",
+    "profile_updated_at": "2026-06-30T16:02:41Z",
     "taste_summary": "Observed X/Twitter evidence shows a short-horizon trader focused on low-float/FDV-style setups, hedging, rotation, options, and relative-value framing between crypto and equities. Interpretation confidence is medium because the scan found several original posts but few substantive replies. Latest June 24 CARDS/Collector Crypt post adds a more fundamental project-analysis mode: he can like an illiquid token setup while still requiring tokenholder accrual proof, better liquidity/volume, and cleaner technical support before chasing. Later June 24 follow-ups add a relative AI-token vehicle filter: fade crowded VVV/news-pump behavior, watch whether POD has real substance, and prefer GRASS as a near-term AI/data-token trade into a July catalyst. Latest June 27 evidence extends the GRASS/POD AI-token vehicle filter: he compared GRASS with XPL and framed GRASS as a surprise-heavy July-call/earnings-style catalyst while XPL depends more on locked-supply tracking. June 28 reply-level evidence extends the Derive/options thesis: he defended DRV as fair/slightly undervalued through options-volume growth, real usage, and higher buyback share, while stressing small initial sizing and volume-confirmed scale-up. Latest June 28 CARDS update shifts the near-term read toward reset/risk management: he still tracks Collector Crypt fundamentals, but says the trend needs time/price/volatility to transfer supply to stronger hands and explicitly prioritizes mental health over holding large losses. Latest June 29 CARDS update keeps Collector Crypt active but not chaseable: he argues AI-slop bearish takes are late/low-quality, repeats the real diligence variables (gacha growth, buybacks/value accrual, whale dilution, P2P volume, OTC absorption), and still wants a short-term reset.",
     "likes": [
       {
@@ -210,8 +210,8 @@
   {
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-29",
-    "profile_updated_at": "2026-06-29T22:40:00Z",
+    "period_end": "2026-06-30",
+    "profile_updated_at": "2026-06-30T16:02:41Z",
     "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Latest evidence adds a public-equity AI-imaging proxy note via BFLY/Butterfly Network, while earlier June 19 evidence sharpened STRC/depeg risk and founder-governance filters; new June 20 quotes add STRC marketing/math and risk-metric skepticism. New late-June-20 evidence adds a negative verification-provider credibility read via AccountableData/MainStreet, adjacent to his broader DeFi/RWA attestation and structured-credit risk filters. Latest reply-level evidence adds two AI diligence qualifiers: caution that Dark Bloom/EigenCloud should avoid grifty narrative behavior, and skepticism/curiosity around a Midjourney-scanner claim framed through incentives and fundraising context. June 21 replies add an incentive/timing layer to the MainStreet/Accountable verification-risk thread: he questioned PennyWorks for disclosing prior MainStreet concerns only after the controversy was public and framed delayed disclosure as potentially self-promotional. June 22 quote-post evidence extends his prediction-market skepticism into marketing credibility: he linked a Polymarket paid-promoter/deceptive-video investigation to likely similar tactics in TCGs. Latest June 22 quote adds a direct MSTR/BTC spread expression: he framed “MSTR down, BTC up” as his best-case day after quoting a question about why MSTR holders should stay if Saylor sells common for cash. Latest June 22 reply adds Pear Protocol/PEAR migration diligence: he is willing to re-check the Hyperliquid migration setup, but his first filter is fee drag versus constructing the pair trade directly. June 25 Yearn yvUSD reply extends the same structured-DeFi lens into vault distribution mechanics: he noted senior capital currently has no exposure under the distribution while still warning caution around InfiniFi/STRC-related exposure concerns. Latest June 28 evidence adds two process updates: he reiterated the AI-efficiency thesis through use-case-specific model routing/open-source cost optimization, then posted a position update showing BTC/MSTR and RKLB puts closed, BP partially closed, and EIGEN plus VELO/AERO still held with AERO conversion/perp risk seen as manageable. Latest June 28 replies add a prediction-market rules detail: in a Polymarket World Cup resolution dispute, he defended 90-minute/3-way-market resolution as standard when an X/draw option exists, treating the issue as rules-convention literacy rather than unique venue failure. Latest June 29 evidence adds an explicit AI workflow-accounting layer: he quoted a 'Work Units' framework as the missing accounting object for financially rationalizing AI work from inputs through process to results.",
     "likes": [
       {
@@ -395,6 +395,14 @@
         "summary": "Sees AI infrastructure moving toward clearer accounting/lineage primitives: Work Units as a way to trace AI workflows from beginning to means to results, adjacent to his existing inference-cost/routing/optimization themes.",
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2071704509420654868"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "AI compute financialization realism",
+        "summary": "Engaged jvb_xyz compute-financialization thread with a constructive-but-skeptical view: compute may become commodity-like enough to financialize, but fragmentation across chips, vintages, regions, physical delivery, and terms makes it much harder than normal commodities.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2071985155955130576"
         ],
         "confidence": "medium"
       }
@@ -779,6 +787,15 @@
         "evidence_urls": [
           "https://x.com/0xGeeGee/status/2071284161378181291"
         ]
+      },
+      {
+        "name": "Compute financialization / jvb_xyz framing",
+        "handle": null,
+        "stance": "analytical",
+        "summary": "Quoted compute financialization as likely but obstacle-heavy; useful market-structure lens for AI compute rather than direct token endorsement.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2071985155955130576"
+        ]
       }
     ],
     "people_respected": [
@@ -822,7 +839,8 @@
       "Watch whether PURR becomes a repeated GeeGee relative-value short candidate or remains a one-off Hyperliquid-ecosystem comment.",
       "Track whether GeeGee’s VELO/AERO held-position evidence becomes a durable Base/venue thesis or remains one position-management update.",
       "Track whether GeeGee continues distinguishing prediction-market UX/marketing criticism from standard market-rule conventions.",
-      "Track whether GeeGee’s Work Units / AI workflow-accounting interest becomes a recurring investable infrastructure thesis or remains one quote-post around AI rationalization."
+      "Track whether GeeGee’s Work Units / AI workflow-accounting interest becomes a recurring investable infrastructure thesis or remains one quote-post around AI rationalization.",
+      "Track whether GeeGee keeps engaging compute-as-commodity / AI capacity financialization beyond the jvb_xyz quote."
     ],
     "evidence_urls": [
       "https://x.com/0xGeeGee/status/2065771227743138126",
@@ -876,14 +894,15 @@
       "https://x.com/0xGeeGee/status/2071284161378181291",
       "https://x.com/0xGeeGee/status/2071286452357374290",
       "https://x.com/0xGeeGee/status/2071360045032280266",
-      "https://x.com/0xGeeGee/status/2071704509420654868"
+      "https://x.com/0xGeeGee/status/2071704509420654868",
+      "https://x.com/0xGeeGee/status/2071985155955130576"
     ]
   },
   {
     "handle": "AustinBarack",
     "period_start": "2026-05-14",
     "period_end": "2026-06-30",
-    "profile_updated_at": "2026-06-30T12:15:00Z",
+    "profile_updated_at": "2026-06-30T16:02:41Z",
     "taste_summary": "Observed X/Twitter evidence is strongly thesis-driven around private/anonymized AI, Venice/VVV, decentralized training, open-source models, and AI data protocols. Interpretation confidence is high for Venice/VVV because multiple authored posts and replies repeat the same framing. Latest June 24 evidence strengthens his GRASS tokenomics stance: he directly defended foundation ownership of IP/contracts/revenue and token-sale financing against value-accrual skepticism, while pointing to the July 7 holder call as the clarifying catalyst. Latest June 25 evidence refreshes his Venice/VVV conviction: he used the market-stress dip as an entry framing and gave concrete 4mm month-end / 10mm year-end user-growth estimates. June 30 evidence adds two live project updates: GRASS tokenholder-call catalyst/AI-data framing, and Hyperliquid priority-fee revenue/burn mechanics becoming material faster than expected.",
     "likes": [
       {
@@ -940,6 +959,14 @@
         "summary": "Uses concrete project events such as the GRASS tokenholder call as visibility/price-discovery catalysts, while tying the thesis back to data supply for model training.",
         "evidence_urls": [
           "https://x.com/AustinBarack/status/2071926139258622082"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "Aggressive growth spend when CAC/payback is attractive",
+        "summary": "Used X Money APY/cashback launch to argue sustainability is not the initial point if customer-acquisition ROI is clear; crypto projects may underuse growth spend relative to buybacks.",
+        "evidence_urls": [
+          "https://x.com/AustinBarack/status/2071928530548797691"
         ],
         "confidence": "medium"
       }
@@ -1007,12 +1034,13 @@
         "name": "Aerodrome / AERO",
         "handle": "aerodromefi",
         "stance": "positive",
-        "summary": "Fresh AERO evidence now includes supply-lock/revenue comments plus a mainnet/momentum post highlighting key moving-average breakouts. Latest tokenized-stocks/FX/Base comment implies Aerodrome as the venue beneficiary of Coinbase's tokenized-stock push; June 16 follow-up said price action suggests the market is starting to treat the growth opportunity as credible around mainnet expansion.",
+        "summary": "Repeated AERO thesis now includes a near-term revenue-rank claim: high chance Aerodrome becomes the #1 Ethereum-mainnet spot exchange by revenue within a month while still priced like a Base-only DEX.",
         "evidence_urls": [
           "https://x.com/AustinBarack/status/2066257745238446146",
           "https://x.com/AustinBarack/status/2066633860448706976",
           "https://x.com/AustinBarack/status/2066907328352281006",
-          "https://x.com/AustinBarack/status/2066990363844247802"
+          "https://x.com/AustinBarack/status/2066990363844247802",
+          "https://x.com/AustinBarack/status/2071927149255414261"
         ]
       },
       {
@@ -1033,6 +1061,15 @@
           "https://x.com/AustinBarack/status/2066888860022312981",
           "https://x.com/AustinBarack/status/2071921990429299160"
         ]
+      },
+      {
+        "name": "X Money",
+        "handle": null,
+        "stance": "analytical/product-example",
+        "summary": "Used as an external fintech example for customer-acquisition economics and product bundling; not a crypto-project endorsement.",
+        "evidence_urls": [
+          "https://x.com/AustinBarack/status/2071928530548797691"
+        ]
       }
     ],
     "people_respected": [],
@@ -1048,7 +1085,8 @@
       "Track whether GRASS/AERO replies become repeated project theses or remain short-window liquidity/listing observations.",
       "Track whether the five AI x crypto categories become AustinBarack’s durable watchlist structure or were a one-day framework post.",
       "Track whether the GRASS July 7 holder call resolves the value-accrual questions AustinBarack is defending or creates new diligence issues.",
-      "Track whether AustinBarack follows through after the GRASS tokenholder call with concrete value-accrual/user-growth evidence."
+      "Track whether AustinBarack follows through after the GRASS tokenholder call with concrete value-accrual/user-growth evidence.",
+      "Track whether AustinBarack keeps arguing for growth spend over buybacks in crypto projects after the X Money example."
     ],
     "evidence_urls": [
       "https://x.com/AustinBarack/status/2065642988470972861",
@@ -1070,14 +1108,16 @@
       "https://x.com/AustinBarack/status/2069912129852019047",
       "https://x.com/AustinBarack/status/2070181102011248964",
       "https://x.com/AustinBarack/status/2071926139258622082",
-      "https://x.com/AustinBarack/status/2071921990429299160"
+      "https://x.com/AustinBarack/status/2071921990429299160",
+      "https://x.com/AustinBarack/status/2071927149255414261",
+      "https://x.com/AustinBarack/status/2071928530548797691"
     ]
   },
   {
     "handle": "airtightfish",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-25",
-    "profile_updated_at": "2026-06-25T16:08:33Z",
+    "period_end": "2026-06-30",
+    "profile_updated_at": "2026-06-30T16:02:41Z",
     "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence adds a tokenomics/accounting-process edge: he pushed against raw FDV for MetaDAO ownership-coin valuation and pointed toward adjusted supply / mNAV treatment. June 21 ryanchern reply adds another ProofMarkets/product-design datapoint: prediction markets need novel products that restore useful information surfaces beyond current category mix. June 22 quote added a light ProofMarkets ecosystem/partner signal via umia_finance/SURGECAST. Latest June 23 quote strengthens the ProofMarkets product-design trail with an actual conditional-futures Challenge market: SOL conditional on BTC up/down, framed as evidence that conditional futures can support experimental listed market types beyond event markets. Later June 23 replies add an Adjacent RED political-index feedback edge: he liked the index concept but wanted more volatility, saying ProofMarkets would love to list something like it as conditional indices develop. Latest June 23 evidence adds a concrete ProofMarkets/Solana tokenomics use case: he used a gated-MVP market to estimate Burn SIMD price impact and implementation odds, while caveating that failure would mainly matter as a signal on Solana's tokenomics direction. June 24 reply keeps ProofMarkets framed as an answer to the critique that current prediction markets are not practical hedging tools. Latest June 24 GRASS reply extends the same conditional-futures design pattern from ProofMarkets demos into tokenomics discovery: use a conditional market around whether Grass announces robust token value attribution, while disclosing he is a Grass fan. PreStocks/Kalshi post adds a private-market liquidity/execution layer: he likes the idea of pre-IPO secondary-style products, but criticized disappearing liquidity and inability to exit. June 25 follow-up adds an important ProofMarkets caveat: the SOL Burn SIMD market was a very illiquid gated-MVP/test market, useful only as directional information rather than a robust liquid pricing venue. June 25 adds another direct ProofMarkets MVP example via a BTC/STRC conditional market, plus a useful caveat/competitive filter: ProofMarkets is still MVP, Kalshi is better today, and Polymarket/UMA are viewed negatively.",
     "likes": [
       {
@@ -1412,8 +1452,8 @@
   {
     "handle": "game_for_one",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-17",
-    "profile_updated_at": "2026-06-17T02:20:00Z",
+    "period_end": "2026-06-30",
+    "profile_updated_at": "2026-06-30T16:02:41Z",
     "taste_summary": "No visible matching authored posts or replies surfaced in the X/Twitter searches for this 30-day window. Interpretation confidence is low; leave profile mostly blank and treat as needs-review rather than inactive with certainty.",
     "likes": [],
     "dislikes": [],
@@ -1433,8 +1473,8 @@
   {
     "handle": "CryptoTomYT",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-27",
-    "profile_updated_at": "2026-06-27T13:45:00Z",
+    "period_end": "2026-06-30",
+    "profile_updated_at": "2026-06-30T16:02:41Z",
     "taste_summary": "Observed X/Twitter evidence is mostly trading-performance/social content, now with repeated public Legend Trade performance context and explicit style comments: mostly not trading onchain, more long equities / short crypto. Interpretation confidence remains medium-low because most non-performance replies are terse. Latest June 23 quote adds process color: he agrees with screen-time/pattern-recognition as the durable source of discretionary trading intuition. Latest June 26 Multicoin/HYPE valuation reaction adds a more explicit Hyperliquid fundamental-valuation touchpoint: skeptical of $689 HYPE / $8B ARR assumptions, but acknowledges the upside scenario would be dramatic if it plays out. June 27 terse Hyperliquid post adds another light attention point after the prior valuation-reaction post, but still lacks a detailed HYPE thesis.",
     "likes": [
       {
@@ -1554,8 +1594,8 @@
   {
     "handle": "zuqaquz",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-17",
-    "profile_updated_at": "2026-06-17T02:20:00Z",
+    "period_end": "2026-06-30",
+    "profile_updated_at": "2026-06-30T16:02:41Z",
     "taste_summary": "Observed X/Twitter evidence is strongly and repeatedly pro-Hyperliquid/HYPE, with market-volatility humor and a visible fade/mute list around Saylor/MSTR-related and ZEC terms. Interpretation confidence is high for HYPE preference; other themes remain thin.",
     "likes": [
       {
@@ -1654,7 +1694,7 @@
     "handle": "MoneyPrinter0x",
     "period_start": "2026-05-14",
     "period_end": "2026-06-30",
-    "profile_updated_at": "2026-06-30T12:15:00Z",
+    "profile_updated_at": "2026-06-30T16:02:41Z",
     "taste_summary": "Observed X/Twitter evidence shows an event-driven trader mixing AI-equity rotations, short-dated options, macro/rate catalysts, strict invalidation/risk caps, and public post-trade review. New June 19 evidence adds a self-review of the MSTR/CRWV/POET short book after rotating from broad shorts into short-term bullish equities, while still treating BTC upside as capped until the STRC/MSTR overhang has a fix path. Latest June 23 quote refreshes his AI-equity rotation map: from GPU capex into CPU/memory for agentic AI, then vertical integrations, and eventually physical AI / Apple robotics supply chain. June 24 DRAM/MU post adds another execution-level memory/AI-equity example with stop range, risk percentage, earnings catalyst, and explicit invalidation. Latest June 24 follow-ups add process evidence after the DRAM/MU setup: he reviewed the MSTR/CRWV/POET short book, credited MSTR as the main driver, and stressed execution/hedging/stops, while also saying overnight SPCX/Anthropic IPO risk should be scaled down as event exposure changes. Late June 24 update adds MU/Micron as another event-driven AI-equity options setup and a fresh direct HYPE long, reinforcing his focus on high-beta AI/crypto expressions with explicit position expression. June 25 evidence sharpens the post-Warsh AI-equity map: DRAM/MU as bellwether alpha, CPU/agentic names as first-order beta, connectivity/photonics/neoclouds as second-order beta, 800VDC/power and AMPG-style exposure as later beneficiaries, with IGV/MSTR hedges and Friday inflation-expectations/PCE invalidation/confirmation. BB remains a repeated non-crypto equity/cybersecurity catalyst, not a crypto-project promotion. Latest June 25 evidence strengthens the event-driven AI-infrastructure equity style: he connected inflation-expectations timing, Apple AI-flation headlines, DRAM/MU as the alpha leg, and explicit stop discipline on DRAM calls into one catalyst trade. Latest June 26 evidence keeps the same book active into the catalyst: he corrected the inflation-expectations release time to 10am EST, estimated a 4.5-4.7% print range from WTI/yield divergences, and kept the primary invalidation as the print failing to come in soft. Latest June 26 reply-level evidence adds a defensive/process layer: after criticism of the inflation-expectations setup, he emphasized probabilistic EV, staged validation, reduced overnight leverage near a risk-asset top, and keeping the trade separate from a long-term marriage. Post-print update now closes that setup: he marked the inflation-expectations thesis invalidated after consensus data and exited, while clarifying that any remaining upside must come from a different driver. Late June 26 follow-up evidence makes the high-conviction hierarchy clearer: HYPE is the primary long-term crypto/infra allocation, BB is a robotics/RTOS equity compounder with a Q2 2027 target, and PURR is only tail convexity on the HYPE ecosystem. Latest June 27 evidence introduces a dated BTC accumulation thesis: possible bear-market bottom between now and October 6, with low/no leverage, TWAP/scaled orders, rate-hike/liquidity confluence, and explicit clarification that recent strength was equities + Hyperliquid rather than a broad crypto bull-market call. Latest June 27 follow-ups keep the BTC-window thesis source-close: he explicitly allowed further BTC downside, recommended four-month TWAPs/back-weighted scaling rather than leverage, and then compressed the view into a “four months away from a new dawn” crypto-cycle post. Latest June 28 evidence adds an explicit wealth-preservation layer: he says the primary job is not losing money, keeps most earned capital in a separate automated IBKR/tradfi portfolio of global ETFs/commodities/bonds with hard stops and factor limits, and treats crypto exposure as near-zero versus tradfi except Hyperliquid; this reframes the active trading book as the high-upside side of an 80/20 barbell rather than the whole net-worth strategy. Latest June 28 evidence shifts his AI-equity rotation focus toward robotics beta: he named BOT and CCXI as current watch items while keeping BB as the default/core robotics-RTOS exposure, and follow-up referenced waiting for Monday open to get LEAPs. June 29 replies extend the robotics rotation into ETF/closed-end-fund structure: he dislikes elevated mNAV/private-company accounting but still expects bid pressure from robotics mindshare and liquidity rotation. June 29 evidence updates the live tape from sector/process commentary into actual positioning: he posted a QQQ-gated bid basket (SOXL, BB, CCXI, BOT, HYPE, BTC, SOL), then clarified scaled/TWAP entries with built-in invalidations and SOXL as the MU/memory proxy. Latest June 29 evidence complicates the earlier STRC/MSTR-overhang caution: he aggressively bid STRC, compared a long-STRC setup to a prior-cycle GCR/LUNA asymmetry, praised an MSTR bottom call, and filled SPCX calls; treat as tactical risk-on execution, not a settled fundamental reversal. Latest June 29 capital-management thread makes the process layer explicit: he says thesis construction comes first, while position management is often executed through discretionary, hybrid, or fully systematic expression rather than manual babysitting. Late June 29 evidence adds a tactical risk-on breadth update: he bought SHAZ with SEC/private-placement filing context, bought EWY calls into the close, and described the tape as unusually broad and momentum-driven. June 30 reply clarifies the latest '2021 on steroids' tape read as stock-led, not a blanket crypto-euphoria call. June 30 BOT follow-through keeps the robotics-beta leg of the prior risk-on basket active, but it is logged as light execution evidence rather than a new standalone thesis.",
     "likes": [
       {
@@ -1973,6 +2013,22 @@
           "https://x.com/MoneyPrinter0x/status/2071818592539271196"
         ],
         "confidence": "medium"
+      },
+      {
+        "theme": "Neoclouds / AI datacenter scarcity",
+        "summary": "Expanded the SHAZ trade into a broader neocloud/datacenter thesis: every model needs data centers, regional/nation-level capacity advantages may matter, and some neocloud-like players may be valued far below peers despite long runway.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2071978682705752541"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "Robotics exposure through equities before tokens",
+        "summary": "Clarified that his physical-AI/robotics exposure is currently better expressed through equities because robotics-token IDOs often lack a reason to exist, look vaporware, and face weak crypto liquidity; open to changing if market/project quality changes.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2071931254698656034"
+        ],
+        "confidence": "high"
       }
     ],
     "dislikes": [
@@ -2310,6 +2366,15 @@
           "https://x.com/MoneyPrinter0x/status/2071506995123724526",
           "https://x.com/MoneyPrinter0x/status/2071909225044099261"
         ]
+      },
+      {
+        "name": "SHAZ / SharonAI",
+        "handle": null,
+        "stance": "positive tactical/diligence",
+        "summary": "Repeated SHAZ buying and added a more explicit Anthropic/Australia-datacenter thesis via Leopold Aschenbrenner/Situational Awareness, Anthropic hiring, FluidStack precedent, and current valuation versus prior round.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2071968750883180974"
+        ]
       }
     ],
     "people_respected": [
@@ -2379,7 +2444,9 @@
       "Track whether the June 29 STRC tactical long/bid is a durable reversal of prior STRC/MSTR-overhang caution or only a short-horizon asymmetry trade.",
       "Track whether MoneyPrinter0x keeps describing systematic/hybrid execution mechanics, or whether the June 29 capital-management thread stays a one-off process note.",
       "Track whether MoneyPrinter0x’s SHAZ/EWY/breadth burst becomes a sustained risk-on equity regime view or remains a single late-day momentum tape.",
-      "Track whether MoneyPrinter0x's stock-led '2021 on steroids' tape continues to favor equities over broad crypto beta, despite the separate high-conviction Hyperliquid exception."
+      "Track whether MoneyPrinter0x's stock-led '2021 on steroids' tape continues to favor equities over broad crypto beta, despite the separate high-conviction Hyperliquid exception.",
+      "Track whether MoneyPrinter0x keeps SHAZ as a neocloud/datacenter thesis or treats it as a short-lived filing/momentum trade.",
+      "Watch for any robotics-token exception that changes his current equities-over-robotics-tokens filter."
     ],
     "evidence_urls": [
       "https://x.com/MoneyPrinter0x/status/2065910048833102118",
@@ -2479,14 +2546,18 @@
       "https://x.com/MoneyPrinter0x/status/2071712058194923647",
       "https://x.com/MoneyPrinter0x/status/2071719091782729970",
       "https://x.com/MoneyPrinter0x/status/2071818592539271196",
-      "https://x.com/MoneyPrinter0x/status/2071909225044099261"
+      "https://x.com/MoneyPrinter0x/status/2071909225044099261",
+      "https://x.com/MoneyPrinter0x/status/2071978682705752541",
+      "https://x.com/MoneyPrinter0x/status/2071968750883180974",
+      "https://x.com/MoneyPrinter0x/status/2071963022210531660",
+      "https://x.com/MoneyPrinter0x/status/2071931254698656034"
     ]
   },
   {
     "handle": "kelxyz_",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-25",
-    "profile_updated_at": "2026-06-25T20:20:00Z",
+    "period_end": "2026-06-30",
+    "profile_updated_at": "2026-06-30T16:02:41Z",
     "taste_summary": "Observed X/Twitter evidence is thesis-heavy around AI/crypto protocols, especially Pluralis, inference-market timing, decentralized/model-parallel training, alternative financing for inference/compute aggregation, and cautious evaluation of incentivized inference designs. New June 19 evidence says Nock is 'in the running' while explicitly noting no current design is fully convincing yet. Latest June 23 evidence adds two source-close filters: skepticism toward CA-in-bio coins, and technical due diligence on whether consumer-GPU/sharded inference can actually deliver GLM 5.2-class performance at claimed discounts. Latest June 24 quote adds a TAM argument for decentralized training: a reported Reflection/SpaceX compute deal at ~$150M/month is used to push back on claims that decentralized training lacks enough demand if it scales. A new follow-up adds the key caveat: aggregating many weaker chips into frontier-scale training remains unproven, and the upside exists precisely because the equivalence is not yet known. Latest non-crypto June 24 post adds a style/culture layer: he framed status markets around wealth, fitness, and hard-to-fake revolutionary action, which fits the account’s broader mimetic/reflexivity analysis but is not project evidence. Latest June 25 evidence adds an inference-demand adoption lens: he is constructive on more inference calls over time, but separates that from unresolved local-vs-cloud and robotics-adoption questions.",
     "likes": [
       {
@@ -2563,6 +2634,14 @@
         "evidence_urls": [
           "https://x.com/kelxyz_/status/2070189827824226442",
           "https://x.com/kelxyz_/status/2070209448044380612"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "Basis-heavy compute contract diligence",
+        "summary": "Applied a skeptical compute-finance lens to USDAI by asking how it handles narrow contracts around chips, regions, terms, and vintages; this extends his AI/compute protocol interest into market-microstructure diligence.",
+        "evidence_urls": [
+          "https://x.com/kelxyz_/status/2071985065924473343"
         ],
         "confidence": "medium"
       }
@@ -2645,6 +2724,15 @@
           "https://x.com/kelxyz_/status/2069597720566780216",
           "https://x.com/kelxyz_/status/2069791880766706101"
         ]
+      },
+      {
+        "name": "USDAI",
+        "handle": "USDAI",
+        "stance": "watching/diligence",
+        "summary": "Used as a concrete test case for whether crypto-native AI-compute finance can handle fragmented, basis-heavy real compute contracts rather than broad narrative exposure.",
+        "evidence_urls": [
+          "https://x.com/kelxyz_/status/2071985065924473343"
+        ]
       }
     ],
     "people_respected": [
@@ -2683,7 +2771,8 @@
       "Track whether kelxyz_'s ZEC/privacy-chain thesis recurs or was a one-day portfolio review after Mythos/formal-verification news.",
       "Track whether Nock recurs in kelxyz_'s incentivized-inference/design filter or remains a one-off cautious mention.",
       "Track whether kelxyz_ continues probing consumer-GPU/sharded-inference economics after AlgodTrading/totheagi publish subnet benchmarks.",
-      "Track whether kelxyz_ gets concrete proof/benchmarks that aggregated weaker chips can approximate frontier-scale training clusters."
+      "Track whether kelxyz_ gets concrete proof/benchmarks that aggregated weaker chips can approximate frontier-scale training clusters.",
+      "Track whether kelxyz_ follows up on USDAI or other compute-finance projects with concrete contract/oracle/delivery-mechanism diligence."
     ],
     "evidence_urls": [
       "https://x.com/kelxyz_/status/2065782384616780175",
@@ -2701,7 +2790,8 @@
       "https://x.com/kelxyz_/status/2069597720566780216",
       "https://x.com/kelxyz_/status/2069791880766706101",
       "https://x.com/kelxyz_/status/2070189827824226442",
-      "https://x.com/kelxyz_/status/2070209448044380612"
+      "https://x.com/kelxyz_/status/2070209448044380612",
+      "https://x.com/kelxyz_/status/2071985065924473343"
     ]
   }
 ]
