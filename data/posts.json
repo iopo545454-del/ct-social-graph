@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-06-30",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/stocks_over_crypto_2021_steroids_context",
+    "url": "https://x.com/MoneyPrinter0x/status/2071818592539271196",
+    "summary": "In follow-up to his '2021 on steroids' tape comment, answered 'stocks' when asked whether the analogy referred to stocks or crypto, clarifying that the current risk-on/breadth read is stock-led rather than a generalized crypto-euphoria call.",
+    "entities": [
+      "stocks",
+      "crypto",
+      "2021 analogy",
+      "risk-on breadth",
+      "equity-led momentum",
+      "market regime"
+    ],
+    "why_logged": "Small but useful source-close clarification after the June 29 breadth/momentum posts: it prevents over-reading the 2021 comparison as a broad crypto-cycle call and keeps the evidence near the original thread.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2071708211217084720",
+      "https://x.com/MoneyPrinter0x/status/2071712058194923647"
+    ]
+  },
+  {
     "date": "2026-06-29",
     "handle": "MoneyPrinter0x",
     "type": "authored_post/ewy_korea_calls_breadth_trade",

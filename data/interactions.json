@@ -3,6 +3,20 @@
     "from": "MoneyPrinter0x",
     "to": "unknown_counterparty",
     "to_kind": "individual",
+    "type": "reply/stocks_over_crypto_regime_clarification",
+    "date": "2026-06-30",
+    "url": "https://x.com/MoneyPrinter0x/status/2071818592539271196",
+    "summary": "When asked whether his '2021 on steroids' market analogy referred to stocks or crypto, replied 'stocks,' clarifying the risk-on/breadth read as equity-led rather than blanket crypto euphoria.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2071708211217084720"
+    ]
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "unknown_counterparty",
+    "to_kind": "individual",
     "type": "reply/hybrid_systematic_thesis_execution",
     "date": "2026-06-29",
     "url": "https://x.com/MoneyPrinter0x/status/2071656433486372896",
