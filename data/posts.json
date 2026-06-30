@@ -1,6 +1,55 @@
 [
   {
     "date": "2026-06-30",
+    "handle": "AustinBarack",
+    "type": "authored_post/grass_tokenholder_call_catalyst",
+    "url": "https://x.com/AustinBarack/status/2071926139258622082",
+    "summary": "Said the GRASS tokenholder call one week out should be a major visibility and price-discovery catalyst, framing GRASS as a top-2 protocol at the center of crypto/AI because model training depends on data.",
+    "entities": [
+      "GRASS",
+      "tokenholder call",
+      "AI data",
+      "model training",
+      "price discovery",
+      "crypto x AI"
+    ],
+    "why_logged": "Extends repeated AustinBarack GRASS evidence from prior value-accrual replies into an explicit dated catalyst/watch item.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-30",
+    "handle": "AustinBarack",
+    "type": "quote/hyperliquid_priority_fee_revenue",
+    "url": "https://x.com/AustinBarack/status/2071921990429299160",
+    "summary": "Quoted Hyperliquid priority-fee/burn data and noted that priority fees were annualizing around $43.5M over the prior week, becoming a major contributor to Hyperliquid revenue faster than he expected.",
+    "entities": [
+      "Hyperliquid",
+      "HYPE",
+      "priority fees",
+      "fee burns",
+      "annualized revenue",
+      "market maker activity"
+    ],
+    "why_logged": "Adds a substantive AustinBarack Hyperliquid/HYPE revenue-mechanics observation, not just price or generic venue attention.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-06-30",
+    "handle": "MoneyPrinter0x",
+    "type": "quote/follow_through_robotics_bid",
+    "url": "https://x.com/MoneyPrinter0x/status/2071909225044099261",
+    "summary": "Followed up the prior 'robot money' / BOT bid with a +12.13% premarket move, keeping the robotics-beta portion of the June 29 risk-on basket visible as follow-through evidence.",
+    "entities": [
+      "BOT",
+      "robotics beta",
+      "premarket follow-through",
+      "risk-on basket"
+    ],
+    "why_logged": "Light but useful continuation of the logged June 29 QQQ-gated bid basket; keep as follow-through evidence rather than a standalone thesis.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-30",
     "handle": "MoneyPrinter0x",
     "type": "reply/stocks_over_crypto_2021_steroids_context",
     "url": "https://x.com/MoneyPrinter0x/status/2071818592539271196",

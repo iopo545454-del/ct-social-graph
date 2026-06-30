@@ -1,5 +1,16 @@
 [
   {
+    "from": "AustinBarack",
+    "to": "HyperliquidX",
+    "to_kind": "project",
+    "type": "quote/revenue_mechanics",
+    "date": "2026-06-30",
+    "url": "https://x.com/AustinBarack/status/2071921990429299160",
+    "summary": "Quoted/commented on Hyperliquid priority-fee data, highlighting roughly $43.5M annualized priority-fee revenue and HYPE burns as a faster-than-expected contributor to total Hyperliquid revenue.",
+    "quality": "high",
+    "created_tier2_candidate": false
+  },
+  {
     "from": "MoneyPrinter0x",
     "to": "unknown_counterparty",
     "to_kind": "individual",
