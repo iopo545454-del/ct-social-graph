@@ -1,6 +1,88 @@
 [
   {
     "date": "2026-06-30",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/ai_tool_skepticism",
+    "url": "https://x.com/MoneyPrinter0x/status/2072040376878403880",
+    "summary": "In a reply about AI reliability, said even simple examples compound badly across more finance tasks and that he is no longer sure he can trust AI with code, adding a practical skepticism edge to his agentic-workflow interest.",
+    "entities": [
+      "AI agents",
+      "finance tasks",
+      "code reliability",
+      "workflow risk",
+      "model trust"
+    ],
+    "why_logged": "Adds an important qualifier to prior positive AI-agent workflow evidence: he is interested in AI automation but skeptical of unchecked model reliability in finance/code.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-30",
+    "handle": "MoneyPrinter0x",
+    "type": "quote/neocloud_basket_thesis",
+    "url": "https://x.com/MoneyPrinter0x/status/2072037244152828386",
+    "summary": "Reiterated the final neocloud basket SHAZ/WYFI/BRUN and argued that, unless geopolitical shock or QQQ retrace invalidates it, the smaller 1–2B market-cap neocloud sector can be the kingmaker play over the next few weeks versus larger 10–20B names.",
+    "entities": [
+      "SHAZ",
+      "WYFI",
+      "BRUN",
+      "neoclouds",
+      "QQQ",
+      "AI datacenter capacity",
+      "small-cap AI equities"
+    ],
+    "why_logged": "High-signal continuation of his AI-equity rotation map: explicit basket, sector-size comparison, time horizon, and invalidation conditions.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-30",
+    "handle": "MoneyPrinter0x",
+    "type": "quote/sector_follow_through",
+    "url": "https://x.com/MoneyPrinter0x/status/2072048696154558757",
+    "summary": "Updated the BOT/robotics trade as BOT touched the $39.50–$40 range, following the prior 'robot money' setup and broader robotics/physical-AI equity rotation discussion.",
+    "entities": [
+      "BOT",
+      "RoboStrategy",
+      "robotics equities",
+      "physical AI",
+      "trade follow-through"
+    ],
+    "why_logged": "Shows follow-through on a named robotics/physical-AI equity trade from the prior risk-on basket, but remains execution evidence rather than a crypto project signal.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-30",
+    "handle": "AustinBarack",
+    "type": "reply/venice_usage_projection",
+    "url": "https://x.com/AustinBarack/status/2072030866365100269",
+    "summary": "Replying to Erik Voorhees saying Venice reached roughly 100B daily tokens, projected Venice token usage could do another 10x within a year.",
+    "entities": [
+      "Venice",
+      "VVV",
+      "Erik Voorhees",
+      "token usage",
+      "AI inference demand"
+    ],
+    "why_logged": "Useful source-close evidence for how aggressive AustinBarack's Venice/VVV demand-growth expectations have become.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-30",
+    "handle": "AustinBarack",
+    "type": "authored_post/venice_usage_emissions",
+    "url": "https://x.com/AustinBarack/status/2072029535080534073",
+    "summary": "Flagged another VVV emissions step-down on July 1, from roughly 4M/year to 3M/year, adding supply-side catalyst context to the recurring Venice/VVV usage thesis.",
+    "entities": [
+      "Venice",
+      "VVV",
+      "emissions",
+      "supply schedule",
+      "AI consumer usage"
+    ],
+    "why_logged": "Continues AustinBarack's repeated Venice/VVV evidence with a dated supply catalyst rather than only general private-AI narrative.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-30",
     "handle": "0xGeeGee",
     "type": "quote/compute_financialization_obstacles",
     "url": "https://x.com/0xGeeGee/status/2071985155955130576",

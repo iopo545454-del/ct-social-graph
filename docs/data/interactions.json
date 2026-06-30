@@ -1,5 +1,30 @@
 [
   {
+    "from": "MoneyPrinter0x",
+    "to": "unknown_counterparty",
+    "to_kind": "individual",
+    "type": "reply/ai_finance_code_reliability_skepticism",
+    "date": "2026-06-30",
+    "url": "https://x.com/MoneyPrinter0x/status/2072040376878403880",
+    "summary": "In a reply about AI reliability, warned that simple AI errors compound much worse across finance tasks and said he is no longer sure he can trust AI with code.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "AustinBarack",
+    "to": "AskVenice",
+    "to_kind": "project",
+    "type": "authored_mention/usage_and_emissions_thesis",
+    "date": "2026-06-30",
+    "url": "https://x.com/AustinBarack/status/2072029535080534073",
+    "summary": "Added a fresh Venice/VVV supply-catalyst point, saying emissions drop again July 1 from roughly 4M/year to 3M/year.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/AustinBarack/status/2072030866365100269"
+    ]
+  },
+  {
     "from": "0xGeeGee",
     "to": "jvb_xyz",
     "to_kind": "individual",

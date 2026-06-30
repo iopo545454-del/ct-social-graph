@@ -902,8 +902,8 @@
     "handle": "AustinBarack",
     "period_start": "2026-05-14",
     "period_end": "2026-06-30",
-    "profile_updated_at": "2026-06-30T16:02:41Z",
-    "taste_summary": "Observed X/Twitter evidence is strongly thesis-driven around private/anonymized AI, Venice/VVV, decentralized training, open-source models, and AI data protocols. Interpretation confidence is high for Venice/VVV because multiple authored posts and replies repeat the same framing. Latest June 24 evidence strengthens his GRASS tokenomics stance: he directly defended foundation ownership of IP/contracts/revenue and token-sale financing against value-accrual skepticism, while pointing to the July 7 holder call as the clarifying catalyst. Latest June 25 evidence refreshes his Venice/VVV conviction: he used the market-stress dip as an entry framing and gave concrete 4mm month-end / 10mm year-end user-growth estimates. June 30 evidence adds two live project updates: GRASS tokenholder-call catalyst/AI-data framing, and Hyperliquid priority-fee revenue/burn mechanics becoming material faster than expected.",
+    "profile_updated_at": "2026-06-30T20:10:37Z",
+    "taste_summary": "Observed X/Twitter evidence is strongly thesis-driven around private/anonymized AI, Venice/VVV, decentralized training, open-source models, and AI data protocols. Interpretation confidence is high for Venice/VVV because multiple authored posts and replies repeat the same framing. Latest June 24 evidence strengthens his GRASS tokenomics stance: he directly defended foundation ownership of IP/contracts/revenue and token-sale financing against value-accrual skepticism, while pointing to the July 7 holder call as the clarifying catalyst. Latest June 25 evidence refreshes his Venice/VVV conviction: he used the market-stress dip as an entry framing and gave concrete 4mm month-end / 10mm year-end user-growth estimates. June 30 evidence adds two live project updates: GRASS tokenholder-call catalyst/AI-data framing, and Hyperliquid priority-fee revenue/burn mechanics becoming material faster than expected. Latest late-June update adds two source-close Venice/VVV datapoints: another emissions drop on July 1 and an explicit view that Venice token usage can 10x again within a year after the 100B-daily-token milestone.",
     "likes": [
       {
         "theme": "Private/anonymized AI usage",
@@ -987,14 +987,16 @@
         "name": "Venice / VVV",
         "handle": "AskVenice",
         "stance": "positive",
-        "summary": "Core repeated positive thesis: private AI product with rapid user growth, top models, subscriptions/credits, and privacy tailwind from centralized AI restrictions. New usage evidence: Austin said no one is bullish enough as token usage is up only after reported 85B+ daily Venice LLM tokens. Latest evidence adds GLM 5.2/open-source-model quality as another private/encrypted Venice use case. June 25 update added dip-buy framing after MicroStrategy-driven stress and concrete user-growth estimates around 4mm month-end / 10mm year-end.",
+        "summary": "Core repeated positive thesis: private AI product with rapid user growth, top models, subscriptions/credits, and privacy tailwind from centralized AI restrictions. New usage evidence: Austin said no one is bullish enough as token usage is up only after reported 85B+ daily Venice LLM tokens. Latest evidence adds GLM 5.2/open-source-model quality as another private/encrypted Venice use case. June 25 update added dip-buy framing after MicroStrategy-driven stress and concrete user-growth estimates around 4mm month-end / 10mm year-end. Latest June 30 evidence adds an emissions step-down and a 10x-in-a-year token-usage projection after Venice reportedly hit about 100B daily tokens.",
         "evidence_urls": [
           "https://x.com/AustinBarack/status/2065642988470972861",
           "https://x.com/AustinBarack/status/2065896297010475257",
           "https://x.com/AustinBarack/status/2065857217199235306",
           "https://x.com/AustinBarack/status/2066897528037986414",
           "https://x.com/AustinBarack/status/2067255909600972830",
-          "https://x.com/AustinBarack/status/2070181102011248964"
+          "https://x.com/AustinBarack/status/2070181102011248964",
+          "https://x.com/AustinBarack/status/2072029535080534073",
+          "https://x.com/AustinBarack/status/2072030866365100269"
         ]
       },
       {
@@ -1086,7 +1088,8 @@
       "Track whether the five AI x crypto categories become AustinBarack’s durable watchlist structure or were a one-day framework post.",
       "Track whether the GRASS July 7 holder call resolves the value-accrual questions AustinBarack is defending or creates new diligence issues.",
       "Track whether AustinBarack follows through after the GRASS tokenholder call with concrete value-accrual/user-growth evidence.",
-      "Track whether AustinBarack keeps arguing for growth spend over buybacks in crypto projects after the X Money example."
+      "Track whether AustinBarack keeps arguing for growth spend over buybacks in crypto projects after the X Money example.",
+      "Track whether AustinBarack’s Venice/VVV 10x usage projection gets updated after the July 1 emissions step-down."
     ],
     "evidence_urls": [
       "https://x.com/AustinBarack/status/2065642988470972861",
@@ -1110,7 +1113,9 @@
       "https://x.com/AustinBarack/status/2071926139258622082",
       "https://x.com/AustinBarack/status/2071921990429299160",
       "https://x.com/AustinBarack/status/2071927149255414261",
-      "https://x.com/AustinBarack/status/2071928530548797691"
+      "https://x.com/AustinBarack/status/2071928530548797691",
+      "https://x.com/AustinBarack/status/2072029535080534073",
+      "https://x.com/AustinBarack/status/2072030866365100269"
     ]
   },
   {
@@ -1694,8 +1699,8 @@
     "handle": "MoneyPrinter0x",
     "period_start": "2026-05-14",
     "period_end": "2026-06-30",
-    "profile_updated_at": "2026-06-30T16:02:41Z",
-    "taste_summary": "Observed X/Twitter evidence shows an event-driven trader mixing AI-equity rotations, short-dated options, macro/rate catalysts, strict invalidation/risk caps, and public post-trade review. New June 19 evidence adds a self-review of the MSTR/CRWV/POET short book after rotating from broad shorts into short-term bullish equities, while still treating BTC upside as capped until the STRC/MSTR overhang has a fix path. Latest June 23 quote refreshes his AI-equity rotation map: from GPU capex into CPU/memory for agentic AI, then vertical integrations, and eventually physical AI / Apple robotics supply chain. June 24 DRAM/MU post adds another execution-level memory/AI-equity example with stop range, risk percentage, earnings catalyst, and explicit invalidation. Latest June 24 follow-ups add process evidence after the DRAM/MU setup: he reviewed the MSTR/CRWV/POET short book, credited MSTR as the main driver, and stressed execution/hedging/stops, while also saying overnight SPCX/Anthropic IPO risk should be scaled down as event exposure changes. Late June 24 update adds MU/Micron as another event-driven AI-equity options setup and a fresh direct HYPE long, reinforcing his focus on high-beta AI/crypto expressions with explicit position expression. June 25 evidence sharpens the post-Warsh AI-equity map: DRAM/MU as bellwether alpha, CPU/agentic names as first-order beta, connectivity/photonics/neoclouds as second-order beta, 800VDC/power and AMPG-style exposure as later beneficiaries, with IGV/MSTR hedges and Friday inflation-expectations/PCE invalidation/confirmation. BB remains a repeated non-crypto equity/cybersecurity catalyst, not a crypto-project promotion. Latest June 25 evidence strengthens the event-driven AI-infrastructure equity style: he connected inflation-expectations timing, Apple AI-flation headlines, DRAM/MU as the alpha leg, and explicit stop discipline on DRAM calls into one catalyst trade. Latest June 26 evidence keeps the same book active into the catalyst: he corrected the inflation-expectations release time to 10am EST, estimated a 4.5-4.7% print range from WTI/yield divergences, and kept the primary invalidation as the print failing to come in soft. Latest June 26 reply-level evidence adds a defensive/process layer: after criticism of the inflation-expectations setup, he emphasized probabilistic EV, staged validation, reduced overnight leverage near a risk-asset top, and keeping the trade separate from a long-term marriage. Post-print update now closes that setup: he marked the inflation-expectations thesis invalidated after consensus data and exited, while clarifying that any remaining upside must come from a different driver. Late June 26 follow-up evidence makes the high-conviction hierarchy clearer: HYPE is the primary long-term crypto/infra allocation, BB is a robotics/RTOS equity compounder with a Q2 2027 target, and PURR is only tail convexity on the HYPE ecosystem. Latest June 27 evidence introduces a dated BTC accumulation thesis: possible bear-market bottom between now and October 6, with low/no leverage, TWAP/scaled orders, rate-hike/liquidity confluence, and explicit clarification that recent strength was equities + Hyperliquid rather than a broad crypto bull-market call. Latest June 27 follow-ups keep the BTC-window thesis source-close: he explicitly allowed further BTC downside, recommended four-month TWAPs/back-weighted scaling rather than leverage, and then compressed the view into a “four months away from a new dawn” crypto-cycle post. Latest June 28 evidence adds an explicit wealth-preservation layer: he says the primary job is not losing money, keeps most earned capital in a separate automated IBKR/tradfi portfolio of global ETFs/commodities/bonds with hard stops and factor limits, and treats crypto exposure as near-zero versus tradfi except Hyperliquid; this reframes the active trading book as the high-upside side of an 80/20 barbell rather than the whole net-worth strategy. Latest June 28 evidence shifts his AI-equity rotation focus toward robotics beta: he named BOT and CCXI as current watch items while keeping BB as the default/core robotics-RTOS exposure, and follow-up referenced waiting for Monday open to get LEAPs. June 29 replies extend the robotics rotation into ETF/closed-end-fund structure: he dislikes elevated mNAV/private-company accounting but still expects bid pressure from robotics mindshare and liquidity rotation. June 29 evidence updates the live tape from sector/process commentary into actual positioning: he posted a QQQ-gated bid basket (SOXL, BB, CCXI, BOT, HYPE, BTC, SOL), then clarified scaled/TWAP entries with built-in invalidations and SOXL as the MU/memory proxy. Latest June 29 evidence complicates the earlier STRC/MSTR-overhang caution: he aggressively bid STRC, compared a long-STRC setup to a prior-cycle GCR/LUNA asymmetry, praised an MSTR bottom call, and filled SPCX calls; treat as tactical risk-on execution, not a settled fundamental reversal. Latest June 29 capital-management thread makes the process layer explicit: he says thesis construction comes first, while position management is often executed through discretionary, hybrid, or fully systematic expression rather than manual babysitting. Late June 29 evidence adds a tactical risk-on breadth update: he bought SHAZ with SEC/private-placement filing context, bought EWY calls into the close, and described the tape as unusually broad and momentum-driven. June 30 reply clarifies the latest '2021 on steroids' tape read as stock-led, not a blanket crypto-euphoria call. June 30 BOT follow-through keeps the robotics-beta leg of the prior risk-on basket active, but it is logged as light execution evidence rather than a new standalone thesis.",
+    "profile_updated_at": "2026-06-30T20:10:37Z",
+    "taste_summary": "Observed X/Twitter evidence shows an event-driven trader mixing AI-equity rotations, short-dated options, macro/rate catalysts, strict invalidation/risk caps, and public post-trade review. New June 19 evidence adds a self-review of the MSTR/CRWV/POET short book after rotating from broad shorts into short-term bullish equities, while still treating BTC upside as capped until the STRC/MSTR overhang has a fix path. Latest June 23 quote refreshes his AI-equity rotation map: from GPU capex into CPU/memory for agentic AI, then vertical integrations, and eventually physical AI / Apple robotics supply chain. June 24 DRAM/MU post adds another execution-level memory/AI-equity example with stop range, risk percentage, earnings catalyst, and explicit invalidation. Latest June 24 follow-ups add process evidence after the DRAM/MU setup: he reviewed the MSTR/CRWV/POET short book, credited MSTR as the main driver, and stressed execution/hedging/stops, while also saying overnight SPCX/Anthropic IPO risk should be scaled down as event exposure changes. Late June 24 update adds MU/Micron as another event-driven AI-equity options setup and a fresh direct HYPE long, reinforcing his focus on high-beta AI/crypto expressions with explicit position expression. June 25 evidence sharpens the post-Warsh AI-equity map: DRAM/MU as bellwether alpha, CPU/agentic names as first-order beta, connectivity/photonics/neoclouds as second-order beta, 800VDC/power and AMPG-style exposure as later beneficiaries, with IGV/MSTR hedges and Friday inflation-expectations/PCE invalidation/confirmation. BB remains a repeated non-crypto equity/cybersecurity catalyst, not a crypto-project promotion. Latest June 25 evidence strengthens the event-driven AI-infrastructure equity style: he connected inflation-expectations timing, Apple AI-flation headlines, DRAM/MU as the alpha leg, and explicit stop discipline on DRAM calls into one catalyst trade. Latest June 26 evidence keeps the same book active into the catalyst: he corrected the inflation-expectations release time to 10am EST, estimated a 4.5-4.7% print range from WTI/yield divergences, and kept the primary invalidation as the print failing to come in soft. Latest June 26 reply-level evidence adds a defensive/process layer: after criticism of the inflation-expectations setup, he emphasized probabilistic EV, staged validation, reduced overnight leverage near a risk-asset top, and keeping the trade separate from a long-term marriage. Post-print update now closes that setup: he marked the inflation-expectations thesis invalidated after consensus data and exited, while clarifying that any remaining upside must come from a different driver. Late June 26 follow-up evidence makes the high-conviction hierarchy clearer: HYPE is the primary long-term crypto/infra allocation, BB is a robotics/RTOS equity compounder with a Q2 2027 target, and PURR is only tail convexity on the HYPE ecosystem. Latest June 27 evidence introduces a dated BTC accumulation thesis: possible bear-market bottom between now and October 6, with low/no leverage, TWAP/scaled orders, rate-hike/liquidity confluence, and explicit clarification that recent strength was equities + Hyperliquid rather than a broad crypto bull-market call. Latest June 27 follow-ups keep the BTC-window thesis source-close: he explicitly allowed further BTC downside, recommended four-month TWAPs/back-weighted scaling rather than leverage, and then compressed the view into a “four months away from a new dawn” crypto-cycle post. Latest June 28 evidence adds an explicit wealth-preservation layer: he says the primary job is not losing money, keeps most earned capital in a separate automated IBKR/tradfi portfolio of global ETFs/commodities/bonds with hard stops and factor limits, and treats crypto exposure as near-zero versus tradfi except Hyperliquid; this reframes the active trading book as the high-upside side of an 80/20 barbell rather than the whole net-worth strategy. Latest June 28 evidence shifts his AI-equity rotation focus toward robotics beta: he named BOT and CCXI as current watch items while keeping BB as the default/core robotics-RTOS exposure, and follow-up referenced waiting for Monday open to get LEAPs. June 29 replies extend the robotics rotation into ETF/closed-end-fund structure: he dislikes elevated mNAV/private-company accounting but still expects bid pressure from robotics mindshare and liquidity rotation. June 29 evidence updates the live tape from sector/process commentary into actual positioning: he posted a QQQ-gated bid basket (SOXL, BB, CCXI, BOT, HYPE, BTC, SOL), then clarified scaled/TWAP entries with built-in invalidations and SOXL as the MU/memory proxy. Latest June 29 evidence complicates the earlier STRC/MSTR-overhang caution: he aggressively bid STRC, compared a long-STRC setup to a prior-cycle GCR/LUNA asymmetry, praised an MSTR bottom call, and filled SPCX calls; treat as tactical risk-on execution, not a settled fundamental reversal. Latest June 29 capital-management thread makes the process layer explicit: he says thesis construction comes first, while position management is often executed through discretionary, hybrid, or fully systematic expression rather than manual babysitting. Late June 29 evidence adds a tactical risk-on breadth update: he bought SHAZ with SEC/private-placement filing context, bought EWY calls into the close, and described the tape as unusually broad and momentum-driven. June 30 reply clarifies the latest '2021 on steroids' tape read as stock-led, not a blanket crypto-euphoria call. June 30 BOT follow-through keeps the robotics-beta leg of the prior risk-on basket active, but it is logged as light execution evidence rather than a new standalone thesis. Latest June 30 evidence keeps the AI-equity/physical-AI tape active: BOT/robotics follow-through near $40 and a small-cap neocloud basket thesis around SHAZ/WYFI/BRUN, while a separate reply adds skepticism about trusting AI with finance tasks or code.",
     "likes": [
       {
         "theme": "AI agent harnesses and deterministic quality gates",
@@ -2375,6 +2380,24 @@
         "evidence_urls": [
           "https://x.com/MoneyPrinter0x/status/2071968750883180974"
         ]
+      },
+      {
+        "name": "BOT / RoboStrategy",
+        "handle": null,
+        "stance": "positive/trade follow-through",
+        "summary": "June 30 BOT/robotics trade follow-through: BOT touched the $39.50–$40 range after prior physical-AI/robotics attention. Treat as public-equity trade evidence, not a crypto project endorsement.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2072048696154558757"
+        ]
+      },
+      {
+        "name": "SHAZ/WYFI/BRUN neocloud basket",
+        "handle": null,
+        "stance": "positive/watchlist",
+        "summary": "June 30 neocloud basket thesis: SHAZ/WYFI/BRUN are framed as the smaller 1–2B market-cap neocloud names that could outperform larger 10–20B names over the next few weeks, conditional on no geopolitical shock or QQQ retrace.",
+        "evidence_urls": [
+          "https://x.com/MoneyPrinter0x/status/2072037244152828386"
+        ]
       }
     ],
     "people_respected": [
@@ -2446,7 +2469,10 @@
       "Track whether MoneyPrinter0x’s SHAZ/EWY/breadth burst becomes a sustained risk-on equity regime view or remains a single late-day momentum tape.",
       "Track whether MoneyPrinter0x's stock-led '2021 on steroids' tape continues to favor equities over broad crypto beta, despite the separate high-conviction Hyperliquid exception.",
       "Track whether MoneyPrinter0x keeps SHAZ as a neocloud/datacenter thesis or treats it as a short-lived filing/momentum trade.",
-      "Watch for any robotics-token exception that changes his current equities-over-robotics-tokens filter."
+      "Watch for any robotics-token exception that changes his current equities-over-robotics-tokens filter.",
+      "Track whether BOT/robotics equity follow-through becomes a durable physical-AI allocation theme or stays a one-day momentum trade.",
+      "Track whether MoneyPrinter0x validates or invalidates the SHAZ/WYFI/BRUN neocloud basket over the next few weeks.",
+      "Track whether his AI-agent workflow skepticism changes how he builds or trusts finance/code automation."
     ],
     "evidence_urls": [
       "https://x.com/MoneyPrinter0x/status/2065910048833102118",
@@ -2550,7 +2576,10 @@
       "https://x.com/MoneyPrinter0x/status/2071978682705752541",
       "https://x.com/MoneyPrinter0x/status/2071968750883180974",
       "https://x.com/MoneyPrinter0x/status/2071963022210531660",
-      "https://x.com/MoneyPrinter0x/status/2071931254698656034"
+      "https://x.com/MoneyPrinter0x/status/2071931254698656034",
+      "https://x.com/MoneyPrinter0x/status/2072048696154558757",
+      "https://x.com/MoneyPrinter0x/status/2072037244152828386",
+      "https://x.com/MoneyPrinter0x/status/2072040376878403880"
     ]
   },
   {
