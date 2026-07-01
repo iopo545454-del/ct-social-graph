@@ -1,5 +1,35 @@
 [
   {
+    "from": "airtightfish",
+    "to": "JTX",
+    "to_kind": "project",
+    "type": "authored_mention/smart_fill_trading_tool_review",
+    "date": "2026-07-01",
+    "url": "https://x.com/airtightfish/status/2072372145288605985",
+    "summary": "Tested JTX and highlighted smart fill as strong execution UX for onchain traders dealing with slippage and lower-liquidity assets.",
+    "quality": "medium",
+    "created_tier2_candidate": true,
+    "related_urls": [
+      "https://x.com/airtightfish/status/2072373703770251350",
+      "https://x.com/airtightfish/status/2072379435857125545"
+    ]
+  },
+  {
+    "from": "AustinBarack",
+    "to": "RobinhoodApp",
+    "to_kind": "project",
+    "type": "quote/mainstream_crypto_perps_channel",
+    "date": "2026-07-01",
+    "url": "https://x.com/AustinBarack/status/2072378551081353444",
+    "summary": "Quoted Robinhood’s crypto-event post and framed Robinhood as a major mainstream consumer-crypto distribution channel; follow-ups stressed perps as a priority.",
+    "quality": "medium",
+    "created_tier2_candidate": true,
+    "related_urls": [
+      "https://x.com/AustinBarack/status/2072387394133717201",
+      "https://x.com/AustinBarack/status/2072379203853464038"
+    ]
+  },
+  {
     "from": "AustinBarack",
     "to": "AskVenice",
     "to_kind": "project",

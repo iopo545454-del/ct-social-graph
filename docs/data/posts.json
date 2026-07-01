@@ -1,6 +1,77 @@
 [
   {
     "date": "2026-07-01",
+    "handle": "airtightfish",
+    "type": "authored_post/jtx_smart_fill_trading_tool_review",
+    "url": "https://x.com/airtightfish/status/2072372145288605985",
+    "summary": "Tested JTX and said the product was snappy; highlighted smart fill as the standout feature because it reflects how onchain traders handle lower-liquidity assets where small orders can move price materially.",
+    "entities": [
+      "JTX",
+      "smart fill",
+      "onchain trading",
+      "slippage",
+      "lower-liquidity tokens",
+      "trading UX",
+      "execution quality"
+    ],
+    "why_logged": "Product-quality evidence from airtightfish outside ProofMarkets: he is evaluating trader tooling by execution/slippage-aware UX rather than generic interface praise.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-01",
+    "handle": "AustinBarack",
+    "type": "quote/robinhood_perps_mainstream_crypto_channel",
+    "url": "https://x.com/AustinBarack/status/2072378551081353444",
+    "summary": "Quoted Robinhood’s crypto event and said Robinhood is one of the most important channels for mainstream crypto consumer growth because of its broad customer base and execution; follow-ups said the event was under-discussed and that Robinhood made perps a major priority.",
+    "entities": [
+      "Robinhood",
+      "perps",
+      "mainstream crypto adoption",
+      "consumer crypto",
+      "crypto brokerage",
+      "retail distribution"
+    ],
+    "why_logged": "Adds a new AustinBarack venue/distribution theme adjacent to AERO/Base and X Money: mainstream channels and perp products as consumer crypto adoption rails.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-01",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/neocloud_robotics_bubble_rotation_followup",
+    "url": "https://x.com/MoneyPrinter0x/status/2072415390601224421",
+    "summary": "Followed up that robotics is still alive while neoclouds need time to recover post-disruption; later comments said markets always need a bubble to chase and, when one pops, traders look for another.",
+    "entities": [
+      "robotics equities",
+      "neoclouds",
+      "bubble rotation",
+      "risk appetite",
+      "market breadth"
+    ],
+    "why_logged": "Useful source-close nuance: the Meta shock did not make him abandon the whole AI-equity tape, but it downgraded neocloud timing and kept robotics/bubble-rotation logic active.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-01",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/meta_neocloud_disruption_defensive_rotation",
+    "url": "https://x.com/MoneyPrinter0x/status/2072415025164120533",
+    "summary": "After the Zuckerberg/Meta compute shock, said he is parking passive capital in GOOGL/MSFT, called the event a genuine black-swan hit for future-earnings/neocloud-style trades, and framed double-removed future earnings as exposed to extra event surface.",
+    "entities": [
+      "Meta",
+      "Zuckerberg",
+      "GOOGL",
+      "MSFT",
+      "neoclouds",
+      "future earnings",
+      "passive capital",
+      "risk management",
+      "Mag7"
+    ],
+    "why_logged": "Material follow-through on his neocloud/AI-equity basket: after earlier bullish small-neocloud positioning, he shifted defensive and explicitly separated durable Mag7 parking from disrupted future-premium trades.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-07-01",
     "handle": "AustinBarack",
     "type": "quote/venice_series_a_hypergrowth_thesis",
     "url": "https://x.com/AustinBarack/status/2072348879283011767",
