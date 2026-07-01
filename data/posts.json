@@ -1,6 +1,97 @@
 [
   {
     "date": "2026-07-01",
+    "handle": "AustinBarack",
+    "type": "quote/venice_series_a_hypergrowth_thesis",
+    "url": "https://x.com/AustinBarack/status/2072348879283011767",
+    "summary": "Quoted Erik Voorhees' Venice $65M Series A / $1B valuation announcement and said Venice is shifting into hyper-growth mode; reiterated long-term VVV holder stance, 100MM+ user and $1B+ annual-revenue ambition, and consumer crypto+AI adoption framing.",
+    "entities": [
+      "AskVenice",
+      "Venice",
+      "VVV",
+      "Erik Voorhees",
+      "Dragonfly",
+      "Series A",
+      "consumer AI",
+      "private AI",
+      "AI revenue"
+    ],
+    "why_logged": "High-signal continuation of AustinBarack's repeated Venice/VVV thesis with a new financing/valuation catalyst and explicit long-term-holder framing.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-07-01",
+    "handle": "kelxyz_",
+    "type": "quote/pluralis_workshop_deep_alpha",
+    "url": "https://x.com/kelxyz_/status/2072356706760225148",
+    "summary": "Quoted Pluralis Workshop / ICLR material as 'some of the deepest alpha around,' pointing to collectively owned AI, distributed training, low-bandwidth parallelism, and unextractable models.",
+    "entities": [
+      "pluralis",
+      "Pluralis Workshop",
+      "ICLR",
+      "collectively owned AI",
+      "distributed training",
+      "low-bandwidth parallelism",
+      "unextractable models",
+      "decentralized AI"
+    ],
+    "why_logged": "Reinforces kelxyz_'s unusually high-conviction Pluralis/decentralized-training attention with a fresh educational/resource signal rather than a price post.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-07-01",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/neocloud_meta_structural_disruption",
+    "url": "https://x.com/MoneyPrinter0x/status/2072311830341664949",
+    "summary": "Argued Meta entering/dedicating compute to the neocloud sector structurally disrupts large future-growth-premium names like NBIS and CRWV; said smaller neoclouds had less to lose and the sector may bottom later, but valuation premiums should be shaken for a while.",
+    "entities": [
+      "Meta",
+      "neoclouds",
+      "NBIS",
+      "CRWV",
+      "AI datacenter capacity",
+      "future growth premiums",
+      "compute capacity",
+      "structural disruption"
+    ],
+    "why_logged": "Material update to MoneyPrinter0x's active neocloud basket/risk framework: the trade is now explicitly sensitive to hyperscaler/Meta competitive pressure, not just QQQ beta.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-07-01",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/nfp_derisk_relong_plan",
+    "url": "https://x.com/MoneyPrinter0x/status/2072323510916247955",
+    "summary": "Said the market would likely remain weak ahead of June nonfarm payrolls; derisked most longs, flipped short, and planned to cover/re-long into expected bottoms before the data event.",
+    "entities": [
+      "June NFP",
+      "nonfarm payrolls",
+      "risk management",
+      "derisking",
+      "short-term positioning",
+      "macro event trading"
+    ],
+    "why_logged": "Useful process evidence for his cross-asset trading style and event-window risk control; not a project thesis.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-01",
+    "handle": "MoneyPrinter0x",
+    "type": "quote/strc_btc_bond_wrapper_follow_through",
+    "url": "https://x.com/MoneyPrinter0x/status/2072349757788627438",
+    "summary": "Revisited STRC/MSTR exposure with 'at least the btc bond wrapper is still cooking $strc,' indicating the BTC-bond wrapper trade remains active in his tape despite broader market weakness.",
+    "entities": [
+      "STRC",
+      "MSTR",
+      "BTC bond wrapper",
+      "Bitcoin treasury equities",
+      "capital structure"
+    ],
+    "why_logged": "Light but source-close follow-through on his BTC-bond/capital-structure basket; store as attention/positioning evidence.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-01",
     "handle": "MoneyPrinter0x",
     "type": "quote/cross_asset_rotation_scorecard",
     "url": "https://x.com/MoneyPrinter0x/status/2072275704595845308",

@@ -1,5 +1,41 @@
 [
   {
+    "from": "AustinBarack",
+    "to": "AskVenice",
+    "to_kind": "project",
+    "type": "quote/series_a_hypergrowth_thesis",
+    "date": "2026-07-01",
+    "url": "https://x.com/AustinBarack/status/2072348879283011767",
+    "summary": "Quoted Venice's $65M Series A / $1B valuation announcement and reiterated long-term VVV holder conviction plus 100MM+ user and $1B+ annual revenue ambition.",
+    "quality": "high",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "kelxyz_",
+    "to": "pluralis",
+    "to_kind": "project",
+    "type": "quote/workshop_deep_alpha",
+    "date": "2026-07-01",
+    "url": "https://x.com/kelxyz_/status/2072356706760225148",
+    "summary": "Called Pluralis Workshop / ICLR content on collectively owned AI and distributed training 'some of the deepest alpha around,' reinforcing his Pluralis/decentralized-training focus.",
+    "quality": "high",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "PURR",
+    "to_kind": "project",
+    "type": "reply/mnav_advisory_fee_followup",
+    "date": "2026-07-01",
+    "url": "https://x.com/0xGeeGee/status/2072350945195831391",
+    "summary": "Clarified that PURR's structure is tied to price while advisory fees support a low-mNAV framing, extending his earlier caution on PURR financial mechanics.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/0xGeeGee/status/2072281031248330890"
+    ]
+  },
+  {
     "from": "0xGeeGee",
     "to": "ShiftProtocol_",
     "to_kind": "project",
