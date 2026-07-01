@@ -1,6 +1,96 @@
 [
   {
     "date": "2026-07-01",
+    "handle": "0xGeeGee",
+    "type": "authored_post/sonnet5_cost_performance_followup",
+    "url": "https://x.com/0xGeeGee/status/2072235855305990343",
+    "summary": "Followed up the Sonnet 5 test by asking what role the model serves if lower per-token price is offset by much higher token usage and if some benchmarks underperform Sonnet 4.6; framed the Sonnet family as squeezed by cheaper open-source/Chinese models.",
+    "entities": [
+      "Claude Sonnet 5",
+      "Anthropic",
+      "Sonnet 4.6",
+      "open-source models",
+      "Chinese models",
+      "token efficiency",
+      "AI model price-performance"
+    ],
+    "why_logged": "Concrete continuation of GeeGee's AI-model operations filter: cost per task and model lineup role matter more than nominal per-token pricing.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-01",
+    "handle": "MoneyPrinter0x",
+    "type": "quote/neocloud_basket_follow_through",
+    "url": "https://x.com/MoneyPrinter0x/status/2072208391574012149",
+    "summary": "Re-highlighted the SHAZ/WYFI/BRUN neocloud basket after prior posts arguing 1–2B market-cap AI datacenter names should outperform larger neoclouds in the current wave.",
+    "entities": [
+      "BRUN",
+      "WYFI",
+      "SHAZ",
+      "neoclouds",
+      "AI datacenter capacity",
+      "small-cap AI equities"
+    ],
+    "why_logged": "Light but useful follow-through on the repeated neocloud basket; not a new thesis, but confirms the basket remains live in his tape.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-01",
+    "handle": "MoneyPrinter0x",
+    "type": "quote/neocloud_risk_management_qqq_gate",
+    "url": "https://x.com/MoneyPrinter0x/status/2072197917398671412",
+    "summary": "Quoted the prior 'kingmaker' neocloud basket and stressed that QQQ performance over the next few days is the key gate; added 'manage risk, stay safu.'",
+    "entities": [
+      "QQQ",
+      "neoclouds",
+      "SHAZ",
+      "WYFI",
+      "BRUN",
+      "risk management",
+      "AI equities"
+    ],
+    "why_logged": "Adds source-close invalidation/risk-management context to the neocloud basket, keeping it as a QQQ-gated trade rather than unconditional conviction.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-01",
+    "handle": "coin_casanova",
+    "type": "authored_post/derive_options_growth_update",
+    "url": "https://x.com/coin_casanova/status/2072183830547677679",
+    "summary": "Updated the Derive/DRV onchain-options thesis: last month's growth looked healthy, weekly volume should be tracked into mid-July, options interest across tokens is increasing, and Derive v3 plus 0DTE/better retail UX could be game-changing.",
+    "entities": [
+      "Derive",
+      "DRV",
+      "onchain options",
+      "Derive v3",
+      "0DTE",
+      "retail UX",
+      "SynapseProtocol",
+      "weekly volume"
+    ],
+    "why_logged": "High-signal continuation of coin_casanova's DRV thesis with measurable follow-up variable and product-catalyst checklist.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-07-01",
+    "handle": "CryptoTomYT",
+    "type": "reply/opal_privacy_dex_preipo_perps_thesis",
+    "url": "https://x.com/i/status/2072187972452069804",
+    "summary": "In the pre-IPO perps discussion, said Opal could have major potential as an official privacy DEX for Coinbase/Base if paired with pre-IPO perps and proper fees.",
+    "entities": [
+      "Opal",
+      "Privacy DEX",
+      "Coinbase",
+      "Base",
+      "pre-IPO perps",
+      "Etched",
+      "Anthropic"
+    ],
+    "why_logged": "Adds the first concrete project/venue angle to CryptoTomYT's pre-IPO perps watch item; still one reply, so candidate-level only.",
+    "confidence": "low"
+  },
+  {
+    "date": "2026-07-01",
     "handle": "coin_casanova",
     "type": "reply/cards_catalyst_liquidity_update",
     "url": "https://x.com/coin_casanova/status/2072166419492708619",

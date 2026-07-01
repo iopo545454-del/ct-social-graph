@@ -1,5 +1,17 @@
 [
   {
+    "handle": "Opal",
+    "kind": "project",
+    "status": "candidate",
+    "source": "CryptoTomYT reply in pre-IPO perps thread",
+    "reason": "CryptoTomYT said Opal could have major potential as an official Privacy DEX for Coinbase/Base if paired with pre-IPO perps and proper fees. One project/venue thesis reply only, so candidate/mention-ledger rather than Tier 2.",
+    "evidence_urls": [
+      "https://x.com/i/status/2072187972452069804"
+    ],
+    "first_seen": "2026-07-01",
+    "confidence": "low"
+  },
+  {
     "handle": "Etched",
     "kind": "project",
     "status": "candidate",
