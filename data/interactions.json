@@ -1,5 +1,49 @@
 [
   {
+    "from": "0xGeeGee",
+    "to": "unknown_counterparty",
+    "to_kind": "individual",
+    "type": "reply/sonnet5_token_cost_caveat",
+    "date": "2026-06-30",
+    "url": "https://x.com/0xGeeGee/status/2072107149061181726",
+    "summary": "In an AI-model benchmarking discussion, clarified that Sonnet 5 gaps may be patched by externalization in lighter domains, but relative token cost is still the key issue.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "blknoiz06",
+    "to_kind": "individual",
+    "type": "quote/memecoin_market_structure_respect",
+    "date": "2026-06-30",
+    "url": "https://x.com/MoneyPrinter0x/status/2072073125991497772",
+    "summary": "Called blknoiz06's long memecoin thesis genuinely sharp and said the argument made sense enough that he wanted to bid despite being less active onchain.",
+    "quality": "medium",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "unknown_counterparty",
+    "to_kind": "individual",
+    "type": "reply/neocloud_basket_differentiation",
+    "date": "2026-06-30",
+    "url": "https://x.com/MoneyPrinter0x/status/2072060034645954718",
+    "summary": "Compared SHAZ/BRUN/WYFI within the neocloud basket, distinguishing SHAZ as the riskiest Leopold/1–2B neocloud levered bet, BRUN as more fundamentals-backed, and WYFI as between them.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "unknown_counterparty",
+    "to_kind": "individual",
+    "type": "reply/neocloud_beta_rotation_process",
+    "date": "2026-06-30",
+    "url": "https://x.com/MoneyPrinter0x/status/2072087941900570674",
+    "summary": "Said real-time beta rotation into 1–2B neoclouds matters more than retrofitted qualitative explanations, a useful process note for his SHAZ/WYFI/BRUN basket.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
     "from": "MoneyPrinter0x",
     "to": "unknown_counterparty",
     "to_kind": "individual",

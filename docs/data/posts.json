@@ -1,6 +1,146 @@
 [
   {
     "date": "2026-06-30",
+    "handle": "0xGeeGee",
+    "type": "authored_post/sonnet5_cost_performance_benchmark",
+    "url": "https://x.com/0xGeeGee/status/2072106894815092830",
+    "summary": "Tested Claude Sonnet 5 and found it surprisingly token-inefficient at max effort, underperforming relative to cost versus Fable, Opus 4.8, and GPT 5.5 on reasoning/knowledge tasks despite better Banking scores on Artificial Analysis.",
+    "entities": [
+      "Claude Sonnet 5",
+      "Anthropic",
+      "Fable",
+      "Opus 4.8",
+      "GPT 5.5",
+      "AI benchmarking",
+      "token efficiency",
+      "Artificial Analysis"
+    ],
+    "why_logged": "Extends GeeGee's AI-infra/tooling taste with a concrete price-performance benchmark rather than generic model hype.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-30",
+    "handle": "0xGeeGee",
+    "type": "reply/sonnet5_token_cost_caveat",
+    "url": "https://x.com/0xGeeGee/status/2072107149061181726",
+    "summary": "Followed up that some Sonnet 5 performance gaps can be filled via externalization, especially in lighter domains, but the relative token cost remains a real issue.",
+    "entities": [
+      "Claude Sonnet 5",
+      "token cost",
+      "externalization",
+      "AI model operations",
+      "model price-performance"
+    ],
+    "why_logged": "Useful qualifier: GeeGee is not simply fading Sonnet 5 quality, but treating cost/performance and task externalization as the core evaluation lens.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-30",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/neocloud_basket_q3_thesis",
+    "url": "https://x.com/MoneyPrinter0x/status/2072089478164840498",
+    "summary": "Restated the final neocloud basket SHAZ/WYFI/BRUN and argued 1–2B market-cap neoclouds should outperform 10–20B names this wave, with Anthropic IPO/SPCX/xAI unlock exposure but a possible Q3 AI-capex sentiment peak.",
+    "entities": [
+      "SHAZ",
+      "WYFI",
+      "BRUN",
+      "neoclouds",
+      "Anthropic IPO",
+      "SPCX",
+      "xAI unlocks",
+      "AI capex"
+    ],
+    "why_logged": "High-signal continuation of the AI-equity rotation map: named basket, relative size class, catalyst set, and sentiment-peak caveat.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-30",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/robotics_stack_filter",
+    "url": "https://x.com/MoneyPrinter0x/status/2072087336939360697",
+    "summary": "Compressed the robotics/physical-AI stack into lidars, actuators, humanoids, and QNX as the important exposures, calling most other robotics narratives noise.",
+    "entities": [
+      "robotics",
+      "physical AI",
+      "lidars",
+      "actuators",
+      "humanoids",
+      "QNX",
+      "BB"
+    ],
+    "why_logged": "Clarifies what he actually wants inside robotics beta after several BOT/BB/CCXI trade posts, preventing generic robotics over-reading.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-30",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/q3_robots_neocloud_crypto_bottom_window",
+    "url": "https://x.com/MoneyPrinter0x/status/2072087076045050084",
+    "summary": "Reiterated that crypto likely bottoms between now and October 6, 2026, but should be approached with TWAPs/scaled orders rather than exact timing; paired the framework with 'Q3: robots & neocloud'.",
+    "entities": [
+      "BTC",
+      "crypto bottom window",
+      "TWAP",
+      "scaled orders",
+      "robots",
+      "neoclouds",
+      "Q3"
+    ],
+    "why_logged": "Connects his BTC October-bottom process with the current equity-led robotics/neocloud risk-on focus.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-30",
+    "handle": "MoneyPrinter0x",
+    "type": "quote/memecoin_thesis_respect",
+    "url": "https://x.com/MoneyPrinter0x/status/2072073125991497772",
+    "summary": "Responded to blknoiz06's long memecoin thread by calling it genuinely sharp, saying the thesis makes sense and made him want to bid despite being less active onchain.",
+    "entities": [
+      "blknoiz06",
+      "memecoins",
+      "onchain trading",
+      "market structure",
+      "risk appetite"
+    ],
+    "why_logged": "A rare positive/respect edge toward a memecoin-market-structure source; keep as candidate-level because it is one interaction.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-30",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/neocloud_basket_differentiation",
+    "url": "https://x.com/MoneyPrinter0x/status/2072060034645954718",
+    "summary": "Compared SHAZ, BRUN, and WYFI: SHAZ is the riskiest and a leveraged bet on Leopold/1–2B neoclouds, BRUN has stronger fundamentals by market-cap-to-contracts, and WYFI sits in between with meaningful contracts.",
+    "entities": [
+      "SHAZ",
+      "BRUN",
+      "WYFI",
+      "neoclouds",
+      "contracts",
+      "Leopold Aschenbrenner",
+      "relative risk"
+    ],
+    "why_logged": "Adds useful intra-basket ranking and risk/fundamental distinctions inside the neocloud theme.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-30",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/neocloud_beta_rotation",
+    "url": "https://x.com/MoneyPrinter0x/status/2072087941900570674",
+    "summary": "Said market momentum is rotating into 1–2B neocloud names and that measuring real-time beta rotations can matter more than post-hoc qualitative explanations.",
+    "entities": [
+      "neoclouds",
+      "market momentum",
+      "beta rotation",
+      "small-cap AI equities",
+      "process"
+    ],
+    "why_logged": "Process evidence for why he is emphasizing SHAZ/WYFI/BRUN now: live beta rotation first, qualitative reasons second.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-06-30",
     "handle": "MoneyPrinter0x",
     "type": "reply/ai_tool_skepticism",
     "url": "https://x.com/MoneyPrinter0x/status/2072040376878403880",

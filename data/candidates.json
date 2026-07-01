@@ -1,5 +1,17 @@
 [
   {
+    "handle": "blknoiz06",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "MoneyPrinter0x quote/praise of memecoin market-structure thread",
+    "reason": "MoneyPrinter0x called blknoiz06's long memecoin thesis genuinely sharp and said it made him want to bid despite being less active onchain. One respect/market-structure edge only, so candidate rather than Tier 2.",
+    "evidence_urls": [
+      "https://x.com/MoneyPrinter0x/status/2072073125991497772"
+    ],
+    "first_seen": "2026-06-30",
+    "confidence": "low"
+  },
+  {
     "handle": "jvb_xyz",
     "kind": "individual",
     "status": "candidate",
@@ -41,13 +53,16 @@
     "kind": "project",
     "status": "candidate",
     "source": "MoneyPrinter0x SHAZ filing/private-placement position post",
-    "reason": "MoneyPrinter0x bought SHAZ and framed the setup through Leopold Aschenbrenner/13G/private-placement context; one tactical equity/ticker evidence point only, so keep as candidate/mention-ledger rather than Tier 2.",
+    "reason": "MoneyPrinter0x has repeated SHAZ/neocloud evidence: initial filing/private-placement post plus follow-up Anthropic/Leopold datacenter framing and final SHAZ/WYFI/BRUN basket. Still candidate because this is tactical equity evidence, not a crypto project/trader promotion.",
     "evidence_urls": [
       "https://x.com/MoneyPrinter0x/status/2071703521200943507",
-      "https://x.com/MoneyPrinter0x/status/2071707139505102889"
+      "https://x.com/MoneyPrinter0x/status/2071707139505102889",
+      "https://x.com/MoneyPrinter0x/status/2071968750883180974",
+      "https://x.com/MoneyPrinter0x/status/2072089478164840498",
+      "https://x.com/MoneyPrinter0x/status/2072060034645954718"
     ],
     "first_seen": "2026-06-29",
-    "confidence": "low"
+    "confidence": "medium"
   },
   {
     "handle": "XPL",
