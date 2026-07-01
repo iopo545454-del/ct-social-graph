@@ -1,5 +1,31 @@
 [
   {
+    "from": "0xGeeGee",
+    "to": "ShiftProtocol_",
+    "to_kind": "project",
+    "type": "reply/ltllp_weekly_update_positive",
+    "date": "2026-07-01",
+    "url": "https://x.com/0xGeeGee/status/2072278709231329772",
+    "summary": "Replied to Shift Protocol weekly update by saying he is an ltLLP enjoyer, reinforcing prior ltLLP/LIT wrapper usage/approval evidence.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "promoted_tier2": true,
+    "related_urls": [
+      "https://x.com/0xGeeGee/status/2066431399318708607"
+    ]
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "PURR",
+    "to_kind": "project",
+    "type": "reply/financial_structure_caution",
+    "date": "2026-07-01",
+    "url": "https://x.com/0xGeeGee/status/2072281031248330890",
+    "summary": "Warned that PURR is financially weird due to advisory fees and options, a concise caution on Hyperliquid-ecosystem relative-value structure.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
     "from": "CryptoTomYT",
     "to": "Opal",
     "to_kind": "project",

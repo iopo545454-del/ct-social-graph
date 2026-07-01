@@ -356,14 +356,16 @@
   {
     "handle": "ShiftProtocol_",
     "kind": "project",
-    "status": "candidate",
+    "status": "promoted_tier2",
     "source": "0xGeeGee ltLLP/LIT farming quote",
-    "reason": "GeeGee quoted Shift Protocol and described ltLLP as a useful farm for LIT exposure, but this is one evidence point so keep as candidate pending recurrence.",
+    "reason": "Promoted after repeated 0xGeeGee evidence: initial ltLLP/LIT cozy-farm quote plus July 1 reply to Shift weekly update saying he remains an ltLLP enjoyer.",
     "evidence_urls": [
-      "https://x.com/0xGeeGee/status/2066431399318708607"
+      "https://x.com/0xGeeGee/status/2066431399318708607",
+      "https://x.com/0xGeeGee/status/2072278709231329772"
     ],
     "first_seen": "2026-06-15",
-    "confidence": "low"
+    "confidence": "medium",
+    "promoted_at": "2026-07-01"
   },
   {
     "handle": "plumenetwork",

@@ -1,6 +1,97 @@
 [
   {
     "date": "2026-07-01",
+    "handle": "MoneyPrinter0x",
+    "type": "quote/cross_asset_rotation_scorecard",
+    "url": "https://x.com/MoneyPrinter0x/status/2072275704595845308",
+    "summary": "Posted a reflective scorecard of recent calls across HK equities, QQQ weakness, memory-to-robotics rotation, QNX, BTC bonds, and oil; reiterated that the current regime trades cross-asset/cross-sectional correlations more than isolated assets.",
+    "entities": [
+      "cross-asset correlations",
+      "cross-sectional rotation",
+      "HK equities",
+      "QQQ",
+      "memory-to-robotics rotation",
+      "QNX",
+      "BTC bonds",
+      "oil",
+      "capital-markets regime"
+    ],
+    "why_logged": "Useful synthesis of MoneyPrinter0x process: connects the recent robotics/neocloud/equity tape into his broader correlation/rotation framework rather than a single ticker call.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-01",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/robotics_equity_follow_through",
+    "url": "https://x.com/MoneyPrinter0x/status/2072296137986584974",
+    "summary": "Reposted “robot money” with screenshots showing BOT and CCXI strong intraday gains, following the prior robotics/physical-AI basket discussion and OUST/BOT/CCXI follow-through.",
+    "entities": [
+      "BOT",
+      "CCXI",
+      "OUST",
+      "robotics equities",
+      "physical AI",
+      "robot money",
+      "QNX-adjacent robotics rotation"
+    ],
+    "why_logged": "Light but useful follow-through that the robotics/physical-AI rotation remained active after the June 30 basket; store as price-action/attention evidence, not a fundamental project thesis.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-01",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/ubtech_fundamental_diligence",
+    "url": "https://x.com/MoneyPrinter0x/status/2072257771827830989",
+    "summary": "Asked Grok for an eight-quarter UBTech valuation table covering EPS, revenue, P/E, PEG, P/S, and revenue-growth details; a later reply repeated the request more compactly.",
+    "entities": [
+      "UBTech",
+      "UBTECH Robotics",
+      "robotics equities",
+      "valuation metrics",
+      "EPS",
+      "revenue growth",
+      "P/E",
+      "PEG",
+      "P/S"
+    ],
+    "why_logged": "Adds diligence evidence inside the robotics rotation: he is checking fundamentals/valuation rather than only chasing screenshots.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-01",
+    "handle": "0xGeeGee",
+    "type": "reply/shift_ltllp_weekly_update",
+    "url": "https://x.com/0xGeeGee/status/2072278709231329772",
+    "summary": "Replied to Shift Protocol’s weekly update by saying that while extra points help non-directional perp-DEX users, he is an “ltLLP enjoyer,” reinforcing prior positive ltLLP/LIT wrapper evidence.",
+    "entities": [
+      "ShiftProtocol_",
+      "Shift Protocol",
+      "ltLLP",
+      "LIT",
+      "perp DEX points",
+      "managed DeFi wrappers"
+    ],
+    "why_logged": "Second clear GeeGee evidence point for Shift/ltLLP, enough to promote ShiftProtocol_ from candidate to tracked Tier 2 project while keeping stance source-close.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-01",
+    "handle": "0xGeeGee",
+    "type": "reply/purr_financial_structure_caution",
+    "url": "https://x.com/0xGeeGee/status/2072281031248330890",
+    "summary": "Warned that PURR is financially weird because of advisory fees and options, adding a cautious Hyperliquid-ecosystem relative-value note.",
+    "entities": [
+      "PURR",
+      "Hyperliquid ecosystem",
+      "advisory fees",
+      "options",
+      "relative value"
+    ],
+    "why_logged": "Concise but useful risk/caution edge around a repeated Hyperliquid ecosystem asset; keep as analytical, not a broad HYPE fade.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-01",
     "handle": "0xGeeGee",
     "type": "authored_post/sonnet5_cost_performance_followup",
     "url": "https://x.com/0xGeeGee/status/2072235855305990343",
