@@ -1,5 +1,27 @@
 [
   {
+    "from": "coin_casanova",
+    "to": "unknown_counterparty",
+    "to_kind": "individual",
+    "type": "reply/robotics_china_beta_diligence",
+    "date": "2026-07-01",
+    "url": "https://x.com/coin_casanova/status/2072166934284771583",
+    "summary": "In a robotics thesis thread, asked whether the setup also requires Chinese stocks becoming investable again and whether BABA weakness implies the thesis is China-beta rather than robotics-specific.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "CryptoTomYT",
+    "to": "unknown_counterparty",
+    "to_kind": "individual",
+    "type": "reply/pre_ipo_perps_project_correction",
+    "date": "2026-07-01",
+    "url": "https://x.com/CryptoTomYT/status/2072153326909628716",
+    "summary": "Corrected a pre-IPO perps discussion by distinguishing Anthropic exposure from Etched exposure.",
+    "quality": "low",
+    "created_tier2_candidate": false
+  },
+  {
     "from": "0xGeeGee",
     "to": "unknown_counterparty",
     "to_kind": "individual",

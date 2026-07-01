@@ -2,9 +2,9 @@
   {
     "handle": "coin_casanova",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-30",
-    "profile_updated_at": "2026-06-30T16:02:41Z",
-    "taste_summary": "Observed X/Twitter evidence shows a short-horizon trader focused on low-float/FDV-style setups, hedging, rotation, options, and relative-value framing between crypto and equities. Interpretation confidence is medium because the scan found several original posts but few substantive replies. Latest June 24 CARDS/Collector Crypt post adds a more fundamental project-analysis mode: he can like an illiquid token setup while still requiring tokenholder accrual proof, better liquidity/volume, and cleaner technical support before chasing. Later June 24 follow-ups add a relative AI-token vehicle filter: fade crowded VVV/news-pump behavior, watch whether POD has real substance, and prefer GRASS as a near-term AI/data-token trade into a July catalyst. Latest June 27 evidence extends the GRASS/POD AI-token vehicle filter: he compared GRASS with XPL and framed GRASS as a surprise-heavy July-call/earnings-style catalyst while XPL depends more on locked-supply tracking. June 28 reply-level evidence extends the Derive/options thesis: he defended DRV as fair/slightly undervalued through options-volume growth, real usage, and higher buyback share, while stressing small initial sizing and volume-confirmed scale-up. Latest June 28 CARDS update shifts the near-term read toward reset/risk management: he still tracks Collector Crypt fundamentals, but says the trend needs time/price/volatility to transfer supply to stronger hands and explicitly prioritizes mental health over holding large losses. Latest June 29 CARDS update keeps Collector Crypt active but not chaseable: he argues AI-slop bearish takes are late/low-quality, repeats the real diligence variables (gacha growth, buybacks/value accrual, whale dilution, P2P volume, OTC absorption), and still wants a short-term reset.",
+    "period_end": "2026-07-01",
+    "profile_updated_at": "2026-07-01T04:15:00Z",
+    "taste_summary": "Observed X/Twitter evidence shows a short-horizon trader focused on low-float/FDV-style setups, hedging, rotation, options, and relative-value framing between crypto and equities. Interpretation confidence is medium because the scan found several original posts but few substantive replies. Latest June 24 CARDS/Collector Crypt post adds a more fundamental project-analysis mode: he can like an illiquid token setup while still requiring tokenholder accrual proof, better liquidity/volume, and cleaner technical support before chasing. Later June 24 follow-ups add a relative AI-token vehicle filter: fade crowded VVV/news-pump behavior, watch whether POD has real substance, and prefer GRASS as a near-term AI/data-token trade into a July catalyst. Latest June 27 evidence extends the GRASS/POD AI-token vehicle filter: he compared GRASS with XPL and framed GRASS as a surprise-heavy July-call/earnings-style catalyst while XPL depends more on locked-supply tracking. June 28 reply-level evidence extends the Derive/options thesis: he defended DRV as fair/slightly undervalued through options-volume growth, real usage, and higher buyback share, while stressing small initial sizing and volume-confirmed scale-up. Latest June 28 CARDS update shifts the near-term read toward reset/risk management: he still tracks Collector Crypt fundamentals, but says the trend needs time/price/volatility to transfer supply to stronger hands and explicitly prioritizes mental health over holding large losses. Latest June 29 CARDS update keeps Collector Crypt active but not chaseable: he argues AI-slop bearish takes are late/low-quality, repeats the real diligence variables (gacha growth, buybacks/value accrual, whale dilution, P2P volume, OTC absorption), and still wants a short-term reset. Latest July 1 CARDS reply reinforced the same discipline: much is priced in and new catalyst/liquidity is needed. A separate robotics reply shows him checking whether a trade is really China-equity beta rather than the headline robotics narrative.",
     "likes": [
       {
         "theme": "Low-float speculative setups with clear leaders",
@@ -51,11 +51,20 @@
       },
       {
         "theme": "Project analysis with tokenholder-accrual and liquidity discipline",
-        "summary": "CARDS/Collector Crypt read combined fundamental growth, tokenholder value accrual, whale/OTC/liquidity mechanics, and chart support rather than only price momentum. June 28 CARDS follow-up adds near-term discipline: wait for a fuller trend reset and cleaner support rather than holding large drawdowns through volatility. June 29 update kept the same framework active: he pushed back on low-quality AI-bearish summaries while re-listing the operational/value-accrual variables and still requiring near-term chart reset discipline.",
+        "summary": "CARDS/Collector Crypt read combined fundamental growth, tokenholder value accrual, whale/OTC/liquidity mechanics, and chart support rather than only price momentum. June 28 CARDS follow-up adds near-term discipline: wait for a fuller trend reset and cleaner support rather than holding large drawdowns through volatility. June 29 update kept the same framework active: he pushed back on low-quality AI-bearish summaries while re-listing the operational/value-accrual variables and still requiring near-term chart reset discipline. Latest July 1 reply tightened the condition further: a lot is priced in, so new catalyst/liquidity is needed.",
         "evidence_urls": [
           "https://x.com/coin_casanova/status/2069649318982885840",
           "https://x.com/coin_casanova/status/2071259149674168528",
-          "https://x.com/coin_casanova/status/2071604817055875463"
+          "https://x.com/coin_casanova/status/2071604817055875463",
+          "https://x.com/coin_casanova/status/2072166419492708619"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "theme": "Attribution checks before buying sector narratives",
+        "summary": "In a robotics discussion, asked whether the thesis depends on Chinese stocks becoming investable again and whether BABA weakness means the trade is China-related rather than robotics-specific.",
+        "evidence_urls": [
+          "https://x.com/coin_casanova/status/2072166934284771583"
         ],
         "confidence": "medium"
       }
@@ -140,13 +149,14 @@
         "name": "CARDS",
         "handle": "Collector_Crypt",
         "stance": "positive/watchlist but waiting for reset",
-        "summary": "Earlier treated CARDS price action as climbing a wall of worry; June 24 follow-up gave a fuller constructive-but-disciplined Collector Crypt analysis around gacha/P2P marketplace growth, buybacks/burns, tokenholder accrual proof, OTC absorption risk, and need for a short-term reset before chasing. June 28 update says the chart/setup needs a full trend reset and better support, with risk management/mental health prioritized over bagholding. June 29 follow-up says AI-slop bearish takes are late, but still frames CARDS as needing a short-term reset while tracking gacha growth, buybacks/value accrual, whale dilution, P2P marketplace volume, and OTC absorption risk.",
+        "summary": "Earlier treated CARDS price action as climbing a wall of worry; June 24 follow-up gave a fuller constructive-but-disciplined Collector Crypt analysis around gacha/P2P marketplace growth, buybacks/burns, tokenholder accrual proof, OTC absorption risk, and need for a short-term reset before chasing. June 28 update says the chart/setup needs a full trend reset and better support, with risk management/mental health prioritized over bagholding. June 29 follow-up says AI-slop bearish takes are late, but still frames CARDS as needing a short-term reset while tracking gacha growth, buybacks/value accrual, whale dilution, P2P marketplace volume, and OTC absorption risk. July 1 reply says much is priced in and the next constructive update needs new catalyst/liquidity.",
         "evidence_urls": [
           "https://x.com/coin_casanova/status/2065980497793318928",
           "https://x.com/coin_casanova/status/2069649318982885840",
           "https://x.com/coin_casanova/status/2071259149674168528",
           "https://x.com/coin_casanova/status/2071604817055875463",
-          "https://x.com/coin_casanova/status/2071601472253644997"
+          "https://x.com/coin_casanova/status/2071601472253644997",
+          "https://x.com/coin_casanova/status/2072166419492708619"
         ]
       },
       {
@@ -184,7 +194,8 @@
       "Track whether XPL recurs as a coin_casanova float/unlock setup or remains a one-off comparison against GRASS.",
       "Track whether coin_casanova keeps updating DRV/Derive sizing based on onchain options volume and buyback changes, or whether this remains one follow-up to the original June 6 position thread.",
       "Track whether coin_casanova re-enters/updates CARDS after the requested time-price-volatility trend reset, or whether the project fades from his active watchlist.",
-      "Track whether coin_casanova keeps using CARDS updates to separate low-quality AI-generated criticism from real tokenholder-accrual/liquidity diligence, or whether attention fades after the reset."
+      "Track whether coin_casanova keeps using CARDS updates to separate low-quality AI-generated criticism from real tokenholder-accrual/liquidity diligence, or whether attention fades after the reset.",
+      "Track whether coin_casanova's robotics/China-equity beta question becomes a repeated filter for physical-AI trades or remains one reply."
     ],
     "evidence_urls": [
       "https://x.com/coin_casanova/status/2065438838546477385",
@@ -204,7 +215,9 @@
       "https://x.com/coin_casanova/status/2071060395075531026",
       "https://x.com/coin_casanova/status/2071259149674168528",
       "https://x.com/coin_casanova/status/2071604817055875463",
-      "https://x.com/coin_casanova/status/2071601472253644997"
+      "https://x.com/coin_casanova/status/2071601472253644997",
+      "https://x.com/coin_casanova/status/2072166419492708619",
+      "https://x.com/coin_casanova/status/2072166934284771583"
     ]
   },
   {
@@ -1480,9 +1493,9 @@
   {
     "handle": "CryptoTomYT",
     "period_start": "2026-05-14",
-    "period_end": "2026-06-30",
-    "profile_updated_at": "2026-06-30T16:02:41Z",
-    "taste_summary": "Observed X/Twitter evidence is mostly trading-performance/social content, now with repeated public Legend Trade performance context and explicit style comments: mostly not trading onchain, more long equities / short crypto. Interpretation confidence remains medium-low because most non-performance replies are terse. Latest June 23 quote adds process color: he agrees with screen-time/pattern-recognition as the durable source of discretionary trading intuition. Latest June 26 Multicoin/HYPE valuation reaction adds a more explicit Hyperliquid fundamental-valuation touchpoint: skeptical of $689 HYPE / $8B ARR assumptions, but acknowledges the upside scenario would be dramatic if it plays out. June 27 terse Hyperliquid post adds another light attention point after the prior valuation-reaction post, but still lacks a detailed HYPE thesis.",
+    "period_end": "2026-07-01",
+    "profile_updated_at": "2026-07-01T04:15:00Z",
+    "taste_summary": "Observed X/Twitter evidence is mostly trading-performance/social content, now with repeated public Legend Trade performance context and explicit style comments: mostly not trading onchain, more long equities / short crypto. Interpretation confidence remains medium-low because most non-performance replies are terse. Latest June 23 quote adds process color: he agrees with screen-time/pattern-recognition as the durable source of discretionary trading intuition. Latest June 26 Multicoin/HYPE valuation reaction adds a more explicit Hyperliquid fundamental-valuation touchpoint: skeptical of $689 HYPE / $8B ARR assumptions, but acknowledges the upside scenario would be dramatic if it plays out. June 27 terse Hyperliquid post adds another light attention point after the prior valuation-reaction post, but still lacks a detailed HYPE thesis. July 1 Etched/pre-IPO perps post adds a terse listing-catalyst watch item: interest remains venue/perps driven, with private AI-company exposure as the object.",
     "likes": [
       {
         "theme": "Transparent perps/trading performance",
@@ -1570,6 +1583,16 @@
           "https://x.com/CryptoTomYT/status/2066562689514774622",
           "https://x.com/CryptoTomYT/status/2067867313660117014"
         ]
+      },
+      {
+        "name": "Etched / pre-IPO perps",
+        "handle": null,
+        "stance": "watching listing catalyst",
+        "summary": "Said the first perps exchange to list pre-IPO Etched perps would likely pump; then corrected a related reply that a separate exposure was Anthropic rather than Etched. Low-context but useful for private-AI/perps venue watchlist.",
+        "evidence_urls": [
+          "https://x.com/CryptoTomYT/status/2072127570816983337",
+          "https://x.com/CryptoTomYT/status/2072153326909628716"
+        ]
       }
     ],
     "people_respected": [],
@@ -1582,7 +1605,8 @@
       "Need authored strategy posts or longer replies to avoid inferring too much from PnL/social context.",
       "Check whether Tradexyz/Hyperliquid/Legend Trade mentions are durable venue preferences or just public results threads.",
       "Track whether long-equities/short-crypto becomes a durable CryptoTomYT style shift or just a current competition-period framing.",
-      "Track whether CryptoTomYT develops a fuller HYPE/Hyperliquid fundamental view or remains at quick reactions to external valuation reports."
+      "Track whether CryptoTomYT develops a fuller HYPE/Hyperliquid fundamental view or remains at quick reactions to external valuation reports.",
+      "Track whether CryptoTomYT's pre-IPO AI perps interest turns into repeated venue/project evidence or remains a one-off Etched/Anthropic listing-catalyst comment."
     ],
     "evidence_urls": [
       "https://x.com/CryptoTomYT/status/2065238474907607090",
@@ -1595,7 +1619,9 @@
       "https://x.com/CryptoTomYT/status/2067868039526445438",
       "https://x.com/CryptoTomYT/status/2069473889193779263",
       "https://x.com/CryptoTomYT/status/2070298040506732801",
-      "https://x.com/CryptoTomYT/status/2070669003849076840"
+      "https://x.com/CryptoTomYT/status/2070669003849076840",
+      "https://x.com/CryptoTomYT/status/2072127570816983337",
+      "https://x.com/CryptoTomYT/status/2072153326909628716"
     ]
   },
   {

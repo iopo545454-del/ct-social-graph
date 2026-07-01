@@ -1,5 +1,69 @@
 [
   {
+    "date": "2026-07-01",
+    "handle": "coin_casanova",
+    "type": "reply/cards_catalyst_liquidity_update",
+    "url": "https://x.com/coin_casanova/status/2072166419492708619",
+    "summary": "Updated the CARDS/Collector Crypt read by saying a lot is already priced in and new catalyst/liquidity is needed, reinforcing his earlier wait-for-reset discipline rather than blind project enthusiasm.",
+    "entities": [
+      "CARDS",
+      "Collector Crypt",
+      "catalyst",
+      "liquidity",
+      "trend reset",
+      "risk management"
+    ],
+    "why_logged": "Source-close follow-up to the existing CARDS watchlist thesis; useful because it sharpens the condition for re-engagement.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-01",
+    "handle": "coin_casanova",
+    "type": "reply/robotics_china_equity_diligence",
+    "url": "https://x.com/coin_casanova/status/2072166934284771583",
+    "summary": "Questioned whether a robotics thesis also depends on the market viewing Chinese stocks as investable again, noting BABA weakness and asking if the setup is more China-related than robotics-specific.",
+    "entities": [
+      "robotics",
+      "Chinese equities",
+      "BABA",
+      "investability",
+      "sector attribution"
+    ],
+    "why_logged": "Adds a diligence/process note: he is separating sector narrative from country/equity-market beta rather than accepting robotics framing at face value.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-01",
+    "handle": "CryptoTomYT",
+    "type": "authored_post/pre_ipo_perps_listing_thesis",
+    "url": "https://x.com/CryptoTomYT/status/2072127570816983337",
+    "summary": "Said the first perps exchange to list pre-IPO Etched perps is likely to pump, a terse but concrete venue/listing-catalyst watch item tied to private AI-company exposure.",
+    "entities": [
+      "Etched",
+      "pre-IPO perps",
+      "perps exchange",
+      "AI private markets",
+      "listing catalyst"
+    ],
+    "why_logged": "Useful continuation of CryptoTomYT's venue/perps attention beyond public PnL screenshots; low-context but project/venue-specific.",
+    "confidence": "low"
+  },
+  {
+    "date": "2026-07-01",
+    "handle": "CryptoTomYT",
+    "type": "reply/pre_ipo_perps_project_correction",
+    "url": "https://x.com/CryptoTomYT/status/2072153326909628716",
+    "summary": "Corrected a reply by saying the referenced exposure was Anthropic, not Etched, keeping the pre-IPO perps thread specific about which AI private-company exposure is being discussed.",
+    "entities": [
+      "Anthropic",
+      "Etched",
+      "pre-IPO perps",
+      "private AI exposure"
+    ],
+    "why_logged": "Small but useful precision note for the new pre-IPO perps/project-exposure watch item.",
+    "confidence": "low"
+  },
+  {
     "date": "2026-06-30",
     "handle": "0xGeeGee",
     "type": "authored_post/sonnet5_cost_performance_benchmark",

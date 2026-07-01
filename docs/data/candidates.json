@@ -1,5 +1,18 @@
 [
   {
+    "handle": "Etched",
+    "kind": "project",
+    "status": "candidate",
+    "source": "CryptoTomYT pre-IPO perps listing-catalyst post",
+    "reason": "CryptoTomYT said the first perps exchange to list pre-IPO Etched perps would likely pump; one terse venue/listing-catalyst mention only, so keep as low-confidence candidate/mention-ledger item.",
+    "evidence_urls": [
+      "https://x.com/CryptoTomYT/status/2072127570816983337",
+      "https://x.com/CryptoTomYT/status/2072153326909628716"
+    ],
+    "first_seen": "2026-07-01",
+    "confidence": "low"
+  },
+  {
     "handle": "blknoiz06",
     "kind": "individual",
     "status": "candidate",
