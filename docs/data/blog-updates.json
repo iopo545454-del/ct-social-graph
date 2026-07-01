@@ -1,6 +1,6 @@
 {
-  "last_checked": "2026-07-01T16:50:37Z",
-  "new_count": 1,
+  "last_checked": "2026-07-01T20:54:58Z",
+  "new_count": 12,
   "sources": [
     {
       "name": "a16z crypto",
@@ -63,7 +63,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-01T16:50:33Z"
+      "checked_at": "2026-07-01T20:54:54Z"
     },
     {
       "name": "Multicoin Capital",
@@ -138,7 +138,7 @@
           "published": "Thu, 02 Oct 2025 00:00:00 GMT"
         }
       ],
-      "checked_at": "2026-07-01T16:50:34Z"
+      "checked_at": "2026-07-01T20:54:55Z"
     },
     {
       "name": "Pantera Blockchain Letter",
@@ -203,7 +203,7 @@
           "published": "Mon, 30 Jun 2025 14:48:37 +0000"
         }
       ],
-      "checked_at": "2026-07-01T16:50:35Z"
+      "checked_at": "2026-07-01T20:54:56Z"
     },
     {
       "name": "Paradigm",
@@ -211,62 +211,72 @@
       "source_url": "https://www.paradigm.xyz/writing",
       "final_url": "https://www.paradigm.xyz/writing",
       "status": 200,
-      "page_title": "Writing",
+      "page_title": "Writing | Paradigm",
       "error": null,
       "feed_urls": [],
       "items": [
         {
-          "title": "Introducing the 2026 Paradigm Fellowship",
-          "url": "https://www.paradigm.xyz/2026/04/introducing-the-2026-paradigm-fellowship",
+          "title": "2026-02-18 Introducing EVMbench",
+          "url": "https://www.paradigm.xyz/writing/evmbench",
           "published": null
         },
         {
-          "title": "Paradigm Predictions is a tool for exploring the landscape of prediction markets. We aim to make prediction market data intuitive, accessibl",
-          "url": "https://www.paradigm.xyz/2026/02/introducing-paradigm-predictions",
+          "title": "2026-04-20 Introducing the 2026 Paradigm Fellowship",
+          "url": "https://www.paradigm.xyz/writing/introducing-the-2026-paradigm-fellowship",
           "published": null
         },
         {
-          "title": "Paradigm Backs Kalshi in Latest Prediction Market Challenge",
-          "url": "https://www.paradigm.xyz/2026/06/paradigm-backs-kalshi-in-latest-prediction-market-challenge",
+          "title": "Kalshi In Latest Prediction Market Challenge 2026-06-24 Paradigm Backs Kalshi in Latest Prediction Market Challenge",
+          "url": "https://www.paradigm.xyz/writing/paradigm-backs-kalshi-in-latest-prediction-market-challenge",
           "published": null
         },
         {
-          "title": "Paradigm is now the steward of the solution to Kryptos, one of the last great cryptography puzzles \u2014 but it's a secret, even to us. Now we\u2019r",
-          "url": "https://www.paradigm.xyz/2026/06/kryptos",
+          "title": "2025-09-04 Tempo: The Blockchain Designed for Payments",
+          "url": "https://www.paradigm.xyz/writing/tempo-payments-first-blockchain",
           "published": null
         },
         {
-          "title": "Paradigm Files Comment Letter on the FDIC\u2019s GENIUS Act Stablecoin Rulemaking",
-          "url": "https://www.paradigm.xyz/2026/06/paradigm-files-comment-letter-on-the-fdic-s-genius-act-stablecoin-rulemaking",
+          "title": "2026-06-12 Project Kryptos",
+          "url": "https://www.paradigm.xyz/writing/kryptos",
           "published": null
         },
         {
-          "title": "Stablecoins are Global - Paradigm\u2019s Response to FCA 26/13",
-          "url": "https://www.paradigm.xyz/2026/06/stablecoins-are-global-paradigm-s-response-to-fca-26-13",
+          "title": "Centaur 2026-05-21 Open Sourcing Centaur: Multiplayer, self-hosted, secure agents",
+          "url": "https://www.paradigm.xyz/writing/open-sourcing-centaur-multiplayer-self-hosted-secure-agents",
           "published": null
         },
         {
-          "title": "Paradigm raises critical issues on pivotal stablecoin rulemaking",
-          "url": "https://www.paradigm.xyz/2026/06/paradigm-files-comment-letter-on-treasury-s-genius-state-pathway-rulemaking",
+          "title": "2026-05-01 PACTs: Protecting Your Bitcoin From a Quantum Sunset",
+          "url": "https://www.paradigm.xyz/writing/pacts-protecting-your-bitcoin-from-a-quantum-sunset",
           "published": null
         },
         {
-          "title": "Paradigm and Tempo open source Centaur, a Slack-native multiplayer, self-hosted and secure agent for investing, building, and researching.",
-          "url": "https://www.paradigm.xyz/2026/05/open-sourcing-centaur-multiplayer-self-hosted-secure-agents",
+          "title": "2026-02-04 Introducing Paradigm Predictions",
+          "url": "https://www.paradigm.xyz/writing/introducing-paradigm-predictions",
           "published": null
         },
         {
-          "title": "Paradigm raises critical issues on pivotal stablecoin rulemaking",
-          "url": "https://www.paradigm.xyz/2026/05/paradigm-files-comment-letter-on-the-occ-s-genius-rulemaking",
+          "title": "2025-12-08 Polymarket Volume Is Being Double-Counted",
+          "url": "https://www.paradigm.xyz/writing/polymarket-volume-is-being-double-counted",
           "published": null
         },
         {
-          "title": "PACTs: Protecting Your Bitcoin From a Quantum Sunset",
-          "url": "https://www.paradigm.xyz/2026/05/pacts-protecting-your-bitcoin-from-a-quantum-sunset",
+          "title": "2025-08-18 Opportunity Markets",
+          "url": "https://www.paradigm.xyz/writing/opportunity-markets",
+          "published": null
+        },
+        {
+          "title": "2025-06-12 Quantum Markets",
+          "url": "https://www.paradigm.xyz/writing/quantum-markets",
+          "published": null
+        },
+        {
+          "title": "2025-06-02 Orbital",
+          "url": "https://www.paradigm.xyz/writing/orbital",
           "published": null
         }
       ],
-      "checked_at": "2026-07-01T16:50:35Z"
+      "checked_at": "2026-07-01T20:54:57Z"
     },
     {
       "name": "Glassnode Research",
@@ -341,7 +351,7 @@
           "published": "Wed, 24 Jun 2026 13:00:00 GMT"
         }
       ],
-      "checked_at": "2026-07-01T16:50:36Z"
+      "checked_at": "2026-07-01T20:54:57Z"
     },
     {
       "name": "Delphi Digital",
@@ -364,7 +374,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-01T16:50:36Z"
+      "checked_at": "2026-07-01T20:54:57Z"
     },
     {
       "name": "Electric Capital",
@@ -376,7 +386,7 @@
       "error": null,
       "feed_urls": [],
       "items": [],
-      "checked_at": "2026-07-01T16:50:36Z"
+      "checked_at": "2026-07-01T20:54:57Z"
     },
     {
       "name": "Bankless",
@@ -449,7 +459,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-01T16:50:37Z"
+      "checked_at": "2026-07-01T20:54:58Z"
     },
     {
       "name": "Token Terminal",
@@ -522,7 +532,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-01T16:50:37Z"
+      "checked_at": "2026-07-01T20:54:58Z"
     }
   ],
   "articles": [
@@ -847,103 +857,123 @@
       "source_url": "https://panteracapital.com/blockchain-letter/"
     },
     {
-      "id": "70c883b55147",
+      "id": "9ffacf43bf7e",
       "source": "Paradigm",
       "tier": 1,
-      "title": "Introducing the 2026 Paradigm Fellowship",
-      "url": "https://www.paradigm.xyz/2026/04/introducing-the-2026-paradigm-fellowship",
+      "title": "2026-02-18 Introducing EVMbench",
+      "url": "https://www.paradigm.xyz/writing/evmbench",
       "published": null,
-      "first_seen": "2026-06-14T20:08:30Z",
+      "first_seen": "2026-07-01T20:54:58Z",
       "source_url": "https://www.paradigm.xyz/writing"
     },
     {
-      "id": "ba30af1b2e61",
+      "id": "92bf672e7f1b",
       "source": "Paradigm",
       "tier": 1,
-      "title": "Paradigm Predictions is a tool for exploring the landscape of prediction markets. We aim to make prediction market data intuitive, accessibl",
-      "url": "https://www.paradigm.xyz/2026/02/introducing-paradigm-predictions",
+      "title": "2026-04-20 Introducing the 2026 Paradigm Fellowship",
+      "url": "https://www.paradigm.xyz/writing/introducing-the-2026-paradigm-fellowship",
       "published": null,
-      "first_seen": "2026-06-14T20:08:30Z",
+      "first_seen": "2026-07-01T20:54:58Z",
       "source_url": "https://www.paradigm.xyz/writing"
     },
     {
-      "id": "60f9107dd866",
+      "id": "86145c21cd6c",
       "source": "Paradigm",
       "tier": 1,
-      "title": "Paradigm Backs Kalshi in Latest Prediction Market Challenge",
-      "url": "https://www.paradigm.xyz/2026/06/paradigm-backs-kalshi-in-latest-prediction-market-challenge",
+      "title": "Kalshi In Latest Prediction Market Challenge 2026-06-24 Paradigm Backs Kalshi in Latest Prediction Market Challenge",
+      "url": "https://www.paradigm.xyz/writing/paradigm-backs-kalshi-in-latest-prediction-market-challenge",
       "published": null,
-      "first_seen": "2026-06-24T23:39:40Z",
+      "first_seen": "2026-07-01T20:54:58Z",
       "source_url": "https://www.paradigm.xyz/writing"
     },
     {
-      "id": "e91e58fd3d1d",
+      "id": "6ac282f67bdd",
       "source": "Paradigm",
       "tier": 1,
-      "title": "Paradigm is now the steward of the solution to Kryptos, one of the last great cryptography puzzles \u2014 but it's a secret, even to us. Now we\u2019r",
-      "url": "https://www.paradigm.xyz/2026/06/kryptos",
+      "title": "2025-09-04 Tempo: The Blockchain Designed for Payments",
+      "url": "https://www.paradigm.xyz/writing/tempo-payments-first-blockchain",
       "published": null,
-      "first_seen": "2026-06-14T20:08:30Z",
+      "first_seen": "2026-07-01T20:54:58Z",
       "source_url": "https://www.paradigm.xyz/writing"
     },
     {
-      "id": "5b3c7054b701",
+      "id": "663d44130651",
       "source": "Paradigm",
       "tier": 1,
-      "title": "Paradigm Files Comment Letter on the FDIC\u2019s GENIUS Act Stablecoin Rulemaking",
-      "url": "https://www.paradigm.xyz/2026/06/paradigm-files-comment-letter-on-the-fdic-s-genius-act-stablecoin-rulemaking",
+      "title": "2026-06-12 Project Kryptos",
+      "url": "https://www.paradigm.xyz/writing/kryptos",
       "published": null,
-      "first_seen": "2026-06-14T20:08:30Z",
+      "first_seen": "2026-07-01T20:54:58Z",
       "source_url": "https://www.paradigm.xyz/writing"
     },
     {
-      "id": "287bd4da6af5",
+      "id": "6819acd9da49",
       "source": "Paradigm",
       "tier": 1,
-      "title": "Stablecoins are Global - Paradigm\u2019s Response to FCA 26/13",
-      "url": "https://www.paradigm.xyz/2026/06/stablecoins-are-global-paradigm-s-response-to-fca-26-13",
+      "title": "Centaur 2026-05-21 Open Sourcing Centaur: Multiplayer, self-hosted, secure agents",
+      "url": "https://www.paradigm.xyz/writing/open-sourcing-centaur-multiplayer-self-hosted-secure-agents",
       "published": null,
-      "first_seen": "2026-06-14T20:08:30Z",
+      "first_seen": "2026-07-01T20:54:58Z",
       "source_url": "https://www.paradigm.xyz/writing"
     },
     {
-      "id": "de5abc8165ec",
+      "id": "1c45608c9cbc",
       "source": "Paradigm",
       "tier": 1,
-      "title": "Paradigm raises critical issues on pivotal stablecoin rulemaking",
-      "url": "https://www.paradigm.xyz/2026/06/paradigm-files-comment-letter-on-treasury-s-genius-state-pathway-rulemaking",
+      "title": "2026-05-01 PACTs: Protecting Your Bitcoin From a Quantum Sunset",
+      "url": "https://www.paradigm.xyz/writing/pacts-protecting-your-bitcoin-from-a-quantum-sunset",
       "published": null,
-      "first_seen": "2026-06-14T20:08:30Z",
+      "first_seen": "2026-07-01T20:54:58Z",
       "source_url": "https://www.paradigm.xyz/writing"
     },
     {
-      "id": "f7173c2cdc19",
+      "id": "96a44356b8af",
       "source": "Paradigm",
       "tier": 1,
-      "title": "Paradigm and Tempo open source Centaur, a Slack-native multiplayer, self-hosted and secure agent for investing, building, and researching.",
-      "url": "https://www.paradigm.xyz/2026/05/open-sourcing-centaur-multiplayer-self-hosted-secure-agents",
+      "title": "2026-02-04 Introducing Paradigm Predictions",
+      "url": "https://www.paradigm.xyz/writing/introducing-paradigm-predictions",
       "published": null,
-      "first_seen": "2026-06-14T20:08:30Z",
+      "first_seen": "2026-07-01T20:54:58Z",
       "source_url": "https://www.paradigm.xyz/writing"
     },
     {
-      "id": "2636e5560527",
+      "id": "ef43d5f3689b",
       "source": "Paradigm",
       "tier": 1,
-      "title": "Paradigm raises critical issues on pivotal stablecoin rulemaking",
-      "url": "https://www.paradigm.xyz/2026/05/paradigm-files-comment-letter-on-the-occ-s-genius-rulemaking",
+      "title": "2025-12-08 Polymarket Volume Is Being Double-Counted",
+      "url": "https://www.paradigm.xyz/writing/polymarket-volume-is-being-double-counted",
       "published": null,
-      "first_seen": "2026-06-14T20:08:30Z",
+      "first_seen": "2026-07-01T20:54:58Z",
       "source_url": "https://www.paradigm.xyz/writing"
     },
     {
-      "id": "9d91d862301b",
+      "id": "142a0608218c",
       "source": "Paradigm",
       "tier": 1,
-      "title": "PACTs: Protecting Your Bitcoin From a Quantum Sunset",
-      "url": "https://www.paradigm.xyz/2026/05/pacts-protecting-your-bitcoin-from-a-quantum-sunset",
+      "title": "2025-08-18 Opportunity Markets",
+      "url": "https://www.paradigm.xyz/writing/opportunity-markets",
       "published": null,
-      "first_seen": "2026-06-14T20:08:30Z",
+      "first_seen": "2026-07-01T20:54:58Z",
+      "source_url": "https://www.paradigm.xyz/writing"
+    },
+    {
+      "id": "b7e7b51dc699",
+      "source": "Paradigm",
+      "tier": 1,
+      "title": "2025-06-12 Quantum Markets",
+      "url": "https://www.paradigm.xyz/writing/quantum-markets",
+      "published": null,
+      "first_seen": "2026-07-01T20:54:58Z",
+      "source_url": "https://www.paradigm.xyz/writing"
+    },
+    {
+      "id": "4e605d209e69",
+      "source": "Paradigm",
+      "tier": 1,
+      "title": "2025-06-02 Orbital",
+      "url": "https://www.paradigm.xyz/writing/orbital",
+      "published": null,
+      "first_seen": "2026-07-01T20:54:58Z",
       "source_url": "https://www.paradigm.xyz/writing"
     },
     {
@@ -1325,6 +1355,106 @@
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "70c883b55147",
+      "source": "Paradigm",
+      "tier": 1,
+      "title": "Introducing the 2026 Paradigm Fellowship",
+      "url": "https://www.paradigm.xyz/2026/04/introducing-the-2026-paradigm-fellowship",
+      "published": null,
+      "first_seen": "2026-06-14T20:08:30Z",
+      "source_url": "https://www.paradigm.xyz/writing"
+    },
+    {
+      "id": "ba30af1b2e61",
+      "source": "Paradigm",
+      "tier": 1,
+      "title": "Paradigm Predictions is a tool for exploring the landscape of prediction markets. We aim to make prediction market data intuitive, accessibl",
+      "url": "https://www.paradigm.xyz/2026/02/introducing-paradigm-predictions",
+      "published": null,
+      "first_seen": "2026-06-14T20:08:30Z",
+      "source_url": "https://www.paradigm.xyz/writing"
+    },
+    {
+      "id": "60f9107dd866",
+      "source": "Paradigm",
+      "tier": 1,
+      "title": "Paradigm Backs Kalshi in Latest Prediction Market Challenge",
+      "url": "https://www.paradigm.xyz/2026/06/paradigm-backs-kalshi-in-latest-prediction-market-challenge",
+      "published": null,
+      "first_seen": "2026-06-24T23:39:40Z",
+      "source_url": "https://www.paradigm.xyz/writing"
+    },
+    {
+      "id": "e91e58fd3d1d",
+      "source": "Paradigm",
+      "tier": 1,
+      "title": "Paradigm is now the steward of the solution to Kryptos, one of the last great cryptography puzzles \u2014 but it's a secret, even to us. Now we\u2019r",
+      "url": "https://www.paradigm.xyz/2026/06/kryptos",
+      "published": null,
+      "first_seen": "2026-06-14T20:08:30Z",
+      "source_url": "https://www.paradigm.xyz/writing"
+    },
+    {
+      "id": "5b3c7054b701",
+      "source": "Paradigm",
+      "tier": 1,
+      "title": "Paradigm Files Comment Letter on the FDIC\u2019s GENIUS Act Stablecoin Rulemaking",
+      "url": "https://www.paradigm.xyz/2026/06/paradigm-files-comment-letter-on-the-fdic-s-genius-act-stablecoin-rulemaking",
+      "published": null,
+      "first_seen": "2026-06-14T20:08:30Z",
+      "source_url": "https://www.paradigm.xyz/writing"
+    },
+    {
+      "id": "287bd4da6af5",
+      "source": "Paradigm",
+      "tier": 1,
+      "title": "Stablecoins are Global - Paradigm\u2019s Response to FCA 26/13",
+      "url": "https://www.paradigm.xyz/2026/06/stablecoins-are-global-paradigm-s-response-to-fca-26-13",
+      "published": null,
+      "first_seen": "2026-06-14T20:08:30Z",
+      "source_url": "https://www.paradigm.xyz/writing"
+    },
+    {
+      "id": "de5abc8165ec",
+      "source": "Paradigm",
+      "tier": 1,
+      "title": "Paradigm raises critical issues on pivotal stablecoin rulemaking",
+      "url": "https://www.paradigm.xyz/2026/06/paradigm-files-comment-letter-on-treasury-s-genius-state-pathway-rulemaking",
+      "published": null,
+      "first_seen": "2026-06-14T20:08:30Z",
+      "source_url": "https://www.paradigm.xyz/writing"
+    },
+    {
+      "id": "f7173c2cdc19",
+      "source": "Paradigm",
+      "tier": 1,
+      "title": "Paradigm and Tempo open source Centaur, a Slack-native multiplayer, self-hosted and secure agent for investing, building, and researching.",
+      "url": "https://www.paradigm.xyz/2026/05/open-sourcing-centaur-multiplayer-self-hosted-secure-agents",
+      "published": null,
+      "first_seen": "2026-06-14T20:08:30Z",
+      "source_url": "https://www.paradigm.xyz/writing"
+    },
+    {
+      "id": "2636e5560527",
+      "source": "Paradigm",
+      "tier": 1,
+      "title": "Paradigm raises critical issues on pivotal stablecoin rulemaking",
+      "url": "https://www.paradigm.xyz/2026/05/paradigm-files-comment-letter-on-the-occ-s-genius-rulemaking",
+      "published": null,
+      "first_seen": "2026-06-14T20:08:30Z",
+      "source_url": "https://www.paradigm.xyz/writing"
+    },
+    {
+      "id": "9d91d862301b",
+      "source": "Paradigm",
+      "tier": 1,
+      "title": "PACTs: Protecting Your Bitcoin From a Quantum Sunset",
+      "url": "https://www.paradigm.xyz/2026/05/pacts-protecting-your-bitcoin-from-a-quantum-sunset",
+      "published": null,
+      "first_seen": "2026-06-14T20:08:30Z",
+      "source_url": "https://www.paradigm.xyz/writing"
     },
     {
       "id": "4dfbb604d3ad",
