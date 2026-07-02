@@ -157,10 +157,11 @@
     "kind": "individual",
     "status": "candidate",
     "source": "airtightfish and AustinBarack replies in GRASS tokenomics critique thread",
-    "reason": "Now engaged by both airtightfish and AustinBarack around GRASS/Wynd value-accrual/tokenomics arguments; still a candidate rather than Tier 2 because evidence is concentrated in one debate thread.",
+    "reason": "Engaged by both airtightfish and AustinBarack around GRASS/Wynd value-accrual/tokenomics arguments; July 2 adds another airtightfish pushback saying Grass design looks decent after comparing alternatives. Still candidate rather than Tier 2 because evidence remains concentrated in one GRASS debate cluster.",
     "evidence_urls": [
       "https://x.com/airtightfish/status/2069782439862432083",
-      "https://x.com/AustinBarack/status/2069912129852019047"
+      "https://x.com/AustinBarack/status/2069912129852019047",
+      "https://x.com/airtightfish/status/2072524353439232288"
     ],
     "first_seen": "2026-06-24",
     "confidence": "medium"
@@ -545,12 +546,13 @@
     "kind": "individual",
     "status": "candidate",
     "source": "airtightfish prediction-market redesign reply",
-    "reason": "airtightfish engaged a ryanchern thread on prediction-market product/interface stagnation and non-gambling market primitives; one substantive interaction only, so keep candidate.",
+    "reason": "airtightfish has now replied to ryanchern in repeated prediction-market product/category discussions: redesign/non-gambling primitives, PM nihilism, and July 2 Rothera sports-heavy volume mix. Keep candidate until interaction recurs outside one product theme.",
     "evidence_urls": [
-      "https://x.com/airtightfish/status/2067716891943096714"
+      "https://x.com/airtightfish/status/2067716891943096714",
+      "https://x.com/airtightfish/status/2072506598627450995"
     ],
     "first_seen": "2026-06-18",
-    "confidence": "low"
+    "confidence": "medium"
   },
   {
     "handle": "rasmr_eth",

@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-07-02",
-  "profile_updated_at": "2026-07-02T00:40:00Z",
+  "profile_updated_at": "2026-07-02T04:15:00Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -18,9 +18,10 @@
         "GLM 5.2",
         "GRASS",
         "GRASS tokenholder call",
-        "Venice Series A / $1B valuation"
+        "Venice Series A / $1B valuation",
+        "GRASS token design"
       ],
-      "summary": "Observed X/Twitter posts from AustinBarack repeatedly frame centralized AI restrictions and possible user-data compulsion as a tailwind for Venice/VVV. Keep as direct evidence bucket rather than broad consensus; coin_casanova had a tactical VVV short, so cross-account stance is not uniform. New 2026-06-14 coin_casanova evidence treated the Mythos-driven AI-token basket as a trade-construction problem rather than a uniform fundamental endorsement. Latest AustinBarack evidence quoted Venice usage data and argued VVV is under-owned because token usage is 'literally up only'. New AustinBarack evidence adds GLM 5.2 on Venice: open-source coding/agent model quality plus private/encrypted execution. Latest coin_casanova update is negative/relative for crowded VVV after the news pivot while keeping POD/GRASS on the research/trade list, so the bucket remains mixed rather than consensus-positive. AustinBarack’s late-June GRASS reply shifts part of this bucket from usage/privacy into tokenomics/value-accrual diligence: foundation ownership of IP/contracts/revenue and the July 7 holder call are now key evidence points. June 25 AustinBarack evidence keeps Venice/VVV in the active tape with dip-buy framing and explicit 4mm/10mm user-growth estimates. June 27 coin_casanova evidence keeps GRASS active as an event/call-driven AI/data-token vehicle; the same post's XPL comparison is treated in the process-led trading bucket, not as a private-AI project thesis. June 30 AustinBarack GRASS call post adds a dated AI-data catalyst: the tokenholder call is expected to answer value/visibility questions, with model-training data as the core framing. June 30 AustinBarack evidence adds two concrete Venice/VVV datapoints: July 1 emissions drop from about 4M/year to 3M/year and a projection that Venice token usage can 10x again after the reported 100B daily-token milestone. July 1 AustinBarack evidence adds Venice's Series A / $1B valuation as a concrete adoption/capital catalyst and reiterates his long-term VVV-holder hypergrowth stance.",
+      "summary": "Observed X/Twitter posts from AustinBarack repeatedly frame centralized AI restrictions and possible user-data compulsion as a tailwind for Venice/VVV. Keep as direct evidence bucket rather than broad consensus; coin_casanova had a tactical VVV short, so cross-account stance is not uniform. New 2026-06-14 coin_casanova evidence treated the Mythos-driven AI-token basket as a trade-construction problem rather than a uniform fundamental endorsement. Latest AustinBarack evidence quoted Venice usage data and argued VVV is under-owned because token usage is 'literally up only'. New AustinBarack evidence adds GLM 5.2 on Venice: open-source coding/agent model quality plus private/encrypted execution. Latest coin_casanova update is negative/relative for crowded VVV after the news pivot while keeping POD/GRASS on the research/trade list, so the bucket remains mixed rather than consensus-positive. AustinBarack’s late-June GRASS reply shifts part of this bucket from usage/privacy into tokenomics/value-accrual diligence: foundation ownership of IP/contracts/revenue and the July 7 holder call are now key evidence points. June 25 AustinBarack evidence keeps Venice/VVV in the active tape with dip-buy framing and explicit 4mm/10mm user-growth estimates. June 27 coin_casanova evidence keeps GRASS active as an event/call-driven AI/data-token vehicle; the same post's XPL comparison is treated in the process-led trading bucket, not as a private-AI project thesis. June 30 AustinBarack GRASS call post adds a dated AI-data catalyst: the tokenholder call is expected to answer value/visibility questions, with model-training data as the core framing. June 30 AustinBarack evidence adds two concrete Venice/VVV datapoints: July 1 emissions drop from about 4M/year to 3M/year and a projection that Venice token usage can 10x again after the reported 100B daily-token milestone. July 1 AustinBarack evidence adds Venice's Series A / $1B valuation as a concrete adoption/capital catalyst and reiterates his long-term VVV-holder hypergrowth stance. July 2 airtightfish evidence is GRASS-specific rather than privacy-AI-specific: he defended Grass token design as actually decent after comparing alternatives, reinforcing the GRASS/value-accrual subthread.",
       "evidence_urls": [
         "https://x.com/AustinBarack/status/2065642988470972861",
         "https://x.com/AustinBarack/status/2065850799494738189",
@@ -38,7 +39,8 @@
         "https://x.com/AustinBarack/status/2071926139258622082",
         "https://x.com/AustinBarack/status/2072029535080534073",
         "https://x.com/AustinBarack/status/2072030866365100269",
-        "https://x.com/AustinBarack/status/2072348879283011767"
+        "https://x.com/AustinBarack/status/2072348879283011767",
+        "https://x.com/airtightfish/status/2072524353439232288"
       ],
       "momentum": "rising",
       "confidence": "high"
@@ -284,9 +286,10 @@
         "Robinhood perps",
         "mainstream crypto brokerage distribution",
         "JTX smart fill",
-        "onchain trading execution UX"
+        "onchain trading execution UX",
+        "ProofMarkets v0 challenge feedback"
       ],
-      "summary": "Observed posts show coin_casanova arguing for organic crypto options demand, CryptoTomYT highlighting Tradexyz/Legend Trade performance context, airtightfish building/promoting ProofMarkets, AustinBarack using Hyperliquid/SPCX as a market-structure example, and 0xGeeGee naming Variational/Pear fee checks. These are separate infra/venue references rather than one unified thesis. Recent airtightfish/ProofMarkets evidence is product-led: onboarding/contest operations, conditional futures/non-gambling market-listing commentary, STRC/MSTR/BTC conditional markets, a umia_finance discussion about prediction/governance signals, and now a June 23 SOL-if-BTC-up/down Challenge market as conditional-futures listing experimentation. Keep this bucket close to evidence rather than turning it into abstract venue scoring. June 23 airtightfish evidence adds another ProofMarkets use case: pricing Solana Burn SIMD implementation odds and implied SOL impact, with caveats around governance signaling. June 24 reply added another ProofMarkets-as-hedging-tool signal in response to a thread criticizing current prediction-market payout/liquidity/standardization limits. New airtightfish PreStocks/Kalshi evidence broadens the infrastructure bucket into private-market/prediction-market liquidity: valuation gaps are interesting, but disappearing exit liquidity is the central critique. June 25 caveat: airtightfish said the ProofMarkets SOL Burn SIMD market was very illiquid and only a gated-MVP/test market, so treat this as directional product evidence rather than a liquid market signal. June 25 airtightfish adds a BTC/STRC ProofMarkets conditional-market example and explicitly frames the MVP as showing event-positioning value. June 26 adds two compact infra/relative-value examples: MoneyPrinter0x tied HYPE to tokenized synthetics/perps and regulatory context, while 0xGeeGee called PURR poor quality but not yet attractive enough as a relative mNAV short. June 28 coin_casanova reply adds a valuation/tokenomics layer to Derive: DRV is framed as fair/slightly undervalued only if onchain options volume keeps compounding, with the 25%→30% buyback increase treated as a confidence signal but not an all-in reason. July 1 CryptoTomYT adds a low-context but relevant pre-IPO perps venue/listing-catalyst note: he expects the first exchange to list Etched perps to pump and later distinguishes Anthropic exposure from Etched. July 1 updates added coin_casanova's Derive v3/0DTE/weekly-volume checklist and CryptoTomYT's Opal privacy-DEX + pre-IPO-perps candidate angle. July 1 adds two source-close venue/tooling examples: AustinBarack highlighted Robinhood as a mainstream crypto-distribution channel making perps a priority, while airtightfish praised JTX smart fill as slippage-aware UX for onchain traders.",
+      "summary": "Observed posts show coin_casanova arguing for organic crypto options demand, CryptoTomYT highlighting Tradexyz/Legend Trade performance context, airtightfish building/promoting ProofMarkets, AustinBarack using Hyperliquid/SPCX as a market-structure example, and 0xGeeGee naming Variational/Pear fee checks. These are separate infra/venue references rather than one unified thesis. Recent airtightfish/ProofMarkets evidence is product-led: onboarding/contest operations, conditional futures/non-gambling market-listing commentary, STRC/MSTR/BTC conditional markets, a umia_finance discussion about prediction/governance signals, and now a June 23 SOL-if-BTC-up/down Challenge market as conditional-futures listing experimentation. Keep this bucket close to evidence rather than turning it into abstract venue scoring. June 23 airtightfish evidence adds another ProofMarkets use case: pricing Solana Burn SIMD implementation odds and implied SOL impact, with caveats around governance signaling. June 24 reply added another ProofMarkets-as-hedging-tool signal in response to a thread criticizing current prediction-market payout/liquidity/standardization limits. New airtightfish PreStocks/Kalshi evidence broadens the infrastructure bucket into private-market/prediction-market liquidity: valuation gaps are interesting, but disappearing exit liquidity is the central critique. June 25 caveat: airtightfish said the ProofMarkets SOL Burn SIMD market was very illiquid and only a gated-MVP/test market, so treat this as directional product evidence rather than a liquid market signal. June 25 airtightfish adds a BTC/STRC ProofMarkets conditional-market example and explicitly frames the MVP as showing event-positioning value. June 26 adds two compact infra/relative-value examples: MoneyPrinter0x tied HYPE to tokenized synthetics/perps and regulatory context, while 0xGeeGee called PURR poor quality but not yet attractive enough as a relative mNAV short. June 28 coin_casanova reply adds a valuation/tokenomics layer to Derive: DRV is framed as fair/slightly undervalued only if onchain options volume keeps compounding, with the 25%→30% buyback increase treated as a confidence signal but not an all-in reason. July 1 CryptoTomYT adds a low-context but relevant pre-IPO perps venue/listing-catalyst note: he expects the first exchange to list Etched perps to pump and later distinguishes Anthropic exposure from Etched. July 1 updates added coin_casanova's Derive v3/0DTE/weekly-volume checklist and CryptoTomYT's Opal privacy-DEX + pre-IPO-perps candidate angle. July 1 adds two source-close venue/tooling examples: AustinBarack highlighted Robinhood as a mainstream crypto-distribution channel making perps a priority, while airtightfish praised JTX smart fill as slippage-aware UX for onchain traders. July 2 ProofMarkets update adds source-close operator evidence: the v0 challenge ended with better-than-expected trader behavior and useful feedback from a time-boxed activation.",
       "evidence_urls": [
         "https://x.com/coin_casanova/status/2063848704499687605",
         "https://x.com/CryptoTomYT/status/2065238474907607090",
@@ -329,7 +332,8 @@
         "https://x.com/AustinBarack/status/2072378551081353444",
         "https://x.com/AustinBarack/status/2072387394133717201",
         "https://x.com/airtightfish/status/2072372145288605985",
-        "https://x.com/airtightfish/status/2072373703770251350"
+        "https://x.com/airtightfish/status/2072373703770251350",
+        "https://x.com/airtightfish/status/2072529260930081178"
       ],
       "momentum": "rising",
       "confidence": "medium"
@@ -863,9 +867,10 @@
         "Kalshi",
         "Polymarket / UMA",
         "Polymarket World Cup markets",
-        "3-way/X option sportsbook convention"
+        "3-way/X option sportsbook convention",
+        "Rothera sports-heavy volume mix"
       ],
-      "summary": "airtightfish’s ryanchern-thread replies frame ProofMarkets/prediction markets around better listings, conditional futures, and non-gambling-market primitives; GeeGee’s Axiom-fee critique remains a negative fee/UX counterpoint. New June 23 evidence moves from commentary to product example: ProofMarkets listed a Challenge market for SOL conditional on BTC being up/down, and airtightfish said conditional futures are not just for events, leaving room for market-type experimentation. Later June 23 Adjacent RED thread adds index/listing feedback: airtightfish liked the political-futures index concept but wanted more volatility and pointed toward conditional-index variants as better ProofMarkets-style products. June 24 airtightfish reply keeps ProofMarkets attached to the critique that prediction markets need to become practical hedging tools, not just binary gambling markets. New airtightfish GRASS reply applies conditional markets to tokenomics/value-accrual discovery: a holder-call value-attribution announcement could be traded and used as market feedback to the team. June 25 follow-up adds a visibility caveat: the SOL Burn SIMD market was very illiquid gated-MVP data, but airtightfish still considered it directionally informative. June 25 reply adds a competitive/product-quality caveat: Kalshi is viewed as better today, Polymarket/UMA as very weak, while ProofMarkets remains MVP rather than fully implemented. New GeeGee replies add a rules-literacy example: a Polymarket World Cup 3-way market resolving at 90 minutes can be normal if the market explicitly includes an X/draw option, so venue criticism should separate UX/rule clarity from nonstandard settlement.",
+      "summary": "airtightfish’s ryanchern-thread replies frame ProofMarkets/prediction markets around better listings, conditional futures, and non-gambling-market primitives; GeeGee’s Axiom-fee critique remains a negative fee/UX counterpoint. New June 23 evidence moves from commentary to product example: ProofMarkets listed a Challenge market for SOL conditional on BTC being up/down, and airtightfish said conditional futures are not just for events, leaving room for market-type experimentation. Later June 23 Adjacent RED thread adds index/listing feedback: airtightfish liked the political-futures index concept but wanted more volatility and pointed toward conditional-index variants as better ProofMarkets-style products. June 24 airtightfish reply keeps ProofMarkets attached to the critique that prediction markets need to become practical hedging tools, not just binary gambling markets. New airtightfish GRASS reply applies conditional markets to tokenomics/value-accrual discovery: a holder-call value-attribution announcement could be traded and used as market feedback to the team. June 25 follow-up adds a visibility caveat: the SOL Burn SIMD market was very illiquid gated-MVP data, but airtightfish still considered it directionally informative. June 25 reply adds a competitive/product-quality caveat: Kalshi is viewed as better today, Polymarket/UMA as very weak, while ProofMarkets remains MVP rather than fully implemented. New GeeGee replies add a rules-literacy example: a Polymarket World Cup 3-way market resolving at 90 minutes can be normal if the market explicitly includes an X/draw option, so venue criticism should separate UX/rule clarity from nonstandard settlement. July 2 adds another ryanchern reply: against Robinhood/Rothera's sports-heavy, plateauing prediction-market volume, airtightfish said Proof is trying to change this.",
       "evidence_urls": [
         "https://x.com/airtightfish/status/2067716891943096714",
         "https://x.com/airtightfish/status/2067715921859240042",
@@ -879,9 +884,10 @@
         "https://x.com/airtightfish/status/2069949639055315379",
         "https://x.com/airtightfish/status/2070163896762073583",
         "https://x.com/airtightfish/status/2070174374406091055",
-        "https://x.com/0xGeeGee/status/2071360045032280266"
+        "https://x.com/0xGeeGee/status/2071360045032280266",
+        "https://x.com/airtightfish/status/2072506598627450995"
       ],
-      "momentum": "emerging",
+      "momentum": "rising",
       "confidence": "medium"
     },
     {
@@ -1087,6 +1093,8 @@
     "Track whether coin_casanova keeps separating robotics/physical-AI theses from China-equity beta and broader BABA/investability conditions.",
     "Track whether Shift/ltLLP receives further GeeGee DeFi-wrapper evidence after promotion to Tier 2 or remains a two-post wrapper preference.",
     "Track whether MoneyPrinter0x’s July 1 UBTech diligence turns into a concrete robotics/physical-AI position thesis or remains a Grok data-gathering step.",
-    "Track whether GeeGee’s PURR advisory-fee/options warning develops into a broader Hyperliquid-ecosystem relative-value critique."
+    "Track whether GeeGee’s PURR advisory-fee/options warning develops into a broader Hyperliquid-ecosystem relative-value critique.",
+    "Track whether airtightfish's GRASS token-design defense broadens beyond the 0xCryptoSam debate cluster or remains one repeated counterparty thread.",
+    "Track whether ProofMarkets post-challenge updates show concrete changes from v0 trader feedback rather than only stating that feedback was useful."
   ]
 }

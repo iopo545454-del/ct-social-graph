@@ -1,6 +1,55 @@
 [
   {
     "date": "2026-07-02",
+    "handle": "airtightfish",
+    "type": "reply/proofmarkets_non_sports_prediction_markets",
+    "url": "https://x.com/airtightfish/status/2072506598627450995",
+    "summary": "Replied to ryanchern's note that Robinhood/Rothera prediction-market activity is dominated by soccer/baseball and plateauing around 310k trades/day by saying Proof is trying to change this.",
+    "entities": [
+      "ProofMarkets",
+      "ryanchern",
+      "Rothera",
+      "Robinhood prediction markets",
+      "sports volume",
+      "non-sports markets"
+    ],
+    "why_logged": "Reinforces the recurring ProofMarkets product thesis: move prediction markets beyond sports/gambling into more useful categories and information surfaces.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-02",
+    "handle": "airtightfish",
+    "type": "reply/grasses_token_design_defense",
+    "url": "https://x.com/airtightfish/status/2072524353439232288",
+    "summary": "Pushed back on 0xCryptoSam's GRASS revenue/token-design critique, saying he had spent a lot of time reviewing alternative designs and that Grass appears actually decent.",
+    "entities": [
+      "GRASS",
+      "0xCryptoSam",
+      "token design",
+      "USDC revenue rewards",
+      "value accrual"
+    ],
+    "why_logged": "Adds a second GRASS/value-accrual interaction from airtightfish and turns the prior conditional-market idea into a clearer token-design preference, still within one debate cluster.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-02",
+    "handle": "airtightfish",
+    "type": "quote/project_update",
+    "url": "https://x.com/airtightfish/status/2072529260930081178",
+    "summary": "Quoted ProofMarkets' v0 challenge conclusion and highlighted two operating takeaways: trader behavior beat expectations and a time-boxed feedback push produced useful product input before returning to building.",
+    "entities": [
+      "ProofMarkets",
+      "v0 challenge",
+      "trader feedback",
+      "product iteration",
+      "time-boxed activation"
+    ],
+    "why_logged": "Useful source-close project/operator evidence for ProofMarkets: challenge completion, participant feedback, and product-learning cadence rather than generic promotion.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-07-02",
     "handle": "MoneyPrinter0x",
     "type": "reply/neocloud_meta_derisking_structural_shift",
     "url": "https://x.com/MoneyPrinter0x/status/2072458537566187584",

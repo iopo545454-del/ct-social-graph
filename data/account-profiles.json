@@ -1168,9 +1168,9 @@
   {
     "handle": "airtightfish",
     "period_start": "2026-05-14",
-    "period_end": "2026-07-01",
-    "profile_updated_at": "2026-07-01T20:45:00Z",
-    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence adds a tokenomics/accounting-process edge: he pushed against raw FDV for MetaDAO ownership-coin valuation and pointed toward adjusted supply / mNAV treatment. June 21 ryanchern reply adds another ProofMarkets/product-design datapoint: prediction markets need novel products that restore useful information surfaces beyond current category mix. June 22 quote added a light ProofMarkets ecosystem/partner signal via umia_finance/SURGECAST. Latest June 23 quote strengthens the ProofMarkets product-design trail with an actual conditional-futures Challenge market: SOL conditional on BTC up/down, framed as evidence that conditional futures can support experimental listed market types beyond event markets. Later June 23 replies add an Adjacent RED political-index feedback edge: he liked the index concept but wanted more volatility, saying ProofMarkets would love to list something like it as conditional indices develop. Latest June 23 evidence adds a concrete ProofMarkets/Solana tokenomics use case: he used a gated-MVP market to estimate Burn SIMD price impact and implementation odds, while caveating that failure would mainly matter as a signal on Solana's tokenomics direction. June 24 reply keeps ProofMarkets framed as an answer to the critique that current prediction markets are not practical hedging tools. Latest June 24 GRASS reply extends the same conditional-futures design pattern from ProofMarkets demos into tokenomics discovery: use a conditional market around whether Grass announces robust token value attribution, while disclosing he is a Grass fan. PreStocks/Kalshi post adds a private-market liquidity/execution layer: he likes the idea of pre-IPO secondary-style products, but criticized disappearing liquidity and inability to exit. June 25 follow-up adds an important ProofMarkets caveat: the SOL Burn SIMD market was a very illiquid gated-MVP/test market, useful only as directional information rather than a robust liquid pricing venue. June 25 adds another direct ProofMarkets MVP example via a BTC/STRC conditional market, plus a useful caveat/competitive filter: ProofMarkets is still MVP, Kalshi is better today, and Polymarket/UMA are viewed negatively.",
+    "period_end": "2026-07-02",
+    "profile_updated_at": "2026-07-02T04:15:00Z",
+    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence adds a tokenomics/accounting-process edge: he pushed against raw FDV for MetaDAO ownership-coin valuation and pointed toward adjusted supply / mNAV treatment. June 21 ryanchern reply adds another ProofMarkets/product-design datapoint: prediction markets need novel products that restore useful information surfaces beyond current category mix. June 22 quote added a light ProofMarkets ecosystem/partner signal via umia_finance/SURGECAST. Latest June 23 quote strengthens the ProofMarkets product-design trail with an actual conditional-futures Challenge market: SOL conditional on BTC up/down, framed as evidence that conditional futures can support experimental listed market types beyond event markets. Later June 23 replies add an Adjacent RED political-index feedback edge: he liked the index concept but wanted more volatility, saying ProofMarkets would love to list something like it as conditional indices develop. Latest June 23 evidence adds a concrete ProofMarkets/Solana tokenomics use case: he used a gated-MVP market to estimate Burn SIMD price impact and implementation odds, while caveating that failure would mainly matter as a signal on Solana's tokenomics direction. June 24 reply keeps ProofMarkets framed as an answer to the critique that current prediction markets are not practical hedging tools. Latest June 24 GRASS reply extends the same conditional-futures design pattern from ProofMarkets demos into tokenomics discovery: use a conditional market around whether Grass announces robust token value attribution, while disclosing he is a Grass fan. PreStocks/Kalshi post adds a private-market liquidity/execution layer: he likes the idea of pre-IPO secondary-style products, but criticized disappearing liquidity and inability to exit. June 25 follow-up adds an important ProofMarkets caveat: the SOL Burn SIMD market was a very illiquid gated-MVP/test market, useful only as directional information rather than a robust liquid pricing venue. June 25 adds another direct ProofMarkets MVP example via a BTC/STRC conditional market, plus a useful caveat/competitive filter: ProofMarkets is still MVP, Kalshi is better today, and Polymarket/UMA are viewed negatively. July 2 evidence adds three direct Proof/GRASS datapoints: he treated the ProofMarkets v0 challenge as a successful time-boxed feedback push, replied again to ryanchern that Proof is trying to change sports-heavy prediction-market volume, and defended GRASS token design against 0xCryptoSam after comparing alternatives.",
     "likes": [
       {
         "theme": "Crypto access to private companies",
@@ -1182,7 +1182,7 @@
       },
       {
         "theme": "ProofMarkets community/onboarding",
-        "summary": "Repeatedly promoted ProofMarkets, referenced manual waitlist review after bot/AI filtering, invited feedback/market ideas, and now uses live STRC/MSTR/BTC overhang plus a SOL-if-BTC-up/down Challenge market as examples of conditional futures/new listings. Latest evidence says conditional futures are not just for events and leave room for experimentation in new market types. Latest evidence adds a SOL Burn SIMD market that priced implementation odds and price impact, showing interest in conditional markets as governance/signaling tools.",
+        "summary": "Repeatedly promoted ProofMarkets, referenced manual waitlist review after bot/AI filtering, invited feedback/market ideas, and now uses live STRC/MSTR/BTC overhang plus a SOL-if-BTC-up/down Challenge market as examples of conditional futures/new listings. Latest evidence says conditional futures are not just for events and leave room for experimentation in new market types. Latest evidence adds a SOL Burn SIMD market that priced implementation odds and price impact, showing interest in conditional markets as governance/signaling tools. July 2 update: v0 challenge concluded, trader behavior beat expectations, and the time-boxed activation produced valuable feedback before the team returned to building.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2064390683440341286",
           "https://x.com/airtightfish/status/2064743264691875927",
@@ -1193,7 +1193,8 @@
           "https://x.com/airtightfish/status/2068099380775665928",
           "https://x.com/airtightfish/status/2068759628364550360",
           "https://x.com/airtightfish/status/2069228960613843148",
-          "https://x.com/airtightfish/status/2069558654777356618"
+          "https://x.com/airtightfish/status/2069558654777356618",
+          "https://x.com/airtightfish/status/2072529260930081178"
         ],
         "confidence": "high"
       },
@@ -1226,7 +1227,7 @@
       },
       {
         "theme": "Prediction-market product design beyond gambling",
-        "summary": "Prediction-market design evidence now spans non-gambling market/listing primitives, a live BTC/STRC conditional-market example, and a new ProofMarkets Challenge market trading SOL conditional on BTC up/down; he frames conditional futures as useful beyond discrete event markets. Later June 23 replies add adjacent index-product evidence: he liked Adjacent's RED political-futures index but wanted more volatility before ProofMarkets-style listing. Latest reply points ProofMarkets at the “prediction markets are bad hedging tools” critique, reinforcing hedging/product-utility positioning. Newest GRASS reply applies that design to tokenomics: a conditional market around robust value attribution at a holder call could both create a trade and reveal market expectations.",
+        "summary": "Prediction-market design evidence now spans non-gambling market/listing primitives, a live BTC/STRC conditional-market example, and a new ProofMarkets Challenge market trading SOL conditional on BTC up/down; he frames conditional futures as useful beyond discrete event markets. Later June 23 replies add adjacent index-product evidence: he liked Adjacent's RED political-futures index but wanted more volatility before ProofMarkets-style listing. Latest reply points ProofMarkets at the “prediction markets are bad hedging tools” critique, reinforcing hedging/product-utility positioning. Newest GRASS reply applies that design to tokenomics: a conditional market around robust value attribution at a holder call could both create a trade and reveal market expectations. July 2 ryanchern/Rothera reply repeats the category-mix goal: Proof is trying to shift prediction markets away from mostly sports/baseball/soccer activity toward more useful markets.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2067716891943096714",
           "https://x.com/airtightfish/status/2067715921859240042",
@@ -1234,7 +1235,8 @@
           "https://x.com/airtightfish/status/2069228960613843148",
           "https://x.com/i/status/2069522903314411586",
           "https://x.com/airtightfish/status/2069630693173326150",
-          "https://x.com/airtightfish/status/2069782439862432083"
+          "https://x.com/airtightfish/status/2069782439862432083",
+          "https://x.com/airtightfish/status/2072506598627450995"
         ],
         "confidence": "medium"
       },
@@ -1315,7 +1317,7 @@
         "name": "ProofMarkets",
         "handle": "ProofMarkets",
         "stance": "positive",
-        "summary": "Repeated operating/project evidence: waitlist filtering, contest launch, manual onboarding, product-design replies around conditional futures/non-gambling markets, BTC/STRC conditional-market example, umia_finance/SURGECAST partner context, and now a SOL-if-BTC-up/down Challenge market framed as conditional-futures listing experimentation. Newest evidence uses ProofMarkets to price SOL Burn SIMD implementation odds and price impact. June 24 reply again positioned ProofMarkets against a critique that current prediction markets fail as real hedging tools. Latest June 25 reply caveats the SOL Burn SIMD market as very illiquid and gated-MVP/test-market data, while still directionally informative. June 25 added a BTC/STRC conditional-market quote and an explicit MVP caveat alongside a Kalshi-better / Polymarket-UMA-negative product-quality comparison.",
+        "summary": "Repeated operating/project evidence: waitlist filtering, contest launch, manual onboarding, product-design replies around conditional futures/non-gambling markets, BTC/STRC conditional-market example, umia_finance/SURGECAST partner context, and now a SOL-if-BTC-up/down Challenge market framed as conditional-futures listing experimentation. Newest evidence uses ProofMarkets to price SOL Burn SIMD implementation odds and price impact. June 24 reply again positioned ProofMarkets against a critique that current prediction markets fail as real hedging tools. Latest June 25 reply caveats the SOL Burn SIMD market as very illiquid and gated-MVP/test-market data, while still directionally informative. June 25 added a BTC/STRC conditional-market quote and an explicit MVP caveat alongside a Kalshi-better / Polymarket-UMA-negative product-quality comparison. July 2 adds challenge-completion/operator evidence and another ryanchern reply positioning Proof against sports-heavy prediction-market activity.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2064390683440341286",
           "https://x.com/airtightfish/status/2064743264691875927",
@@ -1334,7 +1336,9 @@
           "https://x.com/airtightfish/status/2069630693173326150",
           "https://x.com/airtightfish/status/2069949639055315379",
           "https://x.com/airtightfish/status/2070163896762073583",
-          "https://x.com/airtightfish/status/2070174374406091055"
+          "https://x.com/airtightfish/status/2070174374406091055",
+          "https://x.com/airtightfish/status/2072529260930081178",
+          "https://x.com/airtightfish/status/2072506598627450995"
         ]
       },
       {
@@ -1378,10 +1382,12 @@
         "name": "ProofMarkets",
         "handle": "ProofMarkets",
         "stance": "building/operating",
-        "summary": "Latest update showed conditional pricing in internal tests while preparing a paper trading contest, with a follow-up on early market settlement. June 24 reply again positioned ProofMarkets against a critique that current prediction markets fail as real hedging tools.",
+        "summary": "Latest update showed conditional pricing in internal tests while preparing a paper trading contest, with a follow-up on early market settlement. June 24 reply again positioned ProofMarkets against a critique that current prediction markets fail as real hedging tools. July 2 adds challenge-completion/operator evidence and another ryanchern reply positioning Proof against sports-heavy prediction-market activity.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2067032953994072416",
-          "https://x.com/airtightfish/status/2069630693173326150"
+          "https://x.com/airtightfish/status/2069630693173326150",
+          "https://x.com/airtightfish/status/2072529260930081178",
+          "https://x.com/airtightfish/status/2072506598627450995"
         ],
         "confidence": "high"
       },
@@ -1416,9 +1422,10 @@
         "name": "Grass / GRASS",
         "handle": "getgrass_io",
         "stance": "positive/watchful",
-        "summary": "Called himself a Grass fan while suggesting a conditional-futures market around whether Grass announces robust token value attribution at the holder call; useful as product-design/tokenomics evidence, not a full investment thesis.",
+        "summary": "Called himself a Grass fan while suggesting a conditional-futures market around whether Grass announces robust token value attribution at the holder call; useful as product-design/tokenomics evidence, not a full investment thesis. July 2 follow-up strengthened the stance: after comparing many designs, he said Grass appears actually decent in response to 0xCryptoSam's token-design critique.",
         "evidence_urls": [
-          "https://x.com/airtightfish/status/2069782439862432083"
+          "https://x.com/airtightfish/status/2069782439862432083",
+          "https://x.com/airtightfish/status/2072524353439232288"
         ]
       },
       {
@@ -1442,9 +1449,10 @@
       },
       {
         "handle": "ryanchern",
-        "why": "Substantive reply to ryanchern prediction-market redesign thread; candidate edge only until repeated.",
+        "why": "Repeated substantive replies to ryanchern prediction-market category/product threads, including July 2 Rothera volume-mix discussion; candidate edge only until repeated across more topics.",
         "evidence_urls": [
-          "https://x.com/airtightfish/status/2067716891943096714"
+          "https://x.com/airtightfish/status/2067716891943096714",
+          "https://x.com/airtightfish/status/2072506598627450995"
         ],
         "confidence": "low"
       },
@@ -1479,10 +1487,10 @@
       "Track whether ProofMarkets conditional markets become a repeated public response to major CT uncertainty events beyond STRC/MSTR.",
       "Track whether ProofMarkets product work explicitly targets non-gambling/politics-economics category revival beyond current challenge/test markets.",
       "Track whether ProofMarkets conditional futures expand from challenge markets into durable public markets with non-event use cases.",
-      "Track whether airtightfish’s GRASS tokenomics/value-attribution interest recurs beyond the conditional-market reply.",
       "Track whether PreStocks/private-market secondaries become a repeated airtightfish market-structure focus or remain one liquidity complaint.",
       "Watch whether ProofMarkets can move beyond directional but very illiquid gated-MVP markets into enough liquidity for more robust market-implied signals.",
-      "Track whether airtightfish continues comparing ProofMarkets against Kalshi/Polymarket/UMA in concrete product-quality terms or whether this was a one-off reply."
+      "Track whether airtightfish continues comparing ProofMarkets against Kalshi/Polymarket/UMA in concrete product-quality terms or whether this was a one-off reply.",
+      "Track whether airtightfish's now-repeated GRASS token-design defense broadens beyond the 0xCryptoSam debate cluster or remains a single-counterparty argument."
     ],
     "evidence_urls": [
       "https://x.com/airtightfish/status/2065567457536831796",
@@ -1519,7 +1527,10 @@
       "https://x.com/airtightfish/status/2070163896762073583",
       "https://x.com/airtightfish/status/2070174374406091055",
       "https://x.com/airtightfish/status/2072372145288605985",
-      "https://x.com/airtightfish/status/2072373703770251350"
+      "https://x.com/airtightfish/status/2072373703770251350",
+      "https://x.com/airtightfish/status/2072529260930081178",
+      "https://x.com/airtightfish/status/2072524353439232288",
+      "https://x.com/airtightfish/status/2072506598627450995"
     ]
   },
   {

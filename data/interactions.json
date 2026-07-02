@@ -1,5 +1,35 @@
 [
   {
+    "from": "airtightfish",
+    "to": "ryanchern",
+    "to_kind": "individual",
+    "type": "reply/proofmarkets_non_sports_prediction_markets",
+    "date": "2026-07-02",
+    "url": "https://x.com/airtightfish/status/2072506598627450995",
+    "summary": "Responded to ryanchern's Robinhood/Rothera prediction-market volume breakdown by saying Proof is trying to change the sports-heavy category mix, reinforcing ProofMarkets' non-gambling/product-utility angle.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/airtightfish/status/2067716891943096714",
+      "https://x.com/airtightfish/status/2068759628364550360"
+    ]
+  },
+  {
+    "from": "airtightfish",
+    "to": "0xCryptoSam",
+    "to_kind": "individual",
+    "type": "reply/grasses_token_design_defense",
+    "date": "2026-07-02",
+    "url": "https://x.com/airtightfish/status/2072524353439232288",
+    "summary": "Continued the GRASS token-design/value-accrual debate with 0xCryptoSam, saying he had compared many designs and that Grass appears actually decent.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/airtightfish/status/2069782439862432083",
+      "https://x.com/AustinBarack/status/2069912129852019047"
+    ]
+  },
+  {
     "from": "MoneyPrinter0x",
     "to": "Meta",
     "to_kind": "project",
