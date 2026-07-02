@@ -2,6 +2,89 @@
   {
     "date": "2026-07-02",
     "handle": "MoneyPrinter0x",
+    "type": "authored_post/meta_neocloud_structural_shift_confirmation",
+    "url": "https://x.com/MoneyPrinter0x/status/2072736457962471616",
+    "summary": "After earlier derisking most neocloud exposure around Meta/Zuckerberg compute-supply risk, reiterated that it was in fact a structural shift, not just a temporary chart move.",
+    "entities": [
+      "Meta",
+      "Zuckerberg",
+      "neoclouds",
+      "NBIS",
+      "CRWV",
+      "AI datacenter capacity",
+      "buyer-to-reseller risk",
+      "structural shift"
+    ],
+    "why_logged": "Completes the July 2 neocloud thread with a post-move confirmation that he treats Meta's compute pivot as structural and thesis-relevant, not a one-off stop-loss reaction.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2072458537566187584",
+      "https://x.com/MoneyPrinter0x/status/2072475792014299396"
+    ]
+  },
+  {
+    "date": "2026-07-02",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/memory_robotics_neos_mean_reversion",
+    "url": "https://x.com/MoneyPrinter0x/status/2072675779654353253",
+    "summary": "Said STRC had already pumped nearly back to par and that memory/robotics plus risk appetite could create mean-reversion plays in neocloud names, keeping the AI-equity tape focused on memory and robotics after the Micron stop-out.",
+    "entities": [
+      "STRC",
+      "memory",
+      "robotics",
+      "neoclouds",
+      "NEOS",
+      "mean reversion",
+      "risk appetite"
+    ],
+    "why_logged": "Adds nuance after the Micron and neocloud derisking posts: he is not abandoning the AI-equity theme, but moving toward risk-calibrated mean-reversion rather than broad neocloud exposure.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-02",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/trading_process_stop_out_no_overtrade",
+    "url": "https://x.com/MoneyPrinter0x/status/2072736386801909847",
+    "summary": "After the Micron stop-out, told followers the next focus may be touching grass and not overtrading because the market will always be there.",
+    "entities": [
+      "Micron",
+      "MU",
+      "stop-out",
+      "overtrading",
+      "trading psychology",
+      "risk management"
+    ],
+    "why_logged": "Useful process evidence for how he handles failed event trades: explicit stop discipline and lower-activity bias rather than immediate revenge trading.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2072731126788219192",
+      "https://x.com/MoneyPrinter0x/status/2072569353598648536"
+    ]
+  },
+  {
+    "date": "2026-07-02",
+    "handle": "kelxyz_",
+    "type": "authored_post/pluralis_spiritual_successor_claim",
+    "url": "https://x.com/kelxyz_/status/2072727899921076336",
+    "summary": "Called Pluralis the spiritual successor to Bitcoin and Ethereum, escalating prior workshop/deep-alpha evidence from a technical interest into a high-conviction crypto-native AI protocol framing.",
+    "entities": [
+      "Pluralis",
+      "Bitcoin",
+      "Ethereum",
+      "collectively owned AI",
+      "decentralized training",
+      "crypto-native AI protocols"
+    ],
+    "why_logged": "Strong, concise conviction marker for kelxyz_'s repeated Pluralis/decentralized-training thesis; worth preserving despite short text because it ties the project to crypto's foundational assets.",
+    "confidence": "high",
+    "related_urls": [
+      "https://x.com/kelxyz_/status/2072356706760225148",
+      "https://x.com/kelxyz_/status/2072442141310173604"
+    ]
+  },
+  {
+    "date": "2026-07-02",
+    "handle": "MoneyPrinter0x",
     "type": "authored_post/warsh_jobs_revision_playbook_confirmation",
     "url": "https://x.com/MoneyPrinter0x/status/2072668896981831928",
     "summary": "After the weak June jobs/NFP print and revisions, framed the media/Fed pivot toward trend talk as confirmation of his Warsh playbook; this followed a pre-print Micron/MU allocation and explicit macro-print waiting period.",

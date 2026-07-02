@@ -1,6 +1,46 @@
 [
   {
     "from": "MoneyPrinter0x",
+    "to": "Meta",
+    "to_kind": "project",
+    "type": "authored_mention/neocloud_structural_shift_confirmation",
+    "date": "2026-07-02",
+    "url": "https://x.com/MoneyPrinter0x/status/2072736457962471616",
+    "summary": "Reaffirmed that Meta/Zuckerberg's compute pivot is a structural shift for neoclouds, extending his earlier buyer-to-reseller risk thesis and >70% derisking disclosure.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2072458537566187584",
+      "https://x.com/MoneyPrinter0x/status/2072475792014299396"
+    ]
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "STRC",
+    "to_kind": "project",
+    "type": "reply/memory_robotics_mean_reversion",
+    "date": "2026-07-02",
+    "url": "https://x.com/MoneyPrinter0x/status/2072675779654353253",
+    "summary": "Said STRC had nearly returned to par and framed memory/robotics plus risk tolerance as possible mean-reversion areas in neocloud-related names.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "kelxyz_",
+    "to": "pluralis",
+    "to_kind": "project",
+    "type": "authored_mention/spiritual_successor_bitcoin_ethereum",
+    "date": "2026-07-02",
+    "url": "https://x.com/kelxyz_/status/2072727899921076336",
+    "summary": "Called Pluralis the spiritual successor to Bitcoin and Ethereum, a high-conviction follow-up to prior Pluralis workshop and decentralized-training evidence.",
+    "quality": "high",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/kelxyz_/status/2072356706760225148"
+    ]
+  },
+  {
+    "from": "MoneyPrinter0x",
     "to": "Micron",
     "to_kind": "project",
     "type": "authored_mention/memory_single_name_rotation",
