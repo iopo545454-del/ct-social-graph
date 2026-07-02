@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-02T13:32:06Z",
+  "last_checked": "2026-07-02T21:53:12Z",
   "new_count": 1,
   "sources": [
     {
@@ -63,7 +63,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-02T13:32:03Z"
+      "checked_at": "2026-07-02T21:53:09Z"
     },
     {
       "name": "Multicoin Capital",
@@ -138,7 +138,7 @@
           "published": "Thu, 02 Oct 2025 00:00:00 GMT"
         }
       ],
-      "checked_at": "2026-07-02T13:32:04Z"
+      "checked_at": "2026-07-02T21:53:09Z"
     },
     {
       "name": "Pantera Blockchain Letter",
@@ -203,7 +203,7 @@
           "published": "Mon, 30 Jun 2025 14:48:37 +0000"
         }
       ],
-      "checked_at": "2026-07-02T13:32:04Z"
+      "checked_at": "2026-07-02T21:53:10Z"
     },
     {
       "name": "Paradigm",
@@ -276,7 +276,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-02T13:32:05Z"
+      "checked_at": "2026-07-02T21:53:10Z"
     },
     {
       "name": "Glassnode Research",
@@ -351,7 +351,7 @@
           "published": "Wed, 24 Jun 2026 13:00:00 GMT"
         }
       ],
-      "checked_at": "2026-07-02T13:32:05Z"
+      "checked_at": "2026-07-02T21:53:10Z"
     },
     {
       "name": "Delphi Digital",
@@ -374,7 +374,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-02T13:32:05Z"
+      "checked_at": "2026-07-02T21:53:11Z"
     },
     {
       "name": "Electric Capital",
@@ -386,7 +386,7 @@
       "error": null,
       "feed_urls": [],
       "items": [],
-      "checked_at": "2026-07-02T13:32:05Z"
+      "checked_at": "2026-07-02T21:53:11Z"
     },
     {
       "name": "Bankless",
@@ -459,7 +459,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-02T13:32:06Z"
+      "checked_at": "2026-07-02T21:53:12Z"
     },
     {
       "name": "Token Terminal",
@@ -484,6 +484,11 @@
         {
           "title": "Newsletter",
           "url": "https://tokenterminal.com/resources/newsletter",
+          "published": null
+        },
+        {
+          "title": "Tokenized ETFs are finding their onchain PMF + data & product updates2 Jul, 2026",
+          "url": "https://tokenterminal.com/resources/newsletter/tokenized-etfs-are-finding-their-onchain-pmf",
           "published": null
         },
         {
@@ -525,14 +530,9 @@
           "title": "How crypto businesses turn products into platforms+ data & product updates21 May, 2026",
           "url": "https://tokenterminal.com/resources/newsletter/how-crypto-businesses-turn-products-into-platforms",
           "published": null
-        },
-        {
-          "title": "Why onchain data needs an entity taxonomy for proper metric standardizationHow we built an entity taxonomy and metric standardization to mak",
-          "url": "https://tokenterminal.com/resources/engineering/2026-05-18-why-onchain-data-needs-an-entity-taxonomy-for-proper-metric-standardization",
-          "published": null
         }
       ],
-      "checked_at": "2026-07-02T13:32:06Z"
+      "checked_at": "2026-07-02T21:53:12Z"
     }
   ],
   "articles": [
@@ -1264,6 +1264,16 @@
       "url": "https://tokenterminal.com/resources/newsletter",
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
+      "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "71cc0f3577e2",
+      "source": "Token Terminal",
+      "tier": 2,
+      "title": "Tokenized ETFs are finding their onchain PMF + data & product updates2 Jul, 2026",
+      "url": "https://tokenterminal.com/resources/newsletter/tokenized-etfs-are-finding-their-onchain-pmf",
+      "published": null,
+      "first_seen": "2026-07-02T21:53:12Z",
       "source_url": "https://tokenterminal.com/resources"
     },
     {
