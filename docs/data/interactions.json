@@ -1,5 +1,30 @@
 [
   {
+    "from": "MoneyPrinter0x",
+    "to": "Micron",
+    "to_kind": "project",
+    "type": "authored_mention/memory_single_name_rotation",
+    "date": "2026-07-02",
+    "url": "https://x.com/MoneyPrinter0x/status/2072569606766731699",
+    "summary": "Rotated SOXL allocation into Micron around the macro-print window, reinforcing DRAM/memory as his preferred first-order AI-infrastructure equity expression.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2072569353598648536"
+    ]
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "OpenAI",
+    "to_kind": "project",
+    "type": "authored_mention/commodified_intelligence_inference_costs",
+    "date": "2026-07-02",
+    "url": "https://x.com/0xGeeGee/status/2072607311395197039",
+    "summary": "Used OpenAI inference-cost-cut coverage to argue that intelligence is becoming commoditized and that margin/value shifts toward model-operation layers such as observability, governance, orchestration, auditability, and data-boundary tooling.",
+    "quality": "high",
+    "created_tier2_candidate": false
+  },
+  {
     "from": "airtightfish",
     "to": "ryanchern",
     "to_kind": "individual",

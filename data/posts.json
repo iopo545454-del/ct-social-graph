@@ -1,6 +1,62 @@
 [
   {
     "date": "2026-07-02",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/micron_entry_macro_event_window",
+    "url": "https://x.com/MoneyPrinter0x/status/2072569353598648536",
+    "summary": "Posted a Micron buy with a 1k stop / 980 reference while quoting his prior macro/event setup around employment data and the coming macro print.",
+    "entities": [
+      "Micron",
+      "MU",
+      "macro print",
+      "employment data",
+      "event-risk trading",
+      "semiconductors"
+    ],
+    "why_logged": "Adds concrete sizing/invalidating-level evidence for the Micron/memory-semiconductor trade rather than a generic sector call.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-02",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/micron_rotation_after_soxl",
+    "url": "https://x.com/MoneyPrinter0x/status/2072569606766731699",
+    "summary": "Said he switched SOXL allocation to Micron, immediately after posting a Micron entry with a 1k stop / 980 level and waiting for the 8am macro print.",
+    "entities": [
+      "Micron",
+      "MU",
+      "SOXL",
+      "semiconductors",
+      "memory",
+      "macro print",
+      "position rotation"
+    ],
+    "why_logged": "Source-close update to MoneyPrinter0x’s process-led AI-equity/semiconductor tape: expresses the memory thesis through single-name Micron rather than broad SOXL around a macro event window.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-02",
+    "handle": "0xGeeGee",
+    "type": "authored_post/commodified_intelligence_inference_costs",
+    "url": "https://x.com/0xGeeGee/status/2072607311395197039",
+    "summary": "Argued that OpenAI inference-cost cuts point toward commodified intelligence: supply-chain constraints and open-source/Chinese model competition force cheaper runtime, erode frontier-lab margins, and shift value to the stack around models such as observability, governance, orchestration, auditability, data boundaries, and workflow-specific integrations.",
+    "entities": [
+      "OpenAI",
+      "inference costs",
+      "commodified intelligence",
+      "open-source models",
+      "Chinese models",
+      "AI observability",
+      "governance",
+      "orchestration",
+      "auditability",
+      "data boundaries"
+    ],
+    "why_logged": "High-signal continuation of 0xGeeGee’s recurring AI-inference-efficiency view, now stated as a value-migration thesis from models toward surrounding operational layers.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-07-02",
     "handle": "airtightfish",
     "type": "reply/proofmarkets_non_sports_prediction_markets",
     "url": "https://x.com/airtightfish/status/2072506598627450995",
