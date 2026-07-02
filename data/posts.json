@@ -2,6 +2,30 @@
   {
     "date": "2026-07-02",
     "handle": "MoneyPrinter0x",
+    "type": "authored_post/warsh_jobs_revision_playbook_confirmation",
+    "url": "https://x.com/MoneyPrinter0x/status/2072668896981831928",
+    "summary": "After the weak June jobs/NFP print and revisions, framed the media/Fed pivot toward trend talk as confirmation of his Warsh playbook; this followed a pre-print Micron/MU allocation and explicit macro-print waiting period.",
+    "entities": [
+      "June jobs/NFP",
+      "jobs revisions",
+      "Kevin Warsh",
+      "Federal Reserve",
+      "macro print",
+      "Micron",
+      "MU",
+      "SOXL-to-Micron rotation"
+    ],
+    "why_logged": "Completes the July 2 event window: not just the Micron entry, but the post-print thesis confirmation/risk-process framing around jobs data, revisions, and Warsh/Fed narrative timing.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2072667755254514028",
+      "https://x.com/MoneyPrinter0x/status/2072664007283241379",
+      "https://x.com/MoneyPrinter0x/status/2072650863399813357"
+    ]
+  },
+  {
+    "date": "2026-07-02",
+    "handle": "MoneyPrinter0x",
     "type": "authored_post/micron_entry_macro_event_window",
     "url": "https://x.com/MoneyPrinter0x/status/2072569353598648536",
     "summary": "Posted a Micron buy with a 1k stop / 980 reference while quoting his prior macro/event setup around employment data and the coming macro print.",
