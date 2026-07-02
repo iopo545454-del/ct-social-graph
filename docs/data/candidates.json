@@ -1,5 +1,17 @@
 [
   {
+    "handle": "jon_charb",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "kelxyz_ quote of compute-protocol tokenomics article",
+    "reason": "kelxyz_ used a Jon Charbonneau article as the anchor for a substantive compute-protocol tokenomics view. One quote/article edge only, so candidate rather than Tier 2.",
+    "evidence_urls": [
+      "https://x.com/kelxyz_/status/2072442141310173604"
+    ],
+    "first_seen": "2026-07-01",
+    "confidence": "low"
+  },
+  {
     "handle": "JTX",
     "kind": "project",
     "status": "candidate",

@@ -1,5 +1,42 @@
 [
   {
+    "date": "2026-07-02",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/neocloud_meta_derisking_structural_shift",
+    "url": "https://x.com/MoneyPrinter0x/status/2072458537566187584",
+    "summary": "Explained that he derisked more than 70% of neocloud exposure after Meta/Zuckerberg’s compute pivot, framing it as a structural shift from a major compute buyer toward seller/reseller and a short-term falling-knife setup for unprofitable future-earnings neocloud names.",
+    "entities": [
+      "Meta",
+      "Zuckerberg",
+      "neoclouds",
+      "compute buyers turning resellers",
+      "future earnings",
+      "derisking",
+      "AI datacenter capacity",
+      "CRWV"
+    ],
+    "why_logged": "Material update to MoneyPrinter0x's active neocloud/AI-equity thesis: confirms the July 1 black-swan framing with explicit >70% derisking and a structural buyer-to-reseller concern.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-07-01",
+    "handle": "kelxyz_",
+    "type": "quote/compute_protocol_tokenomics_design",
+    "url": "https://x.com/kelxyz_/status/2072442141310173604",
+    "summary": "Quoted Jon Charbonneau article context and argued future compute protocols should initially use discretionary issuance, no max supply, and automated burns; warned that Bitcoin-style proof-of-useful-work can create suspect early work capture and heavy overhangs.",
+    "entities": [
+      "compute protocols",
+      "proof of useful work",
+      "discretionary issuance",
+      "automated burns",
+      "tokenomics",
+      "Jon Charbonneau",
+      "protocol design"
+    ],
+    "why_logged": "High-signal kelxyz_ protocol-design evidence adjacent to his Pluralis/decentralized-training focus: the post specifies desired token economics and cautions against naive proof-of-work-style compute-token launches.",
+    "confidence": "high"
+  },
+  {
     "date": "2026-07-01",
     "handle": "airtightfish",
     "type": "authored_post/jtx_smart_fill_trading_tool_review",

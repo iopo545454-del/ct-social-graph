@@ -1,5 +1,31 @@
 [
   {
+    "from": "MoneyPrinter0x",
+    "to": "Meta",
+    "to_kind": "project",
+    "type": "reply/neocloud_buyer_to_reseller_structural_shift",
+    "date": "2026-07-02",
+    "url": "https://x.com/MoneyPrinter0x/status/2072475792014299396",
+    "summary": "Condensed the Meta/neocloud concern as 'buyers turning to resellers,' reinforcing his structural-risk interpretation after derisking most neocloud exposure.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2072458537566187584",
+      "https://x.com/MoneyPrinter0x/status/2072452417019650181"
+    ]
+  },
+  {
+    "from": "kelxyz_",
+    "to": "jon_charb",
+    "to_kind": "individual",
+    "type": "quote/compute_protocol_tokenomics_design",
+    "date": "2026-07-01",
+    "url": "https://x.com/kelxyz_/status/2072442141310173604",
+    "summary": "Quoted a Jon Charbonneau article while giving a concrete compute-protocol tokenomics preference: discretionary issuance, no max supply, automated burns, and caution against Bitcoin-style proof-of-useful-work overhangs.",
+    "quality": "medium",
+    "created_tier2_candidate": true
+  },
+  {
     "from": "airtightfish",
     "to": "JTX",
     "to_kind": "project",
