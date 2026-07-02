@@ -1,6 +1,28 @@
 [
   {
     "from": "MoneyPrinter0x",
+    "to": "Mag7 / MAGS",
+    "to_kind": "project",
+    "type": "reply/ai_capex_dependency_chain",
+    "date": "2026-07-02",
+    "url": "https://x.com/MoneyPrinter0x/status/2072786789727944736",
+    "summary": "Replied that Mag7 strength is a prerequisite for the next AI-capex wave and that bidding MAGS is still exposure to the same dependency chain.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "SOTA pretraining race",
+    "to_kind": "project",
+    "type": "reply/soft_landing_compute_market_structure",
+    "date": "2026-07-02",
+    "url": "https://x.com/MoneyPrinter0x/status/2072793726947336674",
+    "summary": "Agreed that the discussed setup strengthens the soft-landing case in the SOTA pretraining race, adding compute-market-structure color to the AI-capex thread.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "MoneyPrinter0x",
     "to": "Meta",
     "to_kind": "project",
     "type": "authored_mention/neocloud_structural_shift_confirmation",

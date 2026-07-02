@@ -2,6 +2,63 @@
   {
     "date": "2026-07-02",
     "handle": "MoneyPrinter0x",
+    "type": "authored_post/gold_vs_semis_mean_reversion",
+    "url": "https://x.com/MoneyPrinter0x/status/2072769478199529511",
+    "summary": "Posted XAUUSD/SOX chart arguing gold had violently bled versus QQQ/semis, was deeply oversold versus war-level and YTD momentum-spread context, and that gold/momentum mean reversion was back on the table.",
+    "entities": [
+      "XAUUSD",
+      "SOX",
+      "gold",
+      "semiconductors",
+      "QQQ",
+      "momentum mean reversion",
+      "industrial indices"
+    ],
+    "why_logged": "Adds a fresh cross-asset mean-reversion lens after the AI-equity/event-trade sequence: he is shifting from single-name neocloud/Micron risk into boring/cross-asset relative-value setup monitoring.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2072769747066974435",
+      "https://x.com/MoneyPrinter0x/status/2072769824921620653"
+    ]
+  },
+  {
+    "date": "2026-07-02",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/mag7_capex_dependency_chain",
+    "url": "https://x.com/MoneyPrinter0x/status/2072786789727944736",
+    "summary": "Agreed that Mag7 pumping first is a prerequisite for the next AI-capex wave to pump, so bidding MAGS in the meantime is still exposure to the same dependency chain.",
+    "entities": [
+      "MAGS",
+      "Mag7",
+      "AI capex",
+      "dependency chain",
+      "risk sequencing"
+    ],
+    "why_logged": "Clarifies how his defensive GOOGL/MSFT/Mag7 rotation still fits the same AI-infrastructure thesis rather than representing a full theme abandonment.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-02",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/soft_landing_sota_pretraining_race",
+    "url": "https://x.com/MoneyPrinter0x/status/2072793726947336674",
+    "summary": "Agreed with a point that strengthens the case for a soft landing in the SOTA pretraining race, extending his AI-capex/neocloud discussion into model-training competition dynamics.",
+    "entities": [
+      "SOTA pretraining",
+      "AI capex",
+      "neoclouds",
+      "soft landing",
+      "model-training race"
+    ],
+    "why_logged": "Useful because it ties the same compute-supply/capex discussion to model-training-market outcomes, not just near-term ticker rotation.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2072311830341664949"
+    ]
+  },
+  {
+    "date": "2026-07-02",
+    "handle": "MoneyPrinter0x",
     "type": "authored_post/meta_neocloud_structural_shift_confirmation",
     "url": "https://x.com/MoneyPrinter0x/status/2072736457962471616",
     "summary": "After earlier derisking most neocloud exposure around Meta/Zuckerberg compute-supply risk, reiterated that it was in fact a structural shift, not just a temporary chart move.",
