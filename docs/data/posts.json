@@ -1,6 +1,82 @@
 [
   {
     "date": "2026-07-03",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/gold_momentum_mean_reversion_trigger",
+    "url": "https://x.com/MoneyPrinter0x/status/2073010345401348169",
+    "summary": "Followed up his XAUUSD/SOX mean-reversion post by saying the reason for timing now is the worst momentum-factor destruction YTD.",
+    "entities": [
+      "gold",
+      "XAUUSD",
+      "SOX",
+      "QQQ",
+      "momentum factor",
+      "mean reversion"
+    ],
+    "why_logged": "Small source-close process update to an already logged cross-asset mean-reversion thesis; useful as the explicit trigger, not a new theme.",
+    "confidence": "low",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2072769478199529511"
+    ]
+  },
+  {
+    "date": "2026-07-03",
+    "handle": "0xGeeGee",
+    "type": "quote/ousd_alliance_member_claim_skepticism",
+    "url": "https://x.com/0xGeeGee/status/2073013088891142549",
+    "summary": "Reacted to reporting that multiple Korean companies listed in the Open USD/OUSD alliance said they had not formally joined or were confused about inclusion, a small skepticism signal around partnership/member-list claims.",
+    "entities": [
+      "Open USD",
+      "OUSD",
+      "Samsung Electronics",
+      "Dunamu",
+      "KakaoBank",
+      "Korean fintechs",
+      "partnership claims"
+    ],
+    "why_logged": "Light but useful continuation of GeeGee's incentive/disclosure diligence filter around enterprise/fintech partnership announcements; keep low weight because his caption was only 'lmao'.",
+    "confidence": "low"
+  },
+  {
+    "date": "2026-07-03",
+    "handle": "airtightfish",
+    "type": "reply/altitude_solomon_labs_account_ux_feedback",
+    "url": "https://x.com/airtightfish/status/2073048346353082865",
+    "summary": "In a crypto-card/product thread, said an Altitude integration with Solomon Labs would make him not consider anything else, but criticized the current segmented earn/spend account design as not great.",
+    "entities": [
+      "Altitude",
+      "solomon_labs",
+      "crypto cards",
+      "earn/spend account segmentation",
+      "stablecoin financial OS",
+      "product UX"
+    ],
+    "why_logged": "Concise product-taste evidence from airtightfish: he is evaluating crypto card/account products by integrated earn/spend UX, not only headline yield or card branding.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-03",
+    "handle": "AustinBarack",
+    "type": "authored_post/dydx_arcus_equity_perps_repricing_thesis",
+    "url": "https://x.com/AustinBarack/status/2073011197872386518",
+    "summary": "Argued DYDX/Arcus was under-discussed after the Robinhood crypto event: same nearly fully circulating token, full pivot into equities/commodities/indices perps, potential Robinhood distribution, $130M FDV versus Lighter at much higher valuation, and JTO-style rerating upside if execution works.",
+    "entities": [
+      "DYDX",
+      "Arcus",
+      "arcus_xyz",
+      "Robinhood",
+      "equity perps",
+      "commodity perps",
+      "index perps",
+      "Lighter",
+      "JTO",
+      "HIP-3"
+    ],
+    "why_logged": "High-signal AustinBarack venue/distribution thesis that extends the July 1 Robinhood/perps attention into a concrete project/valuation setup with execution and comparable-rerating variables.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-07-03",
     "handle": "0xGeeGee",
     "type": "authored_mention/open_weight_ai_commoditization_stack_value",
     "url": "https://x.com/0xGeeGee/status/2072969175270605005",

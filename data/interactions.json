@@ -1,6 +1,39 @@
 [
   {
     "from": "0xGeeGee",
+    "to": "Open USD / OUSD alliance",
+    "to_kind": "project",
+    "type": "quote/member_claim_skepticism",
+    "date": "2026-07-03",
+    "url": "https://x.com/0xGeeGee/status/2073013088891142549",
+    "summary": "Reacted skeptically to reporting that several Korean companies listed as OUSD alliance members said they had not formally joined or were confused about inclusion.",
+    "quality": "low",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "airtightfish",
+    "to": "Altitude / solomon_labs",
+    "to_kind": "project",
+    "type": "reply/crypto_card_account_ux_feedback",
+    "date": "2026-07-03",
+    "url": "https://x.com/airtightfish/status/2073048346353082865",
+    "summary": "Said Altitude would be hard to beat if it integrated Solomon Labs, while criticizing the current segmented earn/spend account UX.",
+    "quality": "medium",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "AustinBarack",
+    "to": "arcus_xyz / DYDX",
+    "to_kind": "project",
+    "type": "authored_mention/equity_perps_repricing_thesis",
+    "date": "2026-07-03",
+    "url": "https://x.com/AustinBarack/status/2073011197872386518",
+    "summary": "Used Robinhood inclusion, Arcus' perps pivot, low FDV versus Lighter, and JTO's prior rerating as the setup for a possible DYDX/Arcus repricing if execution works.",
+    "quality": "high",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "0xGeeGee",
     "to": "Together AI / open-weight model infra",
     "to_kind": "project",
     "type": "authored_mention/ai_commoditization_stack_value",

@@ -1,5 +1,53 @@
 [
   {
+    "handle": "arcus_xyz",
+    "kind": "project",
+    "status": "candidate",
+    "source": "AustinBarack DYDX/Arcus equity-perps repricing post",
+    "reason": "AustinBarack gave a detailed DYDX/Arcus setup around Robinhood inclusion, same-token value accrual, equity/commodity/index perps, valuation versus Lighter, and JTO-style rerating potential. One detailed project thesis only, so candidate rather than Tier 2.",
+    "evidence_urls": [
+      "https://x.com/AustinBarack/status/2073011197872386518"
+    ],
+    "first_seen": "2026-07-03",
+    "confidence": "medium"
+  },
+  {
+    "handle": "altitude",
+    "kind": "project",
+    "status": "candidate",
+    "source": "airtightfish crypto-card/account UX reply",
+    "reason": "airtightfish engaged a thread praising Altitude and gave concrete UX feedback: Solomon Labs integration would make it compelling, while segmented earn/spend accounts are not great. One product-feedback edge only.",
+    "evidence_urls": [
+      "https://x.com/airtightfish/status/2073048346353082865"
+    ],
+    "first_seen": "2026-07-03",
+    "confidence": "low"
+  },
+  {
+    "handle": "solomon_labs",
+    "kind": "project",
+    "status": "candidate",
+    "source": "airtightfish Altitude integration reply",
+    "reason": "airtightfish implied Solomon Labs integration would be a decisive improvement for a crypto card/account product. One indirect positive product edge only.",
+    "evidence_urls": [
+      "https://x.com/airtightfish/status/2073048346353082865"
+    ],
+    "first_seen": "2026-07-03",
+    "confidence": "low"
+  },
+  {
+    "handle": "Open USD / OUSD",
+    "kind": "project",
+    "status": "candidate",
+    "source": "0xGeeGee quote on Korean companies denying formal OUSD alliance membership",
+    "reason": "GeeGee reacted skeptically to reporting that listed Korean alliance members had not formally joined. Candidate/mention-ledger only because the account's own comment was terse.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2073013088891142549"
+    ],
+    "first_seen": "2026-07-03",
+    "confidence": "low"
+  },
+  {
     "handle": "jbrukh",
     "kind": "individual",
     "status": "candidate",
