@@ -1,5 +1,79 @@
 [
   {
+    "date": "2026-07-03",
+    "handle": "0xGeeGee",
+    "type": "authored_mention/open_weight_ai_commoditization_stack_value",
+    "url": "https://x.com/0xGeeGee/status/2072969175270605005",
+    "summary": "Argued that as open-weight models close the gap and intelligence costs collapse, many buyers will choose cheaper/open models rather than the absolute frontier; value should migrate to surrounding infrastructure rather than foundation-model rents.",
+    "entities": [
+      "open-weight models",
+      "AI commoditization",
+      "Together AI",
+      "Aramco Ventures",
+      "AI infrastructure stack",
+      "model routing",
+      "open-source progress"
+    ],
+    "why_logged": "Direct continuation of GeeGee's recurring AI-efficiency thesis, with a concrete Together AI / Aramco Ventures datapoint and source-close framing for why model operations/infrastructure captures value.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-07-03",
+    "handle": "MoneyPrinter0x",
+    "type": "quote/meta_ai_agent_slowdown_confirmation",
+    "url": "https://x.com/MoneyPrinter0x/status/2072974834779423209",
+    "summary": "Quoted Reuters reporting that Meta told employees AI-agent development had not accelerated as expected, captioning it as confirmation of his prior Meta/neocloud compute-demand rerating thesis.",
+    "entities": [
+      "Meta",
+      "AI agents",
+      "neoclouds",
+      "compute demand",
+      "Reuters",
+      "AI capex rerating"
+    ],
+    "why_logged": "Adds a fresh external datapoint to the July 2 Meta buyer-to-reseller / AI-capex slowdown thread rather than a standalone price call.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2072738079081984003",
+      "https://x.com/MoneyPrinter0x/status/2072736457962471616"
+    ]
+  },
+  {
+    "date": "2026-07-03",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_mention/gold_vs_qqq_semis_mean_reversion",
+    "url": "https://x.com/MoneyPrinter0x/status/2072926194396487698",
+    "summary": "Posted a gold/XAU chart after the strongest gold bleed versus QQQ and semis in 5+ years, arguing that roughly 90 days of oversold relative action made mean reversion likely.",
+    "entities": [
+      "XAU",
+      "gold",
+      "QQQ",
+      "semiconductors",
+      "mean reversion",
+      "cross-asset rotation"
+    ],
+    "why_logged": "Useful process evidence for his cross-asset rotation lens after the AI-equity/neocloud reset: he is comparing gold, QQQ, and semis rather than only trading isolated crypto tickers.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2072769478199529511"
+    ]
+  },
+  {
+    "date": "2026-07-03",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_mention/crypto_regulatory_lobbying_incentive_window",
+    "url": "https://x.com/MoneyPrinter0x/status/2072955876495987082",
+    "summary": "Argued that crypto-regulatory lobbying incentives may weaken after 2028 because the major political/financial extraction window is already done and marginal returns diminish versus cost.",
+    "entities": [
+      "crypto regulation",
+      "lobbying incentives",
+      "2028 policy window",
+      "political economy"
+    ],
+    "why_logged": "Source-close policy/process view that may matter for how long he expects crypto regulatory tailwinds to persist; keep as a low-frequency context note, not a project thesis.",
+    "confidence": "low"
+  },
+  {
     "date": "2026-07-02",
     "handle": "MoneyPrinter0x",
     "type": "reply/ai_capex_rerating_meta_compute_shift",

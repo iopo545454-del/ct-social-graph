@@ -1,5 +1,30 @@
 [
   {
+    "from": "0xGeeGee",
+    "to": "Together AI / open-weight model infra",
+    "to_kind": "project",
+    "type": "authored_mention/ai_commoditization_stack_value",
+    "date": "2026-07-03",
+    "url": "https://x.com/0xGeeGee/status/2072969175270605005",
+    "summary": "Used Together AI's Aramco Ventures backing and open-weight progress chart to argue value migrates to the infra stack as frontier intelligence commoditizes.",
+    "quality": "high",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "Meta / AI agents",
+    "to_kind": "project",
+    "type": "quote/ai_agent_slowdown_confirmation",
+    "date": "2026-07-03",
+    "url": "https://x.com/MoneyPrinter0x/status/2072974834779423209",
+    "summary": "Quoted Meta AI-agent slowdown reporting as confirmation of his prior compute-demand/neocloud rerating thesis.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2072738079081984003"
+    ]
+  },
+  {
     "from": "MoneyPrinter0x",
     "to": "Meta / AI compute demand",
     "to_kind": "project",
