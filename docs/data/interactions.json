@@ -1,6 +1,58 @@
 [
   {
     "from": "0xGeeGee",
+    "to": "power/grid trade",
+    "to_kind": "project",
+    "type": "quote/electricity_demand_power_trade",
+    "date": "2026-07-03",
+    "url": "https://x.com/0xGeeGee/status/2073052938998526199",
+    "summary": "Agreed that electricity-demand projections are not overblown and framed inadequate grid capacity as reason to send the power trade higher.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "blknoiz06",
+    "to_kind": "individual",
+    "type": "reply/ai_capex_signal_flow_seasonality_filter",
+    "date": "2026-07-03",
+    "url": "https://x.com/MoneyPrinter0x/status/2073104192378708412",
+    "summary": "In a reply involving blknoiz06, discussed how to weight SemiAnalysis/Serenity-style AI-capex sources by sector seasonality and argued for seasonality-neutral, cross-sector signal-flow construction.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "promoted_tier2": true,
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2072073125991497772"
+    ]
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "HyperliquidX",
+    "to_kind": "project",
+    "type": "quote/hype_70_revenue_supply_followup",
+    "date": "2026-07-03",
+    "url": "https://x.com/MoneyPrinter0x/status/2073073379981328719",
+    "summary": "Quoted HYPE reclaiming $70 and followed up that Hyperliquid is one of a kind versus BTC/QQQ overlays because revenue keeps going and supply is in good hands.",
+    "quality": "high",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2073094600538128744",
+      "https://x.com/MoneyPrinter0x/status/2073090462450381059"
+    ]
+  },
+  {
+    "from": "AustinBarack",
+    "to": "AskVenice",
+    "to_kind": "project",
+    "type": "authored_mention/vvv_value_capture_defense",
+    "date": "2026-07-03",
+    "url": "https://x.com/AustinBarack/status/2073106009468314105",
+    "summary": "Defended Venice/VVV token value capture despite equity/token concerns, citing disciplined team behavior, large token treasury, PMF/growth, and VVV centrality to the crypto x AI setup.",
+    "quality": "high",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "0xGeeGee",
     "to": "Open USD / OUSD alliance",
     "to_kind": "project",
     "type": "quote/member_claim_skepticism",

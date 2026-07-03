@@ -145,5 +145,12 @@
     "kind": "project",
     "status": "tracked",
     "reason": "Repeated 0xGeeGee evidence around Shift/ltLLP: initial cozy-farm quote plus July 1 weekly-update reply saying he remains an ltLLP user/enjoyer."
+  },
+  {
+    "handle": "blknoiz06",
+    "tier": 2,
+    "kind": "individual",
+    "status": "tracked",
+    "reason": "Repeated MoneyPrinter0x evidence: first called blknoiz06's memecoin market-structure thesis genuinely sharp, then replied substantively on semis/AI-capex source seasonality and seasonality-neutral signal-flow construction."
   }
 ]

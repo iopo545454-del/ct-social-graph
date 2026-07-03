@@ -2,6 +2,152 @@
   {
     "date": "2026-07-03",
     "handle": "MoneyPrinter0x",
+    "type": "reply/ai_capex_signal_flow_seasonality_filter",
+    "url": "https://x.com/MoneyPrinter0x/status/2073104192378708412",
+    "summary": "Replying to blknoiz06 and others, said SemiAnalysis is strong when semis/capex are in season, Serenity is very good in AI-capex seasons but may struggle in changing conditions, and that signal flow should be constructed seasonality-neutrally and cross-sectionally across sectors.",
+    "entities": [
+      "blknoiz06",
+      "SemiAnalysis",
+      "Serenity",
+      "AI capex",
+      "semiconductors",
+      "seasonality-neutral signal flow",
+      "cross-sector capital management"
+    ],
+    "why_logged": "High-signal process evidence for how he weights research voices and avoids overfitting AI-capex sources to favorable sector seasons; also second substantive blknoiz06 edge.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-03",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/onchain_memecoin_revival_z_coin",
+    "url": "https://x.com/MoneyPrinter0x/status/2073110339496058968",
+    "summary": "Argued that z's coin reaching $1B+ is probably the ecosystem's best shot at reviving onchain liquidity, analogizing it to Pauly/PEPE sparking prior bear-market onchain rallies and later Genslr/HarryPotter/XRP-style follow-through.",
+    "entities": [
+      "z's coin",
+      "onchain liquidity",
+      "memecoins",
+      "PEPE",
+      "Pauly",
+      "Genslr",
+      "HarryPotter",
+      "XRP",
+      "2023 bear-market onchain rally"
+    ],
+    "why_logged": "Material continuation of the new memecoin/onchain-liquidity respect edge, now as MoneyPrinter0x’s own market-structure claim rather than only praise of another thread.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2072073125991497772",
+      "https://x.com/MoneyPrinter0x/status/2073106648592527780"
+    ]
+  },
+  {
+    "date": "2026-07-03",
+    "handle": "0xGeeGee",
+    "type": "quote/electricity_demand_power_trade",
+    "url": "https://x.com/0xGeeGee/status/2073052938998526199",
+    "summary": "Agreed with a post that electricity-demand projections are not overblown, saying the grid is already insufficient for air conditioners and to send the power trade higher.",
+    "entities": [
+      "electricity demand",
+      "grid capacity",
+      "power trade",
+      "AI power demand",
+      "air conditioners"
+    ],
+    "why_logged": "Adds a compact but explicit power/grid demand expression adjacent to the AI-infrastructure and datacenter-capacity bucket.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-03",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/hype_sol_allocation_preference",
+    "url": "https://x.com/MoneyPrinter0x/status/2073090462450381059",
+    "summary": "In a HYPE/SOL allocation discussion, said the best risk/reward is roughly 80% HYPE and 20% SOL, keeping HYPE as his primary crypto infrastructure exposure and SOL as secondary/tactical.",
+    "entities": [
+      "HYPE",
+      "Hyperliquid",
+      "SOL",
+      "Solana",
+      "portfolio allocation",
+      "risk/reward"
+    ],
+    "why_logged": "Direct allocation hierarchy update inside the repeated HYPE-vs-SOL / right-curve-left-curve framework.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2070604794377719998"
+    ]
+  },
+  {
+    "date": "2026-07-03",
+    "handle": "MoneyPrinter0x",
+    "type": "quote/hyperliquid_hype_70_revenue_supply_followup",
+    "url": "https://x.com/MoneyPrinter0x/status/2073073379981328719",
+    "summary": "Quoted HYPE reclaiming $70; follow-up said Hyperliquid is one of a kind when overlaid against BTC or QQQ, with revenue continuing and supply in good hands with Jeff.",
+    "entities": [
+      "Hyperliquid",
+      "HYPE",
+      "$70 HYPE",
+      "BTC overlay",
+      "QQQ overlay",
+      "protocol revenue",
+      "supply management",
+      "Jeff"
+    ],
+    "why_logged": "Adds a more fundamental/revenue-supply note to his repeated HYPE preference, not just a chart or allocation quip.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2073094600538128744",
+      "https://x.com/MoneyPrinter0x/status/2073090462450381059"
+    ]
+  },
+  {
+    "date": "2026-07-03",
+    "handle": "AustinBarack",
+    "type": "authored_post/venice_vvv_value_capture_defense",
+    "url": "https://x.com/AustinBarack/status/2073106009468314105",
+    "summary": "Defended Venice/VVV value capture after equity/token concerns: argued the team has been disciplined, holds $400M+ in tokens versus $65M raised, has explosive PMF/growth, and that VVV remains central to one of the two most compelling crypto x AI token setups.",
+    "entities": [
+      "AskVenice",
+      "Venice",
+      "VVV",
+      "consumer AI",
+      "crypto x AI",
+      "token value capture",
+      "PMF",
+      "team treasury"
+    ],
+    "why_logged": "High-signal continuation of AustinBarack’s repeated Venice/VVV thesis, now focused on equity-vs-token value-capture objections rather than only usage or financing.",
+    "confidence": "high",
+    "related_urls": [
+      "https://x.com/AustinBarack/status/2072348879283011767"
+    ]
+  },
+  {
+    "date": "2026-07-03",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/qqq_chop_gold_mean_reversion_update",
+    "url": "https://x.com/MoneyPrinter0x/status/2073098469913555150",
+    "summary": "Updated the gold-vs-tech setup: expects QQQ to chop for weeks around the Anthropic IPO window, broader tech returns to disperse, and XAU/GLD to outperform as an oversold mean-reversion / partial hedge expression after rate-hike probabilities became crowded.",
+    "entities": [
+      "QQQ",
+      "Anthropic IPO window",
+      "XAU",
+      "GLD",
+      "gold",
+      "tech return dispersion",
+      "mean reversion",
+      "rate-hike probabilities"
+    ],
+    "why_logged": "Material continuation of the July 2-3 gold/semis/QQQ cross-asset thesis with clearer timing, hedge role, and market-structure framing.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2072769478199529511",
+      "https://x.com/MoneyPrinter0x/status/2073100939112955941"
+    ]
+  },
+  {
+    "date": "2026-07-03",
+    "handle": "MoneyPrinter0x",
     "type": "reply/gold_momentum_mean_reversion_trigger",
     "url": "https://x.com/MoneyPrinter0x/status/2073010345401348169",
     "summary": "Followed up his XAUUSD/SOX mean-reversion post by saying the reason for timing now is the worst momentum-factor destruction YTD.",

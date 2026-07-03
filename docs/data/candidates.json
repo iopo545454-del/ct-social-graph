@@ -125,14 +125,16 @@
   {
     "handle": "blknoiz06",
     "kind": "individual",
-    "status": "candidate",
+    "status": "promoted_to_tier2",
     "source": "MoneyPrinter0x quote/praise of memecoin market-structure thread",
-    "reason": "MoneyPrinter0x called blknoiz06's long memecoin thesis genuinely sharp and said it made him want to bid despite being less active onchain. One respect/market-structure edge only, so candidate rather than Tier 2.",
+    "reason": "Promoted after repeated MoneyPrinter0x evidence: earlier praise of blknoiz06's long memecoin market-structure thesis plus July 3 substantive reply on semis/AI-capex source seasonality and cross-sectional signal-flow construction.",
     "evidence_urls": [
-      "https://x.com/MoneyPrinter0x/status/2072073125991497772"
+      "https://x.com/MoneyPrinter0x/status/2072073125991497772",
+      "https://x.com/MoneyPrinter0x/status/2073104192378708412"
     ],
     "first_seen": "2026-06-30",
-    "confidence": "low"
+    "confidence": "low",
+    "promoted_at": "2026-07-03"
   },
   {
     "handle": "jvb_xyz",
