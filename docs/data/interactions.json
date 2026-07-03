@@ -1,6 +1,50 @@
 [
   {
     "from": "MoneyPrinter0x",
+    "to": "Meta / AI compute demand",
+    "to_kind": "project",
+    "type": "reply/ai_capex_rerating",
+    "date": "2026-07-02",
+    "url": "https://x.com/MoneyPrinter0x/status/2072738079081984003",
+    "summary": "Explained the AI-stack selloff through Meta's move from marginal compute buyer to reseller plus memory-cycle stress, framing it as a forward-looking capex-demand rerating.",
+    "quality": "high",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "NEOS / AI-equity holders",
+    "to_kind": "project",
+    "type": "reply/derisking_put_hedge",
+    "date": "2026-07-02",
+    "url": "https://x.com/MoneyPrinter0x/status/2072778365317288384",
+    "summary": "After prior NEOS derisking warnings, suggested holders use any bounce to buy OTM puts as hedge amid the AI-equity selloff.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "ShiftProtocol_ / ltLLP",
+    "to_kind": "project",
+    "type": "quote/managed_defi_wrapper_preference",
+    "date": "2026-07-02",
+    "url": "https://x.com/0xGeeGee/status/2072684666654429260",
+    "summary": "Reiterated preference for long-term LP / ltLLP exposure over perp-DEX points farming, adding a continuation point for the Shift/ltLLP wrapper edge.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "kelxyz_",
+    "to": "jbrukh",
+    "to_kind": "individual",
+    "type": "reply/decentralized_ai_training_in_space",
+    "date": "2026-07-03",
+    "url": "https://x.com/i/status/2072859713205580172",
+    "summary": "Replied positively to jbrukh's decentralized-AI-training-in-space article/post, calling it a maybe-10-year-out idea that will eventually go crazy.",
+    "quality": "medium",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "MoneyPrinter0x",
     "to": "Mag7 / MAGS",
     "to_kind": "project",
     "type": "reply/ai_capex_dependency_chain",

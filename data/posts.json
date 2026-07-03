@@ -2,6 +2,80 @@
   {
     "date": "2026-07-02",
     "handle": "MoneyPrinter0x",
+    "type": "reply/ai_capex_rerating_meta_compute_shift",
+    "url": "https://x.com/MoneyPrinter0x/status/2072738079081984003",
+    "summary": "Explained the AI-stack selloff as a combination of Apple/memory-cycle price shift and the market catching up to Meta leaving the SOTA pretraining race / moving from marginal compute buyer to compute reseller, forcing an AI-capex-demand rerating.",
+    "entities": [
+      "Meta",
+      "SOTA pretraining",
+      "compute resellers",
+      "AI capex",
+      "SOXL",
+      "memory cycle",
+      "hyperscaler demand"
+    ],
+    "why_logged": "Adds the clearest causal explanation for his July 2 neocloud derisking/structural-shift thread, tying the trade tape to forward-looking compute-demand assumptions rather than just chart weakness.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2072740342089351245",
+      "https://x.com/MoneyPrinter0x/status/2072736457962471616"
+    ]
+  },
+  {
+    "date": "2026-07-02",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/neos_derisking_and_put_hedge_process",
+    "url": "https://x.com/MoneyPrinter0x/status/2072778365317288384",
+    "summary": "After warning on NEOS around the Zuckerberg/Meta sector-level shock, said the market was nuking and suggested that holders who get a Monday bounce could consider buying OTM puts as a hedge rather than passively holding risk.",
+    "entities": [
+      "NEOS",
+      "Meta/Zuckerberg shock",
+      "OTM puts",
+      "hedging",
+      "derisking",
+      "AI equities"
+    ],
+    "why_logged": "Useful source-close process evidence: he pairs thematic selloff analysis with concrete hedge/risk-management instructions instead of only post-hoc market commentary.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-02",
+    "handle": "0xGeeGee",
+    "type": "authored_quote/ltllp_over_points_farming",
+    "url": "https://x.com/0xGeeGee/status/2072684666654429260",
+    "summary": "Reiterated the earlier ltLLP preference by joking that he is a long-term LP enjoyer instead of farming points on perp DEXs.",
+    "entities": [
+      "Shift Protocol",
+      "ltLLP",
+      "LIT",
+      "perp DEX points",
+      "DeFi farming wrappers"
+    ],
+    "why_logged": "Adds another small but direct continuation point for the promoted Shift/ltLLP DeFi-wrapper preference.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/0xGeeGee/status/2072278709231329772"
+    ]
+  },
+  {
+    "date": "2026-07-03",
+    "handle": "kelxyz_",
+    "type": "reply/decentralized_ai_training_in_space",
+    "url": "https://x.com/i/status/2072859713205580172",
+    "summary": "Replying to jbrukh's decentralized-AI-training-in-space post/article, said the idea is going to go crazy someday, maybe 10 years out, reinforcing a long-horizon distributed-training imagination rather than near-term launch evidence.",
+    "entities": [
+      "decentralized AI training",
+      "space compute",
+      "distributed training",
+      "long-horizon AI infrastructure",
+      "jbrukh"
+    ],
+    "why_logged": "Extends kelxyz_'s Pluralis/distributed-training taste map into a long-term physical/space compute edge; keep light because it is an aspirational reply, not immediate project diligence.",
+    "confidence": "low"
+  },
+  {
+    "date": "2026-07-02",
+    "handle": "MoneyPrinter0x",
     "type": "authored_post/gold_vs_semis_mean_reversion",
     "url": "https://x.com/MoneyPrinter0x/status/2072769478199529511",
     "summary": "Posted XAUUSD/SOX chart arguing gold had violently bled versus QQQ/semis, was deeply oversold versus war-level and YTD momentum-spread context, and that gold/momentum mean reversion was back on the table.",
