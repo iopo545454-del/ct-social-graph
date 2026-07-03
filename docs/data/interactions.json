@@ -1,5 +1,35 @@
 [
   {
+    "from": "MoneyPrinter0x",
+    "to": "ANSEM / z's coin",
+    "to_kind": "project",
+    "type": "reply/memecoin_public_bundle_market_structure",
+    "date": "2026-07-03",
+    "url": "https://x.com/MoneyPrinter0x/status/2073164347795538256",
+    "summary": "Defended ANSEM/z's coin style public-bundle memecoin mechanics against criticism, arguing hidden private bundles and anti-retail tooling make this more realistic for reviving onchain liquidity than older community-coin ideals.",
+    "quality": "medium",
+    "created_tier2_candidate": true,
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2073120666602397781",
+      "https://x.com/MoneyPrinter0x/status/2073166699713733032"
+    ]
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "HyperliquidX",
+    "to_kind": "project",
+    "type": "quote/long_horizon_hype_conviction",
+    "date": "2026-07-03",
+    "url": "https://x.com/MoneyPrinter0x/status/2073154257520677017",
+    "summary": "Reiterated Hyperliquid/HYPE conviction by quoting a prior $200–250 by Q2 2027 view and saying HYPE is the one crypto asset he believes in more than BTC.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2073073379981328719",
+      "https://x.com/MoneyPrinter0x/status/2073090462450381059"
+    ]
+  },
+  {
     "from": "0xGeeGee",
     "to": "power/grid trade",
     "to_kind": "project",

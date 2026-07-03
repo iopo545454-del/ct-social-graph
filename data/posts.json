@@ -2,6 +2,71 @@
   {
     "date": "2026-07-03",
     "handle": "MoneyPrinter0x",
+    "type": "reply/memecoin_meta_public_bundle_thesis",
+    "url": "https://x.com/MoneyPrinter0x/status/2073164347795538256",
+    "summary": "In a reply defending the ANSEM/z's coin setup, argued that invisible multiwallet bundling and low-social-capital launches have made old community memecoins structurally worse; large public/social-capital-backed bundles may be the current onchain ecosystem's best shot at reviving attention and liquidity, even if the form is not ideal.",
+    "entities": [
+      "ANSEM",
+      "z's coin",
+      "memecoins",
+      "public bundles",
+      "social capital",
+      "onchain liquidity",
+      "anti-retail tooling",
+      "community memecoin meta"
+    ],
+    "why_logged": "Substantive market-structure reply that turns the earlier z's coin/onchain-liquidity mention into a clearer thesis about memecoin launch mechanics and why public bundles may raise price ceilings versus invisible private bundles.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2073120666602397781",
+      "https://x.com/MoneyPrinter0x/status/2073110339496058968"
+    ]
+  },
+  {
+    "date": "2026-07-03",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/memecoin_public_bundle_design",
+    "url": "https://x.com/MoneyPrinter0x/status/2073166699713733032",
+    "summary": "Expanded the memecoin-meta thesis: traditional community memecoins are disadvantaged by sophisticated hidden bundling, while big public bundles backed by social capital plus smart-contract/oracle-based distribution to pushers could create higher ceilings and better alignment with current onchain reality.",
+    "entities": [
+      "memecoins",
+      "public bundles",
+      "smart-contract distribution",
+      "oracles",
+      "pushers",
+      "social capital",
+      "onchain revival"
+    ],
+    "why_logged": "Follow-up authored post gives concrete mechanism/design language for the same onchain-revival thesis, useful for the chronological evidence tape.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2073164347795538256",
+      "https://x.com/MoneyPrinter0x/status/2073167557004349856"
+    ]
+  },
+  {
+    "date": "2026-07-03",
+    "handle": "MoneyPrinter0x",
+    "type": "quote/hyperliquid_long_horizon_conviction",
+    "url": "https://x.com/MoneyPrinter0x/status/2073154257520677017",
+    "summary": "Posted a terse 'Hyperliquid.' while quoting his prior call for HYPE to reach $200–250 by Q2 2027 and saying it is the one crypto asset he believes in more than BTC.",
+    "entities": [
+      "Hyperliquid",
+      "HYPE",
+      "BTC",
+      "$200-250 HYPE",
+      "Q2 2027"
+    ],
+    "why_logged": "Clear continuation of MoneyPrinter0x's high-conviction Hyperliquid/HYPE hierarchy, now with a dated long-horizon target quote attached.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2073073379981328719",
+      "https://x.com/MoneyPrinter0x/status/2073090462450381059"
+    ]
+  },
+  {
+    "date": "2026-07-03",
+    "handle": "MoneyPrinter0x",
     "type": "reply/ai_capex_signal_flow_seasonality_filter",
     "url": "https://x.com/MoneyPrinter0x/status/2073104192378708412",
     "summary": "Replying to blknoiz06 and others, said SemiAnalysis is strong when semis/capex are in season, Serenity is very good in AI-capex seasons but may struggle in changing conditions, and that signal flow should be constructed seasonality-neutrally and cross-sectionally across sectors.",
