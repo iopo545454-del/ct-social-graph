@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-07-04",
-  "profile_updated_at": "2026-07-04T00:20:00Z",
+  "profile_updated_at": "2026-07-04T06:52:46Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -1100,14 +1100,16 @@
         "social-capital-backed launches",
         "anti-retail onchain tooling"
       ],
-      "summary": "MoneyPrinter0x now has repeated memecoin/onchain-liquidity evidence: first he called blknoiz06's long memecoin thesis genuinely sharp, then on July 3 argued that z's coin reaching $1B+ may be the ecosystem's best shot at a PEPE-like onchain revival. Keep this as market-structure/onchain-liquidity attention, not a broad memecoin basket endorsement. Late July 3 update strengthens this bucket: MoneyPrinter0x defended ANSEM/z's coin as a pragmatic response to hidden private bundles and anti-retail tooling, arguing public/social-capital-backed bundles may be the best available onchain-liquidity revival mechanism despite not matching old community-coin ideals.",
+      "summary": "MoneyPrinter0x now has repeated memecoin/onchain-liquidity evidence: first he called blknoiz06's long memecoin thesis genuinely sharp, then on July 3 argued that z's coin reaching $1B+ may be the ecosystem's best shot at a PEPE-like onchain revival. Keep this as market-structure/onchain-liquidity attention, not a broad memecoin basket endorsement. Late July 3 update strengthens this bucket: MoneyPrinter0x defended ANSEM/z's coin as a pragmatic response to hidden private bundles and anti-retail tooling, arguing public/social-capital-backed bundles may be the best available onchain-liquidity revival mechanism despite not matching old community-coin ideals. Follow-up replies preserve the same read while adding coordinated promoter labor and adversarial protocol design as constraints.",
       "evidence_urls": [
         "https://x.com/MoneyPrinter0x/status/2072073125991497772",
         "https://x.com/MoneyPrinter0x/status/2073110339496058968",
         "https://x.com/MoneyPrinter0x/status/2073106648592527780",
         "https://x.com/MoneyPrinter0x/status/2073164347795538256",
         "https://x.com/MoneyPrinter0x/status/2073166699713733032",
-        "https://x.com/MoneyPrinter0x/status/2073167557004349856"
+        "https://x.com/MoneyPrinter0x/status/2073167557004349856",
+        "https://x.com/MoneyPrinter0x/status/2073159262424162582",
+        "https://x.com/MoneyPrinter0x/status/2073169873862332858"
       ],
       "momentum": "rising",
       "confidence": "medium"
@@ -1122,16 +1124,20 @@
         "ANSEM / z coin",
         "public bundles",
         "reverse community allocation",
-        "social-capital distribution"
+        "social-capital distribution",
+        "protocol attackability",
+        "referrer/oracle distribution"
       ],
-      "summary": "MoneyPrinter0x is treating ANSEM/z coin as a live example of how onchain liquidity might revive through attention-reflexive public bundles and post-pump social-capital allocation to pushers. Keep this as a light, source-close market-structure bucket because it is memecoin-specific and not a durable project endorsement yet.",
+      "summary": "MoneyPrinter0x is treating ANSEM/z coin as a live example of how onchain liquidity might revive through attention-reflexive public bundles and post-pump social-capital allocation to pushers. Keep this as a light, source-close market-structure bucket because it is memecoin-specific and not a durable project endorsement yet. New reply-level evidence adds nuance: MoneyPrinter0x frames the setup as a coordinated onchain group project, but also flags naive automated/referrer/oracle allocation designs as attackable within minutes.",
       "evidence_urls": [
         "https://x.com/MoneyPrinter0x/status/2073110339496058968",
         "https://x.com/MoneyPrinter0x/status/2073120666602397781",
         "https://x.com/MoneyPrinter0x/status/2073164347795538256",
         "https://x.com/MoneyPrinter0x/status/2073166699713733032",
         "https://x.com/MoneyPrinter0x/status/2073167557004349856",
-        "https://x.com/MoneyPrinter0x/status/2073157832867004454"
+        "https://x.com/MoneyPrinter0x/status/2073157832867004454",
+        "https://x.com/MoneyPrinter0x/status/2073159262424162582",
+        "https://x.com/MoneyPrinter0x/status/2073169873862332858"
       ],
       "momentum": "emerging",
       "confidence": "medium"
@@ -1242,6 +1248,7 @@
     "Track whether MoneyPrinter0x's z's coin/onchain-revival claim follows through in actual onchain liquidity or remains a one-day memecoin market-structure read.",
     "Track whether GeeGee's power-trade quote becomes a recurring grid/electricity-demand theme or stays a one-off AI-infra-adjacent macro expression.",
     "Track whether MoneyPrinter0x's ANSEM/z's coin public-bundle thesis becomes a repeated onchain-liquidity framework or stays a one-day memecoin discussion.",
-    "Track whether MoneyPrinter0x's $200–250/Q2 2027 HYPE quote gets repeated with fundamentals or stays a conviction repost."
+    "Track whether MoneyPrinter0x's $200–250/Q2 2027 HYPE quote gets repeated with fundamentals or stays a conviction repost.",
+    "Watch whether MoneyPrinter0x moves from social-capital public bundles to a concrete attack-resistant allocation design for memecoin promoters."
   ]
 }

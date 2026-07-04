@@ -1,6 +1,51 @@
 [
   {
     "date": "2026-07-03",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/memecoin_protocol_attackability",
+    "url": "https://x.com/MoneyPrinter0x/status/2073169873862332858",
+    "summary": "In a reply on possible automated/oracle/referrer distribution for memecoin promoters, said a proposed protocol design was not good enough because he could attack it within minutes.",
+    "entities": [
+      "ANSEM",
+      "z coin",
+      "memecoins",
+      "oracle distribution",
+      "referrer tracking",
+      "protocol attackability",
+      "adversarial design"
+    ],
+    "why_logged": "Useful caveat on his own reverse-community-allocation idea: he wants automation, but treats naive contribution-measurement protocols as immediately gameable.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2073166699713733032",
+      "https://x.com/MoneyPrinter0x/status/2073167557004349856"
+    ]
+  },
+  {
+    "date": "2026-07-03",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/memecoin_group_project_attention_mechanics",
+    "url": "https://x.com/MoneyPrinter0x/status/2073159262424162582",
+    "summary": "Follow-up under the ANSEM/z coin discussion: framed a supply-controlled memecoin with public distribution as a 'group project' where poor/hungry onchain participants push hard enough to bring attention and liquidity back.",
+    "entities": [
+      "ANSEM",
+      "z coin",
+      "memecoins",
+      "public bundles",
+      "onchain liquidity",
+      "attention coordination",
+      "social-capital distribution"
+    ],
+    "why_logged": "Adds source-close color to the already logged public-bundle thesis: he is not just watching price, but describing how coordinated promoter/community labor could restart onchain liquidity.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2073157832867004454",
+      "https://x.com/MoneyPrinter0x/status/2073164347795538256",
+      "https://x.com/MoneyPrinter0x/status/2073166699713733032"
+    ]
+  },
+  {
+    "date": "2026-07-03",
     "handle": "0xGeeGee",
     "type": "reply/frontier_model_f1_analogy",
     "url": "https://x.com/0xGeeGee/status/2073120782088122639",

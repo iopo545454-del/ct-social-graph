@@ -1,5 +1,35 @@
 [
   {
+    "from": "MoneyPrinter0x",
+    "to": "ANSEM / z's coin",
+    "to_kind": "project",
+    "type": "reply/memecoin_distribution_protocol_attackability",
+    "date": "2026-07-03",
+    "url": "https://x.com/MoneyPrinter0x/status/2073169873862332858",
+    "summary": "Added an adversarial-design caveat to the reverse-community-allocation idea, rejecting a proposed automation/protocol approach as attackable within minutes.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2073166699713733032",
+      "https://x.com/MoneyPrinter0x/status/2073167557004349856"
+    ]
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "ANSEM / z's coin",
+    "to_kind": "project",
+    "type": "reply/memecoin_group_project_attention_mechanics",
+    "date": "2026-07-03",
+    "url": "https://x.com/MoneyPrinter0x/status/2073159262424162582",
+    "summary": "Expanded the public-bundle thesis by describing supply-controlled ANSEM/z coin as a group project: public distribution plus collective pushing could bring deep-bear onchain liquidity back to light.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2073157832867004454",
+      "https://x.com/MoneyPrinter0x/status/2073164347795538256"
+    ]
+  },
+  {
     "from": "0xGeeGee",
     "to": "open-weight / frontier model stack",
     "to_kind": "project",
