@@ -1,6 +1,71 @@
 [
   {
     "date": "2026-07-03",
+    "handle": "0xGeeGee",
+    "type": "reply/frontier_model_f1_analogy",
+    "url": "https://x.com/0xGeeGee/status/2073120782088122639",
+    "summary": "Clarified his open-weight / AI commoditization view with a Formula 1 analogy: frontier models still matter for race-level tasks, but most daily tasks should not need the highest-performance model as cheaper/open alternatives improve.",
+    "entities": [
+      "frontier AI models",
+      "open-weight models",
+      "AI commoditization",
+      "model routing",
+      "cost-aware AI usage",
+      "Formula 1 analogy"
+    ],
+    "why_logged": "Small but high-clarity follow-up to the same July 3 Together AI/open-weight infrastructure thesis; preserves the practical use-case distinction behind his model-cost view.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/0xGeeGee/status/2072969175270605005"
+    ]
+  },
+  {
+    "date": "2026-07-03",
+    "handle": "MoneyPrinter0x",
+    "type": "quote/ansem_attention_reflexivity_followup",
+    "url": "https://x.com/MoneyPrinter0x/status/2073157832867004454",
+    "summary": "Shared ANSEM market-cap follow-through and framed both hatred and promotion as attention that can push a supply-controlled coin higher; a follow-up said there is no bad PR, only attention.",
+    "entities": [
+      "ANSEM",
+      "z coin",
+      "memecoins",
+      "attention reflexivity",
+      "supply control",
+      "onchain liquidity revival"
+    ],
+    "why_logged": "Useful continuation of the same memecoin market-structure read, showing the mechanism he thinks is working in the live tape rather than only the abstract design.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2073158413518065858",
+      "https://x.com/MoneyPrinter0x/status/2073123928885834086"
+    ]
+  },
+  {
+    "date": "2026-07-03",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_thread/memecoin_reverse_community_allocation_design",
+    "url": "https://x.com/MoneyPrinter0x/status/2073167557004349856",
+    "summary": "Extended the ANSEM/z coin memecoin thesis into a concrete “reverse community allocation” design: instead of hidden early snipers owning supply, public/social-capital-backed distribution would reward real pushers after attention and price arrive, potentially automated by contracts/oracles.",
+    "entities": [
+      "ANSEM",
+      "z coin",
+      "memecoins",
+      "reverse community allocation",
+      "public bundles",
+      "social capital",
+      "Chainlink/oracles",
+      "onchain liquidity"
+    ],
+    "why_logged": "Adds mechanism/design detail to the already logged public-bundle memecoin thesis and keeps the source evidence close for the mention tape.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2073166699713733032",
+      "https://x.com/MoneyPrinter0x/status/2073167892506689871",
+      "https://x.com/MoneyPrinter0x/status/2073168938264068528"
+    ]
+  },
+  {
+    "date": "2026-07-03",
     "handle": "MoneyPrinter0x",
     "type": "reply/memecoin_meta_public_bundle_thesis",
     "url": "https://x.com/MoneyPrinter0x/status/2073164347795538256",

@@ -1,5 +1,34 @@
 [
   {
+    "from": "0xGeeGee",
+    "to": "open-weight / frontier model stack",
+    "to_kind": "project",
+    "type": "reply/frontier_model_use_case_boundary",
+    "date": "2026-07-03",
+    "url": "https://x.com/0xGeeGee/status/2073120782088122639",
+    "summary": "In a reply under his Together AI/open-weight thesis, used an F1-vs-supermarket analogy to separate frontier-model race use cases from cheaper everyday model use cases.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/0xGeeGee/status/2072969175270605005"
+    ]
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "ANSEM / z's coin",
+    "to_kind": "project",
+    "type": "authored_thread/reverse_community_allocation_design",
+    "date": "2026-07-03",
+    "url": "https://x.com/MoneyPrinter0x/status/2073167557004349856",
+    "summary": "Expanded the ANSEM/z coin public-bundle thesis into a design where supply is distributed to pushers after attention/price rather than captured by invisible early bundles, using contracts/oracles/social capital as allocation machinery.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2073166699713733032",
+      "https://x.com/MoneyPrinter0x/status/2073167892506689871"
+    ]
+  },
+  {
     "from": "MoneyPrinter0x",
     "to": "ANSEM / z's coin",
     "to_kind": "project",
