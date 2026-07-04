@@ -1,5 +1,51 @@
 [
   {
+    "date": "2026-07-04",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_thread/ansem_backlash_onchain_wealth_effect",
+    "url": "https://x.com/MoneyPrinter0x/status/2073332669308608605",
+    "summary": "After ANSEM/z coin ran from roughly $140M to $390M after his prior post, acknowledged community backlash, said he would stop discussing it out of respect, and preserved the thesis that a big onchain winner can create PEPE-like wealth-effect attention.",
+    "entities": [
+      "ANSEM",
+      "z coin",
+      "memecoins",
+      "onchain liquidity",
+      "PEPE wealth effect",
+      "community backlash",
+      "influencer coins"
+    ],
+    "why_logged": "Source-close continuation of the July 3 memecoin/onchain-liquidity thesis; useful because it shows him tempering public commentary in response to ethics/community backlash rather than only pushing the trade.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2073334070986346802",
+      "https://x.com/MoneyPrinter0x/status/2073337299103043742",
+      "https://x.com/MoneyPrinter0x/status/2073120666602397781"
+    ]
+  },
+  {
+    "date": "2026-07-04",
+    "handle": "0xGeeGee",
+    "type": "authored_post/aero_velo_trade_close_ai_watchlist_quote",
+    "url": "https://x.com/0xGeeGee/status/2073321224097223018",
+    "summary": "Posted that VELO/AERO was closed while quoting his earlier long AI-efficiency/watchlist thread that included EIGEN/EigenCloud/DarkBloom and SERV/OpenServ as AI infrastructure examples.",
+    "entities": [
+      "VELO",
+      "AERO",
+      "Aerodrome",
+      "EIGEN",
+      "EigenCloud",
+      "DarkBloom",
+      "SERV",
+      "OpenServ",
+      "AI efficiency"
+    ],
+    "why_logged": "Adds a clean exit/update marker for the previously logged VELO/AERO position and keeps the quoted AI-efficiency project context linked for the evidence tape.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/0xGeeGee/status/2071284161378181291"
+    ]
+  },
+  {
     "date": "2026-07-03",
     "handle": "MoneyPrinter0x",
     "type": "reply/memecoin_protocol_attackability",

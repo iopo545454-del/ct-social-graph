@@ -3,6 +3,36 @@
     "from": "MoneyPrinter0x",
     "to": "ANSEM / z's coin",
     "to_kind": "project",
+    "type": "authored_thread/backlash_after_onchain_wealth_effect_call",
+    "date": "2026-07-04",
+    "url": "https://x.com/MoneyPrinter0x/status/2073332669308608605",
+    "summary": "Acknowledged backlash to his ANSEM/z coin posting after a sharp market-cap move, said he would stop discussing it, but left the PEPE-style wealth-effect/onchain-liquidity revival frame intact.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2073334070986346802",
+      "https://x.com/MoneyPrinter0x/status/2073120666602397781"
+    ]
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "aerodromefi / VELO",
+    "to_kind": "project",
+    "type": "authored_update/position_close",
+    "date": "2026-07-04",
+    "url": "https://x.com/0xGeeGee/status/2073321224097223018",
+    "summary": "Closed the VELO/AERO trade previously tracked in his portfolio/update thread; useful as a follow-up marker rather than a new long thesis.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/0xGeeGee/status/2071284161378181291",
+      "https://x.com/0xGeeGee/status/2071286452357374290"
+    ]
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "ANSEM / z's coin",
+    "to_kind": "project",
     "type": "reply/memecoin_distribution_protocol_attackability",
     "date": "2026-07-03",
     "url": "https://x.com/MoneyPrinter0x/status/2073169873862332858",
