@@ -2,6 +2,23 @@
   {
     "date": "2026-07-04",
     "handle": "MoneyPrinter0x",
+    "type": "reply/memecoin_market_structure_disclosure",
+    "url": "https://x.com/MoneyPrinter0x/status/2073311022983598241",
+    "summary": "Clarified in the ANSEM/z-coin backlash thread that he received nothing from the project and was not making a price prediction; the remaining thesis was that a large move could create a PEPE-like wealth effect and broader onchain-liquidity revival.",
+    "entities": [
+      "ANSEM / z coin",
+      "memecoins",
+      "onchain liquidity",
+      "PEPE-style wealth effect",
+      "community backlash",
+      "disclosure"
+    ],
+    "why_logged": "Substantive follow-up to the already logged public-bundle/memecoin thesis: adds disclosure/no-compensation context and keeps the wealth-effect/onchain-liquidity frame close to the source evidence.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-04",
+    "handle": "MoneyPrinter0x",
     "type": "authored_thread/ansem_backlash_onchain_wealth_effect",
     "url": "https://x.com/MoneyPrinter0x/status/2073332669308608605",
     "summary": "After ANSEM/z coin ran from roughly $140M to $390M after his prior post, acknowledged community backlash, said he would stop discussing it out of respect, and preserved the thesis that a big onchain winner can create PEPE-like wealth-effect attention.",
