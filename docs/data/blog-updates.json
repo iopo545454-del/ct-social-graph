@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-02T21:53:12Z",
+  "last_checked": "2026-07-04T15:09:50Z",
   "new_count": 1,
   "sources": [
     {
@@ -63,7 +63,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-02T21:53:09Z"
+      "checked_at": "2026-07-04T15:09:47Z"
     },
     {
       "name": "Multicoin Capital",
@@ -138,7 +138,7 @@
           "published": "Thu, 02 Oct 2025 00:00:00 GMT"
         }
       ],
-      "checked_at": "2026-07-02T21:53:09Z"
+      "checked_at": "2026-07-04T15:09:47Z"
     },
     {
       "name": "Pantera Blockchain Letter",
@@ -203,7 +203,7 @@
           "published": "Mon, 30 Jun 2025 14:48:37 +0000"
         }
       ],
-      "checked_at": "2026-07-02T21:53:10Z"
+      "checked_at": "2026-07-04T15:09:48Z"
     },
     {
       "name": "Paradigm",
@@ -276,7 +276,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-02T21:53:10Z"
+      "checked_at": "2026-07-04T15:09:49Z"
     },
     {
       "name": "Glassnode Research",
@@ -351,7 +351,7 @@
           "published": "Wed, 24 Jun 2026 13:00:00 GMT"
         }
       ],
-      "checked_at": "2026-07-02T21:53:10Z"
+      "checked_at": "2026-07-04T15:09:49Z"
     },
     {
       "name": "Delphi Digital",
@@ -374,7 +374,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-02T21:53:11Z"
+      "checked_at": "2026-07-04T15:09:49Z"
     },
     {
       "name": "Electric Capital",
@@ -386,7 +386,7 @@
       "error": null,
       "feed_urls": [],
       "items": [],
-      "checked_at": "2026-07-02T21:53:11Z"
+      "checked_at": "2026-07-04T15:09:50Z"
     },
     {
       "name": "Bankless",
@@ -454,12 +454,12 @@
           "published": null
         },
         {
-          "title": "Analysis Will SOL Keep Outperforming? SOL outperformed everything in crypto today. Here's why Solana's bull case is improving. 6 days ago",
-          "url": "https://www.bankless.com/read/will-solana-keep-outperforming",
+          "title": "News Dozens of Major Companies Become Open USD Launch Partners Some of the biggest names in finance and beyond are joining forces to back th",
+          "url": "https://www.bankless.com/read/news/dozens-of-major-companies-become-open-usd-launch-partners",
           "published": null
         }
       ],
-      "checked_at": "2026-07-02T21:53:12Z"
+      "checked_at": "2026-07-04T15:09:50Z"
     },
     {
       "name": "Token Terminal",
@@ -532,7 +532,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-02T21:53:12Z"
+      "checked_at": "2026-07-04T15:09:50Z"
     }
   ],
   "articles": [
@@ -1227,13 +1227,13 @@
       "source_url": "https://www.bankless.com/read"
     },
     {
-      "id": "f4506cc55721",
+      "id": "6b048134763b",
       "source": "Bankless",
       "tier": 2,
-      "title": "Analysis Will SOL Keep Outperforming? SOL outperformed everything in crypto today. Here's why Solana's bull case is improving. 6 days ago",
-      "url": "https://www.bankless.com/read/will-solana-keep-outperforming",
+      "title": "News Dozens of Major Companies Become Open USD Launch Partners Some of the biggest names in finance and beyond are joining forces to back th",
+      "url": "https://www.bankless.com/read/news/dozens-of-major-companies-become-open-usd-launch-partners",
       "published": null,
-      "first_seen": "2026-07-02T13:32:06Z",
+      "first_seen": "2026-07-04T15:09:50Z",
       "source_url": "https://www.bankless.com/read"
     },
     {
@@ -1355,6 +1355,16 @@
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "f4506cc55721",
+      "source": "Bankless",
+      "tier": 2,
+      "title": "Analysis Will SOL Keep Outperforming? SOL outperformed everything in crypto today. Here's why Solana's bull case is improving. 1 week ago",
+      "url": "https://www.bankless.com/read/will-solana-keep-outperforming",
+      "published": null,
+      "first_seen": "2026-07-02T13:32:06Z",
+      "source_url": "https://www.bankless.com/read"
     },
     {
       "id": "d768c553c468",
