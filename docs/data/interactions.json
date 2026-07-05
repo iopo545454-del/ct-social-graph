@@ -1,6 +1,17 @@
 [
   {
     "from": "MoneyPrinter0x",
+    "to": "crypto AI projects / DeFi capital formation",
+    "to_kind": "project",
+    "type": "reply/defi_runway_and_crypto_code_quality",
+    "date": "2026-07-05",
+    "url": "https://x.com/MoneyPrinter0x/status/2073907446004019470",
+    "summary": "Reply-level process note: DeFi can provide runway/agility when AI markets move too fast for traditional capital formation, but crypto-code quality is often below broader industry standards; useful as a technical diligence filter rather than a project endorsement.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "MoneyPrinter0x",
     "to": "neocloud / AI datacenter basket",
     "to_kind": "project",
     "type": "authored_update/event_risk_derisk_and_anthropic_australia_leak",

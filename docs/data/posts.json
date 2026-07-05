@@ -2,6 +2,53 @@
   {
     "date": "2026-07-05",
     "handle": "MoneyPrinter0x",
+    "type": "authored_mention/onchain_og_over_betas",
+    "url": "https://x.com/MoneyPrinter0x/status/2073859507365761202",
+    "summary": "Said he would rather bid the OG than betas because the current onchain season is being driven by one alpha runner; useful as source-close evidence that his onchain attention is still market-structure/leader-led rather than broad beta.",
+    "entities": [
+      "onchain season",
+      "alpha runner",
+      "OG over betas",
+      "memecoin/onchain liquidity",
+      "leader-led beta selection"
+    ],
+    "why_logged": "Extends the July 5 MoneyPrinter onchain-reactivation evidence with a concrete preference for the leader over derivative betas.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-05",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_critique/mm_bot_fibonacci_rugger",
+    "url": "https://x.com/MoneyPrinter0x/status/2073890514043277791",
+    "summary": "Criticized Alon's so-called market-making bot as effectively a Fibonacci/rugger-style MM bot; logged as a negative onchain-mechanics/filter signal, not enough to create a tracked project node.",
+    "entities": [
+      "Alon",
+      "market-making bot",
+      "onchain mechanics",
+      "rugger bot critique"
+    ],
+    "why_logged": "Useful for the onchain-market-structure tape because it is a concrete negative filter on bot/MM mechanics amid the same onchain season discussion.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-05",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/defi_runway_and_crypto_code_quality",
+    "url": "https://x.com/MoneyPrinter0x/status/2073907446004019470",
+    "summary": "In a reply about prior AI/crypto projects, argued DeFi could help projects raise runway while AI was moving too fast for traditional capital formation, but added that even top crypto code is often weak by broader industry standards, making merely functional tech easier to spot.",
+    "entities": [
+      "DeFi capital formation",
+      "AI project runway",
+      "crypto code quality",
+      "technical diligence",
+      "industry-standard code"
+    ],
+    "why_logged": "Adds a non-price process filter: he can defend DeFi-funded agility while still applying a harsh technical-quality bar to crypto projects.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-05",
+    "handle": "MoneyPrinter0x",
     "type": "quote_reply/neocloud_event_risk_and_serenity_leak",
     "url": "https://x.com/MoneyPrinter0x/status/2073793049029996664",
     "summary": "Defended his public derisking after the Meta/Zuckerberg neocloud shock, saying neoclouds fell roughly 20-25% over two days after his warnings, while also reacting to Serenity's Anthropic Australia capacity leak as resembling his earlier SHAZ/neocloud thesis.",
