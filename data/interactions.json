@@ -1,5 +1,31 @@
 [
   {
+    "from": "MoneyPrinter0x",
+    "to": "neocloud / AI datacenter basket",
+    "to_kind": "project",
+    "type": "authored_update/event_risk_derisk_and_anthropic_australia_leak",
+    "date": "2026-07-05",
+    "url": "https://x.com/MoneyPrinter0x/status/2073793049029996664",
+    "summary": "Updated the neocloud trade after a Meta/Zuckerberg shock: said the sector was hit 20-25% after he posted derisk warnings, then reacted to Serenity's Anthropic Australia leak as aligned with his earlier SHAZ/sovereign-datacenter thesis.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2073791547607535644",
+      "https://x.com/MoneyPrinter0x/status/2073789783881781564"
+    ]
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "Wirex / ether.fi card comparison",
+    "to_kind": "project",
+    "type": "reply/product_provider_trust_filter",
+    "date": "2026-07-05",
+    "url": "https://x.com/0xGeeGee/status/2073741534374002986",
+    "summary": "Agreed with a crypto-card fee/FX/cashback test favoring ether.fi and said Wirex was not worth testing because of shady behavior; useful as a provider-trust filter, not enough for a new Tier 2 project node.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
     "from": "0xGeeGee",
     "to": "stacy_muur / Ethena analysis thread",
     "to_kind": "individual",

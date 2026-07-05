@@ -1,6 +1,50 @@
 [
   {
     "date": "2026-07-05",
+    "handle": "MoneyPrinter0x",
+    "type": "quote_reply/neocloud_event_risk_and_serenity_leak",
+    "url": "https://x.com/MoneyPrinter0x/status/2073793049029996664",
+    "summary": "Defended his public derisking after the Meta/Zuckerberg neocloud shock, saying neoclouds fell roughly 20-25% over two days after his warnings, while also reacting to Serenity's Anthropic Australia capacity leak as resembling his earlier SHAZ/neocloud thesis.",
+    "entities": [
+      "neoclouds",
+      "AI infrastructure",
+      "Meta / Zuckerberg event risk",
+      "Anthropic Australia capacity leak",
+      "Serenity",
+      "SHAZ / SharonAI",
+      "IREN",
+      "sector drawdown",
+      "derisking"
+    ],
+    "why_logged": "Keeps the MoneyPrinter AI-infra evidence source-close: same thesis stack, but the useful new signal is event-risk management and post-trade accountability rather than just another bullish neocloud mention.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2073792010998440316",
+      "https://x.com/MoneyPrinter0x/status/2073791547607535644",
+      "https://x.com/MoneyPrinter0x/status/2073790172572033491",
+      "https://x.com/MoneyPrinter0x/status/2073789783881781564"
+    ]
+  },
+  {
+    "date": "2026-07-05",
+    "handle": "0xGeeGee",
+    "type": "reply/crypto_card_provider_filter",
+    "url": "https://x.com/0xGeeGee/status/2073741534374002986",
+    "summary": "In a crypto-card cost comparison thread, agreed with the result favoring ether.fi's card on fees/FX/cashback and said he would not even test Wirex because of shady behavior.",
+    "entities": [
+      "ether.fi",
+      "Wirex",
+      "crypto cards",
+      "fees",
+      "FX",
+      "cashback",
+      "provider trust"
+    ],
+    "why_logged": "Practical product/provider filter evidence for GeeGee: small but concrete negative credibility signal on Wirex and positive attention to fee-transparent crypto-card UX.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-05",
     "handle": "0xGeeGee",
     "type": "reply/ethena_paid_thread_slop_callout",
     "url": "https://x.com/0xGeeGee/status/2073578581632926160",
