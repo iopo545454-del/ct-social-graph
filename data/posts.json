@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-07-05",
+    "handle": "0xGeeGee",
+    "type": "reply/ethena_paid_thread_slop_callout",
+    "url": "https://x.com/0xGeeGee/status/2073578581632926160",
+    "summary": "In an Ethena/ENA analysis-accuracy thread, agreed with ImperiumPaper's criticism of a Stacy Muur thread and called Stacy one of the worst slop offenders, citing prior paid threads; the underlying critique was that the thread used wrong yield/portfolio assumptions despite Ethena's public transparency dashboard.",
+    "entities": [
+      "Ethena",
+      "ENA",
+      "USDe",
+      "sUSDe",
+      "Stacy Muur",
+      "ImperiumPaper",
+      "paid threads",
+      "transparency dashboards",
+      "CT slop",
+      "investment-advice quality"
+    ],
+    "why_logged": "Source-close evidence for GeeGee’s recurring filter against low-quality CT analysis, paid-thread incentives, and failure to use primary dashboards in DeFi diligence; not logged as an Ethena stance.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/i/status/2073578581632926160"
+    ]
+  },
+  {
     "date": "2026-07-04",
     "handle": "MoneyPrinter0x",
     "type": "reply/memecoin_market_structure_disclosure",

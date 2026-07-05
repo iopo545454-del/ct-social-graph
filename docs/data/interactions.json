@@ -1,5 +1,19 @@
 [
   {
+    "from": "0xGeeGee",
+    "to": "stacy_muur / Ethena analysis thread",
+    "to_kind": "individual",
+    "type": "reply/paid_thread_slop_callout",
+    "date": "2026-07-05",
+    "url": "https://x.com/0xGeeGee/status/2073578581632926160",
+    "summary": "Replying in ImperiumPaper's Ethena correction thread, GeeGee called Stacy Muur one of the worst slop offenders and pointed to prior paid-thread behavior; useful as a negative credibility/filter edge rather than a project endorsement.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/i/status/2073578581632926160"
+    ]
+  },
+  {
     "from": "MoneyPrinter0x",
     "to": "ANSEM / z's coin",
     "to_kind": "project",
