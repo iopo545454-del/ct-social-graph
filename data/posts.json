@@ -5215,5 +5215,100 @@
     ],
     "why_logged": "Adds source-close implementation detail for the recurring memory/AI-equity basket: broad ETF proxy selection and downside-monitoring caveat.",
     "confidence": "medium"
+  },
+  {
+    "date": "2026-07-05",
+    "handle": "0xGeeGee",
+    "type": "quote/crypto_card_risk",
+    "url": "https://x.com/0xGeeGee/status/2073839095546032558",
+    "summary": "Quoted his own older Wirex/WXT collateral-market post after the card-comparison reply, reinforcing that his Wirex dislike is tied to prior market-structure/risk observations rather than only the latest card-fee test.",
+    "entities": [
+      "Wirex",
+      "WXT",
+      "illiquid collateral",
+      "crypto cards"
+    ],
+    "why_logged": "Second same-day Wirex datapoint makes the negative read more durable for profile/theme notes without promoting Wirex as a tracked project.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-05",
+    "handle": "MoneyPrinter0x",
+    "type": "quote/neocloud_trade_update",
+    "url": "https://x.com/MoneyPrinter0x/status/2073814370489086076",
+    "summary": "Quoted Anthropic securing 1.4GW of Australia data-center capacity and asked whether to rebid lower after the prior derisk heads-up, framing the neocloud/data-center basket as 20% cheaper after Meta-related sentiment shock.",
+    "entities": [
+      "Anthropic",
+      "Australia data centers",
+      "neoclouds",
+      "SHAZ",
+      "Meta sentiment shock",
+      "rebid lower"
+    ],
+    "why_logged": "Continuation/invalidation-follow-up for the AI datacenter/neocloud theme: he is using new capacity evidence after a derisk call rather than abandoning the setup.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-07-05",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/neocloud_positioning",
+    "url": "https://x.com/MoneyPrinter0x/status/2073827862814343572",
+    "summary": "Clarified that the Australian quasi-monopoly data-center angle is not yet the Anthropic announcement itself, but if momentum recovers, sentiment could front-run Anthropic capacity news; highlighted the asset as 20% cheaper versus his derisk warning.",
+    "entities": [
+      "Australian data-center monopoly",
+      "Anthropic pre-announcement",
+      "momentum recovery",
+      "neoclouds"
+    ],
+    "why_logged": "Adds source-close implementation nuance to the July 5 Anthropic/Australia rebid idea and keeps the caveat conditional on momentum recovery.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-05",
+    "handle": "MoneyPrinter0x",
+    "type": "post/onchain_market_structure",
+    "url": "https://x.com/MoneyPrinter0x/status/2073848123668263106",
+    "summary": "Reframed his current onchain activity through prior 2024–25 onchain performance: claimed a $500-to-mid-7-figures run from thesis-led tech/meme plays before later global/AI-stock trading, saying he never left onchain.",
+    "entities": [
+      "onchain",
+      "tech plays",
+      "meme plays",
+      "SNAI",
+      "Github/codebase diligence",
+      "onchain liquidity"
+    ],
+    "why_logged": "Useful profile evidence for the sudden July 5 onchain/onchain-liquidity reactivation; treat as self-reported process/context, not independently verified PnL.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-05",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/cross_asset_process",
+    "url": "https://x.com/MoneyPrinter0x/status/2073831622882005438",
+    "summary": "Said gold outperformance usually has a decent correlation after huge momentum selloffs and that invalidation is cheap around the 3.9 range, adding a cross-asset reset trade after the momentum-factor drawdown.",
+    "entities": [
+      "gold",
+      "momentum selloff",
+      "cheap invalidation",
+      "cross-asset process"
+    ],
+    "why_logged": "Adds process evidence around factor selloff aftermath and cheap invalidation, adjacent to the existing gold-vs-semis/AI-equity reset bucket.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-05",
+    "handle": "kelxyz_",
+    "type": "post/metadao_ownership_idea",
+    "url": "https://x.com/kelxyz_/status/2073849126379196842",
+    "summary": "Posted a long-horizon bucket-list idea to acquire a diamond and rare-gemstone mine and make it employee-owned with crowdsourced capital ownership on MetaDAO.",
+    "entities": [
+      "MetaDAO",
+      "employee ownership",
+      "crowdsourced capital ownership",
+      "rare gemstones",
+      "diamond mine"
+    ],
+    "why_logged": "Single-account, aspirational governance/ownership-design evidence; keep as light profile color rather than a project endorsement or Tier 2 promotion.",
+    "confidence": "low"
   }
 ]
