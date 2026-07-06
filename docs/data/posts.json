@@ -1,6 +1,50 @@
 [
   {
     "date": "2026-07-06",
+    "handle": "kelxyz_",
+    "type": "reply/edge_case_futures_life_strategy",
+    "url": "https://x.com/kelxyz_/status/2074156249722061190",
+    "summary": "In a long reply to the same new-era / bayeslord-style discussion, reflected that accelerating progress, automation of intelligence, durable engineered psychologies, and edge-case futures may require a 30-day life-strategy redesign; framed the problem as finding narrow, high-impact contributions under a shifting 21st-century meta.",
+    "entities": [
+      "AI new-era writing",
+      "situational awareness",
+      "automation of intelligence",
+      "edge-case futures",
+      "venture capital",
+      "Anthropic as future-organization analogy",
+      "life strategy redesign",
+      "post-agent adaptations"
+    ],
+    "why_logged": "High-signal profile/style evidence: strengthens kelxyz_'s AI-acceleration / futurist planning bucket without implying a specific project endorsement.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/kelxyz_/status/2073921798446424517"
+    ]
+  },
+  {
+    "date": "2026-07-06",
+    "handle": "MoneyPrinter0x",
+    "type": "quote/shaz_trade_follow_through",
+    "url": "https://x.com/MoneyPrinter0x/status/2074137557760368664",
+    "summary": "Quoted his July 5 SHAZ/neocloud allocation plan after SHAZ moved sharply, posting a chart around +21.8%; useful as follow-through/outcome evidence for the Anthropic Australia / SHAZ tactical neocloud trade, not a durable project endorsement.",
+    "entities": [
+      "SHAZ / SharonAI",
+      "neoclouds",
+      "Anthropic Australia capacity",
+      "Australian datacenter exposure",
+      "tactical allocation plan",
+      "premarket entry / 48h TWAP",
+      "3% aggregate stop"
+    ],
+    "why_logged": "Adds source-close outcome and execution evidence to the already logged SHAZ/neocloud thread: the signal is trade planning/follow-through and event-risk management rather than another abstract AI-infra thesis.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2073790172572033491",
+      "https://x.com/MoneyPrinter0x/status/2073793049029996664"
+    ]
+  },
+  {
+    "date": "2026-07-06",
     "handle": "0xGeeGee",
     "type": "quote/llm_cost_optimization_ocr_hack",
     "url": "https://x.com/0xGeeGee/status/2074077935825289402",

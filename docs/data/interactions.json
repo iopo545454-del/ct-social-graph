@@ -1,5 +1,33 @@
 [
   {
+    "from": "kelxyz_",
+    "to": "bayeslord",
+    "to_kind": "individual",
+    "type": "reply/new_era_edge_case_futures",
+    "date": "2026-07-06",
+    "url": "https://x.com/kelxyz_/status/2074156249722061190",
+    "summary": "Extended the earlier bayeslord/new-era quote into a long reflection on automation, intelligence, future organizations, and how to systematically attack edge-case futures; second source-close attention edge, still kept as candidate rather than Tier 2.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/kelxyz_/status/2073921798446424517"
+    ]
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "SHAZ / SharonAI",
+    "to_kind": "project",
+    "type": "quote/trade_plan_follow_through",
+    "date": "2026-07-06",
+    "url": "https://x.com/MoneyPrinter0x/status/2074137557760368664",
+    "summary": "Followed up a SHAZ/neocloud allocation plan after a sharp move, showing execution/outcome tracking around the Anthropic Australia capacity leak thesis; candidate remains tactical equity/neocloud evidence, not a durable crypto project promotion.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2073790172572033491"
+    ]
+  },
+  {
     "from": "0xGeeGee",
     "to": "MiTypeScript",
     "to_kind": "individual",
