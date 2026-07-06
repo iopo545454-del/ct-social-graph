@@ -1,6 +1,62 @@
 [
   {
     "date": "2026-07-06",
+    "handle": "MoneyPrinter0x",
+    "type": "quote/hedge_fund_profit_index_arb_read",
+    "url": "https://x.com/MoneyPrinter0x/status/2074205343039750645",
+    "summary": "Quoted Bloomberg reporting that two Millennium pods generated about $3.7B in June and commented that it is 'all index arb', reading the large hedge-fund profit print as index-arbitrage/flow structure rather than pure discretionary fundamental alpha.",
+    "entities": [
+      "Millennium Management",
+      "index arbitrage",
+      "hedge fund pods",
+      "Bloomberg",
+      "market structure",
+      "flow/arb profits"
+    ],
+    "why_logged": "Adds a concise market-structure/process read adjacent to his systematic/hybrid execution and cross-market flow framing; not a project endorsement.",
+    "confidence": "low"
+  },
+  {
+    "date": "2026-07-06",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/mag7_rotation_update",
+    "url": "https://x.com/MoneyPrinter0x/status/2074214694794199056",
+    "summary": "Posted 'return to mag7', a terse rotation/update signal that fits his recent defensive GOOGL/MSFT/Mag7 parking and AI-capex dependency-chain framing after neocloud/event-risk volatility.",
+    "entities": [
+      "Mag7",
+      "MAGS",
+      "GOOGL/MSFT defensive parking",
+      "AI-capex dependency chain",
+      "large-cap tech rotation"
+    ],
+    "why_logged": "Small but useful continuation marker for the process tape: he is still using Mag7 as the cleaner large-cap expression after recent neocloud/AI-infra risk resets.",
+    "confidence": "low",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2072786789727944736"
+    ]
+  },
+  {
+    "date": "2026-07-06",
+    "handle": "0xGeeGee",
+    "type": "quote/variational_tradfi_swaps_reconsideration",
+    "url": "https://x.com/0xGeeGee/status/2074196917437731306",
+    "summary": "Quoted Variational's announcement of tighter-spread, larger-OI, near-flat-carry swaps with tradfi-style open hours moving toward 24/7 trading; reflected that he sold Hyperliquid early, was happy to have mostly sold Lighter early, and may try something different with Variational.",
+    "entities": [
+      "Variational",
+      "variational_io",
+      "tradfi onchain",
+      "swaps",
+      "tighter spreads",
+      "larger OI limits",
+      "near-flat carry",
+      "Hyperliquid",
+      "Lighter"
+    ],
+    "why_logged": "Good source-close venue-preference update: it connects GeeGee's earlier Variational watch/use case to a concrete product-market-structure announcement and relative venue regret/rotation language.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-06",
     "handle": "kelxyz_",
     "type": "reply/edge_case_futures_life_strategy",
     "url": "https://x.com/kelxyz_/status/2074156249722061190",
