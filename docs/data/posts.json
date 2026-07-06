@@ -1,5 +1,41 @@
 [
   {
+    "date": "2026-07-06",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/next_cycle_narratives_and_hype_resilience",
+    "url": "https://x.com/MoneyPrinter0x/status/2073936606684487776",
+    "summary": "In a cycle/narrative reply, argued that next-cycle narratives usually appear after the bear-market bottom rather than before; called NEAR/INJ recycled L1s with current-season additions, said HYPE has the best chance to weather both bear and post-bear phases, and advised watching fresh plays with minimal VC overhang rather than old projects without escape velocity.",
+    "entities": [
+      "HYPE",
+      "Hyperliquid",
+      "NEAR",
+      "INJ",
+      "next-cycle narratives",
+      "minimal VC overhang",
+      "old L1 pivots",
+      "bear-market bottom"
+    ],
+    "why_logged": "High-signal continuation of his HYPE hierarchy plus a broader negative filter on recycled L1 narratives and older projects that failed to reach escape velocity.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-07-06",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/warsh_part2_rates_kalshi_arbitrage",
+    "url": "https://x.com/MoneyPrinter0x/status/2073934230040842264",
+    "summary": "Posted that the short-term-versus-long-term Treasury bear flattener had sharply reversed since Warsh took office, while Kalshi rate-hike probability markets had not fully caught up; framed this as an arbitrage/opportunity signal and said the Warsh part 2 playbook was fully in effect.",
+    "entities": [
+      "Warsh",
+      "Treasury bear flattener",
+      "rate-hike probabilities",
+      "Kalshi",
+      "macro event trading",
+      "rates repricing"
+    ],
+    "why_logged": "Extends the Warsh/Fed event-risk process bucket with a concrete cross-market discrepancy between Treasuries and prediction-market probabilities.",
+    "confidence": "medium"
+  },
+  {
     "date": "2026-07-05",
     "handle": "MoneyPrinter0x",
     "type": "authored_mention/onchain_og_over_betas",
