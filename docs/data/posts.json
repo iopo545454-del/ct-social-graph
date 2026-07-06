@@ -1,6 +1,39 @@
 [
   {
     "date": "2026-07-06",
+    "handle": "kelxyz_",
+    "type": "quote/ai_new_era_life_path",
+    "url": "https://x.com/kelxyz_/status/2073921798446424517",
+    "summary": "Quoted @bayeslord/new-era style writing and said posts in the Situational Awareness genre can feel like a 'bowling ball' relative to one's current life path; profile/style evidence for how AI-acceleration discourse is affecting personal planning rather than project diligence.",
+    "entities": [
+      "AI new-era writing",
+      "situational awareness",
+      "personal planning",
+      "AI acceleration discourse",
+      "bayeslord"
+    ],
+    "why_logged": "High-engagement profile/style evidence from kelxyz_: it shows continued attention to AI-era strategic/cultural writing without turning it into a project endorsement.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-06",
+    "handle": "kelxyz_",
+    "type": "reply/zero_day_generalization",
+    "url": "https://x.com/kelxyz_/status/2073989596719845775",
+    "summary": "In a reply, generalized the zero-day concept beyond cyber into bio, infrastructure, neuro, memetics, and physics, calling biological or memetic exploits crazy to consider.",
+    "entities": [
+      "zero days",
+      "cybersecurity",
+      "bio exploits",
+      "memetic exploits",
+      "infrastructure risk",
+      "neuro risk"
+    ],
+    "why_logged": "Adds source-close evidence for kelxyz_'s AI-era/catastrophic-risk and memetics lens; no tracked project or person promotion implied.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-06",
     "handle": "MoneyPrinter0x",
     "type": "reply/next_cycle_narratives_and_hype_resilience",
     "url": "https://x.com/MoneyPrinter0x/status/2073936606684487776",

@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-07-06",
-  "profile_updated_at": "2026-07-06T01:30:00Z",
+  "profile_updated_at": "2026-07-06T08:03:37Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -441,14 +441,15 @@
       ],
       "accounts_negative": [],
       "projects": [],
-      "summary": "kelxyz_ posted and discussed a Permanent Underclass Index thesis involving AI resilience, slop dividends, cheap physical retail, luxury/underclass barbell dynamics, dopamine/pharma/delivery overlaps. This is a notable individual thesis, not a cross-account consensus yet. New June 24 post extends the same style into a broader status-game thesis around wealth saturation, fake fitness, and hard-to-fake revolutionary action; keep it as profile/style evidence, not a project signal.",
+      "summary": "kelxyz_ posted and discussed a Permanent Underclass Index thesis involving AI resilience, slop dividends, cheap physical retail, luxury/underclass barbell dynamics, dopamine/pharma/delivery overlaps. This is a notable individual thesis, not a cross-account consensus yet. New June 24 post extends the same style into a broader status-game thesis around wealth saturation, fake fitness, and hard-to-fake revolutionary action; keep it as profile/style evidence, not a project signal. July 6 quote adds another culture/planning datapoint: kelxyz_ treated AI/new-era/Situational Awareness-style writing as heavy enough to disrupt a person's current life path.",
       "evidence_urls": [
         "https://x.com/kelxyz_/status/2064358765340557483",
         "https://x.com/kelxyz_/status/2064360494949953681",
         "https://x.com/kelxyz_/status/2064365937927631203",
-        "https://x.com/kelxyz_/status/2069860756414144593"
+        "https://x.com/kelxyz_/status/2069860756414144593",
+        "https://x.com/kelxyz_/status/2073921798446424517"
       ],
-      "momentum": "emerging",
+      "momentum": "active",
       "confidence": "medium"
     },
     {
@@ -1223,6 +1224,20 @@
       "summary": "Single July 5 kelxyz_ post used MetaDAO as an aspirational mechanism for crowdsourced capital ownership of employee-owned diamond/rare-gemstone mines. Treat as governance/ownership-design color only until repeated.",
       "evidence_urls": [
         "https://x.com/kelxyz_/status/2073849126379196842"
+      ],
+      "momentum": "emerging",
+      "confidence": "low"
+    },
+    {
+      "theme": "Zero-day / memetic and biological exploit framing",
+      "accounts_positive": [
+        "kelxyz_"
+      ],
+      "accounts_negative": [],
+      "projects": [],
+      "summary": "Single July 6 kelxyz_ reply generalized zero-day concepts beyond cyber into bio, infrastructure, neuro, memetics, and physics. Keep as a light risk/memetics lens until repeated or tied to specific projects.",
+      "evidence_urls": [
+        "https://x.com/kelxyz_/status/2073989596719845775"
       ],
       "momentum": "emerging",
       "confidence": "low"

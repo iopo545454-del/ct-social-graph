@@ -1,5 +1,17 @@
 [
   {
+    "handle": "bayeslord",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "kelxyz_ quote on AI new-era / Situational Awareness writing",
+    "reason": "kelxyz_ quoted bayeslord-style new-era AI writing and reacted substantively to its effect on personal life-path planning. One high-engagement quote/attention edge only, so keep as candidate rather than Tier 2.",
+    "evidence_urls": [
+      "https://x.com/kelxyz_/status/2073921798446424517"
+    ],
+    "first_seen": "2026-07-06",
+    "confidence": "low"
+  },
+  {
     "handle": "ANSEM / z's coin",
     "kind": "project",
     "status": "candidate",
