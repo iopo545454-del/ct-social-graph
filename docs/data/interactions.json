@@ -1,5 +1,16 @@
 [
   {
+    "from": "0xGeeGee",
+    "to": "MiTypeScript",
+    "to_kind": "individual",
+    "type": "quote/llm_cost_optimization_ocr_hack",
+    "date": "2026-07-06",
+    "url": "https://x.com/0xGeeGee/status/2074077935825289402",
+    "summary": "Quoted MiTypeScript’s Fable/OCR cost-saving technique and turned it into a broader point about hidden LLM cost surfaces and the need for better visibility/understanding to optimize AI for real-economy use.",
+    "quality": "medium",
+    "created_tier2_candidate": true
+  },
+  {
     "from": "kelxyz_",
     "to": "bayeslord",
     "to_kind": "individual",

@@ -1,6 +1,24 @@
 [
   {
     "date": "2026-07-06",
+    "handle": "0xGeeGee",
+    "type": "quote/llm_cost_optimization_ocr_hack",
+    "url": "https://x.com/0xGeeGee/status/2074077935825289402",
+    "summary": "Quoted @MiTypeScript on a Fable/LLM cost-cutting trick that encodes code as an image for OCR/vision billing, calling it insane that it works and using it as evidence that LLM cost optimization remains very early because users lack readable, consistent visibility into model-interface cost mechanics.",
+    "entities": [
+      "Fable",
+      "LLM cost optimization",
+      "OCR/vision billing",
+      "pxpipe",
+      "model-interface cost visibility",
+      "AI real economy",
+      "MiTypeScript"
+    ],
+    "why_logged": "High-signal continuation of GeeGee’s AI cost-collapse / tooling-operations lens: it is not a project endorsement, but it gives a concrete mechanism for why AI cost optimization still has room to improve.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-06",
     "handle": "kelxyz_",
     "type": "quote/ai_new_era_life_path",
     "url": "https://x.com/kelxyz_/status/2073921798446424517",

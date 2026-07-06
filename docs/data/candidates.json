@@ -1,5 +1,17 @@
 [
   {
+    "handle": "MiTypeScript",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "0xGeeGee quote on Fable/OCR LLM cost optimization",
+    "reason": "0xGeeGee substantively quoted MiTypeScript’s Fable/OCR cost-saving experiment and used it to discuss hidden LLM cost surfaces and early-stage optimization. One thoughtful quote/attention edge only, so keep as candidate rather than Tier 2.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2074077935825289402"
+    ],
+    "first_seen": "2026-07-06",
+    "confidence": "low"
+  },
+  {
     "handle": "bayeslord",
     "kind": "individual",
     "status": "candidate",
