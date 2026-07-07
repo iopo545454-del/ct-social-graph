@@ -1,5 +1,85 @@
 [
   {
+    "date": "2026-07-07",
+    "handle": "airtightfish",
+    "type": "reply/grass_h1_revenue_expectations_check",
+    "url": "https://x.com/airtightfish/status/2074610011850903773",
+    "summary": "In the same GRASS/revenue-projection discussion cluster, asked what the project expected for H1 and what it actually hit; logged as diligence on forecast quality rather than a stance.",
+    "entities": [
+      "GRASS",
+      "H1 revenue",
+      "revenue projections",
+      "forecast quality",
+      "tokenholder-call diligence"
+    ],
+    "why_logged": "Useful counterbalance to positive GRASS revenue posts: airtightfish focused on actual-versus-expected H1 performance before accepting forward projections.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-07",
+    "handle": "airtightfish",
+    "type": "reply/metadao_adverse_selection_risk",
+    "url": "https://x.com/airtightfish/status/2074522131338080694",
+    "summary": "In a MetaDAO/ownership-coins discussion, said adverse selection is nuanced but likely MetaDAO’s biggest short-term challenge and risk, while noting counterexamples.",
+    "entities": [
+      "MetaDAO",
+      "ownership coins",
+      "futarchy",
+      "adverse selection",
+      "founder-tokenholder alignment",
+      "market design"
+    ],
+    "why_logged": "Substantive operator-style critique from airtightfish: captures a practical adoption/risk filter around ownership-coin market design, not shallow banter.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/i/status/2074505220273422619"
+    ]
+  },
+  {
+    "date": "2026-07-07",
+    "handle": "AustinBarack",
+    "type": "reply/grass_foundation_ip_contract_revenue_accrual",
+    "url": "https://x.com/AustinBarack/status/2074585005334860003",
+    "summary": "In the GRASS revenue/value-accrual discussion, replied that all commercial contracts are signed by the foundation, the foundation owns the IP, and all contract revenue goes to the foundation.",
+    "entities": [
+      "GRASS",
+      "foundation ownership",
+      "IP ownership",
+      "commercial contracts",
+      "contract revenue",
+      "token value accrual"
+    ],
+    "why_logged": "Concrete mechanism evidence for the GRASS value-accrual thesis AustinBarack has been tracking; useful source-close detail for the project atlas.",
+    "confidence": "high",
+    "related_urls": [
+      "https://x.com/AustinBarack/status/2074585570664202565",
+      "https://x.com/AustinBarack/status/2074585727749214639"
+    ]
+  },
+  {
+    "date": "2026-07-07",
+    "handle": "AustinBarack",
+    "type": "authored_post/grass_tokenholder_call_revenue_value_accrual",
+    "url": "https://x.com/AustinBarack/status/2074548253350084935",
+    "summary": "Summarized the GRASS token holder call as strong crypto x AI evidence: anticipated $52M H2 2026 revenue ($104M annualized), 311% 2026 revenue growth versus 2025, heavy growth/cost-reduction investment, a live context-retrieval inference product coming soon, and reiterated token value accrual.",
+    "entities": [
+      "GRASS",
+      "getgrass_io",
+      "AI data",
+      "tokenholder call",
+      "revenue growth",
+      "value accrual",
+      "live context retrieval inference"
+    ],
+    "why_logged": "High-signal follow-through on AustinBarack’s earlier GRASS call catalyst: concrete revenue/product/value-accrual details rather than generic AI-token cheerleading.",
+    "confidence": "high",
+    "related_urls": [
+      "https://x.com/AustinBarack/status/2074550397578969466",
+      "https://x.com/AustinBarack/status/2074585005334860003",
+      "https://x.com/AustinBarack/status/2074585570664202565"
+    ]
+  },
+  {
     "date": "2026-07-06",
     "handle": "airtightfish",
     "type": "reply/dao_governance_low_turnout_context",

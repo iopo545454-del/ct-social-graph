@@ -1084,9 +1084,9 @@
   {
     "handle": "AustinBarack",
     "period_start": "2026-05-14",
-    "period_end": "2026-07-03",
-    "profile_updated_at": "2026-07-03T18:45:00Z",
-    "taste_summary": "Observed X/Twitter evidence is strongly thesis-driven around private/anonymized AI, Venice/VVV, decentralized training, open-source models, and AI data protocols. Interpretation confidence is high for Venice/VVV because multiple authored posts and replies repeat the same framing. Latest June 24 evidence strengthens his GRASS tokenomics stance: he directly defended foundation ownership of IP/contracts/revenue and token-sale financing against value-accrual skepticism, while pointing to the July 7 holder call as the clarifying catalyst. Latest June 25 evidence refreshes his Venice/VVV conviction: he used the market-stress dip as an entry framing and gave concrete 4mm month-end / 10mm year-end user-growth estimates. June 30 evidence adds two live project updates: GRASS tokenholder-call catalyst/AI-data framing, and Hyperliquid priority-fee revenue/burn mechanics becoming material faster than expected. Latest late-June update adds two source-close Venice/VVV datapoints: another emissions drop on July 1 and an explicit view that Venice token usage can 10x again within a year after the 100B-daily-token milestone. Latest July 1 Venice evidence adds a financing/valuation catalyst: after Venice's $65M Series A at a reported $1B valuation, he reiterated long-term VVV-holder conviction and framed Venice as the leading consumer crypto+AI adoption product with 100MM+ user / $1B+ revenue ambitions. Latest July 3 evidence extends the Robinhood/perps distribution theme into DYDX/Arcus: he sees underpriced same-token exposure to equities/commodities/indices perps, with Lighter/JTO comparisons and execution-dependent upside. July 3 Venice/VVV update shifts from usage/financing catalyst to value-capture defense: he argues equity concerns do not break the token thesis because the team is disciplined, holds a large token treasury, and VVV remains central to strong PMF/growth in crypto x AI.",
+    "period_end": "2026-07-07",
+    "profile_updated_at": "2026-07-07T21:46:28Z",
+    "taste_summary": "Observed X/Twitter evidence is strongly thesis-driven around private/anonymized AI, Venice/VVV, decentralized training, open-source models, and AI data protocols. Interpretation confidence is high for Venice/VVV because multiple authored posts and replies repeat the same framing. Latest June 24 evidence strengthens his GRASS tokenomics stance: he directly defended foundation ownership of IP/contracts/revenue and token-sale financing against value-accrual skepticism, while pointing to the July 7 holder call as the clarifying catalyst. Latest June 25 evidence refreshes his Venice/VVV conviction: he used the market-stress dip as an entry framing and gave concrete 4mm month-end / 10mm year-end user-growth estimates. June 30 evidence adds two live project updates: GRASS tokenholder-call catalyst/AI-data framing, and Hyperliquid priority-fee revenue/burn mechanics becoming material faster than expected. Latest late-June update adds two source-close Venice/VVV datapoints: another emissions drop on July 1 and an explicit view that Venice token usage can 10x again within a year after the 100B-daily-token milestone. Latest July 1 Venice evidence adds a financing/valuation catalyst: after Venice's $65M Series A at a reported $1B valuation, he reiterated long-term VVV-holder conviction and framed Venice as the leading consumer crypto+AI adoption product with 100MM+ user / $1B+ revenue ambitions. Latest July 3 evidence extends the Robinhood/perps distribution theme into DYDX/Arcus: he sees underpriced same-token exposure to equities/commodities/indices perps, with Lighter/JTO comparisons and execution-dependent upside. July 3 Venice/VVV update shifts from usage/financing catalyst to value-capture defense: he argues equity concerns do not break the token thesis because the team is disciplined, holds a large token treasury, and VVV remains central to strong PMF/growth in crypto x AI. July 7 GRASS token-holder-call follow-through adds concrete revenue/value-accrual evidence: $52M expected H2 2026 revenue, 311% 2026 growth versus 2025, live context-retrieval inference, and foundation ownership of commercial contracts/IP/revenue.",
     "likes": [
       {
         "theme": "Private/anonymized AI usage",
@@ -1197,14 +1197,18 @@
         "name": "GRASS",
         "handle": "getgrass_io",
         "stance": "positive",
-        "summary": "Repeated positive evidence: named GRASS in AI/data-token context and now directly defended its tokenomics/value-accrual path via foundation ownership of IP/contracts/revenue, token-sale financing, reinvestment, and a July 7 token-holder call. June 30 update explicitly frames the upcoming tokenholder call as a major visibility/price-discovery catalyst and ties GRASS to AI data needed for model training.",
+        "summary": "Repeated positive evidence: named GRASS in AI/data-token context, defended foundation/IP/contract-revenue value accrual, previewed the July 7 token-holder call, and then used the call to highlight $52M expected H2 2026 revenue ($104M annualized), 311% 2026 revenue growth, live context-retrieval inference, heavy growth/cost-reduction investment, and all-value-to-token framing. Follow-up replies stress H2 seasonality and that foundation-owned commercial contracts/IP/revenue are the accrual path.",
         "evidence_urls": [
           "https://x.com/AustinBarack/status/2057553290959700413",
           "https://x.com/AustinBarack/status/2066261626370580577",
           "https://x.com/AustinBarack/status/2066258858700321259",
           "https://x.com/AustinBarack/status/2066291612548800872",
           "https://x.com/AustinBarack/status/2069912129852019047",
-          "https://x.com/AustinBarack/status/2071926139258622082"
+          "https://x.com/AustinBarack/status/2071926139258622082",
+          "https://x.com/AustinBarack/status/2074548253350084935",
+          "https://x.com/AustinBarack/status/2074550397578969466",
+          "https://x.com/AustinBarack/status/2074585005334860003",
+          "https://x.com/AustinBarack/status/2074585570664202565"
         ]
       },
       {
@@ -1304,8 +1308,8 @@
       "Track whether AustinBarack follows through after the GRASS tokenholder call with concrete value-accrual/user-growth evidence.",
       "Track whether AustinBarack keeps arguing for growth spend over buybacks in crypto projects after the X Money example.",
       "Track whether AustinBarack’s Venice/VVV 10x usage projection gets updated after the July 1 emissions step-down.",
-      "Track whether the GRASS tokenholder-call catalyst produces the value-accrual visibility AustinBarack expects.",
-      "Track whether DYDX/Arcus gets follow-up evidence from AustinBarack after Robinhood distribution/perps execution data arrives."
+      "Track whether DYDX/Arcus gets follow-up evidence from AustinBarack after Robinhood distribution/perps execution data arrives.",
+      "Track whether AustinBarack updates GRASS after H2 revenue seasonality, live context-retrieval inference launch, or actual-versus-guided revenue data."
     ],
     "evidence_urls": [
       "https://x.com/AustinBarack/status/2065642988470972861",
@@ -1336,15 +1340,19 @@
       "https://x.com/AustinBarack/status/2072378551081353444",
       "https://x.com/AustinBarack/status/2072387394133717201",
       "https://x.com/AustinBarack/status/2073011197872386518",
-      "https://x.com/AustinBarack/status/2073106009468314105"
+      "https://x.com/AustinBarack/status/2073106009468314105",
+      "https://x.com/AustinBarack/status/2074548253350084935",
+      "https://x.com/AustinBarack/status/2074550397578969466",
+      "https://x.com/AustinBarack/status/2074585005334860003",
+      "https://x.com/AustinBarack/status/2074585570664202565"
     ]
   },
   {
     "handle": "airtightfish",
     "period_start": "2026-05-14",
     "period_end": "2026-07-07",
-    "profile_updated_at": "2026-07-07T16:20:00Z",
-    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence adds a tokenomics/accounting-process edge: he pushed against raw FDV for MetaDAO ownership-coin valuation and pointed toward adjusted supply / mNAV treatment. June 21 ryanchern reply adds another ProofMarkets/product-design datapoint: prediction markets need novel products that restore useful information surfaces beyond current category mix. June 22 quote added a light ProofMarkets ecosystem/partner signal via umia_finance/SURGECAST. Latest June 23 quote strengthens the ProofMarkets product-design trail with an actual conditional-futures Challenge market: SOL conditional on BTC up/down, framed as evidence that conditional futures can support experimental listed market types beyond event markets. Later June 23 replies add an Adjacent RED political-index feedback edge: he liked the index concept but wanted more volatility, saying ProofMarkets would love to list something like it as conditional indices develop. Latest June 23 evidence adds a concrete ProofMarkets/Solana tokenomics use case: he used a gated-MVP market to estimate Burn SIMD price impact and implementation odds, while caveating that failure would mainly matter as a signal on Solana's tokenomics direction. June 24 reply keeps ProofMarkets framed as an answer to the critique that current prediction markets are not practical hedging tools. Latest June 24 GRASS reply extends the same conditional-futures design pattern from ProofMarkets demos into tokenomics discovery: use a conditional market around whether Grass announces robust token value attribution, while disclosing he is a Grass fan. PreStocks/Kalshi post adds a private-market liquidity/execution layer: he likes the idea of pre-IPO secondary-style products, but criticized disappearing liquidity and inability to exit. June 25 follow-up adds an important ProofMarkets caveat: the SOL Burn SIMD market was a very illiquid gated-MVP/test market, useful only as directional information rather than a robust liquid pricing venue. June 25 adds another direct ProofMarkets MVP example via a BTC/STRC conditional market, plus a useful caveat/competitive filter: ProofMarkets is still MVP, Kalshi is better today, and Polymarket/UMA are viewed negatively. July 2 evidence adds three direct Proof/GRASS datapoints: he treated the ProofMarkets v0 challenge as a successful time-boxed feedback push, replied again to ryanchern that Proof is trying to change sports-heavy prediction-market volume, and defended GRASS token design against 0xCryptoSam after comparing alternatives. Latest July 3 reply adds crypto-card/account UX taste outside ProofMarkets: Altitude plus Solomon Labs integration would be compelling, but segmented earn/spend accounts are a product negative. July 6 BONK DAO reply adds a governance/process-risk edge: he highlighted that a controversial transfer proposal reportedly passed with only seven total voters, reinforcing attention to practical market/governance design failures rather than pure narrative. July 7 adds two source-close market-design datapoints: a ProofMarkets BTC/STRC conditional market that he said ended up close, and a MetaDAO reply naming adverse selection as the key near-term risk while acknowledging counterexamples.",
+    "profile_updated_at": "2026-07-07T21:46:28Z",
+    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence adds a tokenomics/accounting-process edge: he pushed against raw FDV for MetaDAO ownership-coin valuation and pointed toward adjusted supply / mNAV treatment. June 21 ryanchern reply adds another ProofMarkets/product-design datapoint: prediction markets need novel products that restore useful information surfaces beyond current category mix. June 22 quote added a light ProofMarkets ecosystem/partner signal via umia_finance/SURGECAST. Latest June 23 quote strengthens the ProofMarkets product-design trail with an actual conditional-futures Challenge market: SOL conditional on BTC up/down, framed as evidence that conditional futures can support experimental listed market types beyond event markets. Later June 23 replies add an Adjacent RED political-index feedback edge: he liked the index concept but wanted more volatility, saying ProofMarkets would love to list something like it as conditional indices develop. Latest June 23 evidence adds a concrete ProofMarkets/Solana tokenomics use case: he used a gated-MVP market to estimate Burn SIMD price impact and implementation odds, while caveating that failure would mainly matter as a signal on Solana's tokenomics direction. June 24 reply keeps ProofMarkets framed as an answer to the critique that current prediction markets are not practical hedging tools. Latest June 24 GRASS reply extends the same conditional-futures design pattern from ProofMarkets demos into tokenomics discovery: use a conditional market around whether Grass announces robust token value attribution, while disclosing he is a Grass fan. PreStocks/Kalshi post adds a private-market liquidity/execution layer: he likes the idea of pre-IPO secondary-style products, but criticized disappearing liquidity and inability to exit. June 25 follow-up adds an important ProofMarkets caveat: the SOL Burn SIMD market was a very illiquid gated-MVP/test market, useful only as directional information rather than a robust liquid pricing venue. June 25 adds another direct ProofMarkets MVP example via a BTC/STRC conditional market, plus a useful caveat/competitive filter: ProofMarkets is still MVP, Kalshi is better today, and Polymarket/UMA are viewed negatively. July 2 evidence adds three direct Proof/GRASS datapoints: he treated the ProofMarkets v0 challenge as a successful time-boxed feedback push, replied again to ryanchern that Proof is trying to change sports-heavy prediction-market volume, and defended GRASS token design against 0xCryptoSam after comparing alternatives. Latest July 3 reply adds crypto-card/account UX taste outside ProofMarkets: Altitude plus Solomon Labs integration would be compelling, but segmented earn/spend accounts are a product negative. July 6 BONK DAO reply adds a governance/process-risk edge: he highlighted that a controversial transfer proposal reportedly passed with only seven total voters, reinforcing attention to practical market/governance design failures rather than pure narrative. July 7 adds two source-close market-design datapoints: a ProofMarkets BTC/STRC conditional market that he said ended up close, and a MetaDAO reply naming adverse selection as the key near-term risk while acknowledging counterexamples. July 7 replies add two diligence/process edges: MetaDAO adverse-selection as a nuanced short-term risk and GRASS H1 actuals-versus-expectations as a check on forward revenue guidance.",
     "likes": [
       {
         "theme": "Crypto access to private companies",
@@ -1587,9 +1595,10 @@
         "name": "MetaDAO / ownership coins",
         "handle": "MetaDAOProject",
         "stance": "analytical",
-        "summary": "Engaged via valuation-method critique, not a directional endorsement: raw FDV looked wrong for ownership coins; adjusted supply/mNAV treatment mattered.",
+        "summary": "Engaged via both valuation-method critique and market-design risk: raw FDV looked wrong for ownership coins, adjusted supply/mNAV treatment mattered; later said adverse selection is nuanced but likely the biggest short-term challenge/risk for MetaDAO specifically, while acknowledging counterexamples. Treat as analytical rather than a directional endorsement/fade.",
         "evidence_urls": [
-          "https://x.com/airtightfish/status/2068016988975145285"
+          "https://x.com/airtightfish/status/2068016988975145285",
+          "https://x.com/airtightfish/status/2074522131338080694"
         ]
       },
       {
@@ -1613,11 +1622,12 @@
       {
         "name": "Grass / GRASS",
         "handle": "getgrass_io",
-        "stance": "positive/watchful",
-        "summary": "Called himself a Grass fan while suggesting a conditional-futures market around whether Grass announces robust token value attribution at the holder call; useful as product-design/tokenomics evidence, not a full investment thesis. July 2 follow-up strengthened the stance: after comparing many designs, he said Grass appears actually decent in response to 0xCryptoSam's token-design critique.",
+        "stance": "positive/watchful plus diligence",
+        "summary": "Called himself a Grass fan while suggesting a conditional-futures market around whether Grass announces robust token value attribution at the holder call; July 2 follow-up strengthened the stance after comparing many designs, saying Grass appears actually decent in response to 0xCryptoSam token-design critique. July 7 revenue-thread reply adds diligence rather than a stance change: he asked what H1 revenue expectations were and what the project actually hit before accepting forward projections.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2069782439862432083",
-          "https://x.com/airtightfish/status/2072524353439232288"
+          "https://x.com/airtightfish/status/2072524353439232288",
+          "https://x.com/airtightfish/status/2074610011850903773"
         ]
       },
       {
@@ -1744,7 +1754,9 @@
       "https://x.com/airtightfish/status/2072524353439232288",
       "https://x.com/airtightfish/status/2072506598627450995",
       "https://x.com/airtightfish/status/2073048346353082865",
-      "https://x.com/i/status/2074240810804019636"
+      "https://x.com/i/status/2074240810804019636",
+      "https://x.com/airtightfish/status/2074522131338080694",
+      "https://x.com/airtightfish/status/2074610011850903773"
     ]
   },
   {

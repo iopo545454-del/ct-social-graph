@@ -1,6 +1,47 @@
 [
   {
     "from": "airtightfish",
+    "to": "getgrass_io",
+    "to_kind": "project",
+    "type": "reply/h1_actuals_vs_expectations_check",
+    "date": "2026-07-07",
+    "url": "https://x.com/airtightfish/status/2074610011850903773",
+    "summary": "Asked what H1 GRASS revenue expectations were versus actuals in the revenue-projection thread; a concise diligence edge on forecast quality.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "AustinBarack",
+    "to": "getgrass_io",
+    "to_kind": "project",
+    "type": "reply/foundation_ip_contract_revenue_accrual",
+    "date": "2026-07-07",
+    "url": "https://x.com/AustinBarack/status/2074585005334860003",
+    "summary": "Clarified that GRASS commercial contracts, IP, and contract revenue sit with the foundation, reinforcing his value-accrual mechanism rather than relying only on headline revenue.",
+    "quality": "high",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/AustinBarack/status/2074585570664202565"
+    ]
+  },
+  {
+    "from": "AustinBarack",
+    "to": "getgrass_io",
+    "to_kind": "project",
+    "type": "authored_mention/grass_tokenholder_call_revenue_value_accrual",
+    "date": "2026-07-07",
+    "url": "https://x.com/AustinBarack/status/2074548253350084935",
+    "summary": "Used the GRASS tokenholder call to update the positive thesis with $52M H2 revenue guidance, 311% 2026 growth, live context-retrieval inference, and reiterated token value accrual.",
+    "quality": "high",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/AustinBarack/status/2074550397578969466",
+      "https://x.com/AustinBarack/status/2074585005334860003",
+      "https://x.com/AustinBarack/status/2074585570664202565"
+    ]
+  },
+  {
+    "from": "airtightfish",
     "to": "BONK DAO / DAO governance",
     "to_kind": "project",
     "type": "reply/governance_low_turnout_context",
