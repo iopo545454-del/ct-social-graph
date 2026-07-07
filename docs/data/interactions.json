@@ -2160,5 +2160,16 @@
     "summary": "Replied substantively in nftboi_/umia_finance token-launch timing thread: agreed tokens should launch post-PMF or with clear PMF signs, not via points programs that fake PMF; follow-up noted well-run points can be +EV but teams often optimize wrong metrics/timing.",
     "quality": "medium",
     "created_tier2_candidate": true
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "Res3t11",
+    "to_kind": "individual",
+    "type": "reply/agentic_engineering_abstraction",
+    "date": "2026-07-07",
+    "url": "https://x.com/MoneyPrinter0x/status/2074436713880191148",
+    "summary": "Replied substantively on whether post-agentic premature-abstraction logic applies to mechanical/manufacturing engineering: argued tech/software has extreme iteration velocity and unavoidable abstractions, while physical/manufacturing iteration costs make abstraction ROI less asymmetric.",
+    "quality": "medium",
+    "created_tier2_candidate": false
   }
 ]
