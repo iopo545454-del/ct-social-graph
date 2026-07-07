@@ -5634,5 +5634,56 @@
     ],
     "why_logged": "Single-account, aspirational governance/ownership-design evidence; keep as light profile color rather than a project endorsement or Tier 2 promotion.",
     "confidence": "low"
+  },
+  {
+    "date": "2026-07-07",
+    "handle": "MoneyPrinter0x",
+    "type": "post/agentic_engineering_management",
+    "url": "https://x.com/MoneyPrinter0x/status/2074414813535748096",
+    "summary": "Wrote a long thread on the 'Curse of Premature Abstraction' in a post-agentic engineering world: when execution/labor is cheap, the bottleneck shifts to deciding when reusable abstractions and agent-workforce systems are worth the manager-time/complexity cost.",
+    "entities": [
+      "agentic engineering",
+      "premature abstraction",
+      "DRY",
+      "YAGNI",
+      "rule of three",
+      "agent workforce management",
+      "context engineering"
+    ],
+    "why_logged": "Adds non-market but high-signal process evidence: he is extending the agent/harness thesis into engineering-management and resource-allocation frameworks rather than only trading AI equities.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-07-07",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/cross_asset_gold_invalidation",
+    "url": "https://x.com/MoneyPrinter0x/status/2074408389153841154",
+    "summary": "In a reply on QQQ chop/gold outperformance/rates positioning, said invalidations must be set too and pointed to approximately the 3.9k range.",
+    "entities": [
+      "gold",
+      "QQQ chop",
+      "rates",
+      "invalidation discipline",
+      "cross-asset positioning"
+    ],
+    "why_logged": "Small but useful continuation of the cross-asset process layer: even terse replies preserve explicit invalidation discipline around non-crypto trades.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-07",
+    "handle": "0xGeeGee",
+    "type": "quote/llm_interpretability",
+    "url": "https://x.com/0xGeeGee/status/2074416441231634703",
+    "summary": "Quoted Anthropic research on LLMs showing a 'global workspace'-like mechanism; he is not bought into humanizing LLMs, but frames more visibility into internal reasoning/token expenditure/world interactions as useful for better wielding AI tools.",
+    "entities": [
+      "Anthropic",
+      "LLM interpretability",
+      "global workspace",
+      "AI tooling",
+      "token expenditure",
+      "reasoning visibility"
+    ],
+    "why_logged": "Extends GeeGee's AI-infrastructure diligence from cost/routing into interpretability and observability, while explicitly rejecting over-humanized AI narratives.",
+    "confidence": "high"
   }
 ]
