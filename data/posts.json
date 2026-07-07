@@ -1,6 +1,26 @@
 [
   {
     "date": "2026-07-06",
+    "handle": "airtightfish",
+    "type": "reply/dao_governance_low_turnout_context",
+    "url": "https://x.com/i/status/2074240810804019636",
+    "summary": "In a BONK DAO proposal thread, replied that there were reportedly only seven total voters behind a proposal that sent 20M BONK to the proposer and later prompted legal-action discussion; useful as low-turnout DAO-governance/product-risk context.",
+    "entities": [
+      "BONK DAO",
+      "BONK",
+      "DAO governance",
+      "low voter turnout",
+      "legal action",
+      "governance process risk"
+    ],
+    "why_logged": "Source-close evidence that airtightfish is tracking practical governance failure modes and not just ProofMarkets/product launches; concise but substantive context rather than banter.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/i/status/2074221617085911452"
+    ]
+  },
+  {
+    "date": "2026-07-06",
     "handle": "MoneyPrinter0x",
     "type": "authored_post/gold_continuation_marker",
     "url": "https://x.com/MoneyPrinter0x/status/2074184897359659420",

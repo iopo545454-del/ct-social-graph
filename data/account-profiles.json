@@ -1322,9 +1322,9 @@
   {
     "handle": "airtightfish",
     "period_start": "2026-05-14",
-    "period_end": "2026-07-03",
-    "profile_updated_at": "2026-07-03T14:35:00Z",
-    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence adds a tokenomics/accounting-process edge: he pushed against raw FDV for MetaDAO ownership-coin valuation and pointed toward adjusted supply / mNAV treatment. June 21 ryanchern reply adds another ProofMarkets/product-design datapoint: prediction markets need novel products that restore useful information surfaces beyond current category mix. June 22 quote added a light ProofMarkets ecosystem/partner signal via umia_finance/SURGECAST. Latest June 23 quote strengthens the ProofMarkets product-design trail with an actual conditional-futures Challenge market: SOL conditional on BTC up/down, framed as evidence that conditional futures can support experimental listed market types beyond event markets. Later June 23 replies add an Adjacent RED political-index feedback edge: he liked the index concept but wanted more volatility, saying ProofMarkets would love to list something like it as conditional indices develop. Latest June 23 evidence adds a concrete ProofMarkets/Solana tokenomics use case: he used a gated-MVP market to estimate Burn SIMD price impact and implementation odds, while caveating that failure would mainly matter as a signal on Solana's tokenomics direction. June 24 reply keeps ProofMarkets framed as an answer to the critique that current prediction markets are not practical hedging tools. Latest June 24 GRASS reply extends the same conditional-futures design pattern from ProofMarkets demos into tokenomics discovery: use a conditional market around whether Grass announces robust token value attribution, while disclosing he is a Grass fan. PreStocks/Kalshi post adds a private-market liquidity/execution layer: he likes the idea of pre-IPO secondary-style products, but criticized disappearing liquidity and inability to exit. June 25 follow-up adds an important ProofMarkets caveat: the SOL Burn SIMD market was a very illiquid gated-MVP/test market, useful only as directional information rather than a robust liquid pricing venue. June 25 adds another direct ProofMarkets MVP example via a BTC/STRC conditional market, plus a useful caveat/competitive filter: ProofMarkets is still MVP, Kalshi is better today, and Polymarket/UMA are viewed negatively. July 2 evidence adds three direct Proof/GRASS datapoints: he treated the ProofMarkets v0 challenge as a successful time-boxed feedback push, replied again to ryanchern that Proof is trying to change sports-heavy prediction-market volume, and defended GRASS token design against 0xCryptoSam after comparing alternatives. Latest July 3 reply adds crypto-card/account UX taste outside ProofMarkets: Altitude plus Solomon Labs integration would be compelling, but segmented earn/spend accounts are a product negative.",
+    "period_end": "2026-07-06",
+    "profile_updated_at": "2026-07-07T05:00:56Z",
+    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence adds a tokenomics/accounting-process edge: he pushed against raw FDV for MetaDAO ownership-coin valuation and pointed toward adjusted supply / mNAV treatment. June 21 ryanchern reply adds another ProofMarkets/product-design datapoint: prediction markets need novel products that restore useful information surfaces beyond current category mix. June 22 quote added a light ProofMarkets ecosystem/partner signal via umia_finance/SURGECAST. Latest June 23 quote strengthens the ProofMarkets product-design trail with an actual conditional-futures Challenge market: SOL conditional on BTC up/down, framed as evidence that conditional futures can support experimental listed market types beyond event markets. Later June 23 replies add an Adjacent RED political-index feedback edge: he liked the index concept but wanted more volatility, saying ProofMarkets would love to list something like it as conditional indices develop. Latest June 23 evidence adds a concrete ProofMarkets/Solana tokenomics use case: he used a gated-MVP market to estimate Burn SIMD price impact and implementation odds, while caveating that failure would mainly matter as a signal on Solana's tokenomics direction. June 24 reply keeps ProofMarkets framed as an answer to the critique that current prediction markets are not practical hedging tools. Latest June 24 GRASS reply extends the same conditional-futures design pattern from ProofMarkets demos into tokenomics discovery: use a conditional market around whether Grass announces robust token value attribution, while disclosing he is a Grass fan. PreStocks/Kalshi post adds a private-market liquidity/execution layer: he likes the idea of pre-IPO secondary-style products, but criticized disappearing liquidity and inability to exit. June 25 follow-up adds an important ProofMarkets caveat: the SOL Burn SIMD market was a very illiquid gated-MVP/test market, useful only as directional information rather than a robust liquid pricing venue. June 25 adds another direct ProofMarkets MVP example via a BTC/STRC conditional market, plus a useful caveat/competitive filter: ProofMarkets is still MVP, Kalshi is better today, and Polymarket/UMA are viewed negatively. July 2 evidence adds three direct Proof/GRASS datapoints: he treated the ProofMarkets v0 challenge as a successful time-boxed feedback push, replied again to ryanchern that Proof is trying to change sports-heavy prediction-market volume, and defended GRASS token design against 0xCryptoSam after comparing alternatives. Latest July 3 reply adds crypto-card/account UX taste outside ProofMarkets: Altitude plus Solomon Labs integration would be compelling, but segmented earn/spend accounts are a product negative. July 6 BONK DAO reply adds a governance/process-risk edge: he highlighted that a controversial transfer proposal reportedly passed with only seven total voters, reinforcing attention to practical market/governance design failures rather than pure narrative.",
     "likes": [
       {
         "theme": "Crypto access to private companies",
@@ -1428,6 +1428,14 @@
           "https://x.com/airtightfish/status/2073048346353082865"
         ],
         "confidence": "low"
+      },
+      {
+        "theme": "Governance/process design failure modes",
+        "summary": "Tracks cases where crypto governance or market design breaks in practice; July 6 BONK DAO reply focused on an extremely low-voter proposal passing and later legal-action discussion.",
+        "evidence_urls": [
+          "https://x.com/i/status/2074240810804019636"
+        ],
+        "confidence": "medium"
       }
     ],
     "dislikes": [
@@ -1608,6 +1616,15 @@
         "evidence_urls": [
           "https://x.com/airtightfish/status/2073048346353082865"
         ]
+      },
+      {
+        "name": "BONK DAO",
+        "handle": null,
+        "stance": "negative/process-risk",
+        "summary": "Mentioned as a governance-failure example: controversial transfer proposal reportedly passed with only seven total voters, leading to legal-action discussion.",
+        "evidence_urls": [
+          "https://x.com/i/status/2074240810804019636"
+        ]
       }
     ],
     "people_respected": [
@@ -1662,7 +1679,8 @@
       "Watch whether ProofMarkets can move beyond directional but very illiquid gated-MVP markets into enough liquidity for more robust market-implied signals.",
       "Track whether airtightfish continues comparing ProofMarkets against Kalshi/Polymarket/UMA in concrete product-quality terms or whether this was a one-off reply.",
       "Track whether airtightfish's now-repeated GRASS token-design defense broadens beyond the 0xCryptoSam debate cluster or remains a single-counterparty argument.",
-      "Track whether Altitude/Solomon Labs recurs for airtightfish or remains a one-off crypto-card UX comment."
+      "Track whether Altitude/Solomon Labs recurs for airtightfish or remains a one-off crypto-card UX comment.",
+      "Track whether airtightfish returns to DAO-governance/process-risk failures or this remains a one-off BONK DAO context reply."
     ],
     "evidence_urls": [
       "https://x.com/airtightfish/status/2065567457536831796",
@@ -1703,7 +1721,8 @@
       "https://x.com/airtightfish/status/2072529260930081178",
       "https://x.com/airtightfish/status/2072524353439232288",
       "https://x.com/airtightfish/status/2072506598627450995",
-      "https://x.com/airtightfish/status/2073048346353082865"
+      "https://x.com/airtightfish/status/2073048346353082865",
+      "https://x.com/i/status/2074240810804019636"
     ]
   },
   {

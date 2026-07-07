@@ -1,5 +1,19 @@
 [
   {
+    "from": "airtightfish",
+    "to": "BONK DAO / DAO governance",
+    "to_kind": "project",
+    "type": "reply/governance_low_turnout_context",
+    "date": "2026-07-06",
+    "url": "https://x.com/i/status/2074240810804019636",
+    "summary": "Added context in a BONK DAO legal-action/governance-failure thread that the controversial proposal reportedly passed with only seven voters; process-risk/governance signal, not a project endorsement.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/i/status/2074221617085911452"
+    ]
+  },
+  {
     "from": "MoneyPrinter0x",
     "to": "gold / GLD",
     "to_kind": "project",
