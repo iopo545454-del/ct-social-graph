@@ -2171,5 +2171,27 @@
     "summary": "Replied substantively on whether post-agentic premature-abstraction logic applies to mechanical/manufacturing engineering: argued tech/software has extreme iteration velocity and unavoidable abstractions, while physical/manufacturing iteration costs make abstraction ROI less asymmetric.",
     "quality": "medium",
     "created_tier2_candidate": false
+  },
+  {
+    "from": "airtightfish",
+    "to": "connorking",
+    "to_kind": "individual",
+    "type": "reply/metadao_adverse_selection",
+    "date": "2026-07-07",
+    "url": "https://x.com/airtightfish/status/2074522131338080694",
+    "summary": "Replied in a Ryan Watkins / Connor King MetaDAO thread that adverse selection is nuanced and likely the biggest short-term challenge and risk for MetaDAO specifically, while acknowledging counterexamples.",
+    "quality": "medium",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "usewisp_io",
+    "to_kind": "project",
+    "type": "reply/project_ownership_diligence",
+    "date": "2026-07-07",
+    "url": "https://x.com/0xGeeGee/status/2074524971209040375",
+    "summary": "Asked for the relationship between Lido and Wisp in Wisp's privacy-AI announcement context; Wisp answered that it is fully owned by the Lido DAO, IP is under Lido-controlled foundations, and there is no token.",
+    "quality": "low",
+    "created_tier2_candidate": true
   }
 ]

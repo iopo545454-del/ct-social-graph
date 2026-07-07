@@ -825,5 +825,29 @@
     ],
     "first_seen": "2026-06-24",
     "confidence": "medium"
+  },
+  {
+    "handle": "connorking",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "airtightfish MetaDAO adverse-selection reply",
+    "reason": "Airtightfish engaged in a substantive MetaDAO/futarchy launch-design thread involving Connor King's rebuttal on adverse selection, launch quality, and governance-market use cases. One high-context interaction only, so keep as candidate rather than Tier 2.",
+    "evidence_urls": [
+      "https://x.com/airtightfish/status/2074522131338080694"
+    ],
+    "first_seen": "2026-07-07",
+    "confidence": "low"
+  },
+  {
+    "handle": "usewisp_io",
+    "kind": "project",
+    "status": "candidate",
+    "source": "0xGeeGee Wisp/Lido ownership diligence reply",
+    "reason": "0xGeeGee asked a source-close diligence question on Wisp's relationship to Lido in a privacy-AI launch thread; Wisp clarified Lido DAO ownership and no token. Low-signal but useful AI/privacy/project-ownership candidate for follow-up.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2074524971209040375"
+    ],
+    "first_seen": "2026-07-07",
+    "confidence": "low"
   }
 ]

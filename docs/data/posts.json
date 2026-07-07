@@ -5685,5 +5685,54 @@
     ],
     "why_logged": "Extends GeeGee's AI-infrastructure diligence from cost/routing into interpretability and observability, while explicitly rejecting over-humanized AI narratives.",
     "confidence": "high"
+  },
+  {
+    "date": "2026-07-07",
+    "handle": "airtightfish",
+    "type": "quote/proofmarkets_btc_strc_conditional_market",
+    "url": "https://x.com/airtightfish/status/2074516717410173058",
+    "summary": "Quoted a prior ProofMarkets BTC/STRC conditional market and said it ended up being close, adding that market design matters a lot here.",
+    "entities": [
+      "ProofMarkets",
+      "BTC",
+      "STRC",
+      "conditional markets",
+      "market design",
+      "prediction-market pricing"
+    ],
+    "why_logged": "Fresh operator/project evidence for airtightfish: not a generic market call, but a concrete ProofMarkets design/accuracy datapoint around conditional pricing.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-07-07",
+    "handle": "kelxyz_",
+    "type": "quote/open_source_ai_export_controls",
+    "url": "https://x.com/kelxyz_/status/2074500269539311680",
+    "summary": "Quoted reporting that China may restrict overseas access to cutting-edge AI/open-weight models and compressed the takeaway as: access to cutting edge open source models is spurious.",
+    "entities": [
+      "open-source AI",
+      "open-weight models",
+      "China export controls",
+      "AI model access",
+      "Pluralis-adjacent thesis"
+    ],
+    "why_logged": "Continues kelxyz_'s model-access/decentralized-AI thesis: open-source frontier access is treated as fragile rather than guaranteed.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-07",
+    "handle": "MoneyPrinter0x",
+    "type": "post/agentic_management_framework",
+    "url": "https://x.com/MoneyPrinter0x/status/2074419562523795706",
+    "summary": "Followed the premature-abstraction thread by saying that in a post-agentic world labor is cheap, but labor-execution time and labor-manager time are not; durable edge comes from reusable decision frameworks for tradeoffs.",
+    "entities": [
+      "agentic engineering",
+      "labor-manager time",
+      "decision frameworks",
+      "abstraction discipline",
+      "post-agentic workflows"
+    ],
+    "why_logged": "Useful continuation of MoneyPrinter0x's process layer: the focus is not just AI tools, but bottlenecks in managing cheap execution.",
+    "confidence": "medium"
   }
 ]
