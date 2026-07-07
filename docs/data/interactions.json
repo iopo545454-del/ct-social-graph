@@ -1,6 +1,54 @@
 [
   {
     "from": "MoneyPrinter0x",
+    "to": "gold / GLD",
+    "to_kind": "project",
+    "type": "authored_mention/gold_setup_continuation",
+    "date": "2026-07-06",
+    "url": "https://x.com/MoneyPrinter0x/status/2074184897359659420",
+    "summary": "Terse gold continuation marker following the prior XAU/GLD vs QQQ/semis mean-reversion and hedge thesis.",
+    "quality": "low",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2072769478199529511",
+      "https://x.com/MoneyPrinter0x/status/2073098469913555150"
+    ]
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "Lighter",
+    "to_kind": "project",
+    "type": "quote/warsh_investor_alignment_reaction",
+    "date": "2026-07-06",
+    "url": "https://x.com/MoneyPrinter0x/status/2074182665407000773",
+    "summary": "Reacted to a post claiming Kevin Warsh is an investor in Lighter with surprise; low-weight alignment/policy-context datapoint, not enough for Tier 2 promotion.",
+    "quality": "low",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "MSTR / Strategy",
+    "to_kind": "project",
+    "type": "authored_critique/btc_treasury_capital_structure_loop",
+    "date": "2026-07-06",
+    "url": "https://x.com/MoneyPrinter0x/status/2074168237630316988",
+    "summary": "Critiqued MSTR's BTC treasury financing as a recursive loop of issuing notes, buying BTC, selling BTC, and paying dividends; a negative capital-structure/process edge.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "Samsung / Korea semis beta",
+    "to_kind": "project",
+    "type": "authored_mention/earnings_event_risk",
+    "date": "2026-07-06",
+    "url": "https://x.com/MoneyPrinter0x/status/2074230355545206809",
+    "summary": "Treated Samsung's earnings call as a major Korea/semis macro-beta event; useful event-risk/process marker, not a crypto-project endorsement.",
+    "quality": "low",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "MoneyPrinter0x",
     "to": "Millennium / index-arb pods",
     "to_kind": "project",
     "type": "quote/hedge_fund_profit_market_structure_read",

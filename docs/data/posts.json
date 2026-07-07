@@ -2,6 +2,76 @@
   {
     "date": "2026-07-06",
     "handle": "MoneyPrinter0x",
+    "type": "authored_post/gold_continuation_marker",
+    "url": "https://x.com/MoneyPrinter0x/status/2074184897359659420",
+    "summary": "Posted 'gggggggold,' a terse continuation marker for his recent gold/XAU versus semis/QQQ mean-reversion and hedge framing.",
+    "entities": [
+      "gold",
+      "XAU",
+      "GLD",
+      "QQQ",
+      "semiconductors",
+      "mean reversion"
+    ],
+    "why_logged": "Small but useful because it confirms the gold/mean-reversion setup remained active after the July 2–3 cross-asset posts.",
+    "confidence": "low",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2072769478199529511",
+      "https://x.com/MoneyPrinter0x/status/2073098469913555150"
+    ]
+  },
+  {
+    "date": "2026-07-06",
+    "handle": "MoneyPrinter0x",
+    "type": "quote/lighter_warsh_alignment_meme",
+    "url": "https://x.com/MoneyPrinter0x/status/2074182665407000773",
+    "summary": "Quote-posted 'WHAT' on a post claiming Fed chair Kevin Warsh is an investor in Lighter. Treat as a surprising alignment / market-structure meme around Lighter, not a developed investment thesis.",
+    "entities": [
+      "Lighter",
+      "Kevin Warsh",
+      "Fed chair",
+      "crypto derivatives",
+      "perps/options venues",
+      "alignment meme"
+    ],
+    "why_logged": "Source-close venue/policy-context datapoint near GeeGee's Variational/Lighter comparison and MoneyPrinter's Warsh event-risk posts; low weight because his own text was only a reaction.",
+    "confidence": "low"
+  },
+  {
+    "date": "2026-07-06",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/mstr_btc_note_dividend_loop_critique",
+    "url": "https://x.com/MoneyPrinter0x/status/2074168237630316988",
+    "summary": "Described MSTR as selling BTC to pay dividends on notes issued to buy more BTC, then looping that structure; logged as a capital-structure critique of recursive BTC treasury financing rather than a generic MSTR price call.",
+    "entities": [
+      "MSTR / Strategy",
+      "BTC treasury companies",
+      "convertible/preferred notes",
+      "dividends",
+      "capital structure recursion"
+    ],
+    "why_logged": "Adds a clear negative/process filter around BTC-treasury financial engineering and mNAV/capital-structure mechanics, adjacent to his prior MSTR residual-short and hedge discussions.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-06",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/samsung_earnings_korea_macro_beta",
+    "url": "https://x.com/MoneyPrinter0x/status/2074230355545206809",
+    "summary": "Posted that 'half the korean gdp is riding on tonight's samsung earnings call,' a terse marker that Samsung earnings were being treated as a major Korea/semis/macro-beta event for the tape.",
+    "entities": [
+      "Samsung",
+      "Korea GDP",
+      "semiconductor earnings",
+      "macro beta",
+      "event risk"
+    ],
+    "why_logged": "Low-weight but useful process evidence: extends his semis/AI-capex/event-risk watchlist from Micron/SOXL into Samsung/Korea earnings as a market-moving input.",
+    "confidence": "low"
+  },
+  {
+    "date": "2026-07-06",
+    "handle": "MoneyPrinter0x",
     "type": "quote/hedge_fund_profit_index_arb_read",
     "url": "https://x.com/MoneyPrinter0x/status/2074205343039750645",
     "summary": "Quoted Bloomberg reporting that two Millennium pods generated about $3.7B in June and commented that it is 'all index arb', reading the large hedge-fund profit print as index-arbitrage/flow structure rather than pure discretionary fundamental alpha.",
