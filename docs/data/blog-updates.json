@@ -1,6 +1,6 @@
 {
-  "last_checked": "2026-07-07T17:34:12Z",
-  "new_count": 1,
+  "last_checked": "2026-07-08T18:25:52Z",
+  "new_count": 2,
   "sources": [
     {
       "name": "a16z crypto",
@@ -63,7 +63,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-07T17:34:09Z"
+      "checked_at": "2026-07-08T18:25:48Z"
     },
     {
       "name": "Multicoin Capital",
@@ -138,7 +138,7 @@
           "published": "Thu, 02 Oct 2025 00:00:00 GMT"
         }
       ],
-      "checked_at": "2026-07-07T17:34:10Z"
+      "checked_at": "2026-07-08T18:25:49Z"
     },
     {
       "name": "Pantera Blockchain Letter",
@@ -203,7 +203,7 @@
           "published": "Mon, 30 Jun 2025 14:48:37 +0000"
         }
       ],
-      "checked_at": "2026-07-07T17:34:10Z"
+      "checked_at": "2026-07-08T18:25:49Z"
     },
     {
       "name": "Paradigm",
@@ -221,13 +221,13 @@
           "published": null
         },
         {
-          "title": "2026-04-20 Introducing the 2026 Paradigm Fellowship",
-          "url": "https://www.paradigm.xyz/writing/introducing-the-2026-paradigm-fellowship",
+          "title": "2026-07-08 Announcing Our Fourth Fund",
+          "url": "https://www.paradigm.xyz/writing/announcing-our-fourth-fund",
           "published": null
         },
         {
-          "title": "Kalshi In Latest Prediction Market Challenge 2026-06-24 Paradigm Backs Kalshi in Latest Prediction Market Challenge",
-          "url": "https://www.paradigm.xyz/writing/paradigm-backs-kalshi-in-latest-prediction-market-challenge",
+          "title": "2026-04-20 Introducing the 2026 Paradigm Fellowship",
+          "url": "https://www.paradigm.xyz/writing/introducing-the-2026-paradigm-fellowship",
           "published": null
         },
         {
@@ -276,7 +276,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-07T17:34:11Z"
+      "checked_at": "2026-07-08T18:25:50Z"
     },
     {
       "name": "Glassnode Research",
@@ -316,6 +316,11 @@
           "published": "Wed, 20 May 2026 10:00:00 GMT"
         },
         {
+          "title": "Bottom Building in Progress",
+          "url": "https://research.glassnode.com/the-week-onchain-week-27-2026",
+          "published": "Wed, 08 Jul 2026 15:05:33 GMT"
+        },
+        {
           "title": "BTC Market Pulse: Week 28",
           "url": "https://research.glassnode.com/btc-market-pulse-week-28-2026",
           "published": "Mon, 06 Jul 2026 14:26:55 GMT"
@@ -344,14 +349,9 @@
           "title": "The Altcoin Vector #60",
           "url": "https://research.glassnode.com/the-altcoin-vector-60",
           "published": "Thu, 25 Jun 2026 07:17:53 GMT"
-        },
-        {
-          "title": "Waiting for Buyers",
-          "url": "https://research.glassnode.com/the-week-onchain-week-25-2026",
-          "published": "Wed, 24 Jun 2026 17:31:56 GMT"
         }
       ],
-      "checked_at": "2026-07-07T17:34:11Z"
+      "checked_at": "2026-07-08T18:25:50Z"
     },
     {
       "name": "Delphi Digital",
@@ -374,7 +374,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-07T17:34:11Z"
+      "checked_at": "2026-07-08T18:25:51Z"
     },
     {
       "name": "Electric Capital",
@@ -386,7 +386,7 @@
       "error": null,
       "feed_urls": [],
       "items": [],
-      "checked_at": "2026-07-07T17:34:11Z"
+      "checked_at": "2026-07-08T18:25:51Z"
     },
     {
       "name": "Bankless",
@@ -459,7 +459,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-07T17:34:12Z"
+      "checked_at": "2026-07-08T18:25:52Z"
     },
     {
       "name": "Token Terminal",
@@ -532,7 +532,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-07T17:34:12Z"
+      "checked_at": "2026-07-08T18:25:52Z"
     }
   ],
   "articles": [
@@ -867,21 +867,21 @@
       "source_url": "https://www.paradigm.xyz/writing"
     },
     {
+      "id": "6ac9f2d91ebb",
+      "source": "Paradigm",
+      "tier": 1,
+      "title": "2026-07-08 Announcing Our Fourth Fund",
+      "url": "https://www.paradigm.xyz/writing/announcing-our-fourth-fund",
+      "published": null,
+      "first_seen": "2026-07-08T18:25:52Z",
+      "source_url": "https://www.paradigm.xyz/writing"
+    },
+    {
       "id": "92bf672e7f1b",
       "source": "Paradigm",
       "tier": 1,
       "title": "2026-04-20 Introducing the 2026 Paradigm Fellowship",
       "url": "https://www.paradigm.xyz/writing/introducing-the-2026-paradigm-fellowship",
-      "published": null,
-      "first_seen": "2026-07-01T20:54:58Z",
-      "source_url": "https://www.paradigm.xyz/writing"
-    },
-    {
-      "id": "86145c21cd6c",
-      "source": "Paradigm",
-      "tier": 1,
-      "title": "Kalshi In Latest Prediction Market Challenge 2026-06-24 Paradigm Backs Kalshi in Latest Prediction Market Challenge",
-      "url": "https://www.paradigm.xyz/writing/paradigm-backs-kalshi-in-latest-prediction-market-challenge",
       "published": null,
       "first_seen": "2026-07-01T20:54:58Z",
       "source_url": "https://www.paradigm.xyz/writing"
@@ -1027,6 +1027,16 @@
       "source_url": "https://research.glassnode.com/"
     },
     {
+      "id": "20c7d3e2f223",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "Bottom Building in Progress",
+      "url": "https://research.glassnode.com/the-week-onchain-week-27-2026",
+      "published": "Wed, 08 Jul 2026 15:05:33 GMT",
+      "first_seen": "2026-07-08T18:25:52Z",
+      "source_url": "https://research.glassnode.com/"
+    },
+    {
       "id": "65ccac15944d",
       "source": "Glassnode Research",
       "tier": 1,
@@ -1084,16 +1094,6 @@
       "url": "https://research.glassnode.com/the-altcoin-vector-60",
       "published": "Thu, 25 Jun 2026 07:17:53 GMT",
       "first_seen": "2026-06-25T07:55:33Z",
-      "source_url": "https://research.glassnode.com/"
-    },
-    {
-      "id": "2e1001b56f82",
-      "source": "Glassnode Research",
-      "tier": 1,
-      "title": "Waiting for Buyers",
-      "url": "https://research.glassnode.com/the-week-onchain-week-25-2026",
-      "published": "Wed, 24 Jun 2026 17:31:56 GMT",
-      "first_seen": "2026-06-24T19:32:54Z",
       "source_url": "https://research.glassnode.com/"
     },
     {
@@ -1355,6 +1355,26 @@
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "86145c21cd6c",
+      "source": "Paradigm",
+      "tier": 1,
+      "title": "Kalshi In Latest Prediction Market Challenge 2026-06-24 Paradigm Backs Kalshi in Latest Prediction Market Challenge",
+      "url": "https://www.paradigm.xyz/writing/paradigm-backs-kalshi-in-latest-prediction-market-challenge",
+      "published": null,
+      "first_seen": "2026-07-01T20:54:58Z",
+      "source_url": "https://www.paradigm.xyz/writing"
+    },
+    {
+      "id": "2e1001b56f82",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "Waiting for Buyers",
+      "url": "https://research.glassnode.com/the-week-onchain-week-25-2026",
+      "published": "Wed, 24 Jun 2026 17:31:56 GMT",
+      "first_seen": "2026-06-24T19:32:54Z",
+      "source_url": "https://research.glassnode.com/"
     },
     {
       "id": "9dfe961eac56",
