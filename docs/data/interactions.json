@@ -1,5 +1,42 @@
 [
   {
+    "from": "MoneyPrinter0x",
+    "to": "CASHCAT",
+    "to_kind": "project",
+    "type": "authored_mention/robinhood_meme_ratio_trade",
+    "date": "2026-07-08",
+    "url": "https://x.com/MoneyPrinter0x/status/2074808549948162442",
+    "summary": "Used a COIN/Base/BRETT historical market-cap-ratio analogy plus Robinhood CFO/CEO meme signals to frame CASHCAT as a high-risk Robinhood-chain meme trade; repeatedly warned not to full-port.",
+    "quality": "low-medium",
+    "created_tier2_candidate": true,
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2074809734931366377",
+      "https://x.com/MoneyPrinter0x/status/2074811646925836617"
+    ]
+  },
+  {
+    "from": "CryptoTomYT",
+    "to": "CASHCAT / DIH",
+    "to_kind": "project",
+    "type": "authored_mention/early_robinhood_chain_meme_candidates",
+    "date": "2026-07-08",
+    "url": "https://x.com/CryptoTomYT/status/2074746297832353843",
+    "summary": "Named CASHCAT and DIH as early Robinhood-chain meme candidates while preferring utility/RWA names in the future; useful mention-ledger evidence but too meme-led for Tier 2 promotion.",
+    "quality": "low-medium",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "CryptoTomYT",
+    "to": "RobinhoodApp / Robinhood Chain",
+    "to_kind": "project",
+    "type": "authored_mention/chain_distribution_thesis",
+    "date": "2026-07-08",
+    "url": "https://x.com/CryptoTomYT/status/2074746297832353843",
+    "summary": "Argued Robinhood Chain could outperform Base on execution because Robinhood already has retail distribution, wallet/app spot liquidity, Lighter perps rails, and a degen community; framed early-chain trading as +EV but execution-dependent.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
     "from": "airtightfish",
     "to": "getgrass_io",
     "to_kind": "project",

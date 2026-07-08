@@ -1,5 +1,68 @@
 [
   {
+    "date": "2026-07-08",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/onchain_reactivation_marker",
+    "url": "https://x.com/MoneyPrinter0x/status/2074771498586517879",
+    "summary": "Posted that 'onchain is officially back' during the CASHCAT/Robinhood-chain discussion cluster; logged as continuation evidence for his onchain-liquidity revival theme, not a standalone project thesis.",
+    "entities": [
+      "onchain liquidity",
+      "meme season",
+      "Robinhood Chain",
+      "CASHCAT",
+      "GMGN fees"
+    ],
+    "why_logged": "Small but useful because it confirms the July 5 onchain-reactivation theme continued into a specific Robinhood-chain meme/fee environment.",
+    "confidence": "low",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2074756186155675693",
+      "https://x.com/MoneyPrinter0x/status/2074750944013914485"
+    ]
+  },
+  {
+    "date": "2026-07-08",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/cashcat_robinhood_ratio_trade",
+    "url": "https://x.com/MoneyPrinter0x/status/2074808549948162442",
+    "summary": "Compared 2024 COIN/Base/BRETT market-cap ratios with current HOOD/Robinhood context to frame CASHCAT upside as a speculative meme-to-listed-company ratio trade, with explicit high-risk/NFA caveats in the thread.",
+    "entities": [
+      "CASHCAT",
+      "Robinhood",
+      "HOOD",
+      "COIN",
+      "BRETT",
+      "Base",
+      "meme-to-listed-company market-cap ratio",
+      "onchain rotation"
+    ],
+    "why_logged": "Adds source-close evidence that MoneyPrinter0x has shifted the onchain-revival lens from ANSEM/z's coin toward Robinhood-chain meme beta, while still flagging the trade as very risky.",
+    "confidence": "low-medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2074809734931366377",
+      "https://x.com/MoneyPrinter0x/status/2074811646925836617"
+    ]
+  },
+  {
+    "date": "2026-07-08",
+    "handle": "CryptoTomYT",
+    "type": "authored_post/robinhood_chain_distribution_meme_coin_watchlist",
+    "url": "https://x.com/CryptoTomYT/status/2074746297832353843",
+    "summary": "Long-form post arguing Robinhood Chain has a real shot at succeeding where Base did not because Robinhood has retail distribution, wallet/app liquidity, Lighter for perps, and a degen user base; named CASHCAT and DIH as early meme candidates while saying utility/RWA coins would be preferable later.",
+    "entities": [
+      "Robinhood Chain",
+      "RobinhoodApp",
+      "Lighter",
+      "CASHCAT",
+      "DIH",
+      "meme coins",
+      "RWA",
+      "retail distribution",
+      "onchain liquidity"
+    ],
+    "why_logged": "Substantive venue/distribution thesis from CryptoTomYT, despite meme-coin content: it links Robinhood consumer distribution, perps/spot rails, and early-chain speculation with direct project examples.",
+    "confidence": "medium"
+  },
+  {
     "date": "2026-07-07",
     "handle": "airtightfish",
     "type": "reply/grass_h1_revenue_expectations_check",

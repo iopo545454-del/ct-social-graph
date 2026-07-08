@@ -1,5 +1,31 @@
 [
   {
+    "handle": "DIH",
+    "kind": "project",
+    "status": "candidate",
+    "source": "CryptoTomYT Robinhood-chain meme watchlist post",
+    "reason": "CryptoTomYT named DIH as an early Robinhood-chain dog/meme candidate alongside CASHCAT, using ticker/lore and chain-runner analogies. One account/one post only, so keep as low-confidence candidate/mention-ledger item.",
+    "evidence_urls": [
+      "https://x.com/CryptoTomYT/status/2074746297832353843"
+    ],
+    "first_seen": "2026-07-08",
+    "confidence": "low"
+  },
+  {
+    "handle": "CASHCAT",
+    "kind": "project",
+    "status": "candidate",
+    "source": "CryptoTomYT and MoneyPrinter0x Robinhood-chain meme/ratio posts",
+    "reason": "Both CryptoTomYT and MoneyPrinter0x highlighted CASHCAT as an early Robinhood-chain meme candidate. Evidence is repeated across two Tier 1 accounts and tied to Robinhood distribution/CFO/CEO meme signals, but remains high-risk meme-coin attention rather than a durable project thesis, so keep as candidate only.",
+    "evidence_urls": [
+      "https://x.com/CryptoTomYT/status/2074746297832353843",
+      "https://x.com/MoneyPrinter0x/status/2074808549948162442",
+      "https://x.com/MoneyPrinter0x/status/2074809734931366377"
+    ],
+    "first_seen": "2026-07-08",
+    "confidence": "low-medium"
+  },
+  {
     "handle": "MiTypeScript",
     "kind": "individual",
     "status": "candidate",
@@ -135,10 +161,12 @@
     "kind": "project",
     "status": "candidate",
     "source": "AustinBarack quote/replies on Robinhood crypto event and perps priority",
-    "reason": "AustinBarack framed Robinhood as one of the most important mainstream crypto consumer-growth channels and highlighted perps as a major priority. One venue/distribution evidence cluster only, so candidate/mention-ledger rather than Tier 2.",
+    "reason": "AustinBarack framed Robinhood as one of the most important mainstream crypto consumer-growth channels and highlighted perps as a major priority. One venue/distribution evidence cluster only, so candidate/mention-ledger rather than Tier 2. July 8 adds CryptoTomYT/MoneyPrinter0x evidence around Robinhood Chain distribution, Lighter/perps/spot rails, and early meme liquidity; still candidate/mention-ledger rather than Tier 2.",
     "evidence_urls": [
       "https://x.com/AustinBarack/status/2072378551081353444",
-      "https://x.com/AustinBarack/status/2072387394133717201"
+      "https://x.com/AustinBarack/status/2072387394133717201",
+      "https://x.com/CryptoTomYT/status/2074746297832353843",
+      "https://x.com/MoneyPrinter0x/status/2074808549948162442"
     ],
     "first_seen": "2026-07-01",
     "confidence": "low"

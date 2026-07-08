@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
-  "period_end": "2026-07-07",
-  "profile_updated_at": "2026-07-07T21:46:28Z",
+  "period_end": "2026-07-08",
+  "profile_updated_at": "2026-07-08T13:00:00Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -404,9 +404,12 @@
         "Variational tighter-spread swaps",
         "tradfi-onchain swaps",
         "Lighter / Warsh investor alignment meme",
-        "MetaDAO ownership coins adverse-selection risk"
+        "MetaDAO ownership coins adverse-selection risk",
+        "Robinhood Chain",
+        "Lighter as Robinhood perps rail",
+        "Robinhood wallet/app spot liquidity"
       ],
-      "summary": "Observed posts show coin_casanova arguing for organic crypto options demand, CryptoTomYT highlighting Tradexyz/Legend Trade performance context, airtightfish building/promoting ProofMarkets, AustinBarack using Hyperliquid/SPCX as a market-structure example, and 0xGeeGee naming Variational/Pear fee checks. These are separate infra/venue references rather than one unified thesis. Recent airtightfish/ProofMarkets evidence is product-led: onboarding/contest operations, conditional futures/non-gambling market-listing commentary, STRC/MSTR/BTC conditional markets, a umia_finance discussion about prediction/governance signals, and now a June 23 SOL-if-BTC-up/down Challenge market as conditional-futures listing experimentation. Keep this bucket close to evidence rather than turning it into abstract venue scoring. June 23 airtightfish evidence adds another ProofMarkets use case: pricing Solana Burn SIMD implementation odds and implied SOL impact, with caveats around governance signaling. June 24 reply added another ProofMarkets-as-hedging-tool signal in response to a thread criticizing current prediction-market payout/liquidity/standardization limits. New airtightfish PreStocks/Kalshi evidence broadens the infrastructure bucket into private-market/prediction-market liquidity: valuation gaps are interesting, but disappearing exit liquidity is the central critique. June 25 caveat: airtightfish said the ProofMarkets SOL Burn SIMD market was very illiquid and only a gated-MVP/test market, so treat this as directional product evidence rather than a liquid market signal. June 25 airtightfish adds a BTC/STRC ProofMarkets conditional-market example and explicitly frames the MVP as showing event-positioning value. June 26 adds two compact infra/relative-value examples: MoneyPrinter0x tied HYPE to tokenized synthetics/perps and regulatory context, while 0xGeeGee called PURR poor quality but not yet attractive enough as a relative mNAV short. June 28 coin_casanova reply adds a valuation/tokenomics layer to Derive: DRV is framed as fair/slightly undervalued only if onchain options volume keeps compounding, with the 25%→30% buyback increase treated as a confidence signal but not an all-in reason. July 1 CryptoTomYT adds a low-context but relevant pre-IPO perps venue/listing-catalyst note: he expects the first exchange to list Etched perps to pump and later distinguishes Anthropic exposure from Etched. July 1 updates added coin_casanova's Derive v3/0DTE/weekly-volume checklist and CryptoTomYT's Opal privacy-DEX + pre-IPO-perps candidate angle. July 1 adds two source-close venue/tooling examples: AustinBarack highlighted Robinhood as a mainstream crypto-distribution channel making perps a priority, while airtightfish praised JTX smart fill as slippage-aware UX for onchain traders. July 2 ProofMarkets update adds source-close operator evidence: the v0 challenge ended with better-than-expected trader behavior and useful feedback from a time-boxed activation. July 3 adds two source-close infra/product notes: AustinBarack made a detailed DYDX/Arcus repricing case after Robinhood's event, and airtightfish gave product feedback on Altitude/Solomon Labs earn-spend account UX. Keep both as candidate-level project evidence, not Tier 2 promotions. July 5 GeeGee crypto-card reply adds a small product/provider-trust datapoint: fee/FX/cashback UX can matter, ether.fi screened well in the referenced test, and Wirex was explicitly faded as shady. July 5 GeeGee evidence broadens the infrastructure bucket into crypto-card UX/trust: he used a card-comparison thread to reiterate a Wirex-specific product/trust fade, while not making a sector-wide card endorsement. July 6 GeeGee quote adds fresh Variational evidence: he treated tighter-spread/larger-OI/near-flat-carry swaps as a possible different venue/tradfi-onchain expression after early exits from Hyperliquid and Lighter. A July 6 MoneyPrinter0x quote of a Warsh-investor-in-Lighter claim is logged only as low-weight venue/policy-context evidence, not as a developed Lighter thesis. July 7 airtightfish added a MetaDAO/ownership-coins market-design caveat: adverse selection is nuanced but likely the biggest short-term risk for MetaDAO specifically.",
+      "summary": "Observed posts show coin_casanova arguing for organic crypto options demand, CryptoTomYT highlighting Tradexyz/Legend Trade performance context, airtightfish building/promoting ProofMarkets, AustinBarack using Hyperliquid/SPCX as a market-structure example, and 0xGeeGee naming Variational/Pear fee checks. These are separate infra/venue references rather than one unified thesis. Recent airtightfish/ProofMarkets evidence is product-led: onboarding/contest operations, conditional futures/non-gambling market-listing commentary, STRC/MSTR/BTC conditional markets, a umia_finance discussion about prediction/governance signals, and now a June 23 SOL-if-BTC-up/down Challenge market as conditional-futures listing experimentation. Keep this bucket close to evidence rather than turning it into abstract venue scoring. June 23 airtightfish evidence adds another ProofMarkets use case: pricing Solana Burn SIMD implementation odds and implied SOL impact, with caveats around governance signaling. June 24 reply added another ProofMarkets-as-hedging-tool signal in response to a thread criticizing current prediction-market payout/liquidity/standardization limits. New airtightfish PreStocks/Kalshi evidence broadens the infrastructure bucket into private-market/prediction-market liquidity: valuation gaps are interesting, but disappearing exit liquidity is the central critique. June 25 caveat: airtightfish said the ProofMarkets SOL Burn SIMD market was very illiquid and only a gated-MVP/test market, so treat this as directional product evidence rather than a liquid market signal. June 25 airtightfish adds a BTC/STRC ProofMarkets conditional-market example and explicitly frames the MVP as showing event-positioning value. June 26 adds two compact infra/relative-value examples: MoneyPrinter0x tied HYPE to tokenized synthetics/perps and regulatory context, while 0xGeeGee called PURR poor quality but not yet attractive enough as a relative mNAV short. June 28 coin_casanova reply adds a valuation/tokenomics layer to Derive: DRV is framed as fair/slightly undervalued only if onchain options volume keeps compounding, with the 25%→30% buyback increase treated as a confidence signal but not an all-in reason. July 1 CryptoTomYT adds a low-context but relevant pre-IPO perps venue/listing-catalyst note: he expects the first exchange to list Etched perps to pump and later distinguishes Anthropic exposure from Etched. July 1 updates added coin_casanova's Derive v3/0DTE/weekly-volume checklist and CryptoTomYT's Opal privacy-DEX + pre-IPO-perps candidate angle. July 1 adds two source-close venue/tooling examples: AustinBarack highlighted Robinhood as a mainstream crypto-distribution channel making perps a priority, while airtightfish praised JTX smart fill as slippage-aware UX for onchain traders. July 2 ProofMarkets update adds source-close operator evidence: the v0 challenge ended with better-than-expected trader behavior and useful feedback from a time-boxed activation. July 3 adds two source-close infra/product notes: AustinBarack made a detailed DYDX/Arcus repricing case after Robinhood's event, and airtightfish gave product feedback on Altitude/Solomon Labs earn-spend account UX. Keep both as candidate-level project evidence, not Tier 2 promotions. July 5 GeeGee crypto-card reply adds a small product/provider-trust datapoint: fee/FX/cashback UX can matter, ether.fi screened well in the referenced test, and Wirex was explicitly faded as shady. July 5 GeeGee evidence broadens the infrastructure bucket into crypto-card UX/trust: he used a card-comparison thread to reiterate a Wirex-specific product/trust fade, while not making a sector-wide card endorsement. July 6 GeeGee quote adds fresh Variational evidence: he treated tighter-spread/larger-OI/near-flat-carry swaps as a possible different venue/tradfi-onchain expression after early exits from Hyperliquid and Lighter. A July 6 MoneyPrinter0x quote of a Warsh-investor-in-Lighter claim is logged only as low-weight venue/policy-context evidence, not as a developed Lighter thesis. July 7 airtightfish added a MetaDAO/ownership-coins market-design caveat: adverse selection is nuanced but likely the biggest short-term risk for MetaDAO specifically. July 8 CryptoTomYT adds Robinhood Chain as a consumer-distribution venue thesis: Lighter for perps, Robinhood wallet/app for spot liquidity, and retail distribution as the core edge.",
       "evidence_urls": [
         "https://x.com/coin_casanova/status/2063848704499687605",
         "https://x.com/CryptoTomYT/status/2065238474907607090",
@@ -457,7 +460,8 @@
         "https://x.com/0xGeeGee/status/2073839095546032558",
         "https://x.com/0xGeeGee/status/2074196917437731306",
         "https://x.com/MoneyPrinter0x/status/2074182665407000773",
-        "https://x.com/airtightfish/status/2074522131338080694"
+        "https://x.com/airtightfish/status/2074522131338080694",
+        "https://x.com/CryptoTomYT/status/2074746297832353843"
       ],
       "momentum": "rising",
       "confidence": "medium"
@@ -1213,7 +1217,8 @@
     {
       "theme": "Memecoin market-structure respect edges",
       "accounts_positive": [
-        "MoneyPrinter0x"
+        "MoneyPrinter0x",
+        "CryptoTomYT"
       ],
       "accounts_negative": [],
       "projects": [
@@ -1229,9 +1234,14 @@
         "SNAI",
         "Github/codebase diligence",
         "OG over betas",
-        "Alon MM bot critique"
+        "Alon MM bot critique",
+        "Robinhood Chain",
+        "CASHCAT",
+        "DIH",
+        "HOOD/COIN/BRETT ratio",
+        "Robinhood retail distribution"
       ],
-      "summary": "MoneyPrinter0x now has repeated memecoin/onchain-liquidity evidence: first he called blknoiz06's long memecoin thesis genuinely sharp, then on July 3 argued that z's coin reaching $1B+ may be the ecosystem's best shot at a PEPE-like onchain revival. Keep this as market-structure/onchain-liquidity attention, not a broad memecoin basket endorsement. Late July 3 update strengthens this bucket: MoneyPrinter0x defended ANSEM/z's coin as a pragmatic response to hidden private bundles and anti-retail tooling, arguing public/social-capital-backed bundles may be the best available onchain-liquidity revival mechanism despite not matching old community-coin ideals. Follow-up replies preserve the same read while adding coordinated promoter labor and adversarial protocol design as constraints. July 4 update adds backlash/ethics context: after ANSEM/z coin moved sharply, MoneyPrinter0x said he would stop talking about it out of respect for community pushback, while the wealth-effect read remained visible. New July 4 reply adds no-compensation/no-price-prediction disclosure while keeping the PEPE-like wealth-effect/onchain-liquidity argument visible. July 5 MoneyPrinter0x evidence shifts from the ANSEM/z-coin debate into broader onchain-market reactivation: he said onchain looked on fire and framed prior 2024–25 tech/meme winners as thesis/codebase-driven rather than random price calls. July 5 follow-up broadens the onchain-reactivation bucket from ANSEM/z-specific mechanics to leader-led beta selection: MoneyPrinter0x said he would rather bid the OG/leader than derivative betas when one alpha runner is driving the season, and separately criticized an Alon MM bot as rugger-like mechanics.",
+      "summary": "MoneyPrinter0x now has repeated memecoin/onchain-liquidity evidence: first he called blknoiz06's long memecoin thesis genuinely sharp, then on July 3 argued that z's coin reaching $1B+ may be the ecosystem's best shot at a PEPE-like onchain revival. Keep this as market-structure/onchain-liquidity attention, not a broad memecoin basket endorsement. Late July 3 update strengthens this bucket: MoneyPrinter0x defended ANSEM/z's coin as a pragmatic response to hidden private bundles and anti-retail tooling, arguing public/social-capital-backed bundles may be the best available onchain-liquidity revival mechanism despite not matching old community-coin ideals. Follow-up replies preserve the same read while adding coordinated promoter labor and adversarial protocol design as constraints. July 4 update adds backlash/ethics context: after ANSEM/z coin moved sharply, MoneyPrinter0x said he would stop talking about it out of respect for community pushback, while the wealth-effect read remained visible. New July 4 reply adds no-compensation/no-price-prediction disclosure while keeping the PEPE-like wealth-effect/onchain-liquidity argument visible. July 5 MoneyPrinter0x evidence shifts from the ANSEM/z-coin debate into broader onchain-market reactivation: he said onchain looked on fire and framed prior 2024–25 tech/meme winners as thesis/codebase-driven rather than random price calls. July 5 follow-up broadens the onchain-reactivation bucket from ANSEM/z-specific mechanics to leader-led beta selection: MoneyPrinter0x said he would rather bid the OG/leader than derivative betas when one alpha runner is driving the season, and separately criticized an Alon MM bot as rugger-like mechanics. July 8 adds a Robinhood-chain branch to the same onchain-liquidity bucket: CryptoTomYT wrote a distribution-led Robinhood Chain thesis naming CASHCAT/DIH, while MoneyPrinter0x framed CASHCAT with HOOD/COIN/BRETT ratio logic and explicit high-risk caveats.",
       "evidence_urls": [
         "https://x.com/MoneyPrinter0x/status/2072073125991497772",
         "https://x.com/MoneyPrinter0x/status/2073110339496058968",
@@ -1249,10 +1259,28 @@
         "https://x.com/MoneyPrinter0x/status/2073849098135076993",
         "https://x.com/MoneyPrinter0x/status/2073853089707442234",
         "https://x.com/MoneyPrinter0x/status/2073859507365761202",
-        "https://x.com/MoneyPrinter0x/status/2073890514043277791"
+        "https://x.com/MoneyPrinter0x/status/2073890514043277791",
+        "https://x.com/CryptoTomYT/status/2074746297832353843",
+        "https://x.com/MoneyPrinter0x/status/2074808549948162442",
+        "https://x.com/MoneyPrinter0x/status/2074809734931366377",
+        "https://x.com/MoneyPrinter0x/status/2074811646925836617"
       ],
       "momentum": "rising",
-      "confidence": "medium"
+      "confidence": "medium",
+      "examples": [
+        {
+          "account": "CryptoTomYT",
+          "date": "2026-07-08",
+          "url": "https://x.com/CryptoTomYT/status/2074746297832353843",
+          "summary": "Robinhood Chain distribution thesis: app/wallet liquidity, Lighter perps, and retail/degen audience; CASHCAT/DIH as early meme examples."
+        },
+        {
+          "account": "MoneyPrinter0x",
+          "date": "2026-07-08",
+          "url": "https://x.com/MoneyPrinter0x/status/2074808549948162442",
+          "summary": "CASHCAT ratio framework comparing HOOD/Robinhood to COIN/Base/BRETT, with high-risk caveats."
+        }
+      ]
     },
     {
       "theme": "Memecoin launch mechanics / onchain-liquidity revival",
