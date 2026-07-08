@@ -1,6 +1,31 @@
 [
   {
     "from": "MoneyPrinter0x",
+    "to": "RobinhoodApp / Robinhood Chain",
+    "to_kind": "project",
+    "type": "authored_mention/meme_trading_revenue_distribution_thesis",
+    "date": "2026-07-08",
+    "url": "https://x.com/MoneyPrinter0x/status/2074870581850513739",
+    "summary": "Framed Robinhood as a distribution/earnings lever for onchain meme trading: large KYC'd degen user base, high-margin fee capture, and asymmetric earnings impact if it captures existing meme-platform revenue.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2074875920201183470"
+    ]
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "HyperliquidX",
+    "to_kind": "project",
+    "type": "reply/robinhood_onchain_liquidity_tailwind",
+    "date": "2026-07-08",
+    "url": "https://x.com/MoneyPrinter0x/status/2074921407683977478",
+    "summary": "Said Robinhood-driven capital moving onchain should be good for Hyperliquid by increasing crypto liquidity, while equity perps remain a regulatory-arbitrage product public companies cannot easily touch.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "MoneyPrinter0x",
     "to": "CASHCAT",
     "to_kind": "project",
     "type": "authored_mention/robinhood_meme_ratio_trade",

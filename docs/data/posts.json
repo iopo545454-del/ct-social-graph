@@ -2,6 +2,48 @@
   {
     "date": "2026-07-08",
     "handle": "MoneyPrinter0x",
+    "type": "post/robinhood_meme_revenue_distribution_thesis",
+    "url": "https://x.com/MoneyPrinter0x/status/2074870581850513739",
+    "summary": "Argued that Robinhood could capture a meaningful share of existing onchain meme-trading revenue because it has a large KYC'd retail/degen user base, consumer distribution, and high-margin fee upside; framed this as a reason Robinhood may prioritize meme infrastructure this quarter.",
+    "entities": [
+      "Robinhood",
+      "HOOD",
+      "onchain meme trading",
+      "Pump.fun",
+      "GMGN",
+      "Axiom",
+      "Uniswap",
+      "meme-platform revenue",
+      "retail distribution"
+    ],
+    "why_logged": "Substantive continuation of the July 8 onchain-revival tape: moves from CASHCAT ticker attention into a platform/distribution/revenue thesis for Robinhood-driven meme trading.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2074875920201183470",
+      "https://x.com/MoneyPrinter0x/status/2074921407683977478"
+    ]
+  },
+  {
+    "date": "2026-07-08",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/hyperliquid_benefits_from_robinhood_onchain_liquidity",
+    "url": "https://x.com/MoneyPrinter0x/status/2074921407683977478",
+    "summary": "Agreed that more Robinhood-driven capital moving onchain is bullish for Hyperliquid because it should net-grow crypto liquidity, while noting Robinhood cannot easily offer equity perps because that product is a regulatory-arbitrage lane unavailable to public companies.",
+    "entities": [
+      "Hyperliquid",
+      "HYPE",
+      "Robinhood",
+      "onchain liquidity",
+      "equity perps",
+      "regulatory arbitrage",
+      "crypto liquidity"
+    ],
+    "why_logged": "High-signal reply because it links two existing themes—Robinhood distribution and Hyperliquid/equity-perp infrastructure—rather than just cheering a meme coin.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-08",
+    "handle": "MoneyPrinter0x",
     "type": "authored_post/onchain_reactivation_marker",
     "url": "https://x.com/MoneyPrinter0x/status/2074771498586517879",
     "summary": "Posted that 'onchain is officially back' during the CASHCAT/Robinhood-chain discussion cluster; logged as continuation evidence for his onchain-liquidity revival theme, not a standalone project thesis.",
