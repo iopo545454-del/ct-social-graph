@@ -2296,5 +2296,16 @@
     "summary": "Asked for the relationship between Lido and Wisp in Wisp's privacy-AI announcement context; Wisp answered that it is fully owned by the Lido DAO, IP is under Lido-controlled foundations, and there is no token.",
     "quality": "low",
     "created_tier2_candidate": true
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "alighodsi",
+    "to_kind": "individual",
+    "type": "quote/ai_enterprise_benchmark",
+    "date": "2026-07-09",
+    "url": "https://x.com/0xGeeGee/status/2075231559603687483",
+    "summary": "Quoted Ali Ghodsi's Databricks internal AI cost/quality evaluation and used it to argue for enterprise AI spend measured as dollars per task/work unit rather than token prices or public leaderboards.",
+    "quality": "medium",
+    "created_tier2_candidate": false
   }
 ]

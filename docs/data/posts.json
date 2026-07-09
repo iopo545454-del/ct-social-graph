@@ -5960,5 +5960,27 @@
       "https://x.com/MoneyPrinter0x/status/2075002129211924652",
       "https://x.com/MoneyPrinter0x/status/2075007733649334542"
     ]
+  },
+  {
+    "date": "2026-07-09",
+    "handle": "0xGeeGee",
+    "type": "quote/ai_task_cost_benchmarking",
+    "url": "https://x.com/0xGeeGee/status/2075231559603687483",
+    "summary": "Quoted Ali Ghodsi/Databricks' large internal AI evaluation and said the useful unit is dollars per task/work unit, not token prices or leaderboard scores; follow-up noted GLM 5.2/open-weight/local models point toward cheaper task-fit AI workflows despite benchmark weirdness.",
+    "entities": [
+      "Databricks",
+      "Ali Ghodsi",
+      "GLM 5.2",
+      "Omnigent",
+      "AI cost per task",
+      "model harnesses",
+      "open-weight models",
+      "AI workflow rationalization"
+    ],
+    "why_logged": "High-signal continuation of GeeGee's AI-inference-efficiency profile: source-close enterprise benchmark evidence and a clear cost-per-task framing rather than generic model leaderboard commentary.",
+    "confidence": "high",
+    "related_urls": [
+      "https://x.com/0xGeeGee/status/2075231562095104200"
+    ]
   }
 ]
