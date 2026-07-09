@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
-  "period_end": "2026-07-08",
-  "profile_updated_at": "2026-07-08T22:05:00Z",
+  "period_end": "2026-07-09",
+  "profile_updated_at": "2026-07-09T02:15:00Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -1250,7 +1250,7 @@
         "HOOD/COIN/BRETT ratio",
         "Robinhood retail distribution"
       ],
-      "summary": "MoneyPrinter0x now has repeated memecoin/onchain-liquidity evidence: first he called blknoiz06's long memecoin thesis genuinely sharp, then on July 3 argued that z's coin reaching $1B+ may be the ecosystem's best shot at a PEPE-like onchain revival. Keep this as market-structure/onchain-liquidity attention, not a broad memecoin basket endorsement. Late July 3 update strengthens this bucket: MoneyPrinter0x defended ANSEM/z's coin as a pragmatic response to hidden private bundles and anti-retail tooling, arguing public/social-capital-backed bundles may be the best available onchain-liquidity revival mechanism despite not matching old community-coin ideals. Follow-up replies preserve the same read while adding coordinated promoter labor and adversarial protocol design as constraints. July 4 update adds backlash/ethics context: after ANSEM/z coin moved sharply, MoneyPrinter0x said he would stop talking about it out of respect for community pushback, while the wealth-effect read remained visible. New July 4 reply adds no-compensation/no-price-prediction disclosure while keeping the PEPE-like wealth-effect/onchain-liquidity argument visible. July 5 MoneyPrinter0x evidence shifts from the ANSEM/z-coin debate into broader onchain-market reactivation: he said onchain looked on fire and framed prior 2024–25 tech/meme winners as thesis/codebase-driven rather than random price calls. July 5 follow-up broadens the onchain-reactivation bucket from ANSEM/z-specific mechanics to leader-led beta selection: MoneyPrinter0x said he would rather bid the OG/leader than derivative betas when one alpha runner is driving the season, and separately criticized an Alon MM bot as rugger-like mechanics. July 8 adds a Robinhood-chain branch to the same onchain-liquidity bucket: CryptoTomYT wrote a distribution-led Robinhood Chain thesis naming CASHCAT/DIH, while MoneyPrinter0x framed CASHCAT with HOOD/COIN/BRETT ratio logic and explicit high-risk caveats.",
+      "summary": "MoneyPrinter0x now has repeated memecoin/onchain-liquidity evidence: first he called blknoiz06's long memecoin thesis genuinely sharp, then on July 3 argued that z's coin reaching $1B+ may be the ecosystem's best shot at a PEPE-like onchain revival. Keep this as market-structure/onchain-liquidity attention, not a broad memecoin basket endorsement. Late July 3 update strengthens this bucket: MoneyPrinter0x defended ANSEM/z's coin as a pragmatic response to hidden private bundles and anti-retail tooling, arguing public/social-capital-backed bundles may be the best available onchain-liquidity revival mechanism despite not matching old community-coin ideals. Follow-up replies preserve the same read while adding coordinated promoter labor and adversarial protocol design as constraints. July 4 update adds backlash/ethics context: after ANSEM/z coin moved sharply, MoneyPrinter0x said he would stop talking about it out of respect for community pushback, while the wealth-effect read remained visible. New July 4 reply adds no-compensation/no-price-prediction disclosure while keeping the PEPE-like wealth-effect/onchain-liquidity argument visible. July 5 MoneyPrinter0x evidence shifts from the ANSEM/z-coin debate into broader onchain-market reactivation: he said onchain looked on fire and framed prior 2024–25 tech/meme winners as thesis/codebase-driven rather than random price calls. July 5 follow-up broadens the onchain-reactivation bucket from ANSEM/z-specific mechanics to leader-led beta selection: MoneyPrinter0x said he would rather bid the OG/leader than derivative betas when one alpha runner is driving the season, and separately criticized an Alon MM bot as rugger-like mechanics. July 8 adds a Robinhood-chain branch to the same onchain-liquidity bucket: CryptoTomYT wrote a distribution-led Robinhood Chain thesis naming CASHCAT/DIH, while MoneyPrinter0x framed CASHCAT with HOOD/COIN/BRETT ratio logic and explicit high-risk caveats. July 9 follow-up keeps the early-chain/onchain-liquidity window active: MoneyPrinter0x described new-chain launch weeks as unusually sweet, said there are plays everywhere while trying to hold back, then quickly caveated that distribution looked bad.",
       "evidence_urls": [
         "https://x.com/MoneyPrinter0x/status/2072073125991497772",
         "https://x.com/MoneyPrinter0x/status/2073110339496058968",
@@ -1272,7 +1272,10 @@
         "https://x.com/CryptoTomYT/status/2074746297832353843",
         "https://x.com/MoneyPrinter0x/status/2074808549948162442",
         "https://x.com/MoneyPrinter0x/status/2074809734931366377",
-        "https://x.com/MoneyPrinter0x/status/2074811646925836617"
+        "https://x.com/MoneyPrinter0x/status/2074811646925836617",
+        "https://x.com/MoneyPrinter0x/status/2075001045059805458",
+        "https://x.com/MoneyPrinter0x/status/2075002129211924652",
+        "https://x.com/MoneyPrinter0x/status/2075007733649334542"
       ],
       "momentum": "rising",
       "confidence": "medium",
@@ -1288,6 +1291,12 @@
           "date": "2026-07-08",
           "url": "https://x.com/MoneyPrinter0x/status/2074808549948162442",
           "summary": "CASHCAT ratio framework comparing HOOD/Robinhood to COIN/Base/BRETT, with high-risk caveats."
+        },
+        {
+          "account": "MoneyPrinter0x",
+          "date": "2026-07-09",
+          "url": "https://x.com/MoneyPrinter0x/status/2075001045059805458",
+          "summary": "New-chain launch-window euphoria with immediate restraint/distribution-risk caveats in follow-ups."
         }
       ]
     },
@@ -1310,7 +1319,7 @@
         "OG over betas",
         "Alon MM bot critique"
       ],
-      "summary": "MoneyPrinter0x is treating ANSEM/z coin as a live example of how onchain liquidity might revive through attention-reflexive public bundles and post-pump social-capital allocation to pushers. Keep this as a light, source-close market-structure bucket because it is memecoin-specific and not a durable project endorsement yet. New reply-level evidence adds nuance: MoneyPrinter0x frames the setup as a coordinated onchain group project, but also flags naive automated/referrer/oracle allocation designs as attackable within minutes. July 4 follow-up tempers the bucket: the setup still reads as wealth-effect/onchain-liquidity evidence, but community backlash caused him to stop publicly pushing it. New July 4 reply adds no-compensation/no-price-prediction disclosure while keeping the PEPE-like wealth-effect/onchain-liquidity argument visible. July 5 MoneyPrinter0x evidence shifts from the ANSEM/z-coin debate into broader onchain-market reactivation: he said onchain looked on fire and framed prior 2024–25 tech/meme winners as thesis/codebase-driven rather than random price calls. July 5 follow-up broadens the onchain-reactivation bucket from ANSEM/z-specific mechanics to leader-led beta selection: MoneyPrinter0x said he would rather bid the OG/leader than derivative betas when one alpha runner is driving the season, and separately criticized an Alon MM bot as rugger-like mechanics.",
+      "summary": "MoneyPrinter0x is treating ANSEM/z coin as a live example of how onchain liquidity might revive through attention-reflexive public bundles and post-pump social-capital allocation to pushers. Keep this as a light, source-close market-structure bucket because it is memecoin-specific and not a durable project endorsement yet. New reply-level evidence adds nuance: MoneyPrinter0x frames the setup as a coordinated onchain group project, but also flags naive automated/referrer/oracle allocation designs as attackable within minutes. July 4 follow-up tempers the bucket: the setup still reads as wealth-effect/onchain-liquidity evidence, but community backlash caused him to stop publicly pushing it. New July 4 reply adds no-compensation/no-price-prediction disclosure while keeping the PEPE-like wealth-effect/onchain-liquidity argument visible. July 5 MoneyPrinter0x evidence shifts from the ANSEM/z-coin debate into broader onchain-market reactivation: he said onchain looked on fire and framed prior 2024–25 tech/meme winners as thesis/codebase-driven rather than random price calls. July 5 follow-up broadens the onchain-reactivation bucket from ANSEM/z-specific mechanics to leader-led beta selection: MoneyPrinter0x said he would rather bid the OG/leader than derivative betas when one alpha runner is driving the season, and separately criticized an Alon MM bot as rugger-like mechanics. July 9 follow-up keeps the early-chain/onchain-liquidity window active: MoneyPrinter0x described new-chain launch weeks as unusually sweet, said there are plays everywhere while trying to hold back, then quickly caveated that distribution looked bad.",
       "evidence_urls": [
         "https://x.com/MoneyPrinter0x/status/2073110339496058968",
         "https://x.com/MoneyPrinter0x/status/2073120666602397781",
@@ -1327,10 +1336,21 @@
         "https://x.com/MoneyPrinter0x/status/2073849098135076993",
         "https://x.com/MoneyPrinter0x/status/2073853089707442234",
         "https://x.com/MoneyPrinter0x/status/2073859507365761202",
-        "https://x.com/MoneyPrinter0x/status/2073890514043277791"
+        "https://x.com/MoneyPrinter0x/status/2073890514043277791",
+        "https://x.com/MoneyPrinter0x/status/2075001045059805458",
+        "https://x.com/MoneyPrinter0x/status/2075002129211924652",
+        "https://x.com/MoneyPrinter0x/status/2075007733649334542"
       ],
       "momentum": "rising",
-      "confidence": "medium"
+      "confidence": "medium",
+      "examples": [
+        {
+          "account": "MoneyPrinter0x",
+          "date": "2026-07-09",
+          "url": "https://x.com/MoneyPrinter0x/status/2075001045059805458",
+          "summary": "New-chain launch-window euphoria with immediate restraint/distribution-risk caveats in follow-ups."
+        }
+      ]
     },
     {
       "theme": "MetaDAO / crowdsourced ownership experiments",
@@ -1478,6 +1498,7 @@
     "Track whether GeeGee's Wirex critique stays Wirex-specific or expands into a repeatable crypto-card/product-quality diligence theme.",
     "Track whether kelxyz_'s MetaDAO gemstone-mine idea receives follow-up as serious governance/capital-formation interest or remains aspirational color.",
     "Track whether MoneyPrinter0x's DeFi-runway/crypto-code-quality filter recurs beyond the July 5 reply.",
-    "Watch whether Robinhood-driven onchain/meme flow becomes a durable Hyperliquid/equity-perps infrastructure tailwind or remains a one-day meme-liquidity burst."
+    "Watch whether Robinhood-driven onchain/meme flow becomes a durable Hyperliquid/equity-perps infrastructure tailwind or remains a one-day meme-liquidity burst.",
+    "Watch whether MoneyPrinter0x’s July 9 new-chain launch-window euphoria resolves into concrete Robinhood-chain/project evidence or fades after distribution issues."
   ]
 }
