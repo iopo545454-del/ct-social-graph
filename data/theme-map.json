@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-07-09",
-  "profile_updated_at": "2026-07-09T02:15:00Z",
+  "profile_updated_at": "2026-07-09T19:16:48Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -23,9 +23,10 @@
         "Venice/VVV token value capture",
         "GRASS tokenholder call revenue guidance",
         "GRASS foundation IP/contract revenue accrual",
-        "live context retrieval inference"
+        "live context retrieval inference",
+        "VVV staking flows"
       ],
-      "summary": "Observed X/Twitter posts from AustinBarack repeatedly frame centralized AI restrictions and possible user-data compulsion as a tailwind for Venice/VVV. Keep as direct evidence bucket rather than broad consensus; coin_casanova had a tactical VVV short, so cross-account stance is not uniform. New 2026-06-14 coin_casanova evidence treated the Mythos-driven AI-token basket as a trade-construction problem rather than a uniform fundamental endorsement. Latest AustinBarack evidence quoted Venice usage data and argued VVV is under-owned because token usage is 'literally up only'. New AustinBarack evidence adds GLM 5.2 on Venice: open-source coding/agent model quality plus private/encrypted execution. Latest coin_casanova update is negative/relative for crowded VVV after the news pivot while keeping POD/GRASS on the research/trade list, so the bucket remains mixed rather than consensus-positive. AustinBarack’s late-June GRASS reply shifts part of this bucket from usage/privacy into tokenomics/value-accrual diligence: foundation ownership of IP/contracts/revenue and the July 7 holder call are now key evidence points. June 25 AustinBarack evidence keeps Venice/VVV in the active tape with dip-buy framing and explicit 4mm/10mm user-growth estimates. June 27 coin_casanova evidence keeps GRASS active as an event/call-driven AI/data-token vehicle; the same post's XPL comparison is treated in the process-led trading bucket, not as a private-AI project thesis. June 30 AustinBarack GRASS call post adds a dated AI-data catalyst: the tokenholder call is expected to answer value/visibility questions, with model-training data as the core framing. June 30 AustinBarack evidence adds two concrete Venice/VVV datapoints: July 1 emissions drop from about 4M/year to 3M/year and a projection that Venice token usage can 10x again after the reported 100B daily-token milestone. July 1 AustinBarack evidence adds Venice's Series A / $1B valuation as a concrete adoption/capital catalyst and reiterates his long-term VVV-holder hypergrowth stance. July 2 airtightfish evidence is GRASS-specific rather than privacy-AI-specific: he defended Grass token design as actually decent after comparing alternatives, reinforcing the GRASS/value-accrual subthread. July 3 AustinBarack update defends Venice/VVV value capture directly: equity financing does not, in his view, remove token centrality because of team discipline, token treasury size, PMF, and growth. July 7 AustinBarack GRASS tokenholder-call evidence adds concrete revenue/value-accrual details: $52M expected H2 2026 revenue, 311% 2026 revenue growth, upcoming live context retrieval inference, and foundation ownership of IP/contracts/revenue.",
+      "summary": "Observed X/Twitter posts from AustinBarack repeatedly frame centralized AI restrictions and possible user-data compulsion as a tailwind for Venice/VVV. Keep as direct evidence bucket rather than broad consensus; coin_casanova had a tactical VVV short, so cross-account stance is not uniform. New 2026-06-14 coin_casanova evidence treated the Mythos-driven AI-token basket as a trade-construction problem rather than a uniform fundamental endorsement. Latest AustinBarack evidence quoted Venice usage data and argued VVV is under-owned because token usage is 'literally up only'. New AustinBarack evidence adds GLM 5.2 on Venice: open-source coding/agent model quality plus private/encrypted execution. Latest coin_casanova update is negative/relative for crowded VVV after the news pivot while keeping POD/GRASS on the research/trade list, so the bucket remains mixed rather than consensus-positive. AustinBarack’s late-June GRASS reply shifts part of this bucket from usage/privacy into tokenomics/value-accrual diligence: foundation ownership of IP/contracts/revenue and the July 7 holder call are now key evidence points. June 25 AustinBarack evidence keeps Venice/VVV in the active tape with dip-buy framing and explicit 4mm/10mm user-growth estimates. June 27 coin_casanova evidence keeps GRASS active as an event/call-driven AI/data-token vehicle; the same post's XPL comparison is treated in the process-led trading bucket, not as a private-AI project thesis. June 30 AustinBarack GRASS call post adds a dated AI-data catalyst: the tokenholder call is expected to answer value/visibility questions, with model-training data as the core framing. June 30 AustinBarack evidence adds two concrete Venice/VVV datapoints: July 1 emissions drop from about 4M/year to 3M/year and a projection that Venice token usage can 10x again after the reported 100B daily-token milestone. July 1 AustinBarack evidence adds Venice's Series A / $1B valuation as a concrete adoption/capital catalyst and reiterates his long-term VVV-holder hypergrowth stance. July 2 airtightfish evidence is GRASS-specific rather than privacy-AI-specific: he defended Grass token design as actually decent after comparing alternatives, reinforcing the GRASS/value-accrual subthread. July 3 AustinBarack update defends Venice/VVV value capture directly: equity financing does not, in his view, remove token centrality because of team discipline, token treasury size, PMF, and growth. July 7 AustinBarack GRASS tokenholder-call evidence adds concrete revenue/value-accrual details: $52M expected H2 2026 revenue, 311% 2026 revenue growth, upcoming live context retrieval inference, and foundation ownership of IP/contracts/revenue. July 9 AustinBarack added a fresh VVV staking-flow marker: roughly $4M worth of VVV staked that day.",
       "evidence_urls": [
         "https://x.com/AustinBarack/status/2065642988470972861",
         "https://x.com/AustinBarack/status/2065850799494738189",
@@ -49,7 +50,8 @@
         "https://x.com/AustinBarack/status/2074548253350084935",
         "https://x.com/AustinBarack/status/2074550397578969466",
         "https://x.com/AustinBarack/status/2074585005334860003",
-        "https://x.com/AustinBarack/status/2074585570664202565"
+        "https://x.com/AustinBarack/status/2074585570664202565",
+        "https://x.com/AustinBarack/status/2075286574808383923"
       ],
       "momentum": "rising",
       "confidence": "high"
@@ -1328,9 +1330,13 @@
         "SNAI",
         "Github/codebase diligence",
         "OG over betas",
-        "Alon MM bot critique"
+        "Alon MM bot critique",
+        "Robinhood Chain",
+        "Arbitrum / ARB",
+        "arcus_xyz",
+        "CASHCAT"
       ],
-      "summary": "MoneyPrinter0x is treating ANSEM/z coin as a live example of how onchain liquidity might revive through attention-reflexive public bundles and post-pump social-capital allocation to pushers. Keep this as a light, source-close market-structure bucket because it is memecoin-specific and not a durable project endorsement yet. New reply-level evidence adds nuance: MoneyPrinter0x frames the setup as a coordinated onchain group project, but also flags naive automated/referrer/oracle allocation designs as attackable within minutes. July 4 follow-up tempers the bucket: the setup still reads as wealth-effect/onchain-liquidity evidence, but community backlash caused him to stop publicly pushing it. New July 4 reply adds no-compensation/no-price-prediction disclosure while keeping the PEPE-like wealth-effect/onchain-liquidity argument visible. July 5 MoneyPrinter0x evidence shifts from the ANSEM/z-coin debate into broader onchain-market reactivation: he said onchain looked on fire and framed prior 2024–25 tech/meme winners as thesis/codebase-driven rather than random price calls. July 5 follow-up broadens the onchain-reactivation bucket from ANSEM/z-specific mechanics to leader-led beta selection: MoneyPrinter0x said he would rather bid the OG/leader than derivative betas when one alpha runner is driving the season, and separately criticized an Alon MM bot as rugger-like mechanics. July 9 follow-up keeps the early-chain/onchain-liquidity window active: MoneyPrinter0x described new-chain launch weeks as unusually sweet, said there are plays everywhere while trying to hold back, then quickly caveated that distribution looked bad.",
+      "summary": "MoneyPrinter0x is treating ANSEM/z coin as a live example of how onchain liquidity might revive through attention-reflexive public bundles and post-pump social-capital allocation to pushers. Keep this as a light, source-close market-structure bucket because it is memecoin-specific and not a durable project endorsement yet. New reply-level evidence adds nuance: MoneyPrinter0x frames the setup as a coordinated onchain group project, but also flags naive automated/referrer/oracle allocation designs as attackable within minutes. July 4 follow-up tempers the bucket: the setup still reads as wealth-effect/onchain-liquidity evidence, but community backlash caused him to stop publicly pushing it. New July 4 reply adds no-compensation/no-price-prediction disclosure while keeping the PEPE-like wealth-effect/onchain-liquidity argument visible. July 5 MoneyPrinter0x evidence shifts from the ANSEM/z-coin debate into broader onchain-market reactivation: he said onchain looked on fire and framed prior 2024–25 tech/meme winners as thesis/codebase-driven rather than random price calls. July 5 follow-up broadens the onchain-reactivation bucket from ANSEM/z-specific mechanics to leader-led beta selection: MoneyPrinter0x said he would rather bid the OG/leader than derivative betas when one alpha runner is driving the season, and separately criticized an Alon MM bot as rugger-like mechanics. July 9 follow-up keeps the early-chain/onchain-liquidity window active: MoneyPrinter0x described new-chain launch weeks as unusually sweet, said there are plays everywhere while trying to hold back, then quickly caveated that distribution looked bad. July 9 AustinBarack evidence added a more infrastructure/value-accrual angle: Robinhood Chain revenue flowing to Arbitrum, Arcus moving quickly on listings/UX, and early chain-revenue traction framing.",
       "evidence_urls": [
         "https://x.com/MoneyPrinter0x/status/2073110339496058968",
         "https://x.com/MoneyPrinter0x/status/2073120666602397781",
@@ -1350,7 +1356,10 @@
         "https://x.com/MoneyPrinter0x/status/2073890514043277791",
         "https://x.com/MoneyPrinter0x/status/2075001045059805458",
         "https://x.com/MoneyPrinter0x/status/2075002129211924652",
-        "https://x.com/MoneyPrinter0x/status/2075007733649334542"
+        "https://x.com/MoneyPrinter0x/status/2075007733649334542",
+        "https://x.com/AustinBarack/status/2075266463183634532",
+        "https://x.com/AustinBarack/status/2075270933745488173",
+        "https://x.com/AustinBarack/status/2075278066662715522"
       ],
       "momentum": "rising",
       "confidence": "medium",
@@ -1360,6 +1369,12 @@
           "date": "2026-07-09",
           "url": "https://x.com/MoneyPrinter0x/status/2075001045059805458",
           "summary": "New-chain launch-window euphoria with immediate restraint/distribution-risk caveats in follow-ups."
+        },
+        {
+          "date": "2026-07-09",
+          "account": "AustinBarack",
+          "summary": "Robinhood Chain cluster shifted from pure meme-launch tape toward ARB revenue accrual and Arcus execution/UX evidence.",
+          "url": "https://x.com/AustinBarack/status/2075266463183634532"
         }
       ]
     },

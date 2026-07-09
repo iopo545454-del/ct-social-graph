@@ -1,5 +1,54 @@
 [
   {
+    "from": "AustinBarack",
+    "to": "RobinhoodApp",
+    "to_kind": "project",
+    "type": "quote/chain_revenue_traction_framing",
+    "date": "2026-07-09",
+    "url": "https://x.com/AustinBarack/status/2075278066662715522",
+    "summary": "Endorsed annualizing early Robinhood Chain revenue as a way to show traction/PMF and said the important question is whether the market has priced in the new distribution channel.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "promoted_tier2": true
+  },
+  {
+    "from": "AustinBarack",
+    "to": "AskVenice",
+    "to_kind": "project",
+    "type": "authored_mention/vvv_staking_flow_marker",
+    "date": "2026-07-09",
+    "url": "https://x.com/AustinBarack/status/2075286574808383923",
+    "summary": "Highlighted roughly $4M of VVV staked in one day, adding a staking-flow/supply signal to his existing Venice usage, funding, emissions, and value-capture thesis.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
+    "from": "AustinBarack",
+    "to": "arcus_xyz",
+    "to_kind": "project",
+    "type": "quote/robinhood_chain_listing_execution_praise",
+    "date": "2026-07-09",
+    "url": "https://x.com/AustinBarack/status/2075270933745488173",
+    "summary": "Praised Arcus for rapidly listing Robinhood Chain memecoins with strong UX/speed, comparing its launch execution to early Binance; repeated Arcus evidence promoted the project to Tier 2.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "promoted_tier2": true
+  },
+  {
+    "from": "AustinBarack",
+    "to": "Arbitrum / ARB",
+    "to_kind": "project",
+    "type": "quote/robinhood_chain_revenue_accrual_thesis",
+    "date": "2026-07-09",
+    "url": "https://x.com/AustinBarack/status/2075266463183634532",
+    "summary": "Argued Robinhood Chain revenue accrues meaningfully to the Arbitrum ecosystem via DAO treasury and Developer Guild splits, and that ARB likely had not priced this in.",
+    "quality": "high",
+    "created_tier2_candidate": true,
+    "related_urls": [
+      "https://x.com/AustinBarack/status/2075275472800292946"
+    ]
+  },
+  {
     "from": "MoneyPrinter0x",
     "to": "RobinhoodApp / Robinhood Chain",
     "to_kind": "project",

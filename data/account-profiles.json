@@ -1086,9 +1086,9 @@
   {
     "handle": "AustinBarack",
     "period_start": "2026-05-14",
-    "period_end": "2026-07-07",
-    "profile_updated_at": "2026-07-07T21:46:28Z",
-    "taste_summary": "Observed X/Twitter evidence is strongly thesis-driven around private/anonymized AI, Venice/VVV, decentralized training, open-source models, and AI data protocols. Interpretation confidence is high for Venice/VVV because multiple authored posts and replies repeat the same framing. Latest June 24 evidence strengthens his GRASS tokenomics stance: he directly defended foundation ownership of IP/contracts/revenue and token-sale financing against value-accrual skepticism, while pointing to the July 7 holder call as the clarifying catalyst. Latest June 25 evidence refreshes his Venice/VVV conviction: he used the market-stress dip as an entry framing and gave concrete 4mm month-end / 10mm year-end user-growth estimates. June 30 evidence adds two live project updates: GRASS tokenholder-call catalyst/AI-data framing, and Hyperliquid priority-fee revenue/burn mechanics becoming material faster than expected. Latest late-June update adds two source-close Venice/VVV datapoints: another emissions drop on July 1 and an explicit view that Venice token usage can 10x again within a year after the 100B-daily-token milestone. Latest July 1 Venice evidence adds a financing/valuation catalyst: after Venice's $65M Series A at a reported $1B valuation, he reiterated long-term VVV-holder conviction and framed Venice as the leading consumer crypto+AI adoption product with 100MM+ user / $1B+ revenue ambitions. Latest July 3 evidence extends the Robinhood/perps distribution theme into DYDX/Arcus: he sees underpriced same-token exposure to equities/commodities/indices perps, with Lighter/JTO comparisons and execution-dependent upside. July 3 Venice/VVV update shifts from usage/financing catalyst to value-capture defense: he argues equity concerns do not break the token thesis because the team is disciplined, holds a large token treasury, and VVV remains central to strong PMF/growth in crypto x AI. July 7 GRASS token-holder-call follow-through adds concrete revenue/value-accrual evidence: $52M expected H2 2026 revenue, 311% 2026 growth versus 2025, live context-retrieval inference, and foundation ownership of commercial contracts/IP/revenue.",
+    "period_end": "2026-07-09",
+    "profile_updated_at": "2026-07-09T19:16:48Z",
+    "taste_summary": "Observed X/Twitter evidence is strongly thesis-driven around private/anonymized AI, Venice/VVV, decentralized training, open-source models, and AI data protocols. Interpretation confidence is high for Venice/VVV because multiple authored posts and replies repeat the same framing. Latest June 24 evidence strengthens his GRASS tokenomics stance: he directly defended foundation ownership of IP/contracts/revenue and token-sale financing against value-accrual skepticism, while pointing to the July 7 holder call as the clarifying catalyst. Latest June 25 evidence refreshes his Venice/VVV conviction: he used the market-stress dip as an entry framing and gave concrete 4mm month-end / 10mm year-end user-growth estimates. June 30 evidence adds two live project updates: GRASS tokenholder-call catalyst/AI-data framing, and Hyperliquid priority-fee revenue/burn mechanics becoming material faster than expected. Latest late-June update adds two source-close Venice/VVV datapoints: another emissions drop on July 1 and an explicit view that Venice token usage can 10x again within a year after the 100B-daily-token milestone. Latest July 1 Venice evidence adds a financing/valuation catalyst: after Venice's $65M Series A at a reported $1B valuation, he reiterated long-term VVV-holder conviction and framed Venice as the leading consumer crypto+AI adoption product with 100MM+ user / $1B+ revenue ambitions. Latest July 3 evidence extends the Robinhood/perps distribution theme into DYDX/Arcus: he sees underpriced same-token exposure to equities/commodities/indices perps, with Lighter/JTO comparisons and execution-dependent upside. July 3 Venice/VVV update shifts from usage/financing catalyst to value-capture defense: he argues equity concerns do not break the token thesis because the team is disciplined, holds a large token treasury, and VVV remains central to strong PMF/growth in crypto x AI. July 7 GRASS token-holder-call follow-through adds concrete revenue/value-accrual evidence: $52M expected H2 2026 revenue, 311% 2026 growth versus 2025, live context-retrieval inference, and foundation ownership of commercial contracts/IP/revenue. July 9 evidence added a Robinhood Chain/Arbitrum value-accrual branch: he highlighted ARB treasury/developer-guild revenue share, Arcus listing execution, early Robinhood Chain traction framing, and fresh VVV staking flows.",
     "likes": [
       {
         "theme": "Private/anonymized AI usage",
@@ -1182,7 +1182,7 @@
         "name": "Venice / VVV",
         "handle": "AskVenice",
         "stance": "positive",
-        "summary": "Core repeated positive thesis: private AI product with rapid user growth, top models, subscriptions/credits, and privacy tailwind from centralized AI restrictions. New usage evidence: Austin said no one is bullish enough as token usage is up only after reported 85B+ daily Venice LLM tokens. Latest evidence adds GLM 5.2/open-source-model quality as another private/encrypted Venice use case. June 25 update added dip-buy framing after MicroStrategy-driven stress and concrete user-growth estimates around 4mm month-end / 10mm year-end. Latest June 30 evidence adds an emissions step-down and a 10x-in-a-year token-usage projection after Venice reportedly hit about 100B daily tokens. July 1 update adds the Series A / $1B valuation catalyst and explicit hyper-growth framing.",
+        "summary": "Core repeated positive thesis: private AI product with rapid user growth, top models, subscriptions/credits, and privacy tailwind from centralized AI restrictions. New usage evidence: Austin said no one is bullish enough as token usage is up only after reported 85B+ daily Venice LLM tokens. Latest evidence adds GLM 5.2/open-source-model quality as another private/encrypted Venice use case. June 25 update added dip-buy framing after MicroStrategy-driven stress and concrete user-growth estimates around 4mm month-end / 10mm year-end. Latest June 30 evidence adds an emissions step-down and a 10x-in-a-year token-usage projection after Venice reportedly hit about 100B daily tokens. July 1 update adds the Series A / $1B valuation catalyst and explicit hyper-growth framing. July 9 update added a $4M same-day VVV staking-flow marker.",
         "evidence_urls": [
           "https://x.com/AustinBarack/status/2065642988470972861",
           "https://x.com/AustinBarack/status/2065896297010475257",
@@ -1192,7 +1192,8 @@
           "https://x.com/AustinBarack/status/2070181102011248964",
           "https://x.com/AustinBarack/status/2072029535080534073",
           "https://x.com/AustinBarack/status/2072030866365100269",
-          "https://x.com/AustinBarack/status/2072348879283011767"
+          "https://x.com/AustinBarack/status/2072348879283011767",
+          "https://x.com/AustinBarack/status/2075286574808383923"
         ]
       },
       {
@@ -1274,25 +1275,36 @@
         ]
       },
       {
-        "name": "Robinhood",
+        "name": "Robinhood Chain / RobinhoodApp",
         "handle": "RobinhoodApp",
-        "stance": "positive/watchlist",
-        "summary": "Framed Robinhood as a major mainstream crypto consumer-growth channel and highlighted perps as a key priority from the July 1 event/presentation.",
+        "stance": "positive / distribution-channel thesis",
+        "summary": "Repeatedly treats Robinhood as a mainstream crypto distribution channel; July 9 posts emphasized early chain revenue traction and the market not pricing in the channel.",
         "evidence_urls": [
           "https://x.com/AustinBarack/status/2072378551081353444",
-          "https://x.com/AustinBarack/status/2072387394133717201"
+          "https://x.com/AustinBarack/status/2075278066662715522"
         ]
       },
       {
-        "name": "DYDX / Arcus",
+        "name": "Arcus / DYDX",
         "handle": "arcus_xyz",
-        "stance": "positive/watchlist",
-        "summary": "Detailed July 3 setup: post-Robinhood sell-the-news may have missed the same-token Arcus pivot into equities/commodities/indices perps; low FDV versus Lighter and JTO-style rerating precedent create upside if execution works.",
+        "stance": "positive / execution and repricing setup",
+        "summary": "Initial DYDX/Arcus equity-perps repricing thesis now followed by praise for fast Robinhood Chain memecoin listings and UX/speed.",
         "evidence_urls": [
-          "https://x.com/AustinBarack/status/2073011197872386518"
+          "https://x.com/AustinBarack/status/2073011197872386518",
+          "https://x.com/AustinBarack/status/2075270933745488173"
         ]
       },
-      "Venice / VVV"
+      "Venice / VVV",
+      {
+        "name": "Arbitrum / ARB",
+        "handle": "Arbitrum / ARB",
+        "stance": "positive / Robinhood Chain revenue-accrual setup",
+        "summary": "Highlighted that 10% of Robinhood Chain revenue accrues to the Arbitrum ecosystem and said ARB likely had not priced this in.",
+        "evidence_urls": [
+          "https://x.com/AustinBarack/status/2075266463183634532",
+          "https://x.com/AustinBarack/status/2075275472800292946"
+        ]
+      }
     ],
     "people_respected": [],
     "style": {
@@ -1346,7 +1358,11 @@
       "https://x.com/AustinBarack/status/2074548253350084935",
       "https://x.com/AustinBarack/status/2074550397578969466",
       "https://x.com/AustinBarack/status/2074585005334860003",
-      "https://x.com/AustinBarack/status/2074585570664202565"
+      "https://x.com/AustinBarack/status/2074585570664202565",
+      "https://x.com/AustinBarack/status/2075266463183634532",
+      "https://x.com/AustinBarack/status/2075270933745488173",
+      "https://x.com/AustinBarack/status/2075278066662715522",
+      "https://x.com/AustinBarack/status/2075286574808383923"
     ]
   },
   {

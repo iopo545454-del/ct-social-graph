@@ -1,5 +1,80 @@
 [
   {
+    "date": "2026-07-09",
+    "handle": "AustinBarack",
+    "type": "quote/robinhood_chain_revenue_traction_framing",
+    "url": "https://x.com/AustinBarack/status/2075278066662715522",
+    "summary": "Agreed with Mason Nystrom that annualizing early Robinhood Chain revenue can be a useful traction/PMF signal, even if the raw first-day number is small; framed the key point as whether the market has priced in the distribution channel.",
+    "entities": [
+      "Robinhood Chain",
+      "annualized revenue",
+      "sequencer revenue",
+      "traction",
+      "PMF",
+      "consumer crypto distribution"
+    ],
+    "why_logged": "Useful continuation of the July 8 Robinhood Chain distribution theme across AustinBarack, CryptoTomYT, and MoneyPrinter0x.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/AustinBarack/status/2075275472800292946"
+    ]
+  },
+  {
+    "date": "2026-07-09",
+    "handle": "AustinBarack",
+    "type": "post/vvv_staking_flow_marker",
+    "url": "https://x.com/AustinBarack/status/2075286574808383923",
+    "summary": "Posted that $4M worth of VVV had been staked that day, using staking flow as a fresh Venice/VVV ownership/supply signal.",
+    "entities": [
+      "Venice",
+      "VVV",
+      "staking flows",
+      "token supply",
+      "holder behavior"
+    ],
+    "why_logged": "Fresh source-close continuation of AustinBarack’s high-conviction Venice/VVV tape after prior usage, fundraising, emissions, and value-capture posts.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-09",
+    "handle": "AustinBarack",
+    "type": "quote/arcus_robinhood_chain_listing_ux",
+    "url": "https://x.com/AustinBarack/status/2075270933745488173",
+    "summary": "Praised Arcus for fast Robinhood Chain memecoin listings and strong UX/speed, comparing the execution pace to early Binance; strengthens the existing DYDX/Arcus equity-perps/infrastructure candidate edge.",
+    "entities": [
+      "arcus_xyz",
+      "DYDX",
+      "Robinhood Chain",
+      "memecoin listings",
+      "exchange UX",
+      "early Binance comparison"
+    ],
+    "why_logged": "Repeated AustinBarack attention to Arcus moved it from one-off candidate to tracked Tier 2 project evidence.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-09",
+    "handle": "AustinBarack",
+    "type": "quote/robinhood_chain_arb_revenue_accrual",
+    "url": "https://x.com/AustinBarack/status/2075266463183634532",
+    "summary": "Bullish ARB read: highlighted that 10% of Robinhood Chain revenue accrues to the Arbitrum ecosystem, with 8% to the DAO treasury controlled by ARB holders and 2% to the Developer Guild; follow-up said people likely have not priced this into ARB.",
+    "entities": [
+      "Arbitrum",
+      "ARB",
+      "Robinhood Chain",
+      "DAO treasury",
+      "Developer Guild",
+      "sequencer revenue",
+      "revenue accrual"
+    ],
+    "why_logged": "High-signal project-mention evidence because it ties Robinhood Chain traction directly to token/ecosystem value-accrual mechanics rather than generic launch hype.",
+    "confidence": "high",
+    "related_urls": [
+      "https://x.com/AustinBarack/status/2075275472800292946",
+      "https://x.com/AustinBarack/status/2075278066662715522"
+    ]
+  },
+  {
     "date": "2026-07-08",
     "handle": "MoneyPrinter0x",
     "type": "authored_post/left_curve_right_curve_market_adaptability",

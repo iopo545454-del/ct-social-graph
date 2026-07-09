@@ -1,5 +1,18 @@
 [
   {
+    "handle": "Arbitrum / ARB",
+    "kind": "project",
+    "status": "candidate",
+    "source": "AustinBarack Robinhood Chain revenue-accrual post",
+    "reason": "AustinBarack argued ARB was not pricing in Robinhood Chain revenue accrual to the Arbitrum ecosystem treasury/developer guild. One current evidence cluster only, so keep as candidate/mention-ledger rather than Tier 2.",
+    "evidence_urls": [
+      "https://x.com/AustinBarack/status/2075266463183634532",
+      "https://x.com/AustinBarack/status/2075275472800292946"
+    ],
+    "first_seen": "2026-07-09",
+    "confidence": "low-medium"
+  },
+  {
     "handle": "DIH",
     "kind": "project",
     "status": "candidate",
@@ -74,14 +87,16 @@
   {
     "handle": "arcus_xyz",
     "kind": "project",
-    "status": "candidate",
+    "status": "promoted_to_tier2",
     "source": "AustinBarack DYDX/Arcus equity-perps repricing post",
-    "reason": "AustinBarack gave a detailed DYDX/Arcus setup around Robinhood inclusion, same-token value accrual, equity/commodity/index perps, valuation versus Lighter, and JTO-style rerating potential. One detailed project thesis only, so candidate rather than Tier 2.",
+    "reason": "Promoted after repeated AustinBarack evidence: initial DYDX/Arcus equity-perps repricing thesis plus July 9 praise for fast Robinhood-chain memecoin listings and UX/speed.",
     "evidence_urls": [
-      "https://x.com/AustinBarack/status/2073011197872386518"
+      "https://x.com/AustinBarack/status/2073011197872386518",
+      "https://x.com/AustinBarack/status/2075270933745488173"
     ],
     "first_seen": "2026-07-03",
-    "confidence": "medium"
+    "confidence": "medium",
+    "promoted_at": "2026-07-09"
   },
   {
     "handle": "altitude",
@@ -159,17 +174,21 @@
   {
     "handle": "RobinhoodApp",
     "kind": "project",
-    "status": "candidate",
+    "status": "promoted_to_tier2",
     "source": "AustinBarack quote/replies on Robinhood crypto event and perps priority",
-    "reason": "AustinBarack framed Robinhood as one of the most important mainstream crypto consumer-growth channels and highlighted perps as a major priority. One venue/distribution evidence cluster only, so candidate/mention-ledger rather than Tier 2. July 8 adds CryptoTomYT/MoneyPrinter0x evidence around Robinhood Chain distribution, Lighter/perps/spot rails, and early meme liquidity; still candidate/mention-ledger rather than Tier 2.",
+    "reason": "Promoted after repeated multi-account evidence: AustinBarack on Robinhood as mainstream crypto distribution/perps channel and July 9 revenue/Arbitrum traction; CryptoTomYT and MoneyPrinter0x on Robinhood Chain retail distribution, perps/spot rails, and early onchain liquidity.",
     "evidence_urls": [
       "https://x.com/AustinBarack/status/2072378551081353444",
       "https://x.com/AustinBarack/status/2072387394133717201",
       "https://x.com/CryptoTomYT/status/2074746297832353843",
-      "https://x.com/MoneyPrinter0x/status/2074808549948162442"
+      "https://x.com/MoneyPrinter0x/status/2074808549948162442",
+      "https://x.com/AustinBarack/status/2075278066662715522",
+      "https://x.com/AustinBarack/status/2075266463183634532",
+      "https://x.com/MoneyPrinter0x/status/2074870581850513739"
     ],
     "first_seen": "2026-07-01",
-    "confidence": "low"
+    "confidence": "medium",
+    "promoted_at": "2026-07-09"
   },
   {
     "handle": "Opal",
