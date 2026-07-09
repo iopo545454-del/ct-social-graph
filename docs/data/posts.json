@@ -1,6 +1,22 @@
 [
   {
     "date": "2026-07-09",
+    "handle": "MoneyPrinter0x",
+    "type": "quote/robinhood_onchain_priority_confirmation",
+    "url": "https://x.com/MoneyPrinter0x/status/2075313879044022765",
+    "summary": "Quoted Robinhood Crypto’s first-week Robinhood Chain update and said this confirmed his prior read that Robinhood’s top priority this quarter is onchain.",
+    "entities": [
+      "Robinhood Chain",
+      "Robinhood Crypto",
+      "onchain priority",
+      "retail distribution",
+      "consumer crypto"
+    ],
+    "why_logged": "Fresh source-close confirmation for the Robinhood-chain/onchain-liquidity thesis already visible across MoneyPrinter0x, AustinBarack, and CryptoTomYT; concise but useful as follow-through rather than a standalone price call.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-09",
     "handle": "AustinBarack",
     "type": "quote/robinhood_chain_revenue_traction_framing",
     "url": "https://x.com/AustinBarack/status/2075278066662715522",

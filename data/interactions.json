@@ -1,5 +1,16 @@
 [
   {
+    "from": "MoneyPrinter0x",
+    "to": "RobinhoodApp / Robinhood Crypto",
+    "to_kind": "project",
+    "type": "quote/onchain_priority_confirmation",
+    "date": "2026-07-09",
+    "url": "https://x.com/MoneyPrinter0x/status/2075313879044022765",
+    "summary": "Used Robinhood Crypto’s first-week Robinhood Chain update as confirmation that Robinhood is prioritizing onchain this quarter, extending his distribution-led onchain-liquidity thesis.",
+    "quality": "medium",
+    "created_tier2_candidate": false
+  },
+  {
     "from": "AustinBarack",
     "to": "RobinhoodApp",
     "to_kind": "project",
