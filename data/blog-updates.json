@@ -1,6 +1,6 @@
 {
-  "last_checked": "2026-07-08T18:25:52Z",
-  "new_count": 2,
+  "last_checked": "2026-07-09T19:22:00Z",
+  "new_count": 1,
   "sources": [
     {
       "name": "a16z crypto",
@@ -63,7 +63,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-08T18:25:48Z"
+      "checked_at": "2026-07-09T19:21:56Z"
     },
     {
       "name": "Multicoin Capital",
@@ -138,7 +138,7 @@
           "published": "Thu, 02 Oct 2025 00:00:00 GMT"
         }
       ],
-      "checked_at": "2026-07-08T18:25:49Z"
+      "checked_at": "2026-07-09T19:21:56Z"
     },
     {
       "name": "Pantera Blockchain Letter",
@@ -203,7 +203,7 @@
           "published": "Mon, 30 Jun 2025 14:48:37 +0000"
         }
       ],
-      "checked_at": "2026-07-08T18:25:49Z"
+      "checked_at": "2026-07-09T19:21:57Z"
     },
     {
       "name": "Paradigm",
@@ -276,7 +276,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-08T18:25:50Z"
+      "checked_at": "2026-07-09T19:21:57Z"
     },
     {
       "name": "Glassnode Research",
@@ -351,7 +351,7 @@
           "published": "Thu, 25 Jun 2026 07:17:53 GMT"
         }
       ],
-      "checked_at": "2026-07-08T18:25:50Z"
+      "checked_at": "2026-07-09T19:21:57Z"
     },
     {
       "name": "Delphi Digital",
@@ -374,7 +374,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-08T18:25:51Z"
+      "checked_at": "2026-07-09T19:21:58Z"
     },
     {
       "name": "Electric Capital",
@@ -386,7 +386,7 @@
       "error": null,
       "feed_urls": [],
       "items": [],
-      "checked_at": "2026-07-08T18:25:51Z"
+      "checked_at": "2026-07-09T19:21:59Z"
     },
     {
       "name": "Bankless",
@@ -459,7 +459,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-08T18:25:52Z"
+      "checked_at": "2026-07-09T19:21:59Z"
     },
     {
       "name": "Token Terminal",
@@ -484,6 +484,11 @@
         {
           "title": "Newsletter",
           "url": "https://tokenterminal.com/resources/newsletter",
+          "published": null
+        },
+        {
+          "title": "Robinhood Chain's first week in data+ data & product updates9 Jul, 2026",
+          "url": "https://tokenterminal.com/resources/newsletter/robinhood-chain-s-first-week-in-data",
           "published": null
         },
         {
@@ -525,14 +530,9 @@
           "title": "These charts explain the tokenized asset boom+ data & product updates4 Jun, 2026",
           "url": "https://tokenterminal.com/resources/newsletter/these-charts-explain-the-tokenized-asset-boom",
           "published": null
-        },
-        {
-          "title": "BlackRock\u2019s new tokenized fund puts Ethereum\u2019s institutional thesis to the test+ data & product updates28 May, 2026",
-          "url": "https://tokenterminal.com/resources/newsletter/blackrock-s-new-tokenized-fund-puts-ethereum-s-institutional-thesis-to-the-test",
-          "published": null
         }
       ],
-      "checked_at": "2026-07-08T18:25:52Z"
+      "checked_at": "2026-07-09T19:22:00Z"
     }
   ],
   "articles": [
@@ -1264,6 +1264,16 @@
       "url": "https://tokenterminal.com/resources/newsletter",
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
+      "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "f4cee942c3c5",
+      "source": "Token Terminal",
+      "tier": 2,
+      "title": "Robinhood Chain's first week in data+ data & product updates9 Jul, 2026",
+      "url": "https://tokenterminal.com/resources/newsletter/robinhood-chain-s-first-week-in-data",
+      "published": null,
+      "first_seen": "2026-07-09T19:22:00Z",
       "source_url": "https://tokenterminal.com/resources"
     },
     {
