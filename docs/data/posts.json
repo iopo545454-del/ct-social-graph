@@ -6116,5 +6116,50 @@
       "https://x.com/MoneyPrinter0x/status/2075408208768975175",
       "https://x.com/MoneyPrinter0x/status/2075313879044022765"
     ]
+  },
+  {
+    "date": "2026-07-10",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/robinhood_non_native_retail_wave_thesis",
+    "url": "https://x.com/MoneyPrinter0x/status/2075442891296563325",
+    "summary": "Expanded the Robinhood/onchain distribution thesis: argued KYC'd retail/degen liquidity from platforms like Robinhood is a still-untapped inflow that could push the onchain meme sector beyond prior Monad/Plasma/Base-style launch windows; framed current activity as early relative to that possible non-native wave.",
+    "entities": [
+      "Robinhood Chain",
+      "KYC retail liquidity",
+      "onchain memes",
+      "non-native retail bridging",
+      "Monad",
+      "Plasma",
+      "Base",
+      "consumer crypto distribution"
+    ],
+    "why_logged": "Substantive follow-up to the July 10 native-holder adoption-gap post: it explains the mechanism MoneyPrinter0x thinks is still ahead rather than only saying onchain is back.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2075407613224006103",
+      "https://x.com/MoneyPrinter0x/status/2075408208768975175"
+    ]
+  },
+  {
+    "date": "2026-07-10",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/onchain_timing_windows_and_fomo_warning",
+    "url": "https://x.com/MoneyPrinter0x/status/2075460053445095632",
+    "summary": "Published a practical onchain trading note: peak organic volume windows tend to cluster around 11am-1pm ET and 12am-1am ET on weekdays, with higher first/15th-of-month volume; advised non-onchain-native traders not to FOMO into a steep learning curve, while saying experienced onchain traders are seeing some of the best conditions in a while.",
+    "entities": [
+      "onchain trading",
+      "volume windows",
+      "weekday seasonality",
+      "first/15th monthly flows",
+      "risk management",
+      "FOMO warning",
+      "onchain-native traders"
+    ],
+    "why_logged": "Useful process evidence for the onchain-reactivation theme: it pairs bullish market-condition language with concrete timing/risk rules and a warning against inexperienced retail participation.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2075463343905906918",
+      "https://x.com/MoneyPrinter0x/status/2075440465282056255"
+    ]
   }
 ]

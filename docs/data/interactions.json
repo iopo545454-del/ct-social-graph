@@ -2382,5 +2382,33 @@
       "https://x.com/MoneyPrinter0x/status/2075408208768975175",
       "https://x.com/MoneyPrinter0x/status/2075313879044022765"
     ]
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "RobinhoodApp / Robinhood Chain",
+    "to_kind": "project",
+    "type": "reply/non_native_retail_wave_thesis",
+    "date": "2026-07-10",
+    "url": "https://x.com/MoneyPrinter0x/status/2075442891296563325",
+    "summary": "Argued Robinhood-style KYC retail/degen distribution has not yet materially bridged into onchain memes and could create a larger liquidity wave than prior launch-window cycles if it arrives.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2075407613224006103"
+    ]
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "onchain market structure",
+    "to_kind": "project",
+    "type": "authored_process/volume_window_risk_rules",
+    "date": "2026-07-10",
+    "url": "https://x.com/MoneyPrinter0x/status/2075460053445095632",
+    "summary": "Gave onchain timing/volume-window rules and warned non-native traders not to FOMO despite saying experienced onchain participants are seeing unusually strong conditions.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2075463343905906918"
+    ]
   }
 ]
