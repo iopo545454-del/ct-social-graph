@@ -6161,5 +6161,75 @@
       "https://x.com/MoneyPrinter0x/status/2075463343905906918",
       "https://x.com/MoneyPrinter0x/status/2075440465282056255"
     ]
+  },
+  {
+    "date": "2026-07-10",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/uniswap_robinhood_evm_routing_thesis",
+    "url": "https://x.com/MoneyPrinter0x/status/2075512295632060925",
+    "summary": "Replying to a Uniswap mention, argued Robinhood’s retail/onchain push could drive a large amount of DEX trading volume through Uniswap for Robinhood EVM; useful as an infrastructure beneficiary read inside the Robinhood Chain thesis.",
+    "entities": [
+      "Uniswap",
+      "Robinhood EVM",
+      "Robinhood Chain",
+      "DEX volume",
+      "onchain retail flows",
+      "consumer crypto distribution"
+    ],
+    "why_logged": "Substantive project/infra edge: connects the existing Robinhood distribution thesis to a specific routing/DEX beneficiary rather than just meme-price action.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-10",
+    "handle": "MoneyPrinter0x",
+    "type": "post/robinhood_chain_midcap_meme_acceleration",
+    "url": "https://x.com/MoneyPrinter0x/status/2075514775040393386",
+    "summary": "Posted that CASHCAT had accumulated above $100M and broken toward $180M, then broadened the read: Robinhood-chain midcaps were doubling/tripling and he framed the Robinhood retail-onchain wave as potentially the biggest retail-onchain event since the presidential memecoin launch.",
+    "entities": [
+      "CASHCAT",
+      "Robinhood Chain",
+      "HOOD",
+      "midcaps",
+      "onchain memes",
+      "retail onchain bullrun"
+    ],
+    "why_logged": "Continuation evidence for the Robinhood/onchain revival tape. Logged with low-medium confidence because it is partly price/meme-led, but it shows the thesis moving from isolated CASHCAT attention to broader Robinhood-chain midcap breadth.",
+    "confidence": "low-medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2075516280250196182",
+      "https://x.com/MoneyPrinter0x/status/2075516427029925997"
+    ]
+  },
+  {
+    "date": "2026-07-10",
+    "handle": "0xGeeGee",
+    "type": "quote/radicle_counterfactual_decentralized_code_network",
+    "url": "https://x.com/0xGeeGee/status/2075494063797846390",
+    "summary": "Quoted an in-browser Radicle node / gossip-citizen demo and said he still thinks about what Radicle could have been; logged as a lightweight infrastructure-taste marker around decentralized code/collaboration networks.",
+    "entities": [
+      "Radicle",
+      "decentralized code collaboration",
+      "gossip networks",
+      "browser node",
+      "open-source infrastructure"
+    ],
+    "why_logged": "Not a current buy/project thesis, but useful taste evidence for GeeGee’s recurring interest in decentralized infrastructure that could have delivered a stronger user/network experience.",
+    "confidence": "low-medium"
+  },
+  {
+    "date": "2026-07-10",
+    "handle": "0xGeeGee",
+    "type": "post/ai_datacenter_capex_scale_marker",
+    "url": "https://x.com/0xGeeGee/status/2075475480535572945",
+    "summary": "Noted that datacenters under construction cost twice the entire US military budget but still less than annual global alcohol consumption, adding another scale/comparison marker to his AI-infrastructure-capex framing.",
+    "entities": [
+      "AI datacenters",
+      "datacenter capex",
+      "US military budget",
+      "global alcohol spend",
+      "AI infrastructure scale"
+    ],
+    "why_logged": "Light but relevant continuation of GeeGee’s AI-infrastructure capacity/cost tape; useful as a scale heuristic rather than a standalone investment claim.",
+    "confidence": "low-medium"
   }
 ]

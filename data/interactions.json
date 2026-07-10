@@ -2410,5 +2410,42 @@
     "related_urls": [
       "https://x.com/MoneyPrinter0x/status/2075463343905906918"
     ]
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "Uniswap",
+    "to_kind": "project",
+    "type": "reply/robinhood_evm_dex_volume_beneficiary",
+    "date": "2026-07-10",
+    "url": "https://x.com/MoneyPrinter0x/status/2075512295632060925",
+    "summary": "Argued that Robinhood’s retail-onchain wave could route substantial DEX volume through Uniswap for Robinhood EVM, making Uniswap a concrete infrastructure beneficiary of the Robinhood-chain thesis.",
+    "quality": "medium",
+    "created_tier2_candidate": true
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "CASHCAT / Robinhood-chain midcaps",
+    "to_kind": "project",
+    "type": "authored_mention/midcap_breadth_after_cashcat_breakout",
+    "date": "2026-07-10",
+    "url": "https://x.com/MoneyPrinter0x/status/2075514775040393386",
+    "summary": "Used CASHCAT’s move and broad Robinhood-chain midcap doubles/triples as evidence that the Robinhood retail-onchain wave is broadening beyond one asset; still meme-led/high-risk, so candidate-level only.",
+    "quality": "low-medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2075516280250196182",
+      "https://x.com/MoneyPrinter0x/status/2075516427029925997"
+    ]
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "Radicle",
+    "to_kind": "project",
+    "type": "quote/decentralized_code_network_counterfactual",
+    "date": "2026-07-10",
+    "url": "https://x.com/0xGeeGee/status/2075494063797846390",
+    "summary": "Quoted a Radicle browser-node/gossip-network demo and said he thinks about what Radicle could have been; useful decentralized-infrastructure taste evidence, but not enough for Tier 2 tracking.",
+    "quality": "low-medium",
+    "created_tier2_candidate": true
   }
 ]

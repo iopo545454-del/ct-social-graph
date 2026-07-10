@@ -1,5 +1,29 @@
 [
   {
+    "handle": "Radicle",
+    "kind": "project",
+    "status": "candidate",
+    "source": "0xGeeGee quote on in-browser Radicle gossip node",
+    "reason": "0xGeeGee quoted a Radicle browser-node/gossip-network demo and said he still thinks about what Radicle could have been. Useful decentralized-infrastructure taste evidence, but one nostalgic/counterfactual quote only, so keep as candidate.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2075494063797846390"
+    ],
+    "first_seen": "2026-07-10",
+    "confidence": "low"
+  },
+  {
+    "handle": "Uniswap",
+    "kind": "project",
+    "status": "candidate",
+    "source": "MoneyPrinter0x Robinhood EVM routing reply",
+    "reason": "MoneyPrinter0x argued Robinhood’s retail-onchain wave could route substantial DEX volume through Uniswap for Robinhood EVM. One current project-beneficiary edge only, so keep as candidate/mention-ledger rather than Tier 2.",
+    "evidence_urls": [
+      "https://x.com/MoneyPrinter0x/status/2075512295632060925"
+    ],
+    "first_seen": "2026-07-10",
+    "confidence": "low-medium"
+  },
+  {
     "handle": "Arbitrum / ARB",
     "kind": "project",
     "status": "candidate",
@@ -29,11 +53,14 @@
     "kind": "project",
     "status": "candidate",
     "source": "CryptoTomYT and MoneyPrinter0x Robinhood-chain meme/ratio posts",
-    "reason": "Both CryptoTomYT and MoneyPrinter0x highlighted CASHCAT as an early Robinhood-chain meme candidate. Evidence is repeated across two Tier 1 accounts and tied to Robinhood distribution/CFO/CEO meme signals, but remains high-risk meme-coin attention rather than a durable project thesis, so keep as candidate only.",
+    "reason": "Both CryptoTomYT and MoneyPrinter0x highlighted CASHCAT as an early Robinhood-chain meme candidate. July 10 MoneyPrinter0x follow-ups add breadth/continuation evidence after CASHCAT’s move and broader Robinhood-chain midcap strength, but this remains high-risk meme-coin attention rather than a durable project thesis, so keep as candidate only.",
     "evidence_urls": [
       "https://x.com/CryptoTomYT/status/2074746297832353843",
       "https://x.com/MoneyPrinter0x/status/2074808549948162442",
-      "https://x.com/MoneyPrinter0x/status/2074809734931366377"
+      "https://x.com/MoneyPrinter0x/status/2074809734931366377",
+      "https://x.com/MoneyPrinter0x/status/2075514775040393386",
+      "https://x.com/MoneyPrinter0x/status/2075516280250196182",
+      "https://x.com/MoneyPrinter0x/status/2075516427029925997"
     ],
     "first_seen": "2026-07-08",
     "confidence": "low-medium"
