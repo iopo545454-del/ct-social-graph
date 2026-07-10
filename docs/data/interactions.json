@@ -2367,5 +2367,20 @@
     "summary": "Quoted Ali Ghodsi's Databricks internal AI cost/quality evaluation and used it to argue for enterprise AI spend measured as dollars per task/work unit rather than token prices or public leaderboards.",
     "quality": "medium",
     "created_tier2_candidate": false
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "RobinhoodApp / Robinhood Chain",
+    "to_kind": "project",
+    "type": "authored_mention/native_holder_adoption_gap",
+    "date": "2026-07-10",
+    "url": "https://x.com/MoneyPrinter0x/status/2075407613224006103",
+    "summary": "Used correlation/activity composition to argue Robinhood Chain is still mostly onchain-native activity and that the larger non-native Robinhood retail bridging wave has not hit yet.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2075408208768975175",
+      "https://x.com/MoneyPrinter0x/status/2075313879044022765"
+    ]
   }
 ]

@@ -6073,5 +6073,48 @@
     "related_urls": [
       "https://x.com/0xGeeGee/status/2075231562095104200"
     ]
+  },
+  {
+    "date": "2026-07-10",
+    "handle": "0xGeeGee",
+    "type": "quote/llm_jump_cognitive_displacement_boundary",
+    "url": "https://x.com/0xGeeGee/status/2075418974507143178",
+    "summary": "Quoted Thomas Larsen’s AI 2040 / Plan A thread and framed the core uncertainty for an AI-everywhere future as whether LLMs can “jump”; follow-up said if LLMs cannot make that jump, then full or near-full cognitive-work displacement is impossible under current scientific consensus.",
+    "entities": [
+      "AI 2040",
+      "Thomas Larsen / thlarsen",
+      "LLM capability jump",
+      "cognitive-work displacement",
+      "AI timelines",
+      "scientific invention"
+    ],
+    "why_logged": "High-signal continuation of GeeGee’s AI-model-operations lens, but this time as a capability-boundary/timeline filter rather than only cost-per-task optimization.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/0xGeeGee/status/2075418976595890236",
+      "https://x.com/0xGeeGee/status/2075419731021193345"
+    ]
+  },
+  {
+    "date": "2026-07-10",
+    "handle": "MoneyPrinter0x",
+    "type": "post/robinhood_chain_native_holder_adoption_gap",
+    "url": "https://x.com/MoneyPrinter0x/status/2075407613224006103",
+    "summary": "Argued that more than 95% of current Robinhood Chain activity appears to come from existing onchain-native holders because the most liquid/organic onchain asset still tracks BTC/QQQ more than HOOD; concluded that the non-onchain-native Robinhood user wave has not arrived yet.",
+    "entities": [
+      "Robinhood Chain",
+      "RobinhoodApp",
+      "onchain-native holders",
+      "retail bridging",
+      "HOOD correlation",
+      "BTC/QQQ correlation",
+      "consumer crypto distribution"
+    ],
+    "why_logged": "Fresh continuation of the Robinhood/onchain distribution thesis with a concrete adoption-gap diagnostic rather than another meme-price call.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2075408208768975175",
+      "https://x.com/MoneyPrinter0x/status/2075313879044022765"
+    ]
   }
 ]
