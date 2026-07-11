@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-07-10",
-  "profile_updated_at": "2026-07-10T12:10:00Z",
+  "profile_updated_at": "2026-07-11T00:42:02Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -516,15 +516,17 @@
       ],
       "projects": [
         "Sonic Labs",
-        "BONK DAO low-turnout governance"
+        "BONK DAO low-turnout governance",
+        "Cap / CapApp"
       ],
-      "summary": "airtightfish explicitly separated outright scams/predatory bundles from traders taking public positions. GeeGee had a shorter reply calling out a scammer/paid-group P&D context. Keep this as a light caution bucket, not a full fraud map. New GeeGee quote adds a founder-governance trust example via a harsh negative read on Andre Cronje/Sonic Labs board-resignation context. Latest GeeGee reply adds adjacent AI product-overclaim skepticism via a Midjourney-scanner/Theranos comparison, but he framed it as incentive/context uncertainty rather than a definitive scam call. July 6 airtightfish BONK DAO reply adds a governance-process example rather than a scam call: the useful detail was that a controversial transfer proposal reportedly passed with only seven total voters before legal-action discussion.",
+      "summary": "airtightfish explicitly separated outright scams/predatory bundles from traders taking public positions. GeeGee had a shorter reply calling out a scammer/paid-group P&D context. Keep this as a light caution bucket, not a full fraud map. New GeeGee quote adds a founder-governance trust example via a harsh negative read on Andre Cronje/Sonic Labs board-resignation context. Latest GeeGee reply adds adjacent AI product-overclaim skepticism via a Midjourney-scanner/Theranos comparison, but he framed it as incentive/context uncertainty rather than a definitive scam call. July 6 airtightfish BONK DAO reply adds a governance-process example rather than a scam call: the useful detail was that a controversial transfer proposal reportedly passed with only seven total voters before legal-action discussion. July 10 GeeGee evidence adds a Cap founder-trust avoidance signal: he said he had already avoided the project and was unsurprised by a quoted points/airdrop conflict thread; keep the detailed self-dealing claims labeled as unverified allegations from the quoted source.",
       "evidence_urls": [
         "https://x.com/airtightfish/status/2064392389016342888",
         "https://x.com/0xGeeGee/status/2063206399044395270",
         "https://x.com/0xGeeGee/status/2068054047936983213",
         "https://x.com/0xGeeGee/status/2068186616032624953",
-        "https://x.com/i/status/2074240810804019636"
+        "https://x.com/i/status/2074240810804019636",
+        "https://x.com/0xGeeGee/status/2075707096239419800"
       ],
       "momentum": "unclear",
       "confidence": "medium"

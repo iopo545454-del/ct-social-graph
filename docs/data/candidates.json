@@ -1,5 +1,18 @@
 [
   {
+    "handle": "CapApp",
+    "kind": "project",
+    "status": "candidate",
+    "source": "0xGeeGee quote on Cap founder trust and alleged points/airdrop conflict",
+    "reason": "0xGeeGee said he had already avoided Cap because it is run by Benjamin and was unsurprised by a quoted thread alleging founder-linked preferential YT exposure in the points/airdrop program. Keep as a negative-watch candidate only: one GeeGee quote, and the detailed self-dealing claims are allegations rather than independently verified facts.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2075707096239419800",
+      "https://x.com/0xMakima_/status/2075642851753615405"
+    ],
+    "first_seen": "2026-07-10",
+    "confidence": "low-medium"
+  },
+  {
     "handle": "Radicle",
     "kind": "project",
     "status": "candidate",

@@ -1,5 +1,26 @@
 [
   {
+    "date": "2026-07-10",
+    "handle": "0xGeeGee",
+    "type": "quote/cap_founder_trust_filter",
+    "url": "https://x.com/0xGeeGee/status/2075707096239419800",
+    "summary": "Said he had avoided Cap because it is run by Benjamin and was not surprised by a quoted thread alleging that Cap's points/airdrop design favored a founder-linked YT wallet; the self-dealing details remain allegations from the quoted post, not independently verified facts.",
+    "entities": [
+      "Cap",
+      "CapApp",
+      "Benjamin918_",
+      "0xMakima_",
+      "YT holders",
+      "points/airdrop design",
+      "founder trust"
+    ],
+    "why_logged": "Clear project-avoidance and founder-credibility evidence from GeeGee, with allegation status kept explicit and source-close.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/0xMakima_/status/2075642851753615405"
+    ]
+  },
+  {
     "date": "2026-07-09",
     "handle": "MoneyPrinter0x",
     "type": "quote/robinhood_onchain_priority_confirmation",
