@@ -1,5 +1,20 @@
 [
   {
+    "from": "MoneyPrinter0x",
+    "to": "sqalef",
+    "to_kind": "individual",
+    "type": "quote/cashcat_ask_liquidity_update",
+    "date": "2026-07-11",
+    "url": "https://x.com/MoneyPrinter0x/status/2075986978940796965",
+    "summary": "Quoted sqalef's CASHCAT chart thread and updated the prior heavy-weekend-ask warning: ask-side / single-sided pool liquidity had thinned significantly by Saturday.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/sqalef/status/2075638958680068595",
+      "https://x.com/MoneyPrinter0x/status/2075689159847825435"
+    ]
+  },
+  {
     "from": "0xGeeGee",
     "to": "CapApp",
     "to_kind": "project",
