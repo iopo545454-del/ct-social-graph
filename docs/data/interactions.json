@@ -1,6 +1,35 @@
 [
   {
     "from": "MoneyPrinter0x",
+    "to": "hsgeth",
+    "to_kind": "individual",
+    "type": "reply/cashcat_v3_pool_full_history_diligence",
+    "date": "2026-07-11",
+    "url": "https://x.com/MoneyPrinter0x/status/2076028506610586030",
+    "summary": "Responded to a warning that headline Uniswap v3 pool statistics can be misleading because liquidity may sit at extreme ticks by saying he was researching the full onchain history of the CASHCAT pool.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/hsgeth/status/2075999246180892932",
+      "https://x.com/MoneyPrinter0x/status/2075986978940796965"
+    ]
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "Evan_ss6",
+    "to_kind": "individual",
+    "type": "reply/cashcat_historical_liquidity_skew_check",
+    "date": "2026-07-11",
+    "url": "https://x.com/MoneyPrinter0x/status/2076014661745738095",
+    "summary": "Asked whether historical skew development had been checked after Evan argued the apparent CASHCAT bid skew could mechanically result from price rising through previously posted ask liquidity.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/Evan_ss6/status/2076011588214022521"
+    ]
+  },
+  {
+    "from": "MoneyPrinter0x",
     "to": "sqalef",
     "to_kind": "individual",
     "type": "quote/cashcat_ask_liquidity_update",

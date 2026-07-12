@@ -2,6 +2,29 @@
   {
     "date": "2026-07-11",
     "handle": "MoneyPrinter0x",
+    "type": "replies/cashcat_v3_pool_historical_diligence",
+    "url": "https://x.com/MoneyPrinter0x/status/2076028506610586030",
+    "summary": "Continued the CASHCAT liquidity review by saying he was researching the pool's full onchain history after one reply warned that Uniswap v3 headline statistics can be distorted by tick placement; in a parallel thread he asked whether the apparent skew had been checked historically.",
+    "entities": [
+      "CASHCAT",
+      "Uniswap v3",
+      "liquidity ticks",
+      "historical skew",
+      "single-sided liquidity",
+      "onchain LP history"
+    ],
+    "why_logged": "Adds a source-close diligence qualifier to the prior ask-liquidity update: the current snapshot is not being treated as conclusive without tick-level and historical LP analysis.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/hsgeth/status/2075999246180892932",
+      "https://x.com/MoneyPrinter0x/status/2076014661745738095",
+      "https://x.com/Evan_ss6/status/2076011588214022521",
+      "https://x.com/MoneyPrinter0x/status/2075986978940796965"
+    ]
+  },
+  {
+    "date": "2026-07-11",
+    "handle": "MoneyPrinter0x",
     "type": "quote/cashcat_ask_liquidity_update",
     "url": "https://x.com/MoneyPrinter0x/status/2075986978940796965",
     "summary": "Updated the prior CASHCAT weekend-risk read by saying ask-side / single-sided liquidity had thinned significantly after previously flagging heavy asks entering the weekend.",
