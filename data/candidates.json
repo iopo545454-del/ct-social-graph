@@ -1,5 +1,17 @@
 [
   {
+    "handle": "NOXA (DeBank Chain deployment)",
+    "kind": "project",
+    "status": "candidate",
+    "source": "CryptoTomYT NOXA launchpad-token post",
+    "reason": "CryptoTomYT gave a concrete early-token thesis around stated FDV, circulating supply after a burn, launchpad fees, and manual DeBank Chain execution. Keep as low-confidence candidate only: one promotional post, no official handle was identified, the metrics were not independently verified, multiple NOXA deployments appear to exist, and replies reported chain/RPC friction.",
+    "evidence_urls": [
+      "https://x.com/CryptoTomYT/status/2076359110023577717"
+    ],
+    "first_seen": "2026-07-12",
+    "confidence": "low"
+  },
+  {
     "handle": "CapApp",
     "kind": "project",
     "status": "candidate",

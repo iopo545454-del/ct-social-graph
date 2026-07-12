@@ -1,6 +1,23 @@
 [
   {
     "date": "2026-07-12",
+    "handle": "CryptoTomYT",
+    "type": "authored/noxa_launchpad_token_thesis",
+    "url": "https://x.com/CryptoTomYT/status/2076359110023577717",
+    "summary": "Said he bought/promoted NOXA as an undervalued launchpad token around a stated $15M FDV, citing an estimated 50-60% circulating supply after a 40% team burn and roughly $12M of launchpad fees over four days; also noted the token was on DeBank Chain, assumed a later migration, and supplied manual bridge/swap instructions.",
+    "entities": [
+      "NOXA",
+      "DeBank Chain",
+      "launchpad fees",
+      "token burn",
+      "circulating supply",
+      "manual bridging"
+    ],
+    "why_logged": "Concrete but unverified token-supply, fee, valuation, and execution claims reveal CryptoTomYT's current willingness to trade very early launchpad assets; source thread also showed chain/RPC friction, so keep this as high-risk evidence rather than a validated fundamental thesis.",
+    "confidence": "medium-low"
+  },
+  {
+    "date": "2026-07-12",
     "handle": "0xGeeGee",
     "type": "quote/fable_sol_hands_on_model_comparison",
     "url": "https://x.com/0xGeeGee/status/2076232247469023656",

@@ -1881,8 +1881,8 @@
   {
     "handle": "CryptoTomYT",
     "period_start": "2026-05-14",
-    "period_end": "2026-07-08",
-    "profile_updated_at": "2026-07-08T13:00:00Z",
+    "period_end": "2026-07-12",
+    "profile_updated_at": "2026-07-12T19:35:46Z",
     "taste_summary": "Observed X/Twitter evidence is mostly trading-performance/social content, now with repeated public Legend Trade performance context and explicit style comments: mostly not trading onchain, more long equities / short crypto. Interpretation confidence remains medium-low because most non-performance replies are terse. Latest June 23 quote adds process color: he agrees with screen-time/pattern-recognition as the durable source of discretionary trading intuition. Latest June 26 Multicoin/HYPE valuation reaction adds a more explicit Hyperliquid fundamental-valuation touchpoint: skeptical of $689 HYPE / $8B ARR assumptions, but acknowledges the upside scenario would be dramatic if it plays out. June 27 terse Hyperliquid post adds another light attention point after the prior valuation-reaction post, but still lacks a detailed HYPE thesis. July 1 Etched/pre-IPO perps post adds a terse listing-catalyst watch item: interest remains venue/perps driven, with private AI-company exposure as the object. July 1 reply adds Opal as a candidate venue/project angle inside the pre-IPO perps thesis: privacy DEX + Coinbase/Base positioning + pre-IPO perps/fees. Latest July 8 article adds a Robinhood Chain distribution thesis: Lighter/perps plus wallet/app spot liquidity and retail/degen distribution could create early +EV trading, with CASHCAT/DIH as meme-led examples until stronger utility/RWA names appear.",
     "likes": [
       {
@@ -2025,6 +2025,15 @@
         "evidence_urls": [
           "https://x.com/CryptoTomYT/status/2074746297832353843"
         ]
+      },
+      {
+        "name": "NOXA (DeBank Chain deployment)",
+        "handle": null,
+        "stance": "positive/speculative position",
+        "summary": "Said he blasted/bought the launchpad token around a stated $15M FDV, estimated 50-60% circulating after a 40% team burn, and cited roughly $12M in four-day launchpad fees. He also supplied manual bridge/swap instructions while acknowledging the current DeBank Chain deployment and assuming a future migration. Metrics and canonical project identity remain unverified; replies reported chain/RPC friction.",
+        "evidence_urls": [
+          "https://x.com/CryptoTomYT/status/2076359110023577717"
+        ]
       }
     ],
     "people_respected": [],
@@ -2038,7 +2047,8 @@
       "Check whether Tradexyz/Hyperliquid/Legend Trade mentions are durable venue preferences or just public results threads.",
       "Track whether long-equities/short-crypto becomes a durable CryptoTomYT style shift or just a current competition-period framing.",
       "Track whether CryptoTomYT develops a fuller HYPE/Hyperliquid fundamental view or remains at quick reactions to external valuation reports.",
-      "Track whether CryptoTomYT's pre-IPO AI perps interest turns into repeated venue/project evidence or remains a one-off Etched/Anthropic listing-catalyst comment."
+      "Track whether CryptoTomYT's pre-IPO AI perps interest turns into repeated venue/project evidence or remains a one-off Etched/Anthropic listing-catalyst comment.",
+      "Track whether CryptoTomYT follows NOXA with verifiable fee/burn data, a canonical project identity, migration details, or risk commentary after the observed DeBank Chain/RPC friction."
     ],
     "evidence_urls": [
       "https://x.com/CryptoTomYT/status/2065238474907607090",
@@ -2054,7 +2064,8 @@
       "https://x.com/CryptoTomYT/status/2070669003849076840",
       "https://x.com/CryptoTomYT/status/2072127570816983337",
       "https://x.com/CryptoTomYT/status/2072153326909628716",
-      "https://x.com/i/status/2072187972452069804"
+      "https://x.com/i/status/2072187972452069804",
+      "https://x.com/CryptoTomYT/status/2076359110023577717"
     ]
   },
   {
