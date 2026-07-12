@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-07-12",
+    "handle": "0xGeeGee",
+    "type": "quote/fable_sol_hands_on_model_comparison",
+    "url": "https://x.com/0xGeeGee/status/2076232247469023656",
+    "summary": "After intensive weekend use of Fable and Sol, said it was unclear which was better overall: Sol felt lazier and weaker at recaps, checkpoints, and planning, but consumed much less usage.",
+    "entities": [
+      "Fable",
+      "Sol",
+      "AI model evaluation",
+      "planning",
+      "recaps/checkpoints",
+      "usage efficiency"
+    ],
+    "why_logged": "Fresh first-hand model/tool comparison with explicit quality-versus-usage tradeoffs; useful evidence for GeeGee’s recurring AI price-performance and model-operations lens.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/0xGeeGee/status/2076252866126520332"
+    ]
+  },
+  {
     "date": "2026-07-11",
     "handle": "MoneyPrinter0x",
     "type": "replies/cashcat_v3_pool_historical_diligence",
@@ -28,7 +48,13 @@
     "type": "quote/cashcat_ask_liquidity_update",
     "url": "https://x.com/MoneyPrinter0x/status/2075986978940796965",
     "summary": "Updated the prior CASHCAT weekend-risk read by saying ask-side / single-sided liquidity had thinned significantly after previously flagging heavy asks entering the weekend.",
-    "entities": ["CASHCAT", "Robinhood Chain", "ask-side liquidity", "single-sided liquidity pool", "weekend market structure"],
+    "entities": [
+      "CASHCAT",
+      "Robinhood Chain",
+      "ask-side liquidity",
+      "single-sided liquidity pool",
+      "weekend market structure"
+    ],
     "why_logged": "A dated, source-close update to the prior heavy-ask warning; it reduces the observed sell-side overhang without proving a bullish outcome.",
     "confidence": "medium",
     "related_urls": [

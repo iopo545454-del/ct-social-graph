@@ -1,5 +1,19 @@
 [
   {
+    "from": "0xGeeGee",
+    "to": "sama",
+    "to_kind": "individual",
+    "type": "quote/fable_sol_hands_on_model_comparison",
+    "date": "2026-07-12",
+    "url": "https://x.com/0xGeeGee/status/2076232247469023656",
+    "summary": "Quoted Sam Altman’s model-benchmark joke to report a first-hand Fable-versus-Sol tradeoff: Sol was less usage-hungry but appeared lazier and worse at recaps, checkpoints, and planning.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/0xGeeGee/status/2076252866126520332"
+    ]
+  },
+  {
     "from": "MoneyPrinter0x",
     "to": "hsgeth",
     "to_kind": "individual",
