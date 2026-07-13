@@ -1,6 +1,21 @@
 [
   {
     "date": "2026-07-13",
+    "handle": "airtightfish",
+    "type": "reply/builder_risk_taking_ideology",
+    "url": "https://x.com/airtightfish/status/2076722906038702472",
+    "summary": "Said he usually does not touch memes but liked the @worthOnRH framing because its “one life, it’s worth an attempt” ideology resonated with choosing to build in volatile crypto rather than taking a safer finance or big-tech path.",
+    "entities": [
+      "worthOnRH",
+      "builder risk-taking",
+      "crypto career choice",
+      "memecoin ideology"
+    ],
+    "why_logged": "Useful source-close evidence about airtightfish’s builder/operator motivation. It is not logged as a project endorsement, interaction edge, candidate, or durable memecoin thesis.",
+    "confidence": "medium-low"
+  },
+  {
+    "date": "2026-07-13",
     "handle": "MoneyPrinter0x",
     "type": "authored_post/fintech_relative_strength_vs_ai_capex",
     "url": "https://x.com/MoneyPrinter0x/status/2076665076850024577",
