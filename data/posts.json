@@ -1,5 +1,39 @@
 [
   {
+    "date": "2026-07-13",
+    "handle": "0xGeeGee",
+    "type": "reply/ai_human_adaptation_and_nonoverlapping_skills",
+    "url": "https://x.com/0xGeeGee/status/2076482898665099300",
+    "summary": "Replied that examples for preserving human activity after advanced AI—human contact, craft, racing, and exploration—are psychological preferences rather than capability gaps. He still expects adaptation to create new activities and argues that AI and human operating differences keep their skill trees from perfectly overlapping even if AI executes most tasks better.",
+    "entities": [
+      "AI labor adaptation",
+      "human preferences",
+      "capability boundaries"
+    ],
+    "why_logged": "Adds a clear qualifier to 0xGeeGee's AI-capability view: he expects disruption and broad AI execution strength without assuming human and AI capabilities become identical.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-13",
+    "handle": "0xGeeGee",
+    "type": "quote/ai_model_market_pricing_and_coordination",
+    "url": "https://x.com/0xGeeGee/status/2076477683618463963",
+    "summary": "Quoted an Anthropic access-extension announcement to argue that premium and low-cost inference markets are becoming more competitive, but models retain different strengths: Fable for planning/coherence, Sol for coding, cheaper DeepSeek-class options for cost, and Grok for direct X access. He highlighted model-switching/cold-start coordination costs and expects price to decide most usage if subsidies and availability diverge.",
+    "entities": [
+      "Anthropic",
+      "Claude",
+      "Fable",
+      "Sol",
+      "Grok",
+      "GLM 5.2",
+      "DeepSeek v4",
+      "model switching",
+      "inference pricing"
+    ],
+    "why_logged": "Concrete continuation of 0xGeeGee's model-routing and inference-economics thesis, now adding organizational switching costs and subsidy sensitivity.",
+    "confidence": "high"
+  },
+  {
     "date": "2026-07-12",
     "handle": "CryptoTomYT",
     "type": "authored/noxa_launchpad_token_thesis",

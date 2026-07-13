@@ -1,6 +1,20 @@
 [
   {
     "from": "0xGeeGee",
+    "to": "hhawk",
+    "to_kind": "individual",
+    "type": "reply/ai_human_adaptation_and_nonoverlapping_skills",
+    "date": "2026-07-13",
+    "url": "https://x.com/0xGeeGee/status/2076482898665099300",
+    "summary": "Reframed hhawk's human-meaning examples as psychological preferences, agreed that people will create new activities after AI disruption, and argued AI/human skill trees will never perfectly overlap because they operate differently.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/hhawk/status/2076036984901079171"
+    ]
+  },
+  {
+    "from": "0xGeeGee",
     "to": "sama",
     "to_kind": "individual",
     "type": "quote/fable_sol_hands_on_model_comparison",
