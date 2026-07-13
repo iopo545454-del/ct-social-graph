@@ -2,6 +2,22 @@
   {
     "date": "2026-07-13",
     "handle": "0xGeeGee",
+    "type": "quote/fable_sol_hands_on_writing_and_guardrails",
+    "url": "https://x.com/0xGeeGee/status/2076582140796653909",
+    "summary": "Followed up on hands-on Fable-versus-Sol use: Sol writes better, though personalized memory may help, while Fable is less lecturing and more willing to comply outside its comparatively easy-to-trigger safety guardrails. The quoted parent still says no clear overall winner, with Sol less usage-hungry but weaker on recaps, checkpoints, and planning.",
+    "entities": [
+      "Fable",
+      "Sol",
+      "AI writing quality",
+      "personalized memory",
+      "model guardrails"
+    ],
+    "why_logged": "Adds source-close qualitative model-selection evidence to 0xGeeGee's existing Fable/Sol comparison without turning one user's workflow observations into a general benchmark.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-13",
+    "handle": "0xGeeGee",
     "type": "reply/ai_human_adaptation_and_nonoverlapping_skills",
     "url": "https://x.com/0xGeeGee/status/2076482898665099300",
     "summary": "Replied that examples for preserving human activity after advanced AI—human contact, craft, racing, and exploration—are psychological preferences rather than capability gaps. He still expects adaptation to create new activities and argues that AI and human operating differences keep their skill trees from perfectly overlapping even if AI executes most tasks better.",
