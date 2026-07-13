@@ -1,6 +1,21 @@
 [
   {
     "date": "2026-07-13",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/fintech_relative_strength_vs_ai_capex",
+    "url": "https://x.com/MoneyPrinter0x/status/2076665076850024577",
+    "summary": "Posted that fintechs were trading much stronger than AI-capex names. No tickers or follow-up explanation were attached, so treat this only as a terse relative-strength/tape marker.",
+    "entities": [
+      "fintech equities",
+      "AI capex equities",
+      "relative strength",
+      "sector rotation"
+    ],
+    "why_logged": "A source-close update to MoneyPrinter0x’s equity-rotation process; useful as a dated sector-strength marker, but too sparse to infer a specific company or durable thesis.",
+    "confidence": "low"
+  },
+  {
+    "date": "2026-07-13",
     "handle": "0xGeeGee",
     "type": "quote/fable_sol_hands_on_writing_and_guardrails",
     "url": "https://x.com/0xGeeGee/status/2076582140796653909",
