@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-14T12:11:11Z",
+  "last_checked": "2026-07-14T18:56:17Z",
   "new_count": 1,
   "sources": [
     {
@@ -63,7 +63,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-14T12:11:07Z"
+      "checked_at": "2026-07-14T18:56:14Z"
     },
     {
       "name": "Multicoin Capital",
@@ -138,7 +138,7 @@
           "published": "Thu, 02 Oct 2025 00:00:00 GMT"
         }
       ],
-      "checked_at": "2026-07-14T12:11:08Z"
+      "checked_at": "2026-07-14T18:56:14Z"
     },
     {
       "name": "Pantera Blockchain Letter",
@@ -203,7 +203,7 @@
           "published": "Mon, 30 Jun 2025 14:48:37 +0000"
         }
       ],
-      "checked_at": "2026-07-14T12:11:09Z"
+      "checked_at": "2026-07-14T18:56:14Z"
     },
     {
       "name": "Paradigm",
@@ -276,7 +276,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-14T12:11:10Z"
+      "checked_at": "2026-07-14T18:56:15Z"
     },
     {
       "name": "Glassnode Research",
@@ -351,7 +351,7 @@
           "published": "Fri, 26 Jun 2026 08:54:57 GMT"
         }
       ],
-      "checked_at": "2026-07-14T12:11:10Z"
+      "checked_at": "2026-07-14T18:56:15Z"
     },
     {
       "name": "Delphi Digital",
@@ -374,7 +374,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-14T12:11:10Z"
+      "checked_at": "2026-07-14T18:56:15Z"
     },
     {
       "name": "Electric Capital",
@@ -386,7 +386,7 @@
       "error": null,
       "feed_urls": [],
       "items": [],
-      "checked_at": "2026-07-14T12:11:10Z"
+      "checked_at": "2026-07-14T18:56:16Z"
     },
     {
       "name": "Bankless",
@@ -454,12 +454,12 @@
           "published": null
         },
         {
-          "title": "News Dozens of Major Companies Become Open USD Launch Partners Some of the biggest names in finance and beyond are joining forces to back th",
-          "url": "https://www.bankless.com/read/news/dozens-of-major-companies-become-open-usd-launch-partners",
+          "title": "News Africa's Largest Centralized Exchange Integrates Hyperliquid Perps VALR will become the first major regulated exchange to natively inte",
+          "url": "https://www.bankless.com/read/news/africas-largest-centralized-exchange-integrates-hyperliquid-perps",
           "published": null
         }
       ],
-      "checked_at": "2026-07-14T12:11:11Z"
+      "checked_at": "2026-07-14T18:56:16Z"
     },
     {
       "name": "Token Terminal",
@@ -532,7 +532,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-14T12:11:11Z"
+      "checked_at": "2026-07-14T18:56:17Z"
     }
   ],
   "articles": [
@@ -1227,13 +1227,13 @@
       "source_url": "https://www.bankless.com/read"
     },
     {
-      "id": "6b048134763b",
+      "id": "7523c32c0d84",
       "source": "Bankless",
       "tier": 2,
-      "title": "News Dozens of Major Companies Become Open USD Launch Partners Some of the biggest names in finance and beyond are joining forces to back th",
-      "url": "https://www.bankless.com/read/news/dozens-of-major-companies-become-open-usd-launch-partners",
+      "title": "News Africa's Largest Centralized Exchange Integrates Hyperliquid Perps VALR will become the first major regulated exchange to natively inte",
+      "url": "https://www.bankless.com/read/news/africas-largest-centralized-exchange-integrates-hyperliquid-perps",
       "published": null,
-      "first_seen": "2026-07-04T15:09:50Z",
+      "first_seen": "2026-07-14T18:56:17Z",
       "source_url": "https://www.bankless.com/read"
     },
     {
@@ -1355,6 +1355,16 @@
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "6b048134763b",
+      "source": "Bankless",
+      "tier": 2,
+      "title": "News Dozens of Major Companies Become Open USD Launch Partners Some of the biggest names in finance and beyond are joining forces to back th",
+      "url": "https://www.bankless.com/read/news/dozens-of-major-companies-become-open-usd-launch-partners",
+      "published": null,
+      "first_seen": "2026-07-04T15:09:50Z",
+      "source_url": "https://www.bankless.com/read"
     },
     {
       "id": "b7cbf1c4df5d",
