@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-13T12:08:45Z",
+  "last_checked": "2026-07-14T12:11:11Z",
   "new_count": 1,
   "sources": [
     {
@@ -33,6 +33,11 @@
           "published": null
         },
         {
+          "title": "TradFi doesn\u2019t want DeFi. It wants blockchain.",
+          "url": "https://a16zcrypto.com/posts/article/tradfi-doesnt-want-defi-it-wants-blockchain",
+          "published": null
+        },
+        {
           "title": "Inside Asia's Institutional Blockchain Race: The South Korea Edition",
           "url": "https://a16zcrypto.com/posts/article/south-korea-blockchain-race",
           "published": null
@@ -40,11 +45,6 @@
         {
           "title": "Welcome to the 'Show Me' era",
           "url": "https://a16zcrypto.com/posts/article/show-me-era-in-communications-crypto",
-          "published": null
-        },
-        {
-          "title": "3 product-market fit patterns that are working in crypto right now",
-          "url": "https://a16zcrypto.com/posts/article/product-market-fit-3-patterns-working-in-crypto-today",
           "published": null
         },
         {
@@ -63,7 +63,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-13T12:08:41Z"
+      "checked_at": "2026-07-14T12:11:07Z"
     },
     {
       "name": "Multicoin Capital",
@@ -138,7 +138,7 @@
           "published": "Thu, 02 Oct 2025 00:00:00 GMT"
         }
       ],
-      "checked_at": "2026-07-13T12:08:42Z"
+      "checked_at": "2026-07-14T12:11:08Z"
     },
     {
       "name": "Pantera Blockchain Letter",
@@ -203,7 +203,7 @@
           "published": "Mon, 30 Jun 2025 14:48:37 +0000"
         }
       ],
-      "checked_at": "2026-07-13T12:08:43Z"
+      "checked_at": "2026-07-14T12:11:09Z"
     },
     {
       "name": "Paradigm",
@@ -276,7 +276,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-13T12:08:43Z"
+      "checked_at": "2026-07-14T12:11:10Z"
     },
     {
       "name": "Glassnode Research",
@@ -351,7 +351,7 @@
           "published": "Fri, 26 Jun 2026 08:54:57 GMT"
         }
       ],
-      "checked_at": "2026-07-13T12:08:43Z"
+      "checked_at": "2026-07-14T12:11:10Z"
     },
     {
       "name": "Delphi Digital",
@@ -374,7 +374,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-13T12:08:44Z"
+      "checked_at": "2026-07-14T12:11:10Z"
     },
     {
       "name": "Electric Capital",
@@ -386,7 +386,7 @@
       "error": null,
       "feed_urls": [],
       "items": [],
-      "checked_at": "2026-07-13T12:08:44Z"
+      "checked_at": "2026-07-14T12:11:10Z"
     },
     {
       "name": "Bankless",
@@ -459,7 +459,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-13T12:08:45Z"
+      "checked_at": "2026-07-14T12:11:11Z"
     },
     {
       "name": "Token Terminal",
@@ -532,7 +532,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-13T12:08:45Z"
+      "checked_at": "2026-07-14T12:11:11Z"
     }
   ],
   "articles": [
@@ -577,6 +577,16 @@
       "source_url": "https://a16zcrypto.com/posts/"
     },
     {
+      "id": "95c51ef1759d",
+      "source": "a16z crypto",
+      "tier": 1,
+      "title": "TradFi doesn\u2019t want DeFi. It wants blockchain.",
+      "url": "https://a16zcrypto.com/posts/article/tradfi-doesnt-want-defi-it-wants-blockchain",
+      "published": null,
+      "first_seen": "2026-07-14T12:11:11Z",
+      "source_url": "https://a16zcrypto.com/posts/"
+    },
+    {
       "id": "e1e171567a2c",
       "source": "a16z crypto",
       "tier": 1,
@@ -594,16 +604,6 @@
       "url": "https://a16zcrypto.com/posts/article/show-me-era-in-communications-crypto",
       "published": null,
       "first_seen": "2026-06-17T14:33:20Z",
-      "source_url": "https://a16zcrypto.com/posts/"
-    },
-    {
-      "id": "b7cbf1c4df5d",
-      "source": "a16z crypto",
-      "tier": 1,
-      "title": "3 product-market fit patterns that are working in crypto right now",
-      "url": "https://a16zcrypto.com/posts/article/product-market-fit-3-patterns-working-in-crypto-today",
-      "published": null,
-      "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://a16zcrypto.com/posts/"
     },
     {
@@ -1355,6 +1355,16 @@
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "b7cbf1c4df5d",
+      "source": "a16z crypto",
+      "tier": 1,
+      "title": "3 product-market fit patterns that are working in crypto right now",
+      "url": "https://a16zcrypto.com/posts/article/product-market-fit-3-patterns-working-in-crypto-today",
+      "published": null,
+      "first_seen": "2026-06-14T20:08:30Z",
+      "source_url": "https://a16zcrypto.com/posts/"
     },
     {
       "id": "02d92128d044",
