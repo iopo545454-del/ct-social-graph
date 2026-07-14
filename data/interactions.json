@@ -1,5 +1,19 @@
 [
   {
+    "from": "MoneyPrinter0x",
+    "to": "bchesky",
+    "to_kind": "individual",
+    "type": "quote/crypto_application_layer_shift",
+    "date": "2026-07-14",
+    "url": "https://x.com/MoneyPrinter0x/status/2076945548565954720",
+    "summary": "Quoted Brian Chesky's argument that tokenization can reduce ownership friction, then added that blockchains are becoming finished-enough base infrastructure and that the next innovation era should happen in applications and application infrastructure.",
+    "quality": "medium-high",
+    "created_tier2_candidate": true,
+    "related_urls": [
+      "https://x.com/bchesky/status/2076862511039594883"
+    ]
+  },
+  {
     "from": "0xGeeGee",
     "to": "GergelyOrosz",
     "to_kind": "individual",

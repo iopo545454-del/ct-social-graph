@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-07-14",
-  "profile_updated_at": "2026-07-14T07:22:44Z",
+  "profile_updated_at": "2026-07-14T11:47:19Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -896,7 +896,8 @@
       "theme": "RWA / tokenized credit and equities",
       "accounts_positive": [
         "0xGeeGee",
-        "AustinBarack"
+        "AustinBarack",
+        "MoneyPrinter0x"
       ],
       "accounts_negative": [],
       "projects": [
@@ -917,9 +918,11 @@
         "Aerodrome / AERO mainnet revenue",
         "X Money",
         "MetaDAO-style employee ownership",
-        "crowdsourced real-world asset governance"
+        "crowdsourced real-world asset governance",
+        "tokenized ownership",
+        "application-layer crypto infrastructure"
       ],
-      "summary": "GeeGee thread framed RWA/tokenized equities as a watchable lane: MORPHO for open credit/yield-bearing assets, Backpack/BP for tokenized brokerage on Solana, Securitize/CEPT as reverse-merger context, and Variational adding RWA markets. Follow-up replies added a negative quality read on RAIN/Enlivex while allowing equity may still have value, plus a fresh possible PLUME addition based on GRVT/Bybit distribution/integration momentum. New AustinBarack quote tied Coinbase's tokenized-stock push to the leading Base spot exchange expanding into tokenized stocks, FX, and Ethereum mainnet, reinforcing AERO/Base as the venue angle. AustinBarack followed up AERO again later June 16, saying price action suggests investors are moving from skepticism/unawareness toward accepting the growth opportunity. Latest GeeGee quote adds a negative attestation/verification-provider example: AccountableData terminated MainStreet over failed verification standards, and GeeGee treated Accountable itself as a credibility problem. Keep this close to source and negative/analytical rather than a broad RWA-sector conclusion. June 21 GeeGee replies keep the MainStreet/verification thread active, now adding a first-time-disclosure probe and questioning PennyWorks' timing and incentives for disclosing prior MainStreet data-transparency concerns after the controversy was public. June 28 GeeGee portfolio update adds position-management color: BP was partially closed, while VELO/AERO remained held and AERO perp/spot-conversion risk was described as unlikely to disrupt the perp leg. June 30 AustinBarack update keeps AERO/Base active with a concrete mainnet revenue-leadership claim, and adds an adjacent X Money example for aggressive CAC/growth-spend logic rather than buyback-first crypto capital allocation. July 5 kelxyz_ post lightly broadens the RWA/governance imagination bucket with a MetaDAO-style, employee-owned gemstone-mine concept; treat as profile/style evidence, not a tracked project thesis.",
+      "summary": "GeeGee thread framed RWA/tokenized equities as a watchable lane: MORPHO for open credit/yield-bearing assets, Backpack/BP for tokenized brokerage on Solana, Securitize/CEPT as reverse-merger context, and Variational adding RWA markets. Follow-up replies added a negative quality read on RAIN/Enlivex while allowing equity may still have value, plus a fresh possible PLUME addition based on GRVT/Bybit distribution/integration momentum. New AustinBarack quote tied Coinbase's tokenized-stock push to the leading Base spot exchange expanding into tokenized stocks, FX, and Ethereum mainnet, reinforcing AERO/Base as the venue angle. AustinBarack followed up AERO again later June 16, saying price action suggests investors are moving from skepticism/unawareness toward accepting the growth opportunity. Latest GeeGee quote adds a negative attestation/verification-provider example: AccountableData terminated MainStreet over failed verification standards, and GeeGee treated Accountable itself as a credibility problem. Keep this close to source and negative/analytical rather than a broad RWA-sector conclusion. June 21 GeeGee replies keep the MainStreet/verification thread active, now adding a first-time-disclosure probe and questioning PennyWorks' timing and incentives for disclosing prior MainStreet data-transparency concerns after the controversy was public. June 28 GeeGee portfolio update adds position-management color: BP was partially closed, while VELO/AERO remained held and AERO perp/spot-conversion risk was described as unlikely to disrupt the perp leg. June 30 AustinBarack update keeps AERO/Base active with a concrete mainnet revenue-leadership claim, and adds an adjacent X Money example for aggressive CAC/growth-spend logic rather than buyback-first crypto capital allocation. July 5 kelxyz_ post lightly broadens the RWA/governance imagination bucket with a MetaDAO-style, employee-owned gemstone-mine concept; treat as profile/style evidence, not a tracked project thesis. July 14 MoneyPrinter0x quote adds an application-layer framing: tokenized ownership is the use case, while blockchains are increasingly treated as underlying infrastructure; this is a broad sector-layer view, not a specific RWA project endorsement.",
       "evidence_urls": [
         "https://x.com/0xGeeGee/status/2066111310916694078",
         "https://x.com/0xGeeGee/status/2066374450292183385",
@@ -934,7 +937,8 @@
         "https://x.com/0xGeeGee/status/2071286452357374290",
         "https://x.com/AustinBarack/status/2071927149255414261",
         "https://x.com/AustinBarack/status/2071928530548797691",
-        "https://x.com/kelxyz_/status/2073849126379196842"
+        "https://x.com/kelxyz_/status/2073849126379196842",
+        "https://x.com/MoneyPrinter0x/status/2076945548565954720"
       ],
       "momentum": "emerging",
       "confidence": "medium"

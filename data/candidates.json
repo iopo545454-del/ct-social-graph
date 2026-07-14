@@ -1,5 +1,18 @@
 [
   {
+    "handle": "bchesky",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "MoneyPrinter0x quote on tokenized ownership and application-layer crypto innovation",
+    "reason": "MoneyPrinter0x used Brian Chesky's ownership-friction post as the anchor for a substantive application-layer crypto thesis. One quote/attention edge only, so keep as a low-confidence candidate rather than Tier 2.",
+    "evidence_urls": [
+      "https://x.com/MoneyPrinter0x/status/2076945548565954720",
+      "https://x.com/bchesky/status/2076862511039594883"
+    ],
+    "first_seen": "2026-07-14",
+    "confidence": "low"
+  },
+  {
     "handle": "huntermmonk",
     "kind": "individual",
     "status": "candidate",

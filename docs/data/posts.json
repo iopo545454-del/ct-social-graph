@@ -1,6 +1,25 @@
 [
   {
     "date": "2026-07-14",
+    "handle": "MoneyPrinter0x",
+    "type": "quote/blockchain_application_layer_shift",
+    "url": "https://x.com/MoneyPrinter0x/status/2076945548565954720",
+    "summary": "Quoted Brian Chesky's ownership-friction framing and argued that crypto/blockchains should now be treated as underlying infrastructure whose core layer is largely built, with the next innovation cycle moving to applications and application infrastructure.",
+    "entities": [
+      "crypto infrastructure",
+      "blockchains",
+      "application layer",
+      "application infrastructure",
+      "tokenized ownership"
+    ],
+    "why_logged": "A concise higher-level thesis that connects MoneyPrinter0x's project/trading attention to an application-first view of the next crypto build cycle; it is not a specific project endorsement.",
+    "confidence": "high",
+    "related_urls": [
+      "https://x.com/bchesky/status/2076862511039594883"
+    ]
+  },
+  {
+    "date": "2026-07-14",
     "handle": "0xGeeGee",
     "type": "quote/ai_coding_tool_zero_data_retention_filter",
     "url": "https://x.com/0xGeeGee/status/2076909690731286795",
