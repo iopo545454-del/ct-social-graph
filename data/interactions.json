@@ -1,5 +1,35 @@
 [
   {
+    "from": "0xGeeGee",
+    "to": "GergelyOrosz",
+    "to_kind": "individual",
+    "type": "quote/ai_coding_tool_zdr_and_proprietary_code_risk",
+    "date": "2026-07-14",
+    "url": "https://x.com/0xGeeGee/status/2076909690731286795",
+    "summary": "Quoted Gergely Orosz's Grok CLI privacy warning to argue that robust zero-data-retention options are becoming a decisive commercial filter as frontier models grow more interchangeable: tools that cannot safely receive proprietary code are not viable for many users regardless of benchmark scores. The underlying non-consensual-upload claim remains unverified and comes from the quoted thread.",
+    "quality": "high",
+    "created_tier2_candidate": true,
+    "related_urls": [
+      "https://x.com/GergelyOrosz/status/2076728680236138572"
+    ]
+  },
+  {
+    "from": "airtightfish",
+    "to": "huntermmonk",
+    "to_kind": "individual",
+    "type": "reply/laso_post_launch_allocation_and_buyer_structure",
+    "date": "2026-07-14",
+    "url": "https://x.com/airtightfish/status/2076868030156648483",
+    "summary": "In the continuing $LASO/MetaDAO allocation discussion, argued the short-term setup was structurally weak because participants had already been fully filled lower and were unlocked, removing a natural pool of open-market buyers; he expects possible opportunity only after tokens settle over time.",
+    "quality": "high",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/huntermmonk/status/2076863264441659438",
+      "https://x.com/airtightfish/status/2076874450239410639",
+      "https://x.com/huntermmonk/status/2075788908328312946"
+    ]
+  },
+  {
     "from": "airtightfish",
     "to": "huntermmonk",
     "to_kind": "individual",

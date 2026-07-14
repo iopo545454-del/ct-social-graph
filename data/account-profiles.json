@@ -226,8 +226,8 @@
   {
     "handle": "0xGeeGee",
     "period_start": "2026-05-14",
-    "period_end": "2026-07-13",
-    "profile_updated_at": "2026-07-13T08:28:01Z",
+    "period_end": "2026-07-14",
+    "profile_updated_at": "2026-07-14T07:22:44Z",
     "taste_summary": "Observed X/Twitter evidence shows an AI/research-oriented account with practical focus on AI inference economics, DeFi/RWA credit, tokenized brokerage, risk/cash management, and second-order AI trades. Latest evidence adds a public-equity AI-imaging proxy note via BFLY/Butterfly Network, while earlier June 19 evidence sharpened STRC/depeg risk and founder-governance filters; new June 20 quotes add STRC marketing/math and risk-metric skepticism. New late-June-20 evidence adds a negative verification-provider credibility read via AccountableData/MainStreet, adjacent to his broader DeFi/RWA attestation and structured-credit risk filters. Latest reply-level evidence adds two AI diligence qualifiers: caution that Dark Bloom/EigenCloud should avoid grifty narrative behavior, and skepticism/curiosity around a Midjourney-scanner claim framed through incentives and fundraising context. June 21 replies add an incentive/timing layer to the MainStreet/Accountable verification-risk thread: he questioned PennyWorks for disclosing prior MainStreet concerns only after the controversy was public and framed delayed disclosure as potentially self-promotional. June 22 quote-post evidence extends his prediction-market skepticism into marketing credibility: he linked a Polymarket paid-promoter/deceptive-video investigation to likely similar tactics in TCGs. Latest June 22 quote adds a direct MSTR/BTC spread expression: he framed “MSTR down, BTC up” as his best-case day after quoting a question about why MSTR holders should stay if Saylor sells common for cash. Latest June 22 reply adds Pear Protocol/PEAR migration diligence: he is willing to re-check the Hyperliquid migration setup, but his first filter is fee drag versus constructing the pair trade directly. June 25 Yearn yvUSD reply extends the same structured-DeFi lens into vault distribution mechanics: he noted senior capital currently has no exposure under the distribution while still warning caution around InfiniFi/STRC-related exposure concerns. Latest June 28 evidence adds two process updates: he reiterated the AI-efficiency thesis through use-case-specific model routing/open-source cost optimization, then posted a position update showing BTC/MSTR and RKLB puts closed, BP partially closed, and EIGEN plus VELO/AERO still held with AERO conversion/perp risk seen as manageable. Latest June 28 replies add a prediction-market rules detail: in a Polymarket World Cup resolution dispute, he defended 90-minute/3-way-market resolution as standard when an X/draw option exists, treating the issue as rules-convention literacy rather than unique venue failure. Latest June 29 evidence adds an explicit AI workflow-accounting layer: he quoted a 'Work Units' framework as the missing accounting object for financially rationalizing AI work from inputs through process to results. Latest AI-tool evidence adds a Sonnet 5 price-performance caveat: he sees externalization as able to patch some task gaps, but token cost/efficiency remains the important model-selection bottleneck. July 1 follow-up sharpens the Sonnet 5 read from one benchmark note into a model-lineup/price-performance critique: cheaper per token is not enough if token usage and benchmark quality are worse. July 1 evidence adds two compact updates: ltLLP/Shift is now repeated positive wrapper evidence, while PURR gets a caution flag around advisory fees/options rather than a simple Hyperliquid-ecosystem endorsement. Latest July 1 PURR follow-up clarifies the structure/mNAV caution: price linkage and advisory fees remain reasons to frame PURR as financially weird/low-mNAV rather than a clean Hyperliquid ecosystem proxy. Latest July 2 evidence reframes his inference-efficiency thread as commodified intelligence/value migration from frontier models to model-operations layers. Latest July 3 post makes the AI commoditization thesis more explicit: open-weight progress and cheaper/open models push value from foundation-model scarcity toward infra/model-ops layers, with Together AI/Aramco Ventures used as a datapoint. Latest July 3 quote adds a light partnership-claim skepticism example: he reacted to Korean companies denying/confusing formal OUSD alliance membership. July 3 power-trade quote adds a compact grid/electricity-demand expression adjacent to his AI-infra lens: he agrees demand projections are not overblown and says inadequate grid capacity supports sending the power trade higher. July 3 follow-up clarified the AI model-cost thesis with a Formula 1 analogy: frontier models remain needed for race-level tasks, but many everyday workflows should migrate to cheaper/open models as cost awareness rises. Latest July 4 evidence adds a VELO/AERO close marker while re-surfacing the earlier AI-efficiency watchlist; treat this as position-management evidence, not fresh EIGEN/SERV conviction. Latest July 5 evidence adds a CT-analysis quality filter: in an Ethena/ENA correction thread, he amplified the importance of using public transparency dashboards and called out paid-thread/slop incentives, so treat this as credibility/diligence-process evidence rather than a direct Ethena token stance. Latest July 5 reply adds a practical crypto-card/provider filter: he accepted a fee/FX/cashback comparison favoring ether.fi and said Wirex was too shady to test. July 5 evidence adds a concrete product-quality fade: Wirex/crypto-card UX and collateral-market history are treated as untrustworthy, while the card-comparison thread is used as confirmation rather than a fresh standalone discovery. Latest July 6 quote adds a concrete AI-ops/cost-optimization mechanism: GeeGee treated a Fable OCR/image-context billing hack as evidence that LLM cost surfaces remain poorly understood and optimization is still early. Latest July 6 Variational quote adds a venue-rotation datapoint: after early Hyperliquid/Lighter exits, he is watching Variational's tighter-spread, larger-OI, near-flat-carry swaps as a possible different expression for onchain tradfi markets. July 7 quote-post evidence adds an interpretability/observability angle: he values visibility into LLM internal reasoning and token expenditure for better tool use, while explicitly resisting over-humanized AI analogies. Later July 7 reply adds a light privacy-AI/project-ownership diligence datapoint: he asked how Wisp relates to Lido, drawing out that Wisp is Lido DAO-owned and has no token. July 10 AI 2040 evidence adds a capability-boundary/timeline filter: he frames “can LLMs jump?” as the pivotal question for AI-everywhere scenarios and says near-total cognitive-work displacement is impossible if they cannot. July 10 updates add a Radicle counterfactual/decentralized-code-network taste marker and a datacenter-capex scale heuristic, alongside the earlier LLM-jump capability-boundary posts. Latest July 12 hands-on comparison adds a concrete quality-versus-usage tradeoff: Sol used much less capacity than Fable but felt lazier and weaker at recaps, checkpoints, and planning; he also treated X access as an account/tooling configuration advantage rather than an inherent model edge. July 13 Anthropic quote extends this into model-market operations: differentiated strengths still justify multi-model use, but switching/cold-start overhead and subsidy-sensitive pricing may dominate adoption for most users and businesses.",
     "likes": [
       {
@@ -608,6 +608,15 @@
           "https://x.com/0xMakima_/status/2075642851753615405"
         ],
         "confidence": "medium"
+      },
+      {
+        "theme": "AI coding tools without robust zero-data-retention safeguards",
+        "summary": "Treats the lack of a real zero-data-retention option as a commercial blocker for proprietary-code workflows, especially as frontier-model performance becomes more interchangeable and pricing/data-safety policy matters more. The Grok CLI upload allegation in the quoted source remains unverified.",
+        "evidence_urls": [
+          "https://x.com/0xGeeGee/status/2076909690731286795",
+          "https://x.com/GergelyOrosz/status/2076728680236138572"
+        ],
+        "confidence": "high"
       }
     ],
     "projects_mentioned": [
@@ -1096,7 +1105,8 @@
       "Track whether GeeGee provides additional first-hand Cap/Benjamin diligence or whether this remains one quote amplifying unverified points/airdrop conflict allegations.",
       "Track whether GeeGee’s Fable-versus-Sol quality/usage comparison persists across more tasks or changes after longer use.",
       "Track whether GeeGee's multi-model switching/cold-start concern develops into a specific routing, memory, or orchestration infrastructure preference.",
-      "Track whether GeeGee's AI/human non-overlapping-skill-tree view changes his investable AI-labor thesis or remains philosophical context."
+      "Track whether GeeGee's AI/human non-overlapping-skill-tree view changes his investable AI-labor thesis or remains philosophical context.",
+      "Track whether zero-data-retention and proprietary-code safety become repeated model/vendor selection criteria beyond the current Fable/Grok/Muse Spark comparison."
     ],
     "evidence_urls": [
       "https://x.com/0xGeeGee/status/2065771227743138126",
@@ -1176,7 +1186,8 @@
       "https://x.com/0xGeeGee/status/2076252866126520332",
       "https://x.com/0xGeeGee/status/2076477683618463963",
       "https://x.com/0xGeeGee/status/2076482898665099300",
-      "https://x.com/0xGeeGee/status/2076582140796653909"
+      "https://x.com/0xGeeGee/status/2076582140796653909",
+      "https://x.com/0xGeeGee/status/2076909690731286795"
     ]
   },
   {
@@ -1465,7 +1476,7 @@
     "handle": "airtightfish",
     "period_start": "2026-05-14",
     "period_end": "2026-07-14",
-    "profile_updated_at": "2026-07-14T02:28:19Z",
+    "profile_updated_at": "2026-07-14T07:22:44Z",
     "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence adds a tokenomics/accounting-process edge: he pushed against raw FDV for MetaDAO ownership-coin valuation and pointed toward adjusted supply / mNAV treatment. June 21 ryanchern reply adds another ProofMarkets/product-design datapoint: prediction markets need novel products that restore useful information surfaces beyond current category mix. June 22 quote added a light ProofMarkets ecosystem/partner signal via umia_finance/SURGECAST. Latest June 23 quote strengthens the ProofMarkets product-design trail with an actual conditional-futures Challenge market: SOL conditional on BTC up/down, framed as evidence that conditional futures can support experimental listed market types beyond event markets. Later June 23 replies add an Adjacent RED political-index feedback edge: he liked the index concept but wanted more volatility, saying ProofMarkets would love to list something like it as conditional indices develop. Latest June 23 evidence adds a concrete ProofMarkets/Solana tokenomics use case: he used a gated-MVP market to estimate Burn SIMD price impact and implementation odds, while caveating that failure would mainly matter as a signal on Solana's tokenomics direction. June 24 reply keeps ProofMarkets framed as an answer to the critique that current prediction markets are not practical hedging tools. Latest June 24 GRASS reply extends the same conditional-futures design pattern from ProofMarkets demos into tokenomics discovery: use a conditional market around whether Grass announces robust token value attribution, while disclosing he is a Grass fan. PreStocks/Kalshi post adds a private-market liquidity/execution layer: he likes the idea of pre-IPO secondary-style products, but criticized disappearing liquidity and inability to exit. June 25 follow-up adds an important ProofMarkets caveat: the SOL Burn SIMD market was a very illiquid gated-MVP/test market, useful only as directional information rather than a robust liquid pricing venue. June 25 adds another direct ProofMarkets MVP example via a BTC/STRC conditional market, plus a useful caveat/competitive filter: ProofMarkets is still MVP, Kalshi is better today, and Polymarket/UMA are viewed negatively. July 2 evidence adds three direct Proof/GRASS datapoints: he treated the ProofMarkets v0 challenge as a successful time-boxed feedback push, replied again to ryanchern that Proof is trying to change sports-heavy prediction-market volume, and defended GRASS token design against 0xCryptoSam after comparing alternatives. Latest July 3 reply adds crypto-card/account UX taste outside ProofMarkets: Altitude plus Solomon Labs integration would be compelling, but segmented earn/spend accounts are a product negative. July 6 BONK DAO reply adds a governance/process-risk edge: he highlighted that a controversial transfer proposal reportedly passed with only seven total voters, reinforcing attention to practical market/governance design failures rather than pure narrative. July 7 adds two source-close market-design datapoints: a ProofMarkets BTC/STRC conditional market that he said ended up close, and a MetaDAO reply naming adverse selection as the key near-term risk while acknowledging counterexamples. July 7 replies add two diligence/process edges: MetaDAO adverse-selection as a nuanced short-term risk and GRASS H1 actuals-versus-expectations as a check on forward revenue guidance. July 14 MetaDAO follow-up adds a balanced allocation-design view: guaranteed fund allocations can hurt his own entry while still benefiting founders and ecosystem progress. A separate Kalshi quote says rising US options activity reflects increasingly sophisticated retail participation and changing markets.",
     "likes": [
       {
@@ -1589,10 +1600,11 @@
       },
       {
         "theme": "Market evolution with mechanism-design tradeoffs",
-        "summary": "Said rising US options activity reflects increasingly sophisticated retail participation, and separately distinguished personal entry preference from founder/ecosystem benefit in MetaDAO: guaranteed fund allocations can make his own entry harder while still representing useful progress for founders and holder quality.",
+        "summary": "Said rising US options activity reflects increasingly sophisticated retail participation, and separately distinguished personal entry preference from founder/ecosystem benefit in MetaDAO: guaranteed fund allocations can make his own entry harder while still representing useful progress for founders and holder quality. A follow-up tied the mechanism to $LASO's actual post-launch structure: fully filled/unlocked participants reduce the natural open-market buyer pool until tokens settle.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2076848785083548068",
-          "https://x.com/airtightfish/status/2076856285216313593"
+          "https://x.com/airtightfish/status/2076856285216313593",
+          "https://x.com/airtightfish/status/2076868030156648483"
         ],
         "confidence": "medium-low"
       }
@@ -1726,11 +1738,13 @@
         "name": "MetaDAO / ownership coins",
         "handle": "MetaDAOProject",
         "stance": "analytical",
-        "summary": "Engaged via valuation-method critique, market-design risk, and allocation design: raw FDV looked wrong for ownership coins, adjusted supply/mNAV treatment mattered, and adverse selection looked like the biggest nuanced short-term risk. Latest follow-up says guaranteed fund allocations make his own entry harder but can still help founders and represent ecosystem progress. Treat as analytical with a constructive process lean rather than a directional token endorsement.",
+        "summary": "Engaged via valuation-method critique, market-design risk, and allocation design: raw FDV looked wrong for ownership coins, adjusted supply/mNAV treatment mattered, and adverse selection looked like the biggest nuanced short-term risk. July 14 follow-ups say guaranteed fund allocations can help founders despite making his own entry harder, then use $LASO to argue that fully filled/unlocked participants weaken the immediate open-market buyer base. Treat as analytical mechanism/outcome evidence rather than a directional token endorsement.",
         "evidence_urls": [
           "https://x.com/airtightfish/status/2068016988975145285",
           "https://x.com/airtightfish/status/2074522131338080694",
-          "https://x.com/airtightfish/status/2076848785083548068"
+          "https://x.com/airtightfish/status/2076848785083548068",
+          "https://x.com/airtightfish/status/2076868030156648483",
+          "https://x.com/airtightfish/status/2076874450239410639"
         ]
       },
       {
@@ -1846,7 +1860,7 @@
       "Track whether Altitude/Solomon Labs recurs for airtightfish or remains a one-off crypto-card UX comment.",
       "Track whether airtightfish returns to DAO-governance/process-risk failures or this remains a one-off BONK DAO context reply.",
       "Track whether airtightfish’s builder-risk ideology recurs outside the @worthOnRH meme context before treating it as a durable preference.",
-      "Track whether airtightfish's constructive view of MetaDAO guaranteed fund allocations persists when discussing actual launch outcomes, holder quality, or founder incentives."
+      "Track whether airtightfish's constructive view of MetaDAO guaranteed fund allocations persists after the $LASO launch's fully filled/unlocked supply and weak immediate buyer-base dynamics."
     ],
     "evidence_urls": [
       "https://x.com/airtightfish/status/2065567457536831796",
@@ -1893,7 +1907,9 @@
       "https://x.com/airtightfish/status/2074610011850903773",
       "https://x.com/airtightfish/status/2076722906038702472",
       "https://x.com/airtightfish/status/2076848785083548068",
-      "https://x.com/airtightfish/status/2076856285216313593"
+      "https://x.com/airtightfish/status/2076856285216313593",
+      "https://x.com/airtightfish/status/2076868030156648483",
+      "https://x.com/airtightfish/status/2076874450239410639"
     ]
   },
   {

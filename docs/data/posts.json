@@ -1,6 +1,48 @@
 [
   {
     "date": "2026-07-14",
+    "handle": "0xGeeGee",
+    "type": "quote/ai_coding_tool_zero_data_retention_filter",
+    "url": "https://x.com/0xGeeGee/status/2076909690731286795",
+    "summary": "Used a quoted Grok CLI privacy warning to argue that zero-data-retention policy, proprietary-code safety, and pricing now matter more commercially as frontier models become increasingly interchangeable; compared gaps around Fable, Grok, and Muse Spark without claiming the quoted upload allegation was independently verified.",
+    "entities": [
+      "zero data retention",
+      "Grok CLI",
+      "Fable",
+      "Muse Spark",
+      "proprietary code",
+      "AI data-safety policy"
+    ],
+    "why_logged": "A clear extension of 0xGeeGee's model-selection thesis from price/performance and switching costs into enterprise data-safety requirements, with the quoted allegation explicitly kept unverified.",
+    "confidence": "high",
+    "related_urls": [
+      "https://x.com/GergelyOrosz/status/2076728680236138572"
+    ]
+  },
+  {
+    "date": "2026-07-14",
+    "handle": "airtightfish",
+    "type": "reply/laso_post_launch_buyer_structure",
+    "url": "https://x.com/airtightfish/status/2076868030156648483",
+    "summary": "Explained why disappointed $LASO allocation participants might not buy near the same price on the open market: fully filled lower and already unlocked participants remove a natural buyer cohort, leaving a weak short-term setup until tokens settle.",
+    "entities": [
+      "$LASO",
+      "MetaDAO",
+      "token allocations",
+      "unlocked supply",
+      "open-market buyers",
+      "post-launch market structure"
+    ],
+    "why_logged": "Source-close continuation of airtightfish's MetaDAO allocation-design evidence, now tied to an actual launch outcome and post-launch buyer/supply mechanics rather than only founder incentives.",
+    "confidence": "high",
+    "related_urls": [
+      "https://x.com/huntermmonk/status/2076863264441659438",
+      "https://x.com/airtightfish/status/2076874450239410639",
+      "https://x.com/huntermmonk/status/2075788908328312946"
+    ]
+  },
+  {
+    "date": "2026-07-14",
     "handle": "airtightfish",
     "type": "quote/retail_options_sophistication",
     "url": "https://x.com/airtightfish/status/2076856285216313593",

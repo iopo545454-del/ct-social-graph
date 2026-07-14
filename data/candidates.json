@@ -3,11 +3,26 @@
     "handle": "huntermmonk",
     "kind": "individual",
     "status": "candidate",
-    "source": "airtightfish MetaDAO founder-accountability and allocation-design replies",
-    "reason": "airtightfish engaged huntermmonk in a substantive MetaDAO discussion about market feedback, holder quality, and guaranteed fund allocations, ultimately distinguishing his own entry disadvantage from benefits to founders and ecosystem progress. One conversation cluster only, so keep as a low-confidence candidate rather than Tier 2.",
+    "source": "airtightfish MetaDAO/$LASO founder-accountability, allocation-design, and post-launch market-structure replies",
+    "reason": "airtightfish engaged huntermmonk in a substantive MetaDAO/$LASO discussion about market feedback, holder quality, guaranteed fund allocations, and why fully filled/unlocked participants may not become open-market buyers. The additional replies deepen one continuous conversation cluster rather than establish repeated independent attention, so keep as a low-confidence candidate rather than Tier 2.",
     "evidence_urls": [
       "https://x.com/airtightfish/status/2076840318562123825",
-      "https://x.com/airtightfish/status/2076848785083548068"
+      "https://x.com/airtightfish/status/2076848785083548068",
+      "https://x.com/airtightfish/status/2076868030156648483",
+      "https://x.com/airtightfish/status/2076874450239410639"
+    ],
+    "first_seen": "2026-07-14",
+    "confidence": "low"
+  },
+  {
+    "handle": "GergelyOrosz",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "0xGeeGee quote on Grok CLI privacy and zero-data-retention policy",
+    "reason": "0xGeeGee used Gergely Orosz's privacy warning as the source for a substantive commercial argument about zero-data-retention options and proprietary-code safety in AI coding tools. One quote/attention edge only, and the underlying upload allegations remain unverified, so keep as a low-confidence candidate rather than Tier 2.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2076909690731286795",
+      "https://x.com/GergelyOrosz/status/2076728680236138572"
     ],
     "first_seen": "2026-07-14",
     "confidence": "low"
