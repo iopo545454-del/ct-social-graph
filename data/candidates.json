@@ -1,5 +1,18 @@
 [
   {
+    "handle": "huntermmonk",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "airtightfish MetaDAO founder-accountability and allocation-design replies",
+    "reason": "airtightfish engaged huntermmonk in a substantive MetaDAO discussion about market feedback, holder quality, and guaranteed fund allocations, ultimately distinguishing his own entry disadvantage from benefits to founders and ecosystem progress. One conversation cluster only, so keep as a low-confidence candidate rather than Tier 2.",
+    "evidence_urls": [
+      "https://x.com/airtightfish/status/2076840318562123825",
+      "https://x.com/airtightfish/status/2076848785083548068"
+    ],
+    "first_seen": "2026-07-14",
+    "confidence": "low"
+  },
+  {
     "handle": "NOXA (DeBank Chain deployment)",
     "kind": "project",
     "status": "candidate",

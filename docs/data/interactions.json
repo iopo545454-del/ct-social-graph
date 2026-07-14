@@ -1,5 +1,19 @@
 [
   {
+    "from": "airtightfish",
+    "to": "huntermmonk",
+    "to_kind": "individual",
+    "type": "reply/metadao_guaranteed_allocation_tradeoff",
+    "date": "2026-07-14",
+    "url": "https://x.com/airtightfish/status/2076848785083548068",
+    "summary": "Agreed that thoughtful holders can improve a project, then separated personal entry preference from mechanism design: he dislikes guaranteed fund allocations because they make his own entry harder, but recognizes that they can help founders and move the MetaDAO ecosystem in a better direction.",
+    "quality": "medium",
+    "created_tier2_candidate": true,
+    "related_urls": [
+      "https://x.com/airtightfish/status/2076840318562123825"
+    ]
+  },
+  {
     "from": "0xGeeGee",
     "to": "hhawk",
     "to_kind": "individual",

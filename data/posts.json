@@ -1,5 +1,35 @@
 [
   {
+    "date": "2026-07-14",
+    "handle": "airtightfish",
+    "type": "quote/retail_options_sophistication",
+    "url": "https://x.com/airtightfish/status/2076856285216313593",
+    "summary": "Quoted Kalshi's note that US options activity had reached a new high and argued that retail participants are becoming more sophisticated as markets change.",
+    "entities": [
+      "Kalshi",
+      "retail options activity",
+      "retail sophistication",
+      "market structure"
+    ],
+    "why_logged": "A concise, source-close market-structure update that broadens airtightfish's retail-market view beyond prediction-market product design; it does not by itself establish a Kalshi endorsement.",
+    "confidence": "medium-low"
+  },
+  {
+    "date": "2026-07-14",
+    "handle": "airtightfish",
+    "type": "reply/metadao_guaranteed_allocation_tradeoff",
+    "url": "https://x.com/airtightfish/status/2076848785083548068",
+    "summary": "In a MetaDAO/founder-accountability thread, agreed on the value of thoughtful holders and said that although guaranteed fund allocations make his own entry harder, he recognizes they are good for founders and represent progress for the ecosystem.",
+    "entities": [
+      "MetaDAO",
+      "guaranteed fund allocations",
+      "founder financing",
+      "holder quality"
+    ],
+    "why_logged": "Adds a nuanced mechanism-design observation to airtightfish's existing MetaDAO evidence: personal allocation preference and founder/ecosystem benefit are not treated as the same question.",
+    "confidence": "medium"
+  },
+  {
     "date": "2026-07-13",
     "handle": "airtightfish",
     "type": "reply/builder_risk_taking_ideology",
