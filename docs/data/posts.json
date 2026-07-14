@@ -2,6 +2,47 @@
   {
     "date": "2026-07-14",
     "handle": "MoneyPrinter0x",
+    "type": "authored_post/warsh_playbook_cpi_jobs_and_distributed_breadth",
+    "url": "https://x.com/MoneyPrinter0x/status/2077009197729042458",
+    "summary": "Said the second phase of his Warsh playbook was active, linking cool CPI and weak jobs to falling rate-hike expectations and an expected Fed pivot toward trend language; a nearby post said sidelined capital was returning across more sectors rather than repeating April-June's SOX-concentrated rally.",
+    "entities": [
+      "Kevin Warsh",
+      "Federal Reserve",
+      "CPI",
+      "jobs data",
+      "rate-hike expectations",
+      "sector breadth",
+      "SOX"
+    ],
+    "why_logged": "A dated macro-confirmation and market-breadth update to MoneyPrinter0x’s existing Warsh/process framework; it joins the causal data view and the resulting tape read without archiving every short follow-up.",
+    "confidence": "high",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2077010928873373758",
+      "https://x.com/MoneyPrinter0x/status/2077011336748572979"
+    ]
+  },
+  {
+    "date": "2026-07-14",
+    "handle": "MoneyPrinter0x",
+    "type": "self_quote/warsh_pro_crypto_fed_catalyst",
+    "url": "https://x.com/MoneyPrinter0x/status/2077046153032671305",
+    "summary": "Interpreted Warsh's testimony as evidence of a strongly pro-crypto stance under pressure and argued that a steadily pro-crypto Fed chair would be an additional catalyst not previously included in crypto expected value.",
+    "entities": [
+      "Kevin Warsh",
+      "Federal Reserve",
+      "crypto policy",
+      "Fed chair",
+      "crypto expected value"
+    ],
+    "why_logged": "A clear policy/catalyst update to MoneyPrinter0x's macro framework. The record preserves his interpretation of the testimony rather than treating the characterization as independently verified fact.",
+    "confidence": "medium-high",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2077044148138627464"
+    ]
+  },
+  {
+    "date": "2026-07-14",
+    "handle": "MoneyPrinter0x",
     "type": "quote/blockchain_application_layer_shift",
     "url": "https://x.com/MoneyPrinter0x/status/2076945548565954720",
     "summary": "Quoted Brian Chesky's ownership-friction framing and argued that crypto/blockchains should now be treated as underlying infrastructure whose core layer is largely built, with the next innovation cycle moving to applications and application infrastructure.",

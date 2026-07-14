@@ -1,6 +1,20 @@
 [
   {
     "from": "MoneyPrinter0x",
+    "to": "Shoulder_Brah",
+    "to_kind": "individual",
+    "type": "reply/cpi_jobs_rate_expectations_and_warsh_trend_talk",
+    "date": "2026-07-14",
+    "url": "https://x.com/MoneyPrinter0x/status/2077010928873373758",
+    "summary": "Replied to a CPI reaction by connecting cool CPI and weak jobs to falling rate-hike expectations and an expected Warsh/Fed shift toward discussing the trend rather than a single print.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/Shoulder_Brah/status/2077008127552106625"
+    ]
+  },
+  {
+    "from": "MoneyPrinter0x",
     "to": "bchesky",
     "to_kind": "individual",
     "type": "quote/crypto_application_layer_shift",
