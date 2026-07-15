@@ -1,5 +1,49 @@
 [
   {
+    "from": "MoneyPrinter0x",
+    "to": "MarcusRaederApe",
+    "to_kind": "individual",
+    "type": "reply/soxl_call_cancellation_and_invalidation_transparency",
+    "date": "2026-07-14",
+    "url": "https://x.com/MoneyPrinter0x/status/2077098348998426824",
+    "summary": "Replied to criticism of a deleted SOXL call by giving the cancellation timing and approximate adverse move, making the quick invalidation explicit.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/MarcusRaederApe/status/2077049445183615211"
+    ]
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "Finch_in_flight",
+    "to_kind": "individual",
+    "type": "reply/ai_provider_transparency_and_corporate_culture",
+    "date": "2026-07-14",
+    "url": "https://x.com/0xGeeGee/status/2077026043341471972",
+    "summary": "Continued a proprietary-code safety thread by agreeing corporate culture matters and expressing a preference for providers that disclose their risks over those relying on ethical branding.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/Finch_in_flight/status/2077007287709774132",
+      "https://x.com/0xGeeGee/status/2076909690731286795"
+    ]
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "Finch_in_flight",
+    "to_kind": "individual",
+    "type": "reply/ip_conduct_vs_data_retention_risk",
+    "date": "2026-07-14",
+    "url": "https://x.com/0xGeeGee/status/2077006654600839216",
+    "summary": "Separated an OpenAI/Apple IP allegation raised by the counterparty from the zero-data-retention and proprietary-code risk in his original post.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/Finch_in_flight/status/2076987133500264876",
+      "https://x.com/0xGeeGee/status/2076909690731286795"
+    ]
+  },
+  {
     "from": "0xGeeGee",
     "to": "WazzCrypto",
     "to_kind": "individual",

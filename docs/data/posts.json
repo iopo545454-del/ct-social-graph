@@ -1,6 +1,62 @@
 [
   {
     "date": "2026-07-14",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/soxl_call_cancelled_on_fast_invalidation",
+    "url": "https://x.com/MoneyPrinter0x/status/2077098348998426824",
+    "summary": "Responded to criticism about a deleted SOXL call by saying he cancelled it within roughly two minutes after the position moved about 1% against him, from around 179 to 177.3.",
+    "entities": [
+      "SOXL",
+      "semiconductors",
+      "trade invalidation",
+      "risk management"
+    ],
+    "why_logged": "Concrete public execution evidence: a fast invalidation and cancellation rather than defending or silently leaving a stale trade call visible.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MarcusRaederApe/status/2077049445183615211"
+    ]
+  },
+  {
+    "date": "2026-07-14",
+    "handle": "0xGeeGee",
+    "type": "reply/transparent_data_risk_vs_ethical_branding",
+    "url": "https://x.com/0xGeeGee/status/2077026043341471972",
+    "summary": "Agreed that alleged IP behavior can reflect corporate culture, then said he prefers a provider that is open about its risks to one presenting as ethical while acting otherwise.",
+    "entities": [
+      "OpenAI",
+      "AI provider trust",
+      "corporate culture",
+      "data safety"
+    ],
+    "why_logged": "Extends GeeGee’s zero-data-retention post into a vendor-credibility filter: disclosure and transparency matter alongside model capability and formal policy.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/Finch_in_flight/status/2077007287709774132",
+      "https://x.com/0xGeeGee/status/2076909690731286795"
+    ]
+  },
+  {
+    "date": "2026-07-14",
+    "handle": "0xGeeGee",
+    "type": "reply/ip_allegation_vs_data_retention_risk_distinction",
+    "url": "https://x.com/0xGeeGee/status/2077006654600839216",
+    "summary": "Distinguished an allegation about OpenAI and Apple IP from the proprietary-code data-retention risk discussed in his root post, calling it a different type of problem.",
+    "entities": [
+      "OpenAI",
+      "Apple IP",
+      "zero data retention",
+      "proprietary code"
+    ],
+    "why_logged": "Useful source-close nuance: GeeGee separates IP/corporate-conduct concerns from product-level retention safeguards rather than collapsing them into one trust claim.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/Finch_in_flight/status/2076987133500264876",
+      "https://x.com/0xGeeGee/status/2076909690731286795"
+    ]
+  },
+  {
+    "date": "2026-07-14",
     "handle": "0xGeeGee",
     "type": "reply/usdt_vs_usde_collateral_liquidity_comparison",
     "url": "https://x.com/0xGeeGee/status/2077165720379740383",
