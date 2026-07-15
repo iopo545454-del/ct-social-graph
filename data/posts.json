@@ -1,5 +1,25 @@
 [
   {
+    "date": "2026-07-15",
+    "handle": "0xGeeGee",
+    "type": "reply/fable_sol_complementary_strengths_usage_and_autonomy",
+    "url": "https://x.com/0xGeeGee/status/2077285859326623999",
+    "summary": "In fresh hands-on Fable-versus-Sol replies, said he tends to prefer Sol but sees the models as complementary rather than far apart; Sol feels much less usage-constrained, while Fable is more autonomous even through unusual tasks, which he views as useful in some cases and a downside in others.",
+    "entities": [
+      "Fable",
+      "Sol",
+      "AI model workflow",
+      "usage limits",
+      "model autonomy",
+      "safety guardrails"
+    ],
+    "why_logged": "Adds a concrete usability/autonomy update to GeeGee’s repeated first-hand Fable/Sol comparison without treating subjective model preference as a broad capability benchmark.",
+    "confidence": "high",
+    "related_urls": [
+      "https://x.com/0xGeeGee/status/2077287066057216187"
+    ]
+  },
+  {
     "date": "2026-07-14",
     "handle": "MoneyPrinter0x",
     "type": "reply/soxl_call_cancelled_on_fast_invalidation",
