@@ -1,6 +1,39 @@
 [
   {
     "date": "2026-07-14",
+    "handle": "0xGeeGee",
+    "type": "reply/usdt_vs_usde_collateral_liquidity_comparison",
+    "url": "https://x.com/0xGeeGee/status/2077165720379740383",
+    "summary": "In response to a post noting that only about 1% of Ethena’s strategy was allocated to the crypto basis trade, said USDT now ironically has less liquid collateral than USDe. This records GeeGee’s comparative stablecoin-risk read; the collateral claim was not independently verified in this scan.",
+    "entities": [
+      "USDT",
+      "USDe",
+      "Ethena",
+      "stablecoin collateral",
+      "basis trade"
+    ],
+    "why_logged": "A source-close extension of GeeGee’s existing structured-DeFi and Ethena diligence: he is comparing collateral liquidity rather than relying on protocol labels or headline strategy descriptions.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/WazzCrypto/status/2077067383508754868"
+    ]
+  },
+  {
+    "date": "2026-07-14",
+    "handle": "0xGeeGee",
+    "type": "authored_post/defi_token_rally_and_ct_visibility",
+    "url": "https://x.com/0xGeeGee/status/2077156674209726485",
+    "summary": "Observed that many DeFi tokens had risen 50% or more over the prior month and linked the timing to X restoring better Crypto Twitter content visibility.",
+    "entities": [
+      "DeFi tokens",
+      "Crypto Twitter",
+      "X recommendation visibility"
+    ],
+    "why_logged": "A concise dated marker of broad DeFi-token momentum and the account’s view that improved social-content distribution arrived alongside the move; logged as market context, not a project endorsement.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-14",
     "handle": "MoneyPrinter0x",
     "type": "authored_post/warsh_playbook_cpi_jobs_and_distributed_breadth",
     "url": "https://x.com/MoneyPrinter0x/status/2077009197729042458",

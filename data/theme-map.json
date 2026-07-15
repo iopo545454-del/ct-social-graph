@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-07-14",
-  "profile_updated_at": "2026-07-14T16:21:15Z",
+  "profile_updated_at": "2026-07-15T01:35:21Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -963,9 +963,10 @@
         "senior capital distribution",
         "InfiniFi/STRC exposure concerns",
         "Ethena / ENA / USDe",
-        "Ethena transparency dashboard"
+        "Ethena transparency dashboard",
+        "USDT vs USDe collateral liquidity"
       ],
-      "summary": "GeeGee replies explicitly respect Tiza’s DeFi/yield work while distinguishing conservative stable-farm risk from selected 20-30% APY opportunities. Latest Pendle/yield-bearing-product comment refines the same filter: high yields may be risk compensation rather than “stablecoin” yield, and the problem is misrepresentation or users not analyzing structure. New adjacent GeeGee evidence analyzed InfiniFi/STRC via collateral haircuts, junior tranche absorption, and locked-capital mechanics; this is structured-risk analysis rather than a yield endorsement. Latest 0xGeeGee InfiniFi replies extend the risk-adjusted DeFi lens from yield products into structured-credit capital stacks: junior/senior tranche compensation and rebalancing matter more than headline yield/haircut alone. June 25 0xGeeGee reply extends this bucket into Yearn yvUSD distribution mechanics: current distribution may leave senior capital unexposed, but caution remains warranted when vault wrappers can touch InfiniFi/STRC-style risks. Latest GeeGee reply adds a source-quality/process note around Ethena/ENA: he agreed with a correction thread emphasizing public transparency-dashboard use and called out paid-thread/slop incentives, so keep it as DeFi diligence/credibility evidence rather than an Ethena token stance.",
+      "summary": "GeeGee replies explicitly respect Tiza’s DeFi/yield work while distinguishing conservative stable-farm risk from selected 20-30% APY opportunities. Latest Pendle/yield-bearing-product comment refines the same filter: high yields may be risk compensation rather than “stablecoin” yield, and the problem is misrepresentation or users not analyzing structure. New adjacent GeeGee evidence analyzed InfiniFi/STRC via collateral haircuts, junior tranche absorption, and locked-capital mechanics; this is structured-risk analysis rather than a yield endorsement. Latest 0xGeeGee InfiniFi replies extend the risk-adjusted DeFi lens from yield products into structured-credit capital stacks: junior/senior tranche compensation and rebalancing matter more than headline yield/haircut alone. June 25 0xGeeGee reply extends this bucket into Yearn yvUSD distribution mechanics: current distribution may leave senior capital unexposed, but caution remains warranted when vault wrappers can touch InfiniFi/STRC-style risks. Latest GeeGee reply adds a source-quality/process note around Ethena/ENA: he agreed with a correction thread emphasizing public transparency-dashboard use and called out paid-thread/slop incentives, so keep it as DeFi diligence/credibility evidence rather than an Ethena token stance. July 14 GeeGee evidence adds a direct stablecoin collateral-liquidity comparison: in response to a post saying Ethena had only about 1% of strategy allocation in crypto basis trades, he said USDT now had less liquid collateral than USDe. Store this as his analytical risk read, not an independently verified collateral fact or an ENA endorsement.",
       "evidence_urls": [
         "https://x.com/0xGeeGee/status/2066154504417054981",
         "https://x.com/0xGeeGee/status/2066747956045435324",
@@ -973,7 +974,8 @@
         "https://x.com/0xGeeGee/status/2067879097376625129",
         "https://x.com/0xGeeGee/status/2067910420296274243",
         "https://x.com/0xGeeGee/status/2070037247085170699",
-        "https://x.com/0xGeeGee/status/2073578581632926160"
+        "https://x.com/0xGeeGee/status/2073578581632926160",
+        "https://x.com/0xGeeGee/status/2077165720379740383"
       ],
       "momentum": "emerging",
       "confidence": "medium"
@@ -1677,6 +1679,7 @@
     "Track whether MoneyPrinter0x's DeFi-runway/crypto-code-quality filter recurs beyond the July 5 reply.",
     "Watch whether Robinhood-driven onchain/meme flow becomes a durable Hyperliquid/equity-perps infrastructure tailwind or remains a one-day meme-liquidity burst.",
     "Watch whether MoneyPrinter0x’s July 9 new-chain launch-window euphoria resolves into concrete Robinhood-chain/project evidence or fades after distribution issues.",
-    "Does MoneyPrinter0x keep treating Warsh's pro-crypto stance as a persistent crypto-policy input after the testimony-day reaction?"
+    "Does MoneyPrinter0x keep treating Warsh's pro-crypto stance as a persistent crypto-policy input after the testimony-day reaction?",
+    "Verify future USDT-versus-USDe collateral-liquidity comparisons against current issuer disclosures before treating the July 14 GeeGee observation as an established fact."
   ]
 }

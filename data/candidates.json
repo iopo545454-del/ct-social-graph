@@ -1,5 +1,18 @@
 [
   {
+    "handle": "WazzCrypto",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "0xGeeGee reply on Ethena strategy allocation and USDT-versus-USDe collateral liquidity",
+    "reason": "0xGeeGee made a substantive stablecoin collateral-quality comparison in reply to WazzCrypto’s Ethena strategy-allocation post. One interaction edge only and the collateral comparison was not independently verified, so keep as a low-confidence candidate rather than Tier 2.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2077165720379740383",
+      "https://x.com/WazzCrypto/status/2077067383508754868"
+    ],
+    "first_seen": "2026-07-14",
+    "confidence": "low"
+  },
+  {
     "handle": "bchesky",
     "kind": "individual",
     "status": "candidate",

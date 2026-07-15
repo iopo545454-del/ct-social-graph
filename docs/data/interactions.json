@@ -1,5 +1,19 @@
 [
   {
+    "from": "0xGeeGee",
+    "to": "WazzCrypto",
+    "to_kind": "individual",
+    "type": "reply/usdt_vs_usde_collateral_liquidity_comparison",
+    "date": "2026-07-14",
+    "url": "https://x.com/0xGeeGee/status/2077165720379740383",
+    "summary": "Replied to WazzCrypto’s Ethena strategy-allocation post by arguing that USDT now has less liquid collateral than USDe; useful stablecoin collateral-quality and structured-DeFi diligence, though the comparative claim was not independently verified in this scan.",
+    "quality": "medium",
+    "created_tier2_candidate": true,
+    "related_urls": [
+      "https://x.com/WazzCrypto/status/2077067383508754868"
+    ]
+  },
+  {
     "from": "MoneyPrinter0x",
     "to": "Shoulder_Brah",
     "to_kind": "individual",
