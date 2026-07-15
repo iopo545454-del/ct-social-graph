@@ -1,6 +1,35 @@
 [
   {
     "from": "MoneyPrinter0x",
+    "to": "KobeissiLetter",
+    "to_kind": "individual",
+    "type": "quote/equity_breadth_deconcentration",
+    "date": "2026-07-15",
+    "url": "https://x.com/MoneyPrinter0x/status/2077463199365099659",
+    "summary": "Quoted Kobeissi Letter's record S&P 500 breadth-on-down-days post and interpreted it as sector deconcentration after the April-June hyperconcentrated rally; the numerical breadth claims belong to the quoted source.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/KobeissiLetter/status/2077461521609928735"
+    ]
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "0xNairolf",
+    "to_kind": "individual",
+    "type": "reply/premia_options_protocol_timing",
+    "date": "2026-07-15",
+    "url": "https://x.com/MoneyPrinter0x/status/2077440014708068791",
+    "summary": "Responded to Premia as an earlier onchain-options attempt by saying it was too early for its time, comparing the timing problem with prediction markets tried more than three years earlier.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/0xNairolf/status/2077388651424628897",
+      "https://x.com/MoneyPrinter0x/status/2077387454701871504"
+    ]
+  },
+  {
+    "from": "MoneyPrinter0x",
     "to": "sirceen",
     "to_kind": "individual",
     "type": "reply/crcl_call_expiry_clarification",

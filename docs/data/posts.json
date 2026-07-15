@@ -1,6 +1,98 @@
 [
   {
     "date": "2026-07-15",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/cashcat_conditional_derisk_and_twap_reposition",
+    "url": "https://x.com/MoneyPrinter0x/status/2077478725650989225",
+    "summary": "Said he had round-tripped hard on CASHCAT and would derisk if strength did not return within 24-36 hours, then consider repositioning through a longer-term TWAP to reduce downside and react better to market changes.",
+    "entities": [
+      "CASHCAT",
+      "Robinhood Chain",
+      "derisking",
+      "TWAP",
+      "market strength"
+    ],
+    "why_logged": "A source-close risk-management update that materially tempers the earlier Robinhood-chain meme/liquidity thesis.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-07-15",
+    "handle": "MoneyPrinter0x",
+    "type": "self_reply/crcl_tactical_charter_and_crypto_strength_rationale",
+    "url": "https://x.com/MoneyPrinter0x/status/2077477933435019729",
+    "summary": "Clarified that the CRCL bid was not based on the stablecoin-issuer yield mechanics in the preceding post; he framed it instead as a tactical proxy on a greater-than-50% decline before a national-bank-charter event plus improving crypto strength, while saying markets trade narratives rather than understood mechanics.",
+    "entities": [
+      "Circle",
+      "CRCL",
+      "stablecoins",
+      "national bank charter",
+      "crypto strength",
+      "narrative trading"
+    ],
+    "why_logged": "Separates the stated CRCL trade catalyst from his fundamental critique of stablecoin issuer economics.",
+    "confidence": "high",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2077476656193909232",
+      "https://x.com/MoneyPrinter0x/status/2077397341964059055"
+    ]
+  },
+  {
+    "date": "2026-07-15",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/stablecoin_issuer_treasury_yield_capture",
+    "url": "https://x.com/MoneyPrinter0x/status/2077476656193909232",
+    "summary": "Argued that stablecoin users act as proxy Treasury buyers without receiving the yield, while issuers retain bond yield after costs and revenue sharing; he then characterized issuer equities as expensive, fee-diluted Treasury exposure. This is the author's economic framing, not an independently verified valuation claim.",
+    "entities": [
+      "stablecoins",
+      "Treasury bonds",
+      "stablecoin issuers",
+      "Coinbase revenue share",
+      "issuer equities"
+    ],
+    "why_logged": "A clear application-layer economics critique that adds context to, but is explicitly separate from, the live CRCL calls trade.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-07-15",
+    "handle": "MoneyPrinter0x",
+    "type": "quote/sp500_breadth_as_sector_deconcentration",
+    "url": "https://x.com/MoneyPrinter0x/status/2077463199365099659",
+    "summary": "Quoted Kobeissi Letter's claim that recent S&P 500 down days had unusually strong internal breadth and interpreted the pattern as deconcentration of the April-June hyperconcentrated rally across sectors. The numerical breadth statistics originate with the quoted source.",
+    "entities": [
+      "S&P 500",
+      "market breadth",
+      "sector rotation",
+      "April-June rally",
+      "Kobeissi Letter"
+    ],
+    "why_logged": "Direct follow-through on MoneyPrinter0x’s prior distributed-sector-breadth and AI-to-fintech/crypto rotation framing.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/KobeissiLetter/status/2077461521609928735"
+    ]
+  },
+  {
+    "date": "2026-07-15",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/premia_was_early_for_onchain_options",
+    "url": "https://x.com/MoneyPrinter0x/status/2077440014708068791",
+    "summary": "Acknowledged Premia as an earlier onchain-options attempt but said it was too early for its time, comparing the timing problem with prediction markets launched more than three years earlier.",
+    "entities": [
+      "Premia",
+      "onchain options",
+      "options AMM",
+      "prediction markets",
+      "market timing"
+    ],
+    "why_logged": "Adds a named historical protocol and timing qualifier to the same-day open question about a 2026 options AMM.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/0xNairolf/status/2077388651424628897",
+      "https://x.com/MoneyPrinter0x/status/2077387454701871504"
+    ]
+  },
+  {
+    "date": "2026-07-15",
     "handle": "0xGeeGee",
     "type": "quote/ai_yield_maxxing_and_transferable_efficiency_concepts",
     "url": "https://x.com/0xGeeGee/status/2077401381212918127",
