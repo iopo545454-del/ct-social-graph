@@ -1,5 +1,18 @@
 [
   {
+    "handle": "chaoslabs",
+    "kind": "project",
+    "status": "candidate",
+    "source": "0xGeeGee quote on AI information yield per token and transferable workflow concepts",
+    "reason": "0xGeeGee quoted Chaos Labs' substantive AI workflow-efficiency post and endorsed its concepts as transferable. One quote edge, with an apparent professional affiliation, so keep as a low-confidence candidate rather than Tier 2.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2077401381212918127",
+      "https://x.com/chaoslabs/status/2077393087580512297"
+    ],
+    "first_seen": "2026-07-15",
+    "confidence": "low"
+  },
+  {
     "handle": "WazzCrypto",
     "kind": "individual",
     "status": "candidate",

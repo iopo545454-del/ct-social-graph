@@ -1,6 +1,64 @@
 [
   {
     "from": "MoneyPrinter0x",
+    "to": "sirceen",
+    "to_kind": "individual",
+    "type": "reply/crcl_call_expiry_clarification",
+    "date": "2026-07-15",
+    "url": "https://x.com/MoneyPrinter0x/status/2077404629554638964",
+    "summary": "Clarified that the CRCL calls used for the stablecoin-rotation trade currently expire in mid-to-late October, adding missing contract-horizon context to the stated 65-66 underlying entry and 63 stop.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2077397341964059055",
+      "https://x.com/MoneyPrinter0x/status/2077394642258297135"
+    ]
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "chaoslabs",
+    "to_kind": "project",
+    "type": "quote/ai_information_yield_per_token_transferability",
+    "date": "2026-07-15",
+    "url": "https://x.com/0xGeeGee/status/2077401381212918127",
+    "summary": "Quoted Chaos Labs' yield-maxxing-over-tokenmaxxing post and endorsed its terminology and base concepts as transferable; the underlying diminishing-returns claim belongs to the quoted source.",
+    "quality": "medium",
+    "created_tier2_candidate": true,
+    "related_urls": [
+      "https://x.com/chaoslabs/status/2077393087580512297"
+    ]
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "RobinhoodApp",
+    "to_kind": "project",
+    "type": "quote/stock_token_rwa_embedding_as_defi_cycle_signal",
+    "date": "2026-07-15",
+    "url": "https://x.com/MoneyPrinter0x/status/2077361457482907908",
+    "summary": "Interpreted Vlad Tenev's builder outreach for embedded stock tokens and RWAs as a return-of-DeFi-cycle signal, extending repeated Robinhood distribution attention into application integrations.",
+    "quality": "medium-high",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/vladtenev/status/2077266840477479424"
+    ]
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "thedefivillain",
+    "to_kind": "individual",
+    "type": "reply/cxmt_potential_buy_not_short_after_overshoot",
+    "date": "2026-07-15",
+    "url": "https://x.com/0xGeeGee/status/2077340508834402330",
+    "summary": "Answered a short-or-buy clarification by saying he was waiting for a potential CXMT buy and had recently seen Hyperliquid overshoot; useful entry-direction context, though the venue relationship is not explained in the visible thread.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/thedefivillain/status/2077339471154913597",
+      "https://x.com/0xGeeGee/status/2077271667525800306"
+    ]
+  },
+  {
+    "from": "MoneyPrinter0x",
     "to": "MarcusRaederApe",
     "to_kind": "individual",
     "type": "reply/soxl_call_cancellation_and_invalidation_transparency",
