@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-14T18:56:17Z",
+  "last_checked": "2026-07-15T19:02:32Z",
   "new_count": 1,
   "sources": [
     {
@@ -33,7 +33,7 @@
           "published": null
         },
         {
-          "title": "TradFi doesn\u2019t want DeFi. It wants blockchain.",
+          "title": "TradFi doesn\u2019t want DeFi. It wants blockchains.",
           "url": "https://a16zcrypto.com/posts/article/tradfi-doesnt-want-defi-it-wants-blockchain",
           "published": null
         },
@@ -63,7 +63,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-14T18:56:14Z"
+      "checked_at": "2026-07-15T19:02:29Z"
     },
     {
       "name": "Multicoin Capital",
@@ -138,7 +138,7 @@
           "published": "Thu, 02 Oct 2025 00:00:00 GMT"
         }
       ],
-      "checked_at": "2026-07-14T18:56:14Z"
+      "checked_at": "2026-07-15T19:02:29Z"
     },
     {
       "name": "Pantera Blockchain Letter",
@@ -203,7 +203,7 @@
           "published": "Mon, 30 Jun 2025 14:48:37 +0000"
         }
       ],
-      "checked_at": "2026-07-14T18:56:14Z"
+      "checked_at": "2026-07-15T19:02:30Z"
     },
     {
       "name": "Paradigm",
@@ -276,7 +276,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-14T18:56:15Z"
+      "checked_at": "2026-07-15T19:02:30Z"
     },
     {
       "name": "Glassnode Research",
@@ -316,6 +316,11 @@
           "published": "Wed, 20 May 2026 10:00:00 GMT"
         },
         {
+          "title": "Green Shoots",
+          "url": "https://research.glassnode.com/the-week-onchain-week-28-2026",
+          "published": "Wed, 15 Jul 2026 16:13:58 GMT"
+        },
+        {
           "title": "BTC Market Pulse: Week 29",
           "url": "https://research.glassnode.com/btc-market-pulse-week-29-2026",
           "published": "Mon, 13 Jul 2026 09:04:20 GMT"
@@ -344,14 +349,9 @@
           "title": "Diversification Beyond Digital Assets",
           "url": "https://research.glassnode.com/diversification-beyond-crypto",
           "published": "Mon, 29 Jun 2026 10:51:01 GMT"
-        },
-        {
-          "title": "Strategy Watch #5",
-          "url": "https://research.glassnode.com/strategy-watch-05-2026",
-          "published": "Fri, 26 Jun 2026 08:54:57 GMT"
         }
       ],
-      "checked_at": "2026-07-14T18:56:15Z"
+      "checked_at": "2026-07-15T19:02:30Z"
     },
     {
       "name": "Delphi Digital",
@@ -374,7 +374,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-14T18:56:15Z"
+      "checked_at": "2026-07-15T19:02:30Z"
     },
     {
       "name": "Electric Capital",
@@ -386,7 +386,7 @@
       "error": null,
       "feed_urls": [],
       "items": [],
-      "checked_at": "2026-07-14T18:56:16Z"
+      "checked_at": "2026-07-15T19:02:31Z"
     },
     {
       "name": "Bankless",
@@ -459,7 +459,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-14T18:56:16Z"
+      "checked_at": "2026-07-15T19:02:31Z"
     },
     {
       "name": "Token Terminal",
@@ -532,7 +532,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-14T18:56:17Z"
+      "checked_at": "2026-07-15T19:02:32Z"
     }
   ],
   "articles": [
@@ -580,7 +580,7 @@
       "id": "95c51ef1759d",
       "source": "a16z crypto",
       "tier": 1,
-      "title": "TradFi doesn\u2019t want DeFi. It wants blockchain.",
+      "title": "TradFi doesn\u2019t want DeFi. It wants blockchains.",
       "url": "https://a16zcrypto.com/posts/article/tradfi-doesnt-want-defi-it-wants-blockchain",
       "published": null,
       "first_seen": "2026-07-14T12:11:11Z",
@@ -1027,6 +1027,16 @@
       "source_url": "https://research.glassnode.com/"
     },
     {
+      "id": "e97c2eb8df93",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "Green Shoots",
+      "url": "https://research.glassnode.com/the-week-onchain-week-28-2026",
+      "published": "Wed, 15 Jul 2026 16:13:58 GMT",
+      "first_seen": "2026-07-15T19:02:32Z",
+      "source_url": "https://research.glassnode.com/"
+    },
+    {
       "id": "b53f2593635e",
       "source": "Glassnode Research",
       "tier": 1,
@@ -1084,16 +1094,6 @@
       "url": "https://research.glassnode.com/diversification-beyond-crypto",
       "published": "Mon, 29 Jun 2026 10:51:01 GMT",
       "first_seen": "2026-06-29T11:19:52Z",
-      "source_url": "https://research.glassnode.com/"
-    },
-    {
-      "id": "1d4c2a857fb5",
-      "source": "Glassnode Research",
-      "tier": 1,
-      "title": "Strategy Watch #5",
-      "url": "https://research.glassnode.com/strategy-watch-05-2026",
-      "published": "Fri, 26 Jun 2026 08:54:57 GMT",
-      "first_seen": "2026-06-26T12:45:31Z",
       "source_url": "https://research.glassnode.com/"
     },
     {
@@ -1355,6 +1355,16 @@
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "1d4c2a857fb5",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "Strategy Watch #5",
+      "url": "https://research.glassnode.com/strategy-watch-05-2026",
+      "published": "Fri, 26 Jun 2026 08:54:57 GMT",
+      "first_seen": "2026-06-26T12:45:31Z",
+      "source_url": "https://research.glassnode.com/"
     },
     {
       "id": "6b048134763b",
