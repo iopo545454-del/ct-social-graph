@@ -1,6 +1,6 @@
 {
-  "last_checked": "2026-07-16T11:06:41Z",
-  "new_count": 3,
+  "last_checked": "2026-07-16T19:08:46Z",
+  "new_count": 2,
   "sources": [
     {
       "name": "a16z crypto",
@@ -63,7 +63,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-16T11:06:38Z"
+      "checked_at": "2026-07-16T19:08:42Z"
     },
     {
       "name": "Multicoin Capital",
@@ -138,7 +138,7 @@
           "published": "Thu, 02 Oct 2025 00:00:00 GMT"
         }
       ],
-      "checked_at": "2026-07-16T11:06:38Z"
+      "checked_at": "2026-07-16T19:08:43Z"
     },
     {
       "name": "Pantera Blockchain Letter",
@@ -203,7 +203,7 @@
           "published": "Mon, 30 Jun 2025 14:48:37 +0000"
         }
       ],
-      "checked_at": "2026-07-16T11:06:39Z"
+      "checked_at": "2026-07-16T19:08:44Z"
     },
     {
       "name": "Paradigm",
@@ -276,7 +276,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-16T11:06:39Z"
+      "checked_at": "2026-07-16T19:08:44Z"
     },
     {
       "name": "Glassnode Research",
@@ -351,7 +351,7 @@
           "published": "Mon, 06 Jul 2026 14:26:55 GMT"
         }
       ],
-      "checked_at": "2026-07-16T11:06:39Z"
+      "checked_at": "2026-07-16T19:08:44Z"
     },
     {
       "name": "Delphi Digital",
@@ -374,7 +374,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-16T11:06:40Z"
+      "checked_at": "2026-07-16T19:08:45Z"
     },
     {
       "name": "Electric Capital",
@@ -386,7 +386,7 @@
       "error": null,
       "feed_urls": [],
       "items": [],
-      "checked_at": "2026-07-16T11:06:40Z"
+      "checked_at": "2026-07-16T19:08:45Z"
     },
     {
       "name": "Bankless",
@@ -454,12 +454,12 @@
           "published": null
         },
         {
-          "title": "News Africa's Largest Centralized Exchange Integrates Hyperliquid Perps VALR will become the first major regulated exchange to natively inte",
-          "url": "https://www.bankless.com/read/news/africas-largest-centralized-exchange-integrates-hyperliquid-perps",
+          "title": "News Ondo Unveils Perps DEX With Tokenized Stocks as Collateral Ondo just launched a perps platform where tokenized stocks can be used to ba",
+          "url": "https://www.bankless.com/read/news/ondo-unveils-perps-dex-with-tokenized-stocks-as-collateral",
           "published": null
         }
       ],
-      "checked_at": "2026-07-16T11:06:40Z"
+      "checked_at": "2026-07-16T19:08:46Z"
     },
     {
       "name": "Token Terminal",
@@ -484,6 +484,11 @@
         {
           "title": "Newsletter",
           "url": "https://tokenterminal.com/resources/newsletter",
+          "published": null
+        },
+        {
+          "title": "Tokenized assets are taking off on BNB Chain+ data & product updates16 Jul, 2026",
+          "url": "https://tokenterminal.com/resources/newsletter/tokenized-assets-are-taking-off-on-bnb-chain",
           "published": null
         },
         {
@@ -525,14 +530,9 @@
           "title": "tradeXYZ is bringing the real world onchain through perps + data & product updates11 Jun, 2026",
           "url": "https://tokenterminal.com/resources/newsletter/tradexyz-is-bringing-the-real-world-onchain-through-perps",
           "published": null
-        },
-        {
-          "title": "These charts explain the tokenized asset boom+ data & product updates4 Jun, 2026",
-          "url": "https://tokenterminal.com/resources/newsletter/these-charts-explain-the-tokenized-asset-boom",
-          "published": null
         }
       ],
-      "checked_at": "2026-07-16T11:06:41Z"
+      "checked_at": "2026-07-16T19:08:46Z"
     }
   ],
   "articles": [
@@ -1227,13 +1227,13 @@
       "source_url": "https://www.bankless.com/read"
     },
     {
-      "id": "7523c32c0d84",
+      "id": "484276dc7235",
       "source": "Bankless",
       "tier": 2,
-      "title": "News Africa's Largest Centralized Exchange Integrates Hyperliquid Perps VALR will become the first major regulated exchange to natively inte",
-      "url": "https://www.bankless.com/read/news/africas-largest-centralized-exchange-integrates-hyperliquid-perps",
+      "title": "News Ondo Unveils Perps DEX With Tokenized Stocks as Collateral Ondo just launched a perps platform where tokenized stocks can be used to ba",
+      "url": "https://www.bankless.com/read/news/ondo-unveils-perps-dex-with-tokenized-stocks-as-collateral",
       "published": null,
-      "first_seen": "2026-07-14T18:56:17Z",
+      "first_seen": "2026-07-16T19:08:46Z",
       "source_url": "https://www.bankless.com/read"
     },
     {
@@ -1264,6 +1264,16 @@
       "url": "https://tokenterminal.com/resources/newsletter",
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
+      "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "78891f9574a2",
+      "source": "Token Terminal",
+      "tier": 2,
+      "title": "Tokenized assets are taking off on BNB Chain+ data & product updates16 Jul, 2026",
+      "url": "https://tokenterminal.com/resources/newsletter/tokenized-assets-are-taking-off-on-bnb-chain",
+      "published": null,
+      "first_seen": "2026-07-16T19:08:46Z",
       "source_url": "https://tokenterminal.com/resources"
     },
     {
@@ -1345,6 +1355,16 @@
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "7523c32c0d84",
+      "source": "Bankless",
+      "tier": 2,
+      "title": "News Africa's Largest Centralized Exchange Integrates Hyperliquid Perps VALR will become the first major regulated exchange to natively inte",
+      "url": "https://www.bankless.com/read/news/africas-largest-centralized-exchange-integrates-hyperliquid-perps",
+      "published": null,
+      "first_seen": "2026-07-14T18:56:17Z",
+      "source_url": "https://www.bankless.com/read"
     },
     {
       "id": "1d2539b3a590",
