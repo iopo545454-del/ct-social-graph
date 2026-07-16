@@ -2187,19 +2187,20 @@
   {
     "handle": "zuqaquz",
     "period_start": "2026-05-14",
-    "period_end": "2026-07-03",
-    "profile_updated_at": "2026-06-30T16:02:41Z",
-    "taste_summary": "Observed X/Twitter evidence is strongly and repeatedly pro-Hyperliquid/HYPE, with market-volatility humor and a visible fade/mute list around Saylor/MSTR-related and ZEC terms. Interpretation confidence is high for HYPE preference; other themes remain thin.",
+    "period_end": "2026-07-16",
+    "profile_updated_at": "2026-07-16T04:39:44Z",
+    "taste_summary": "Observed X/Twitter evidence is strongly and repeatedly pro-Hyperliquid/HYPE, with market-volatility humor and a visible fade/mute list around Saylor/MSTR-related and ZEC terms. Interpretation confidence is high for HYPE preference; other themes remain thin. Latest July 16 evidence reinforces the HYPE preference through holder-concentration framing: he said $67M for 1M HYPE and a claimed top-20-holder position would be money well spent; the supply-share and holder-rank figures were not independently verified.",
     "likes": [
       {
         "theme": "Hyperliquid / HYPE concentration",
-        "summary": "Repeated original posts and replies invoke Hyperliquid/HYPE positively, including concentration/borrowing-against-spot-HYPE language and 'God bless Hyperliquid'.",
+        "summary": "Repeated original posts and replies invoke Hyperliquid/HYPE positively, including concentration/borrowing-against-spot-HYPE language and “God bless Hyperliquid.” Latest July 16 post said $67M for 1M HYPE and a claimed top-20-holder position would be capital well spent; the supply-share and rank figures remain unverified.",
         "evidence_urls": [
           "https://x.com/zuqaquz/status/2063748710882738618",
           "https://x.com/zuqaquz/status/2063001072893940119",
           "https://x.com/zuqaquz/status/2062800560558878738",
           "https://x.com/i/status/2063763994142269636",
-          "https://x.com/i/status/2057806977808400761"
+          "https://x.com/i/status/2057806977808400761",
+          "https://x.com/zuqaquz/status/2077558981602460058"
         ],
         "confidence": "high"
       },
@@ -2229,12 +2230,13 @@
         "name": "Hyperliquid / HYPE",
         "handle": "HyperliquidX",
         "stance": "positive",
-        "summary": "Dominant repeated project/token in original posts and replies; explicit HYPE-over-ZEC preference and founder praise.",
+        "summary": "Dominant repeated project/token in original posts and replies; explicit HYPE-over-ZEC preference and founder praise. July 16 added a holder-concentration conviction marker: he called $67M for 1M HYPE and a claimed top-20-holder position money well spent; the numerical ownership/rank claims were not independently verified.",
         "evidence_urls": [
           "https://x.com/zuqaquz/status/2063748710882738618",
           "https://x.com/zuqaquz/status/2063001072893940119",
           "https://x.com/i/status/2063763994142269636",
-          "https://x.com/i/status/2057806977808400761"
+          "https://x.com/i/status/2057806977808400761",
+          "https://x.com/zuqaquz/status/2077558981602460058"
         ]
       },
       {
@@ -2280,7 +2282,8 @@
       "https://x.com/zuqaquz/status/2063748710882738618",
       "https://x.com/zuqaquz/status/2063415879971283082",
       "https://x.com/zuqaquz/status/2063001072893940119",
-      "https://x.com/i/status/2063763994142269636"
+      "https://x.com/i/status/2063763994142269636",
+      "https://x.com/zuqaquz/status/2077558981602460058"
     ]
   },
   {

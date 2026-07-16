@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-16",
+    "handle": "zuqaquz",
+    "type": "authored_post/hype_holder_concentration_conviction",
+    "url": "https://x.com/zuqaquz/status/2077558981602460058",
+    "summary": "Said $67M would buy 1M HYPE and, by his figures, about 0.33% of circulating supply plus a top-20-holder position; called that capital well spent. The ownership percentage and holder-rank figures are the author’s claims and were not independently verified.",
+    "entities": [
+      "Hyperliquid",
+      "HYPE",
+      "circulating supply",
+      "holder concentration"
+    ],
+    "why_logged": "Fresh, explicit HYPE conviction from an account with a repeated Hyperliquid preference, expressed through position size and holder-concentration framing rather than a generic price target.",
+    "confidence": "high"
+  },
+  {
     "date": "2026-07-15",
     "handle": "airtightfish",
     "type": "authored_post/frontier_inference_subsidy_and_price_elasticity",
