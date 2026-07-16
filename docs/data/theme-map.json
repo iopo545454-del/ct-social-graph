@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-07-15",
-  "profile_updated_at": "2026-07-15T19:46:48Z",
+  "profile_updated_at": "2026-07-16T00:14:09Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -1101,7 +1101,8 @@
       "theme": "AI ROI and price/performance benchmarking",
       "accounts_positive": [
         "AustinBarack",
-        "0xGeeGee"
+        "0xGeeGee",
+        "airtightfish"
       ],
       "accounts_negative": [],
       "projects": [
@@ -1109,17 +1110,32 @@
         "EIGEN / EigenCloud",
         "SERV / OpenServ",
         "open-source AI access fragility",
-        "Wisp privacy AI"
+        "Wisp privacy AI",
+        "Fable usage limits and subsidy economics",
+        "subsidized Codex account switching",
+        "frontier inference price elasticity",
+        "future Chinese-model cost appeal"
       ],
-      "summary": "AustinBarack's OpenRouter quote explicitly says AI benchmarking is shifting toward comparable performance at lower price and ROI. GeeGee's June 14 AI thread separately emphasized efficiency, observability, and cheaper open-source/decentralized alternatives. Treat as a light current bucket with direct examples, not a claim of full consensus. July 7 adds adjacent visibility rather than consensus: kelxyz_ framed cutting-edge open-source/open-weight model access as fragile under possible export restrictions, while 0xGeeGee asked a project-ownership question around Wisp, a Lido-owned privacy-AI app with no token.",
+      "summary": "AustinBarack's OpenRouter quote explicitly says AI benchmarking is shifting toward comparable performance at lower price and ROI. GeeGee's June 14 AI thread separately emphasized efficiency, observability, and cheaper open-source/decentralized alternatives. Treat as a light current bucket with direct examples, not a claim of full consensus. July 7 adds adjacent visibility rather than consensus: kelxyz_ framed cutting-edge open-source/open-weight model access as fragile under possible export restrictions, while 0xGeeGee asked a project-ownership question around Wisp, a Lido-owned privacy-AI app with no token. July 15 airtightfish evidence adds a direct user-side elasticity example: once subsidized frontier allowances are exhausted, the economics stop making sense for him, prompting a subsidized Codex-account purchase; his Chinese-model comment is prospective and not based on hands-on use.",
       "evidence_urls": [
         "https://x.com/AustinBarack/status/2066201233388413272",
         "https://x.com/0xGeeGee/status/2066111310916694078",
         "https://x.com/kelxyz_/status/2074500269539311680",
-        "https://x.com/0xGeeGee/status/2074524971209040375"
+        "https://x.com/0xGeeGee/status/2074524971209040375",
+        "https://x.com/airtightfish/status/2077525186400928192",
+        "https://x.com/airtightfish/status/2077527765897896052",
+        "https://x.com/airtightfish/status/2077527860726886709"
       ],
       "momentum": "active",
-      "confidence": "medium"
+      "confidence": "medium",
+      "examples": [
+        {
+          "account": "airtightfish",
+          "date": "2026-07-15",
+          "url": "https://x.com/airtightfish/status/2077525186400928192",
+          "summary": "Reported switching among subsidized frontier-model accounts as usage limits bind, calling subsidy exhaustion an emerging price-elasticity point; Chinese-model appeal remains prospective."
+        }
+      ]
     },
     {
       "theme": "Prediction-market odds as event-risk trading input",

@@ -1512,9 +1512,9 @@
   {
     "handle": "airtightfish",
     "period_start": "2026-05-14",
-    "period_end": "2026-07-14",
-    "profile_updated_at": "2026-07-14T07:22:44Z",
-    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence adds a tokenomics/accounting-process edge: he pushed against raw FDV for MetaDAO ownership-coin valuation and pointed toward adjusted supply / mNAV treatment. June 21 ryanchern reply adds another ProofMarkets/product-design datapoint: prediction markets need novel products that restore useful information surfaces beyond current category mix. June 22 quote added a light ProofMarkets ecosystem/partner signal via umia_finance/SURGECAST. Latest June 23 quote strengthens the ProofMarkets product-design trail with an actual conditional-futures Challenge market: SOL conditional on BTC up/down, framed as evidence that conditional futures can support experimental listed market types beyond event markets. Later June 23 replies add an Adjacent RED political-index feedback edge: he liked the index concept but wanted more volatility, saying ProofMarkets would love to list something like it as conditional indices develop. Latest June 23 evidence adds a concrete ProofMarkets/Solana tokenomics use case: he used a gated-MVP market to estimate Burn SIMD price impact and implementation odds, while caveating that failure would mainly matter as a signal on Solana's tokenomics direction. June 24 reply keeps ProofMarkets framed as an answer to the critique that current prediction markets are not practical hedging tools. Latest June 24 GRASS reply extends the same conditional-futures design pattern from ProofMarkets demos into tokenomics discovery: use a conditional market around whether Grass announces robust token value attribution, while disclosing he is a Grass fan. PreStocks/Kalshi post adds a private-market liquidity/execution layer: he likes the idea of pre-IPO secondary-style products, but criticized disappearing liquidity and inability to exit. June 25 follow-up adds an important ProofMarkets caveat: the SOL Burn SIMD market was a very illiquid gated-MVP/test market, useful only as directional information rather than a robust liquid pricing venue. June 25 adds another direct ProofMarkets MVP example via a BTC/STRC conditional market, plus a useful caveat/competitive filter: ProofMarkets is still MVP, Kalshi is better today, and Polymarket/UMA are viewed negatively. July 2 evidence adds three direct Proof/GRASS datapoints: he treated the ProofMarkets v0 challenge as a successful time-boxed feedback push, replied again to ryanchern that Proof is trying to change sports-heavy prediction-market volume, and defended GRASS token design against 0xCryptoSam after comparing alternatives. Latest July 3 reply adds crypto-card/account UX taste outside ProofMarkets: Altitude plus Solomon Labs integration would be compelling, but segmented earn/spend accounts are a product negative. July 6 BONK DAO reply adds a governance/process-risk edge: he highlighted that a controversial transfer proposal reportedly passed with only seven total voters, reinforcing attention to practical market/governance design failures rather than pure narrative. July 7 adds two source-close market-design datapoints: a ProofMarkets BTC/STRC conditional market that he said ended up close, and a MetaDAO reply naming adverse selection as the key near-term risk while acknowledging counterexamples. July 7 replies add two diligence/process edges: MetaDAO adverse-selection as a nuanced short-term risk and GRASS H1 actuals-versus-expectations as a check on forward revenue guidance. July 14 MetaDAO follow-up adds a balanced allocation-design view: guaranteed fund allocations can hurt his own entry while still benefiting founders and ecosystem progress. A separate Kalshi quote says rising US options activity reflects increasingly sophisticated retail participation and changing markets.",
+    "period_end": "2026-07-15",
+    "profile_updated_at": "2026-07-16T00:14:09Z",
+    "taste_summary": "Observed X/Twitter evidence centers on ProofMarkets, private-company access as an emergent crypto use case, prediction-market product design, and nuance around trader behavior versus scams. Latest evidence adds a tokenomics/accounting-process edge: he pushed against raw FDV for MetaDAO ownership-coin valuation and pointed toward adjusted supply / mNAV treatment. June 21 ryanchern reply adds another ProofMarkets/product-design datapoint: prediction markets need novel products that restore useful information surfaces beyond current category mix. June 22 quote added a light ProofMarkets ecosystem/partner signal via umia_finance/SURGECAST. Latest June 23 quote strengthens the ProofMarkets product-design trail with an actual conditional-futures Challenge market: SOL conditional on BTC up/down, framed as evidence that conditional futures can support experimental listed market types beyond event markets. Later June 23 replies add an Adjacent RED political-index feedback edge: he liked the index concept but wanted more volatility, saying ProofMarkets would love to list something like it as conditional indices develop. Latest June 23 evidence adds a concrete ProofMarkets/Solana tokenomics use case: he used a gated-MVP market to estimate Burn SIMD price impact and implementation odds, while caveating that failure would mainly matter as a signal on Solana's tokenomics direction. June 24 reply keeps ProofMarkets framed as an answer to the critique that current prediction markets are not practical hedging tools. Latest June 24 GRASS reply extends the same conditional-futures design pattern from ProofMarkets demos into tokenomics discovery: use a conditional market around whether Grass announces robust token value attribution, while disclosing he is a Grass fan. PreStocks/Kalshi post adds a private-market liquidity/execution layer: he likes the idea of pre-IPO secondary-style products, but criticized disappearing liquidity and inability to exit. June 25 follow-up adds an important ProofMarkets caveat: the SOL Burn SIMD market was a very illiquid gated-MVP/test market, useful only as directional information rather than a robust liquid pricing venue. June 25 adds another direct ProofMarkets MVP example via a BTC/STRC conditional market, plus a useful caveat/competitive filter: ProofMarkets is still MVP, Kalshi is better today, and Polymarket/UMA are viewed negatively. July 2 evidence adds three direct Proof/GRASS datapoints: he treated the ProofMarkets v0 challenge as a successful time-boxed feedback push, replied again to ryanchern that Proof is trying to change sports-heavy prediction-market volume, and defended GRASS token design against 0xCryptoSam after comparing alternatives. Latest July 3 reply adds crypto-card/account UX taste outside ProofMarkets: Altitude plus Solomon Labs integration would be compelling, but segmented earn/spend accounts are a product negative. July 6 BONK DAO reply adds a governance/process-risk edge: he highlighted that a controversial transfer proposal reportedly passed with only seven total voters, reinforcing attention to practical market/governance design failures rather than pure narrative. July 7 adds two source-close market-design datapoints: a ProofMarkets BTC/STRC conditional market that he said ended up close, and a MetaDAO reply naming adverse selection as the key near-term risk while acknowledging counterexamples. July 7 replies add two diligence/process edges: MetaDAO adverse-selection as a nuanced short-term risk and GRASS H1 actuals-versus-expectations as a check on forward revenue guidance. July 14 MetaDAO follow-up adds a balanced allocation-design view: guaranteed fund allocations can hurt his own entry while still benefiting founders and ecosystem progress. A separate Kalshi quote says rising US options activity reflects increasingly sophisticated retail participation and changing markets. Latest July 15 AI-inference evidence adds a practical price-elasticity filter: once Fable-era subsidized usage runs out, frontier economics stop making sense for him, so he added a subsidized Codex account; he sees future appeal in Chinese models but has not tested them yet.",
     "likes": [
       {
         "theme": "Crypto access to private companies",
@@ -1644,6 +1644,16 @@
           "https://x.com/airtightfish/status/2076868030156648483"
         ],
         "confidence": "medium-low"
+      },
+      {
+        "theme": "Frontier inference options while subsidies remain economical",
+        "summary": "Uses multiple subsidized model accounts when usage limits bind and treats subsidy exhaustion as a point where frontier-inference demand becomes price-sensitive; Chinese models are a future option rather than a hands-on endorsement.",
+        "evidence_urls": [
+          "https://x.com/airtightfish/status/2077525186400928192",
+          "https://x.com/airtightfish/status/2077527765897896052",
+          "https://x.com/airtightfish/status/2077527860726886709"
+        ],
+        "confidence": "high"
       }
     ],
     "dislikes": [
@@ -1840,6 +1850,16 @@
         "evidence_urls": [
           "https://x.com/i/status/2074240810804019636"
         ]
+      },
+      {
+        "name": "Fable / Codex",
+        "handle": null,
+        "stance": "active use / cost-sensitive switching",
+        "summary": "Reported more frequent post-Fable limits, bought a subsidized Codex account to keep both options available, and said economics weaken after subsidized allowances expire.",
+        "evidence_urls": [
+          "https://x.com/airtightfish/status/2077525186400928192",
+          "https://x.com/airtightfish/status/2077527765897896052"
+        ]
       }
     ],
     "people_respected": [
@@ -1897,7 +1917,8 @@
       "Track whether Altitude/Solomon Labs recurs for airtightfish or remains a one-off crypto-card UX comment.",
       "Track whether airtightfish returns to DAO-governance/process-risk failures or this remains a one-off BONK DAO context reply.",
       "Track whether airtightfish’s builder-risk ideology recurs outside the @worthOnRH meme context before treating it as a durable preference.",
-      "Track whether airtightfish's constructive view of MetaDAO guaranteed fund allocations persists after the $LASO launch's fully filled/unlocked supply and weak immediate buyer-base dynamics."
+      "Track whether airtightfish's constructive view of MetaDAO guaranteed fund allocations persists after the $LASO launch's fully filled/unlocked supply and weak immediate buyer-base dynamics.",
+      "Track whether airtightfish actually tests Chinese models or changes frontier-model usage after current Fable/Codex subsidies expire."
     ],
     "evidence_urls": [
       "https://x.com/airtightfish/status/2065567457536831796",
@@ -1946,7 +1967,10 @@
       "https://x.com/airtightfish/status/2076848785083548068",
       "https://x.com/airtightfish/status/2076856285216313593",
       "https://x.com/airtightfish/status/2076868030156648483",
-      "https://x.com/airtightfish/status/2076874450239410639"
+      "https://x.com/airtightfish/status/2076874450239410639",
+      "https://x.com/airtightfish/status/2077525186400928192",
+      "https://x.com/airtightfish/status/2077527765897896052",
+      "https://x.com/airtightfish/status/2077527860726886709"
     ]
   },
   {

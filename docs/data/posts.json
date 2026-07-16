@@ -1,6 +1,28 @@
 [
   {
     "date": "2026-07-15",
+    "handle": "airtightfish",
+    "type": "authored_post/frontier_inference_subsidy_and_price_elasticity",
+    "url": "https://x.com/airtightfish/status/2077525186400928192",
+    "summary": "Said post-Fable usage limits are arriving more often and that frontier-inference economics stop making sense after subsidized allowances run out; he bought a separate subsidized Codex account and framed the behavior as emerging demand price elasticity. Follow-up replies said it is useful to have both options and that Chinese models have longer-term appeal, while explicitly noting he has not used them yet.",
+    "entities": [
+      "Fable",
+      "Codex",
+      "frontier inference",
+      "usage limits",
+      "subsidized allowances",
+      "price elasticity",
+      "Chinese models"
+    ],
+    "why_logged": "A direct user-economics observation showing how subsidy exhaustion and usage limits can change frontier-model account choice; the related replies preserve the limited hands-on scope of the Chinese-model comment.",
+    "confidence": "high",
+    "related_urls": [
+      "https://x.com/airtightfish/status/2077527765897896052",
+      "https://x.com/airtightfish/status/2077527860726886709"
+    ]
+  },
+  {
+    "date": "2026-07-15",
     "handle": "MoneyPrinter0x",
     "type": "reply/cashcat_conditional_derisk_and_twap_reposition",
     "url": "https://x.com/MoneyPrinter0x/status/2077478725650989225",
