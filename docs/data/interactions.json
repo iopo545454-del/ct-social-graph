@@ -2876,5 +2876,20 @@
     "summary": "After the earlier CASHCAT/Robinhood-chain breakout posts, noted heavy ask-side liquidity entering the weekend; useful source-close risk tempering rather than a fresh endorsement.",
     "quality": "low-medium",
     "created_tier2_candidate": false
+  },
+  {
+    "from": "CryptoTomYT",
+    "to": "rbthreek",
+    "to_kind": "individual",
+    "type": "reply/momentum_downside_and_capex_revision_timing",
+    "date": "2026-07-17",
+    "url": "https://x.com/CryptoTomYT/status/2078207304076300397",
+    "summary": "Answered a market-direction question with a qualified view: further downside in undefined momentum names, but possibly near a bottom as hyperscaler capex revisions begin; the visible thread did not identify specific names.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/CryptoTomYT/status/2078183478168858817",
+      "https://x.com/rbthreek/status/2078197402045915369"
+    ]
   }
 ]

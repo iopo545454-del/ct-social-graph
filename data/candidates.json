@@ -1087,5 +1087,17 @@
     ],
     "first_seen": "2026-07-07",
     "confidence": "low"
+  },
+  {
+    "handle": "crediblefin",
+    "kind": "project",
+    "status": "candidate",
+    "source": "coin_casanova ownership-coin thesis",
+    "reason": "coin_casanova called Credible Finance the latest revenue-generating ownership-coin attempt, cited a $3.5M run-rate, disclosed holding CREDB, and also flagged fragmented liquidity and weak prior-backer demand. One substantive evidence point only.",
+    "evidence_urls": [
+      "https://x.com/coin_casanova/status/2078819395200262530"
+    ],
+    "first_seen": "2026-07-19",
+    "confidence": "medium"
   }
 ]

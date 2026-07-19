@@ -190,5 +190,18 @@
       "https://x.com/AustinBarack/status/2077760810995118429",
       "https://x.com/AustinBarack/status/2078178124143989019"
     ]
+  },
+  {
+    "handle": "MetaDAOProject",
+    "tier": 2,
+    "kind": "project",
+    "status": "tracked",
+    "reason": "Repeated multi-account ownership-coin evidence: airtightfish analyzed valuation, adverse selection, and allocations; kelxyz_ used MetaDAO as an ownership-design primitive; coin_casanova now disclosed a position and renewed interest in MetaDAO/Credible Finance.",
+    "evidence_urls": [
+      "https://x.com/airtightfish/status/2074522131338080694",
+      "https://x.com/airtightfish/status/2076848785083548068",
+      "https://x.com/kelxyz_/status/2073849126379196842",
+      "https://x.com/coin_casanova/status/2078819395200262530"
+    ]
   }
 ]
