@@ -1,5 +1,131 @@
 [
   {
+    "date": "2026-07-17",
+    "handle": "AustinBarack",
+    "type": "quote/venice_inference_credit_burn_and_vvv_utility",
+    "url": "https://x.com/AustinBarack/status/2078166484505809278",
+    "summary": "Highlighted Venice’s new inference-credit buy-and-burn trigger, expanded VVV utility, and stated excess-cash-flow allocation to VVV, then argued the token remained underpriced. The core tokenomics update came from a source-close quoted post; valuation is AustinBarack’s opinion.",
+    "entities": [
+      "Venice",
+      "VVV",
+      "inference credits",
+      "buy-and-burn",
+      "token value capture"
+    ],
+    "why_logged": "Fresh, source-close continuation of AustinBarack’s core Venice/VVV thesis, now tied to a concrete burn mechanism rather than only usage or valuation framing.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-07-17",
+    "handle": "coin_casanova",
+    "type": "quote/dashboard_defi_rotation_watch",
+    "url": "https://x.com/coin_casanova/status/2078121890623914427",
+    "summary": "Used a multi-timeframe market-terminal view to note slowing momentum in year-to-date leaders, including Hyperliquid-native exposure, and asked whether DeFi could be the next rotation.",
+    "entities": [
+      "DeFi",
+      "Hyperliquid",
+      "market terminal",
+      "sector rotation",
+      "relative momentum"
+    ],
+    "why_logged": "Extends his dashboard-driven sector/factor process into a fresh DeFi-rotation watch rather than a generic price call.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-17",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/crypto_experimentation_and_capital_formation",
+    "url": "https://x.com/MoneyPrinter0x/status/2078032349896532148",
+    "summary": "Argued that renewed DeFi and crypto activity, alongside AI-assisted coding, make crypto the highest-density venue for scalable experimentation and low-friction capital formation over the next year.",
+    "entities": [
+      "DeFi",
+      "crypto applications",
+      "AI-assisted coding",
+      "capital formation",
+      "experimentation"
+    ],
+    "why_logged": "A broad but explicit application-cycle thesis that explains his renewed constructive crypto posture beyond individual trades.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-17",
+    "handle": "airtightfish",
+    "type": "reply/founder_soft_rug_nav_and_holder_downside",
+    "url": "https://x.com/airtightfish/status/2078168797467553950",
+    "summary": "Argued that high NAV/revenue multiples leave token and startup holders exposed to most of the downside when founders shift focus, even if residual value can be recovered or governance can remove the founder; distinguished ICO-stage dynamics.",
+    "entities": [
+      "token valuation",
+      "NAV",
+      "revenue multiples",
+      "founder incentives",
+      "governance"
+    ],
+    "why_logged": "Adds a clear founder-alignment and downside-capture lens to his existing token-launch, PMF, and tokenomics framework.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-07-17",
+    "handle": "airtightfish",
+    "type": "reply/grass_missed_updates_not_sell_the_news",
+    "url": "https://x.com/airtightfish/status/2077961494332064117",
+    "summary": "Said GRASS was not a clean sell-the-news case because projections were missed or delayed, a program was cancelled, and no meaningful announcement arrived; the specific project claims were not independently verified in this scan.",
+    "entities": [
+      "GRASS",
+      "project delivery",
+      "information diffusion",
+      "sell the news"
+    ],
+    "why_logged": "A material negative update to his prior GRASS token-design interest and a useful example of distinguishing narrative labels from project delivery.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-17",
+    "handle": "0xGeeGee",
+    "type": "quote/buyback_quality_and_trust_premium",
+    "url": "https://x.com/0xGeeGee/status/2077917719660539940",
+    "summary": "Quoted a HYPE-versus-PUMP trust-premium thesis and stressed that buybacks differ in quality and purpose rather than functioning as one uniform valuation mechanism.",
+    "entities": [
+      "HYPE",
+      "PUMP",
+      "buybacks",
+      "trust premium",
+      "token value capture"
+    ],
+    "why_logged": "Adds a nuanced qualifier to his prior skepticism of mechanical buyback narratives.",
+    "confidence": "medium"
+  },
+  {
+    "date": "2026-07-16",
+    "handle": "AustinBarack",
+    "type": "authored_post/etherfi_card_neobank_repricing",
+    "url": "https://x.com/AustinBarack/status/2077760810995118429",
+    "summary": "Framed accelerating ether.fi card usage as cycle-independent consumer utility and argued ETHFI could re-rate from liquid-staking-infrastructure comparisons toward global-neobank comparisons as product KPIs improve. Usage and valuation claims are author-reported.",
+    "entities": [
+      "ether.fi",
+      "ETHFI",
+      "crypto card",
+      "neobank",
+      "consumer crypto"
+    ],
+    "why_logged": "Introduces a repeated consumer-crypto/neobank project thesis with product-usage and comparable-company framing.",
+    "confidence": "medium-high"
+  },
+  {
+    "date": "2026-07-16",
+    "handle": "0xGeeGee",
+    "type": "quote/fable_vs_sol_overall_preference",
+    "url": "https://x.com/0xGeeGee/status/2077729079705665989",
+    "summary": "Updated his hands-on Fable-versus-Sol comparison to say Sol is better overall even apart from usage limits, strengthening an earlier slight preference into a clearer product judgment.",
+    "entities": [
+      "Fable",
+      "Sol",
+      "AI coding tools",
+      "model selection"
+    ],
+    "why_logged": "Directly resolves one of the profile’s open model-comparison questions with a stronger first-hand preference.",
+    "confidence": "high"
+  },
+  {
     "date": "2026-07-16",
     "handle": "zuqaquz",
     "type": "authored_post/hype_holder_concentration_conviction",

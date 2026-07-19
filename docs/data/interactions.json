@@ -1,5 +1,120 @@
 [
   {
+    "from": "AustinBarack",
+    "to": "JonShapeShift",
+    "to_kind": "individual",
+    "type": "quote/venice_tokenomics_burn_and_utility",
+    "date": "2026-07-17",
+    "url": "https://x.com/AustinBarack/status/2078166484505809278",
+    "summary": "Quoted a source-close Venice tokenomics update and highlighted additional inference-credit burn triggers, greater VVV utility, and stated excess-cash-flow allocation to VVV; the underpricing conclusion is AustinBarack’s view.",
+    "quality": "high",
+    "created_tier2_candidate": true,
+    "related_urls": [
+      "https://x.com/JonShapeShift/status/2078163793901940826"
+    ]
+  },
+  {
+    "from": "coin_casanova",
+    "to": "ramahluwalia",
+    "to_kind": "individual",
+    "type": "reply/ai_bear_case_rotation_breadth",
+    "date": "2026-07-17",
+    "url": "https://x.com/coin_casanova/status/2078106679787606204",
+    "summary": "Asked whether a DeepSeek-driven bearish AI scenario would remain AI-specific or also damage the expected rotation into healthcare and financials, extending his sector-rotation filter.",
+    "quality": "medium",
+    "created_tier2_candidate": true,
+    "related_urls": [
+      "https://x.com/ramahluwalia/status/2078104341471195220"
+    ]
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "blknoiz06",
+    "to_kind": "individual",
+    "type": "quote/buyback_quality_and_trust_premium",
+    "date": "2026-07-17",
+    "url": "https://x.com/0xGeeGee/status/2077917719660539940",
+    "summary": "Quoted blknoiz06’s HYPE/PUMP trust-and-buyback thesis and added that buybacks differ in quality and purpose rather than working as one uniform valuation signal.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/blknoiz06/status/2077773554033037509"
+    ]
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "loraclexyz",
+    "to_kind": "individual",
+    "type": "reply/chinese_lab_open_weight_direction",
+    "date": "2026-07-17",
+    "url": "https://x.com/0xGeeGee/status/2077934227266601455",
+    "summary": "Added a caveat to an open-weight-model discussion: recent commentary suggested some Chinese labs may be moving away from open weights. The directional claim was not independently verified in this scan.",
+    "quality": "medium",
+    "created_tier2_candidate": true,
+    "related_urls": [
+      "https://x.com/loraclexyz/status/2077906209005277588"
+    ]
+  },
+  {
+    "from": "airtightfish",
+    "to": "knimkar",
+    "to_kind": "individual",
+    "type": "reply/grass_news_diffusion_correction",
+    "date": "2026-07-17",
+    "url": "https://x.com/airtightfish/status/2077961494332064117",
+    "summary": "Rejected the framing of GRASS as a simple sell-the-news move, saying projections were missed or delayed, a program was cancelled, and no meaningful announcement arrived; these project-update claims are airtightfish’s uncited synthesis.",
+    "quality": "medium",
+    "created_tier2_candidate": true,
+    "related_urls": [
+      "https://x.com/knimkar/status/2077940528218272197"
+    ]
+  },
+  {
+    "from": "airtightfish",
+    "to": "nftboi_",
+    "to_kind": "individual",
+    "type": "reply/founder_soft_rug_nav_downside",
+    "date": "2026-07-17",
+    "url": "https://x.com/airtightfish/status/2078168797467553950",
+    "summary": "Explained that tokens and startups often trade at large NAV/revenue multiples, so removing a distracted founder or recovering residual value after a soft rug can still leave holders with most of the downside; distinguished this from the ICO stage.",
+    "quality": "high",
+    "created_tier2_candidate": false,
+    "promoted_tier2": true,
+    "related_urls": [
+      "https://x.com/nftboi_/status/2078163248260719045"
+    ]
+  },
+  {
+    "from": "AustinBarack",
+    "to": "Kunallegendd",
+    "to_kind": "individual",
+    "type": "quote/venice_value_capture_conviction",
+    "date": "2026-07-16",
+    "url": "https://x.com/AustinBarack/status/2077765006951665783",
+    "summary": "Quoted Kunallegendd’s Venice analysis and called VVV his highest-conviction crypto-AI investment, emphasizing expected burn growth and token capture of app cash flow plus inference utility.",
+    "quality": "medium",
+    "created_tier2_candidate": true,
+    "related_urls": [
+      "https://x.com/Kunallegendd/status/2077762071287177580"
+    ]
+  },
+  {
+    "from": "AustinBarack",
+    "to": "ether_fi",
+    "to_kind": "project",
+    "type": "mention/card_usage_neobank_repricing_thesis",
+    "date": "2026-07-16",
+    "url": "https://x.com/AustinBarack/status/2077760810995118429",
+    "summary": "Argued that accelerating ether.fi card use is a durable consumer-crypto use case and that ETHFI could re-rate from liquid-staking-infrastructure comparisons toward global-neobank comparisons as KPIs grow; usage and re-rating claims are author-reported.",
+    "quality": "high",
+    "created_tier2_candidate": false,
+    "promoted_tier2": true,
+    "related_urls": [
+      "https://x.com/0xGeeGee/status/2073741534374002986",
+      "https://x.com/AustinBarack/status/2078178124143989019"
+    ]
+  },
+  {
     "from": "MoneyPrinter0x",
     "to": "KobeissiLetter",
     "to_kind": "individual",

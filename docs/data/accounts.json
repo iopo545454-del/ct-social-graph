@@ -166,5 +166,29 @@
     "kind": "project",
     "status": "tracked",
     "reason": "Repeated multi-account evidence around Robinhood Chain/crypto distribution: AustinBarack, CryptoTomYT, and MoneyPrinter0x have all discussed Robinhood as an important consumer onchain/perps channel."
+  },
+  {
+    "handle": "nftboi_",
+    "tier": 2,
+    "kind": "individual",
+    "status": "tracked",
+    "reason": "Repeated substantive airtightfish conversations across token-launch timing, points/PMF design, and a separate founder soft-rug/NAV downside thread.",
+    "evidence_urls": [
+      "https://x.com/airtightfish/status/2067071639515283852",
+      "https://x.com/i/status/2067409458481725756",
+      "https://x.com/airtightfish/status/2078168797467553950"
+    ]
+  },
+  {
+    "handle": "ether_fi",
+    "tier": 2,
+    "kind": "project",
+    "status": "tracked",
+    "reason": "Multi-account product evidence: 0xGeeGee highlighted ether.fi card economics, while AustinBarack repeatedly framed accelerating card usage and a global-neobank valuation thesis.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2073741534374002986",
+      "https://x.com/AustinBarack/status/2077760810995118429",
+      "https://x.com/AustinBarack/status/2078178124143989019"
+    ]
   }
 ]

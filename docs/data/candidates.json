@@ -1,5 +1,70 @@
 [
   {
+    "handle": "JonShapeShift",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "AustinBarack quote of source-close Venice tokenomics update",
+    "reason": "AustinBarack used JonShapeShift’s Venice burn/utility announcement as the source for a substantive VVV value-capture update. One source-close quote edge only, so keep as candidate.",
+    "evidence_urls": [
+      "https://x.com/AustinBarack/status/2078166484505809278",
+      "https://x.com/JonShapeShift/status/2078163793901940826"
+    ],
+    "first_seen": "2026-07-17",
+    "confidence": "low-medium"
+  },
+  {
+    "handle": "ramahluwalia",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "coin_casanova reply on DeepSeek AI bear case and sector rotation breadth",
+    "reason": "coin_casanova asked a substantive follow-up about whether AI downside would also damage healthcare/financial rotation. One interaction edge only, so keep as candidate.",
+    "evidence_urls": [
+      "https://x.com/coin_casanova/status/2078106679787606204",
+      "https://x.com/ramahluwalia/status/2078104341471195220"
+    ],
+    "first_seen": "2026-07-17",
+    "confidence": "low"
+  },
+  {
+    "handle": "loraclexyz",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "0xGeeGee reply on Chinese-lab open-weight direction",
+    "reason": "0xGeeGee added a substantive caveat in loraclexyz’s open-weight-model discussion. One reply edge and the directional lab claim was not independently verified, so keep as low-confidence candidate.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2077934227266601455",
+      "https://x.com/loraclexyz/status/2077906209005277588"
+    ],
+    "first_seen": "2026-07-17",
+    "confidence": "low"
+  },
+  {
+    "handle": "knimkar",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "airtightfish GRASS news-diffusion correction",
+    "reason": "airtightfish gave a substantive correction to knimkar’s sell-the-news framing for GRASS. One adversarial/corrective interaction only, so keep as low-confidence candidate.",
+    "evidence_urls": [
+      "https://x.com/airtightfish/status/2077961494332064117",
+      "https://x.com/knimkar/status/2077940528218272197"
+    ],
+    "first_seen": "2026-07-17",
+    "confidence": "low"
+  },
+  {
+    "handle": "Kunallegendd",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "AustinBarack quote endorsing Venice/VVV token-value-capture analysis",
+    "reason": "AustinBarack strongly endorsed Kunallegendd’s Venice analysis while restating VVV as his highest-conviction crypto-AI investment. One quote/attention edge only, so keep as candidate.",
+    "evidence_urls": [
+      "https://x.com/AustinBarack/status/2077765006951665783",
+      "https://x.com/Kunallegendd/status/2077762071287177580"
+    ],
+    "first_seen": "2026-07-16",
+    "confidence": "low-medium"
+  },
+  {
     "handle": "chaoslabs",
     "kind": "project",
     "status": "candidate",
@@ -788,15 +853,17 @@
   {
     "handle": "nftboi_",
     "kind": "individual",
-    "status": "candidate",
+    "status": "promoted_to_tier2",
     "source": "airtightfish token-launch/PMF and token-wedge reply threads",
-    "reason": "airtightfish has now engaged nftboi_ twice on token launch timing, PMF, points-program metrics, and when early tokens are useful; still candidate because this is one conversation cluster, not repeated independent evidence.",
+    "reason": "Promoted after a new, independent July 17 conversation extended earlier token-launch/points/PMF exchanges into founder soft-rug, NAV/revenue-multiple, governance, and holder-downside analysis.",
     "evidence_urls": [
       "https://x.com/airtightfish/status/2067071639515283852",
-      "https://x.com/i/status/2067409458481725756"
+      "https://x.com/i/status/2067409458481725756",
+      "https://x.com/airtightfish/status/2078168797467553950"
     ],
     "first_seen": "2026-06-17",
-    "confidence": "medium"
+    "confidence": "medium",
+    "promoted_at": "2026-07-17"
   },
   {
     "handle": "CharlieBilello",

@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
-  "period_end": "2026-07-16",
-  "profile_updated_at": "2026-07-16T04:39:44Z",
+  "period_end": "2026-07-17",
+  "profile_updated_at": "2026-07-19T01:38:25Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -24,9 +24,11 @@
         "GRASS tokenholder call revenue guidance",
         "GRASS foundation IP/contract revenue accrual",
         "live context retrieval inference",
-        "VVV staking flows"
+        "VVV staking flows",
+        "VVV inference-credit burn trigger",
+        "VVV excess-cash-flow allocation"
       ],
-      "summary": "Observed X/Twitter posts from AustinBarack repeatedly frame centralized AI restrictions and possible user-data compulsion as a tailwind for Venice/VVV. Keep as direct evidence bucket rather than broad consensus; coin_casanova had a tactical VVV short, so cross-account stance is not uniform. New 2026-06-14 coin_casanova evidence treated the Mythos-driven AI-token basket as a trade-construction problem rather than a uniform fundamental endorsement. Latest AustinBarack evidence quoted Venice usage data and argued VVV is under-owned because token usage is 'literally up only'. New AustinBarack evidence adds GLM 5.2 on Venice: open-source coding/agent model quality plus private/encrypted execution. Latest coin_casanova update is negative/relative for crowded VVV after the news pivot while keeping POD/GRASS on the research/trade list, so the bucket remains mixed rather than consensus-positive. AustinBarack’s late-June GRASS reply shifts part of this bucket from usage/privacy into tokenomics/value-accrual diligence: foundation ownership of IP/contracts/revenue and the July 7 holder call are now key evidence points. June 25 AustinBarack evidence keeps Venice/VVV in the active tape with dip-buy framing and explicit 4mm/10mm user-growth estimates. June 27 coin_casanova evidence keeps GRASS active as an event/call-driven AI/data-token vehicle; the same post's XPL comparison is treated in the process-led trading bucket, not as a private-AI project thesis. June 30 AustinBarack GRASS call post adds a dated AI-data catalyst: the tokenholder call is expected to answer value/visibility questions, with model-training data as the core framing. June 30 AustinBarack evidence adds two concrete Venice/VVV datapoints: July 1 emissions drop from about 4M/year to 3M/year and a projection that Venice token usage can 10x again after the reported 100B daily-token milestone. July 1 AustinBarack evidence adds Venice's Series A / $1B valuation as a concrete adoption/capital catalyst and reiterates his long-term VVV-holder hypergrowth stance. July 2 airtightfish evidence is GRASS-specific rather than privacy-AI-specific: he defended Grass token design as actually decent after comparing alternatives, reinforcing the GRASS/value-accrual subthread. July 3 AustinBarack update defends Venice/VVV value capture directly: equity financing does not, in his view, remove token centrality because of team discipline, token treasury size, PMF, and growth. July 7 AustinBarack GRASS tokenholder-call evidence adds concrete revenue/value-accrual details: $52M expected H2 2026 revenue, 311% 2026 revenue growth, upcoming live context retrieval inference, and foundation ownership of IP/contracts/revenue. July 9 AustinBarack added a fresh VVV staking-flow marker: roughly $4M worth of VVV staked that day.",
+      "summary": "Observed X/Twitter posts from AustinBarack repeatedly frame centralized AI restrictions and possible user-data compulsion as a tailwind for Venice/VVV. Keep as direct evidence bucket rather than broad consensus; coin_casanova had a tactical VVV short, so cross-account stance is not uniform. New 2026-06-14 coin_casanova evidence treated the Mythos-driven AI-token basket as a trade-construction problem rather than a uniform fundamental endorsement. Latest AustinBarack evidence quoted Venice usage data and argued VVV is under-owned because token usage is 'literally up only'. New AustinBarack evidence adds GLM 5.2 on Venice: open-source coding/agent model quality plus private/encrypted execution. Latest coin_casanova update is negative/relative for crowded VVV after the news pivot while keeping POD/GRASS on the research/trade list, so the bucket remains mixed rather than consensus-positive. AustinBarack’s late-June GRASS reply shifts part of this bucket from usage/privacy into tokenomics/value-accrual diligence: foundation ownership of IP/contracts/revenue and the July 7 holder call are now key evidence points. June 25 AustinBarack evidence keeps Venice/VVV in the active tape with dip-buy framing and explicit 4mm/10mm user-growth estimates. June 27 coin_casanova evidence keeps GRASS active as an event/call-driven AI/data-token vehicle; the same post's XPL comparison is treated in the process-led trading bucket, not as a private-AI project thesis. June 30 AustinBarack GRASS call post adds a dated AI-data catalyst: the tokenholder call is expected to answer value/visibility questions, with model-training data as the core framing. June 30 AustinBarack evidence adds two concrete Venice/VVV datapoints: July 1 emissions drop from about 4M/year to 3M/year and a projection that Venice token usage can 10x again after the reported 100B daily-token milestone. July 1 AustinBarack evidence adds Venice's Series A / $1B valuation as a concrete adoption/capital catalyst and reiterates his long-term VVV-holder hypergrowth stance. July 2 airtightfish evidence is GRASS-specific rather than privacy-AI-specific: he defended Grass token design as actually decent after comparing alternatives, reinforcing the GRASS/value-accrual subthread. July 3 AustinBarack update defends Venice/VVV value capture directly: equity financing does not, in his view, remove token centrality because of team discipline, token treasury size, PMF, and growth. July 7 AustinBarack GRASS tokenholder-call evidence adds concrete revenue/value-accrual details: $52M expected H2 2026 revenue, 311% 2026 revenue growth, upcoming live context retrieval inference, and foundation ownership of IP/contracts/revenue. July 9 AustinBarack added a fresh VVV staking-flow marker: roughly $4M worth of VVV staked that day. July 17 source-close update adds an inference-credit burn trigger, expanded VVV utility, and AustinBarack’s view that excess free cash flow should accrue primarily to VVV.",
       "evidence_urls": [
         "https://x.com/AustinBarack/status/2065642988470972861",
         "https://x.com/AustinBarack/status/2065850799494738189",
@@ -51,7 +53,9 @@
         "https://x.com/AustinBarack/status/2074550397578969466",
         "https://x.com/AustinBarack/status/2074585005334860003",
         "https://x.com/AustinBarack/status/2074585570664202565",
-        "https://x.com/AustinBarack/status/2075286574808383923"
+        "https://x.com/AustinBarack/status/2075286574808383923",
+        "https://x.com/AustinBarack/status/2077765006951665783",
+        "https://x.com/AustinBarack/status/2078166484505809278"
       ],
       "momentum": "rising",
       "confidence": "high"
@@ -1302,13 +1306,15 @@
       "projects": [
         "points programs",
         "umia_finance",
-        "crypto-native token wedges"
+        "crypto-native token wedges",
+        "founder soft-rug / NAV downside"
       ],
-      "summary": "airtightfish added a product/GTM filter in a token-launch discussion: tokens can be useful after PMF or clear PMF signs, but points should not be used to fake PMF; well-executed points programs can still be +EV when teams optimize the right metrics and timing. Single-account evidence for now. Follow-up from airtightfish narrowed this further: points are nuanced and tokens are not useful wedges for every industry, especially when the product is not crypto-native.",
+      "summary": "airtightfish added a product/GTM filter in a token-launch discussion: tokens can be useful after PMF or clear PMF signs, but points should not be used to fake PMF; well-executed points programs can still be +EV when teams optimize the right metrics and timing. Single-account evidence for now. Follow-up from airtightfish narrowed this further: points are nuanced and tokens are not useful wedges for every industry, especially when the product is not crypto-native. July 17 founder-alignment evidence adds a post-launch downside filter: high NAV/revenue multiples can leave token holders with most losses even when governance can remove a disengaged founder.",
       "evidence_urls": [
         "https://x.com/airtightfish/status/2067071639515283852",
         "https://x.com/airtightfish/status/2067075588364333472",
-        "https://x.com/i/status/2067409458481725756"
+        "https://x.com/i/status/2067409458481725756",
+        "https://x.com/airtightfish/status/2078168797467553950"
       ],
       "momentum": "emerging",
       "confidence": "medium"
@@ -1715,7 +1721,8 @@
     {
       "theme": "DeFi resurgence / tokenized-asset application cycle",
       "accounts_positive": [
-        "MoneyPrinter0x"
+        "MoneyPrinter0x",
+        "coin_casanova"
       ],
       "accounts_negative": [],
       "projects": [
@@ -1723,14 +1730,18 @@
         "RWAs",
         "embedded tokenized assets",
         "DeFi applications",
-        "memecoins"
+        "memecoins",
+        "DeFi rotation basket",
+        "AI-assisted crypto application building"
       ],
-      "summary": "MoneyPrinter0x interpreted Vlad Tenev's invitation for builders to embed stock tokens/RWAs as a return of the DeFi cycle and said DeFi can coexist with memecoins. This is one account's interpretation of a Robinhood integration outreach, not network consensus or a claim made by Vlad's source post.",
+      "summary": "MoneyPrinter0x interpreted Vlad Tenev's invitation for builders to embed stock tokens/RWAs as a return of the DeFi cycle and said DeFi can coexist with memecoins. This is one account's interpretation of a Robinhood integration outreach, not network consensus or a claim made by Vlad's source post. July 17 evidence adds coin_casanova’s dashboard-level DeFi rotation watch and MoneyPrinter0x’s broader crypto experimentation/capital-formation thesis; neither names a fresh protocol winner.",
       "evidence_urls": [
         "https://x.com/MoneyPrinter0x/status/2077360366997356875",
         "https://x.com/MoneyPrinter0x/status/2077361457482907908",
         "https://x.com/MoneyPrinter0x/status/2077364688632094905",
-        "https://x.com/vladtenev/status/2077266840477479424"
+        "https://x.com/vladtenev/status/2077266840477479424",
+        "https://x.com/coin_casanova/status/2078121890623914427",
+        "https://x.com/MoneyPrinter0x/status/2078032349896532148"
       ],
       "momentum": "new",
       "confidence": "low-medium",
@@ -1741,6 +1752,54 @@
           "url": "https://x.com/MoneyPrinter0x/status/2077361457482907908",
           "summary": "Read Robinhood builder outreach for embedded stock tokens/RWAs as a DeFi-cycle return; follow-up said memes and DeFi can coexist."
         }
+      ]
+    },
+    {
+      "theme": "Consumer crypto / neobank product traction",
+      "accounts_positive": [
+        "AustinBarack",
+        "0xGeeGee"
+      ],
+      "accounts_negative": [],
+      "projects": [
+        "ether.fi card",
+        "ETHFI"
+      ],
+      "summary": "Direct X/Twitter evidence only: 0xGeeGee previously accepted favorable ether.fi card fee/FX/cashback comparisons, while AustinBarack now argues accelerating card usage is durable and that ETHFI could be valued against global neobanks. Usage acceleration and re-rating remain author-reported rather than independently verified here.",
+      "evidence_urls": [
+        "https://x.com/0xGeeGee/status/2073741534374002986",
+        "https://x.com/AustinBarack/status/2077760810995118429",
+        "https://x.com/AustinBarack/status/2078178124143989019"
+      ],
+      "confidence": "medium",
+      "open_questions": [
+        "Do future ether.fi disclosures provide checkable card usage, revenue, CAC, margin, and retention KPIs supporting the neobank comparison?"
+      ]
+    },
+    {
+      "theme": "Token value capture: buybacks, burns, and founder alignment",
+      "accounts_positive": [
+        "AustinBarack",
+        "0xGeeGee"
+      ],
+      "accounts_negative": [
+        "airtightfish"
+      ],
+      "projects": [
+        "Venice / VVV",
+        "Hyperliquid / HYPE",
+        "Pump.fun / PUMP",
+        "ownership tokens"
+      ],
+      "summary": "Light cross-account bucket, not consensus: AustinBarack highlights source-close VVV burn/utility mechanisms; 0xGeeGee says buyback quality depends on rollout and trust; airtightfish stresses that high NAV/revenue multiples and founder disengagement can still leave holders with most downside.",
+      "evidence_urls": [
+        "https://x.com/AustinBarack/status/2078166484505809278",
+        "https://x.com/0xGeeGee/status/2077917719660539940",
+        "https://x.com/airtightfish/status/2078168797467553950"
+      ],
+      "confidence": "medium",
+      "open_questions": [
+        "Which token-value-capture mechanisms produce independently observable net demand after issuance, incentives, and founder/governance risk?"
       ]
     }
   ],
