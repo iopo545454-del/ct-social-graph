@@ -2,6 +2,25 @@
   {
     "date": "2026-07-17",
     "handle": "AustinBarack",
+    "type": "authored_post/venice_credit_burn_activation_and_vvv_setup",
+    "url": "https://x.com/AustinBarack/status/2078247940758409448",
+    "summary": "Connected Venice’s newly active inference-credit burn trigger to the prior pro-subscription burn mechanism, estimated credit-driven burns could be roughly twice as large, and compared the current VVV setup with an earlier HYPE pullback. A follow-up burn-tracker screenshot showed multiple recent CREDITS burns; the burn activity is observed evidence, while the scale estimate, chart support, and HYPE analogy are AustinBarack’s interpretation.",
+    "entities": [
+      "Venice",
+      "VVV",
+      "inference credits",
+      "burn tracker",
+      "token value capture"
+    ],
+    "why_logged": "Adds direct dashboard evidence that the inference-credit burn mechanism was active, extending the earlier source-close trigger announcement into observed execution.",
+    "confidence": "high",
+    "related_urls": [
+      "https://x.com/AustinBarack/status/2078249224987173082"
+    ]
+  },
+  {
+    "date": "2026-07-17",
+    "handle": "AustinBarack",
     "type": "quote/venice_inference_credit_burn_and_vvv_utility",
     "url": "https://x.com/AustinBarack/status/2078166484505809278",
     "summary": "Highlighted Venice’s new inference-credit buy-and-burn trigger, expanded VVV utility, and stated excess-cash-flow allocation to VVV, then argued the token remained underpriced. The core tokenomics update came from a source-close quoted post; valuation is AustinBarack’s opinion.",
