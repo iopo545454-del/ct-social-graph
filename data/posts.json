@@ -7115,5 +7115,28 @@
     "related_urls": [
       "https://x.com/MoneyPrinter0x/status/2078899596542333183"
     ]
+  },
+  {
+    "date": "2026-07-19",
+    "handle": "AustinBarack",
+    "type": "authored_post/vvv_credit_burn_followthrough_and_supply_setup",
+    "url": "https://x.com/AustinBarack/status/2078969612935340384",
+    "summary": "Said programmatic VVV buy-and-burn was up 3.2x after Venice added burns for API-credit purchases, then argued that cash-flow allocation, accelerating AI/privacy demand, and a recent trader washout create a strong supply-and-momentum setup. The credit-burn mechanism is live, but the 3.2x figure is AustinBarack’s dashboard calculation; majority-free-cash-flow intent, seller scarcity, and a quick return to all-time highs are his interpretation.",
+    "entities": [
+      "Venice",
+      "VVV",
+      "API credit burns",
+      "programmatic buy-and-burn",
+      "free cash flow",
+      "token supply",
+      "AI privacy"
+    ],
+    "why_logged": "A dated follow-through on the newly activated Venice credit-burn mechanism that adds an author-reported burn-rate change while keeping the price/supply thesis clearly labeled as interpretation.",
+    "confidence": "medium-high",
+    "related_urls": [
+      "https://x.com/AustinBarack/status/2078247940758409448",
+      "https://x.com/AustinBarack/status/2078249224987173082",
+      "https://x.com/JonShapeShift/status/2078163793901940826"
+    ]
   }
 ]
