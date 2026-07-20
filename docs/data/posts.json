@@ -1,5 +1,61 @@
 [
   {
+    "date": "2026-07-20",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/earnings_fomc_capex_positioning_map",
+    "url": "https://x.com/MoneyPrinter0x/status/2079186186074280123",
+    "summary": "Published a dated near-term equities map around Google and Apple earnings, a possible weekend geopolitical flush, the CXMT IPO, and FOMC communication, then disclosed staged bids in MU, INTC, HOOD, NVDA, and SPCX. Follow-ups said potential CXMT-driven selling of U.S. capex names may already have occurred and emphasized multiple overlapping catalysts. This is MoneyPrinter0x’s tactical scenario and positioning, not a verified forecast.",
+    "entities": [
+      "MU",
+      "INTC",
+      "HOOD",
+      "NVDA",
+      "SPCX",
+      "CXMT",
+      "Google earnings",
+      "Apple earnings",
+      "FOMC",
+      "AI capex"
+    ],
+    "why_logged": "Fresh, explicit calendar-and-positioning evidence that extends his event-driven AI-equity and macro process into the July earnings/FOMC week.",
+    "confidence": "high",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2079187685516951760",
+      "https://x.com/MoneyPrinter0x/status/2079187930262970671"
+    ]
+  },
+  {
+    "date": "2026-07-20",
+    "handle": "0xGeeGee",
+    "type": "authored_thread/weekly_ai_news_and_market_debrief",
+    "url": "https://x.com/0xGeeGee/status/2079153989334319472",
+    "summary": "Published a July 13–19 AI debrief spanning Grok zero-data-retention changes, an author-reported New York data-center pause, Thinking Machines’ Inkling, Kimi K3, delayed Gemini 3.5 Pro, NVIDIA physical-AI tooling, Anthropic compute/subscription developments, and Alibaba Qwen 3.8. His through-line was that Chinese/open-weight models are pressuring U.S. frontier labs while AI releases increasingly carry public-market implications. The event details and benchmarks are the author’s roundup and were not independently verified in this scan.",
+    "entities": [
+      "Grok ZDR",
+      "Inkling",
+      "Kimi K3",
+      "Gemini 3.5 Pro",
+      "NVIDIA physical AI",
+      "Anthropic",
+      "Qwen 3.8",
+      "open-weight models",
+      "AI market implications"
+    ],
+    "why_logged": "A high-context authored synthesis that consolidates GeeGee’s recurring model-cost, open-weight competition, data-safety, physical-AI, and AI-equity interests into a proposed recurring research series.",
+    "confidence": "medium-high",
+    "related_urls": [
+      "https://x.com/0xGeeGee/status/2079153991154536555",
+      "https://x.com/0xGeeGee/status/2079153992983339373",
+      "https://x.com/0xGeeGee/status/2079153994824614374",
+      "https://x.com/0xGeeGee/status/2079153997341159831",
+      "https://x.com/0xGeeGee/status/2079153999635484712",
+      "https://x.com/0xGeeGee/status/2079154002143674764",
+      "https://x.com/0xGeeGee/status/2079154005012590627",
+      "https://x.com/0xGeeGee/status/2079154007554326660",
+      "https://x.com/0xGeeGee/status/2079154009601163364"
+    ]
+  },
+  {
     "date": "2026-07-17",
     "handle": "AustinBarack",
     "type": "authored_post/venice_credit_burn_activation_and_vvv_setup",
