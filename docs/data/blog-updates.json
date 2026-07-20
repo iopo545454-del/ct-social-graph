@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-07-20T15:31:46Z",
+  "last_checked": "2026-07-20T19:32:26Z",
   "new_count": 1,
   "sources": [
     {
@@ -18,6 +18,11 @@
           "published": null
         },
         {
+          "title": "3 charts on the tokenized stocks boom",
+          "url": "https://a16zcrypto.com/posts/article/charts-tokenized-stocks",
+          "published": null
+        },
+        {
           "title": "7 Charts: Tokenized assets have proved the concept. Now comes the hard part.",
           "url": "https://a16zcrypto.com/posts/article/tokenized-asset-rwa-market-data-charts",
           "published": null
@@ -25,11 +30,6 @@
         {
           "title": "Arcade tokens: The most underappreciated token type",
           "url": "https://a16zcrypto.com/posts/article/arcade-tokens",
-          "published": null
-        },
-        {
-          "title": "After the foundation era: Tokens, policy, and startup structures",
-          "url": "https://a16zcrypto.com/posts/podcast/foundation-era-tokens-policy-startup-structures",
           "published": null
         },
         {
@@ -63,7 +63,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-20T15:31:43Z"
+      "checked_at": "2026-07-20T19:32:22Z"
     },
     {
       "name": "Multicoin Capital",
@@ -138,7 +138,7 @@
           "published": "Thu, 02 Oct 2025 00:00:00 GMT"
         }
       ],
-      "checked_at": "2026-07-20T15:31:43Z"
+      "checked_at": "2026-07-20T19:32:23Z"
     },
     {
       "name": "Pantera Blockchain Letter",
@@ -203,7 +203,7 @@
           "published": "Mon, 30 Jun 2025 14:48:37 +0000"
         }
       ],
-      "checked_at": "2026-07-20T15:31:44Z"
+      "checked_at": "2026-07-20T19:32:24Z"
     },
     {
       "name": "Paradigm",
@@ -276,7 +276,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-20T15:31:44Z"
+      "checked_at": "2026-07-20T19:32:24Z"
     },
     {
       "name": "Glassnode Research",
@@ -351,7 +351,7 @@
           "published": "Wed, 08 Jul 2026 15:05:33 GMT"
         }
       ],
-      "checked_at": "2026-07-20T15:31:44Z"
+      "checked_at": "2026-07-20T19:32:24Z"
     },
     {
       "name": "Delphi Digital",
@@ -374,7 +374,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-20T15:31:45Z"
+      "checked_at": "2026-07-20T19:32:24Z"
     },
     {
       "name": "Electric Capital",
@@ -386,7 +386,7 @@
       "error": null,
       "feed_urls": [],
       "items": [],
-      "checked_at": "2026-07-20T15:31:45Z"
+      "checked_at": "2026-07-20T19:32:25Z"
     },
     {
       "name": "Bankless",
@@ -459,7 +459,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-20T15:31:46Z"
+      "checked_at": "2026-07-20T19:32:25Z"
     },
     {
       "name": "Token Terminal",
@@ -532,7 +532,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-20T15:31:46Z"
+      "checked_at": "2026-07-20T19:32:26Z"
     }
   ],
   "articles": [
@@ -544,6 +544,16 @@
       "url": "https://a16zcrypto.com/posts/article/state-of-crypto-report-2025",
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
+      "source_url": "https://a16zcrypto.com/posts/"
+    },
+    {
+      "id": "faf348ddb438",
+      "source": "a16z crypto",
+      "tier": 1,
+      "title": "3 charts on the tokenized stocks boom",
+      "url": "https://a16zcrypto.com/posts/article/charts-tokenized-stocks",
+      "published": null,
+      "first_seen": "2026-07-20T19:32:26Z",
       "source_url": "https://a16zcrypto.com/posts/"
     },
     {
@@ -562,16 +572,6 @@
       "tier": 1,
       "title": "Arcade tokens: The most underappreciated token type",
       "url": "https://a16zcrypto.com/posts/article/arcade-tokens",
-      "published": null,
-      "first_seen": "2026-06-14T20:08:30Z",
-      "source_url": "https://a16zcrypto.com/posts/"
-    },
-    {
-      "id": "52848f71fa59",
-      "source": "a16z crypto",
-      "tier": 1,
-      "title": "After the foundation era: Tokens, policy, and startup structures",
-      "url": "https://a16zcrypto.com/posts/podcast/foundation-era-tokens-policy-startup-structures",
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://a16zcrypto.com/posts/"
@@ -1355,6 +1355,16 @@
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "52848f71fa59",
+      "source": "a16z crypto",
+      "tier": 1,
+      "title": "After the foundation era: Tokens, policy, and startup structures",
+      "url": "https://a16zcrypto.com/posts/podcast/foundation-era-tokens-policy-startup-structures",
+      "published": null,
+      "first_seen": "2026-06-14T20:08:30Z",
+      "source_url": "https://a16zcrypto.com/posts/"
     },
     {
       "id": "65ccac15944d",
