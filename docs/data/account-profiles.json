@@ -3935,9 +3935,9 @@
   {
     "handle": "kelxyz_",
     "period_start": "2026-05-14",
-    "period_end": "2026-07-07",
-    "profile_updated_at": "2026-07-07T16:20:00Z",
-    "taste_summary": "Observed X/Twitter evidence is thesis-heavy around AI/crypto protocols, especially Pluralis, inference-market timing, decentralized/model-parallel training, alternative financing for inference/compute aggregation, and cautious evaluation of incentivized inference designs. New June 19 evidence says Nock is 'in the running' while explicitly noting no current design is fully convincing yet. Latest June 23 evidence adds two source-close filters: skepticism toward CA-in-bio coins, and technical due diligence on whether consumer-GPU/sharded inference can actually deliver GLM 5.2-class performance at claimed discounts. Latest June 24 quote adds a TAM argument for decentralized training: a reported Reflection/SpaceX compute deal at ~$150M/month is used to push back on claims that decentralized training lacks enough demand if it scales. A new follow-up adds the key caveat: aggregating many weaker chips into frontier-scale training remains unproven, and the upside exists precisely because the equivalence is not yet known. Latest non-crypto June 24 post adds a style/culture layer: he framed status markets around wealth, fitness, and hard-to-fake revolutionary action, which fits the account’s broader mimetic/reflexivity analysis but is not project evidence. Latest June 25 evidence adds an inference-demand adoption lens: he is constructive on more inference calls over time, but separates that from unresolved local-vs-cloud and robotics-adoption questions. Latest July 1 quote reinforces high-conviction Pluralis attention: he described Pluralis Workshop / ICLR material on collectively owned AI, distributed training, low-bandwidth parallelism, and unextractable models as deep alpha. Latest July 1 evidence added a compute-tokenomics design filter: he prefers discretionary issuance/no max supply/automated burns for early compute protocols and is wary of Bitcoin-style proof-of-useful-work creating low-quality work capture and overhangs. Latest July 2 Pluralis post sharply raises conviction language, calling Pluralis the spiritual successor to Bitcoin and Ethereum after prior workshop and compute-tokenomics evidence. July 5 adds light governance/ownership-design color: a MetaDAO/crowdsourced-capital idea for employee-owned gemstone mines, which fits the long-horizon institutional-design style but is not yet project conviction. Latest July 5 evidence is profile/style rather than project diligence: he floated a bucket-list diamond/rare-gemstone mine made employee-owned with crowdsourced capital through a MetaDAO-style structure, consistent with his taste for unusual ownership/governance experiments. July 6 adds two style/risk datapoints: he reacted to AI/new-era writing as materially disruptive to personal life-path planning, and generalized zero-day thinking from cyber into bio, infrastructure, neuro, memetics, and physics; treat both as culture/risk lens evidence, not project conviction. July 6 long reply deepens the AI-acceleration/culture layer: he treated automation of intelligence, engineered psychologies, and edge-case futures as serious enough to force personal strategy redesign, while still not tying the idea to a token/project. July 7 quote adds an open-model access fragility point: possible Chinese restrictions on overseas open-weight/frontier model access make cutting-edge open source access look spurious.",
+    "period_end": "2026-07-20",
+    "profile_updated_at": "2026-07-20T22:03:04Z",
+    "taste_summary": "Observed X/Twitter evidence is thesis-heavy around AI/crypto protocols, especially Pluralis, inference-market timing, decentralized/model-parallel training, alternative financing for inference/compute aggregation, and cautious evaluation of incentivized inference designs. New June 19 evidence says Nock is 'in the running' while explicitly noting no current design is fully convincing yet. Latest June 23 evidence adds two source-close filters: skepticism toward CA-in-bio coins, and technical due diligence on whether consumer-GPU/sharded inference can actually deliver GLM 5.2-class performance at claimed discounts. Latest June 24 quote adds a TAM argument for decentralized training: a reported Reflection/SpaceX compute deal at ~$150M/month is used to push back on claims that decentralized training lacks enough demand if it scales. A new follow-up adds the key caveat: aggregating many weaker chips into frontier-scale training remains unproven, and the upside exists precisely because the equivalence is not yet known. Latest non-crypto June 24 post adds a style/culture layer: he framed status markets around wealth, fitness, and hard-to-fake revolutionary action, which fits the account’s broader mimetic/reflexivity analysis but is not project evidence. Latest June 25 evidence adds an inference-demand adoption lens: he is constructive on more inference calls over time, but separates that from unresolved local-vs-cloud and robotics-adoption questions. Latest July 1 quote reinforces high-conviction Pluralis attention: he described Pluralis Workshop / ICLR material on collectively owned AI, distributed training, low-bandwidth parallelism, and unextractable models as deep alpha. Latest July 1 evidence added a compute-tokenomics design filter: he prefers discretionary issuance/no max supply/automated burns for early compute protocols and is wary of Bitcoin-style proof-of-useful-work creating low-quality work capture and overhangs. Latest July 2 Pluralis post sharply raises conviction language, calling Pluralis the spiritual successor to Bitcoin and Ethereum after prior workshop and compute-tokenomics evidence. July 5 adds light governance/ownership-design color: a MetaDAO/crowdsourced-capital idea for employee-owned gemstone mines, which fits the long-horizon institutional-design style but is not yet project conviction. Latest July 5 evidence is profile/style rather than project diligence: he floated a bucket-list diamond/rare-gemstone mine made employee-owned with crowdsourced capital through a MetaDAO-style structure, consistent with his taste for unusual ownership/governance experiments. July 6 adds two style/risk datapoints: he reacted to AI/new-era writing as materially disruptive to personal life-path planning, and generalized zero-day thinking from cyber into bio, infrastructure, neuro, memetics, and physics; treat both as culture/risk lens evidence, not project conviction. July 6 long reply deepens the AI-acceleration/culture layer: he treated automation of intelligence, engineered psychologies, and edge-case futures as serious enough to force personal strategy redesign, while still not tying the idea to a token/project. July 7 quote adds an open-model access fragility point: possible Chinese restrictions on overseas open-weight/frontier model access make cutting-edge open source access look spurious. Latest July 20 evidence adds two durable-incentive filters: skepticism that open-weight post-training businesses remain open once a model/platform becomes dominant, and a long-run preference for Bitcoin survivorship over most of a highly levered AI buildout despite near-term liquidity and energy competition.",
     "likes": [
       {
         "theme": "Pluralis and model-parallel decentralized training",
@@ -4040,6 +4040,14 @@
           "https://x.com/i/status/2072859713205580172"
         ],
         "confidence": "low"
+      },
+      {
+        "theme": "Bitcoin survivorship relative to a levered AI buildout",
+        "summary": "Against a quoted near-term BTC headwind argument, said Bitcoin is likelier to survive long term than most of the AI complex because highly levered runs eventually wipe out. This is relative survivorship framing, not a near-term BTC catalyst call; the 95% figure is rhetorical opinion.",
+        "evidence_urls": [
+          "https://x.com/kelxyz_/status/2079274612660093423"
+        ],
+        "confidence": "medium-high"
       }
     ],
     "dislikes": [
@@ -4066,6 +4074,15 @@
           "https://x.com/kelxyz_/status/2069445414302961694"
         ],
         "confidence": "medium"
+      },
+      {
+        "theme": "Open-weight businesses without durable creator incentives",
+        "summary": "Argued that model creators or dominant post-training platforms may eventually close weights, raise prices, or internalize downstream value, undermining businesses that assume portable open access persists indefinitely.",
+        "evidence_urls": [
+          "https://x.com/kelxyz_/status/2079266108381503836",
+          "https://x.com/kelxyz_/status/2079282455715123479"
+        ],
+        "confidence": "high"
       }
     ],
     "projects_mentioned": [
@@ -4140,6 +4157,25 @@
         "evidence_urls": [
           "https://x.com/kelxyz_/status/2073849126379196842"
         ]
+      },
+      {
+        "name": "Bitcoin / BTC",
+        "handle": null,
+        "stance": "positive relative long-term survivorship",
+        "summary": "Said BTC is more likely to survive long term than most of the highly levered AI complex, while quoting but not directly denying near-term liquidity and mining-energy competition.",
+        "evidence_urls": [
+          "https://x.com/kelxyz_/status/2079274612660093423"
+        ]
+      },
+      {
+        "name": "Think / open-weight post-training platforms",
+        "handle": null,
+        "stance": "skeptical on durable openness",
+        "summary": "Used a hypothetical dominant post-training platform to argue that success may create an incentive to close its own weights and force users through the paid platform.",
+        "evidence_urls": [
+          "https://x.com/kelxyz_/status/2079266108381503836",
+          "https://x.com/kelxyz_/status/2079282455715123479"
+        ]
       }
     ],
     "people_respected": [
@@ -4152,10 +4188,13 @@
       },
       {
         "handle": "chamath",
-        "why": "Tagged him on a prior long-form piece saying they share a similar endgame view; one evidence point only.",
+        "why": "Repeated substantive source/attention edge: an earlier shared-endgame reference and a July 20 quote engaging Chamath's BTC liquidity/energy argument with a distinct long-run survivorship counterpoint. Repeated attention supports Tier 2 tracking, not blanket endorsement.",
         "evidence_urls": [
-          "https://x.com/kelxyz_/status/2064040097175974066"
-        ]
+          "https://x.com/kelxyz_/status/2064040097175974066",
+          "https://x.com/kelxyz_/status/2079274612660093423",
+          "https://x.com/chamath/status/2078881723555647642"
+        ],
+        "confidence": "medium"
       },
       {
         "handle": "AlgodTrading",
@@ -4191,7 +4230,9 @@
       "Track whether kelxyz_ repeats the flexible-issuance/automated-burns compute-tokenomics preference or applies it to a named protocol launch.",
       "Track whether kelxyz_ mentions MetaDAO again as a serious governance/capital-formation primitive or whether the gemstone-mine post remains aspirational color.",
       "Whether kelxyz_ treats MetaDAO-style real-world ownership experiments as investable theses or mainly as imaginative coordination/design exercises.",
-      "Track whether kelxyz_ turns the edge-case-futures / life-strategy thread into concrete project or people recommendations, or whether it remains personal/futurist style evidence."
+      "Track whether kelxyz_ turns the edge-case-futures / life-strategy thread into concrete project or people recommendations, or whether it remains personal/futurist style evidence.",
+      "Track whether kelxyz_'s open-weight closure-incentive critique changes his Pluralis/decentralized-training thesis or mainly applies to centralized post-training platforms.",
+      "Track whether kelxyz_'s BTC-over-levered-AI survivorship framing becomes an allocation view or remains one long-horizon quote-post contrast."
     ],
     "evidence_urls": [
       "https://x.com/kelxyz_/status/2065782384616780175",
@@ -4216,7 +4257,10 @@
       "https://x.com/kelxyz_/status/2072727899921076336",
       "https://x.com/i/status/2072859713205580172",
       "https://x.com/kelxyz_/status/2073849126379196842",
-      "https://x.com/kelxyz_/status/2074156249722061190"
+      "https://x.com/kelxyz_/status/2074156249722061190",
+      "https://x.com/kelxyz_/status/2079266108381503836",
+      "https://x.com/kelxyz_/status/2079274612660093423",
+      "https://x.com/kelxyz_/status/2079282455715123479"
     ],
     "respected_people": [
       {

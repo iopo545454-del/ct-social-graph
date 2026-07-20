@@ -1,6 +1,46 @@
 [
   {
     "date": "2026-07-20",
+    "handle": "kelxyz_",
+    "type": "quote/btc_survivorship_vs_levered_ai_complex",
+    "url": "https://x.com/kelxyz_/status/2079274612660093423",
+    "summary": "Quoted Chamath's structural Bitcoin headwind argument but reframed the long horizon in BTC's favor: he expects Bitcoin to outlast most of the AI complex because highly levered buildout cycles eventually suffer wipeouts. The '95%' figure is rhetorical author opinion; Chamath's quoted 10–20x energy-value comparison was not independently verified.",
+    "entities": [
+      "Bitcoin",
+      "BTC",
+      "AI infrastructure",
+      "leverage",
+      "survivorship"
+    ],
+    "why_logged": "Adds a clear long-duration relative preference: near-term AI capital/energy competition does not override Bitcoin survivorship versus a levered AI buildout.",
+    "confidence": "medium-high",
+    "related_urls": [
+      "https://x.com/chamath/status/2078881723555647642"
+    ]
+  },
+  {
+    "date": "2026-07-20",
+    "handle": "kelxyz_",
+    "type": "authored_post/open_weight_business_model_incentive_risk",
+    "url": "https://x.com/kelxyz_/status/2079266108381503836",
+    "summary": "Argued that businesses built on open-weight models face a durability problem because successful model creators may eventually close access, raise prices, or internalize downstream value. In a follow-up he used a dominant post-training platform as the test case: closing its own weights could force users through the paid platform rather than leave training portable.",
+    "entities": [
+      "open-weight models",
+      "post-training",
+      "Think",
+      "model creators",
+      "value capture",
+      "platform incentives"
+    ],
+    "why_logged": "A substantive incentive-design caveat to his otherwise constructive open/decentralized AI thesis, focused on durable business-model control rather than model quality.",
+    "confidence": "high",
+    "related_urls": [
+      "https://x.com/kelxyz_/status/2079282455715123479",
+      "https://x.com/Saypien/status/2079277085042831785"
+    ]
+  },
+  {
+    "date": "2026-07-20",
     "handle": "AustinBarack",
     "type": "authored_post/grass_h2_data_demand_and_lcr_setup",
     "url": "https://x.com/AustinBarack/status/2079247953189814689",

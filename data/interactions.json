@@ -1,5 +1,34 @@
 [
   {
+    "from": "kelxyz_",
+    "to": "Saypien",
+    "to_kind": "individual",
+    "type": "reply/open_weight_post_training_platform_closure_incentive",
+    "date": "2026-07-20",
+    "url": "https://x.com/kelxyz_/status/2079282455715123479",
+    "summary": "Challenged Saypien's argument that an open foundation model can sustainably attract paid post-training customers: if the platform became dominant, kelxyz_ argued it could prefer closing its weights so users must route training through the platform. This was thoughtful disagreement, not endorsement.",
+    "quality": "medium-high",
+    "created_tier2_candidate": true,
+    "related_urls": [
+      "https://x.com/Saypien/status/2079277085042831785"
+    ]
+  },
+  {
+    "from": "kelxyz_",
+    "to": "chamath",
+    "to_kind": "individual",
+    "type": "quote/btc_survivorship_vs_ai_leverage",
+    "date": "2026-07-20",
+    "url": "https://x.com/kelxyz_/status/2079274612660093423",
+    "summary": "Quoted Chamath's argument that prediction/equity markets compete for marginal liquidity and AI workloads compete for mining energy, then countered with a longer-horizon view that BTC is likelier to survive than most of the levered AI complex. Chamath's 10–20x energy comparison and kelxyz_'s 95% framing are unverified source opinions.",
+    "quality": "medium-high",
+    "created_tier2_candidate": false,
+    "promoted_tier2": true,
+    "related_urls": [
+      "https://x.com/chamath/status/2078881723555647642"
+    ]
+  },
+  {
     "from": "MoneyPrinter0x",
     "to": "playerwunza",
     "to_kind": "individual",

@@ -203,5 +203,17 @@
       "https://x.com/kelxyz_/status/2073849126379196842",
       "https://x.com/coin_casanova/status/2078819395200262530"
     ]
+  },
+  {
+    "handle": "chamath",
+    "tier": 2,
+    "kind": "individual",
+    "status": "tracked",
+    "reason": "Repeated substantive kelxyz_ attention: shared endgame framing plus a July 20 quote engaging Chamath's BTC liquidity/energy thesis with a BTC-versus-levered-AI survivorship counterpoint.",
+    "evidence_urls": [
+      "https://x.com/kelxyz_/status/2064040097175974066",
+      "https://x.com/kelxyz_/status/2079274612660093423",
+      "https://x.com/chamath/status/2078881723555647642"
+    ]
   }
 ]

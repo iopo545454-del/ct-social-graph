@@ -1,5 +1,18 @@
 [
   {
+    "handle": "Saypien",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "kelxyz_ open-weight/post-training business-model debate",
+    "reason": "kelxyz_ gave a substantive counterargument to Saypien's defense of open-weight post-training businesses. One thoughtful disagreement edge only, so keep as a low-confidence candidate rather than Tier 2.",
+    "evidence_urls": [
+      "https://x.com/kelxyz_/status/2079282455715123479",
+      "https://x.com/Saypien/status/2079277085042831785"
+    ],
+    "first_seen": "2026-07-20",
+    "confidence": "low"
+  },
+  {
     "handle": "JonShapeShift",
     "kind": "individual",
     "status": "candidate",
@@ -566,14 +579,17 @@
   {
     "handle": "chamath",
     "kind": "individual",
-    "status": "candidate",
-    "source": "kelxyz_ tag on shared endgame view",
-    "reason": "Tagged by kelxyz_ as sharing a similar endgame view; one evidence point, needs follow-up before treating as respected edge.",
+    "status": "promoted_to_tier2",
+    "source": "Repeated kelxyz_ attention on shared endgame framing and BTC-versus-AI structural survivorship",
+    "reason": "Promoted after a second substantive kelxyz_ edge: an earlier shared-endgame reference plus the July 20 quote that engaged Chamath's Bitcoin liquidity/energy thesis and added a distinct BTC-versus-levered-AI survivorship view.",
     "evidence_urls": [
-      "https://x.com/kelxyz_/status/2064040097175974066"
+      "https://x.com/kelxyz_/status/2064040097175974066",
+      "https://x.com/kelxyz_/status/2079274612660093423",
+      "https://x.com/chamath/status/2078881723555647642"
     ],
     "first_seen": "2026-06-14",
-    "confidence": "low"
+    "confidence": "medium",
+    "promoted_at": "2026-07-20"
   },
   {
     "handle": "worldcoin",
