@@ -2,9 +2,9 @@
   {
     "handle": "coin_casanova",
     "period_start": "2026-05-14",
-    "period_end": "2026-07-19",
-    "profile_updated_at": "2026-07-19T19:12:12Z",
-    "taste_summary": "Observed X/Twitter evidence shows a short-horizon trader focused on low-float/FDV-style setups, hedging, rotation, options, and relative-value framing between crypto and equities. Interpretation confidence is medium because the scan found several original posts but few substantive replies. Latest June 24 CARDS/Collector Crypt post adds a more fundamental project-analysis mode: he can like an illiquid token setup while still requiring tokenholder accrual proof, better liquidity/volume, and cleaner technical support before chasing. Later June 24 follow-ups add a relative AI-token vehicle filter: fade crowded VVV/news-pump behavior, watch whether POD has real substance, and prefer GRASS as a near-term AI/data-token trade into a July catalyst. Latest June 27 evidence extends the GRASS/POD AI-token vehicle filter: he compared GRASS with XPL and framed GRASS as a surprise-heavy July-call/earnings-style catalyst while XPL depends more on locked-supply tracking. June 28 reply-level evidence extends the Derive/options thesis: he defended DRV as fair/slightly undervalued through options-volume growth, real usage, and higher buyback share, while stressing small initial sizing and volume-confirmed scale-up. Latest June 28 CARDS update shifts the near-term read toward reset/risk management: he still tracks Collector Crypt fundamentals, but says the trend needs time/price/volatility to transfer supply to stronger hands and explicitly prioritizes mental health over holding large losses. Latest June 29 CARDS update keeps Collector Crypt active but not chaseable: he argues AI-slop bearish takes are late/low-quality, repeats the real diligence variables (gacha growth, buybacks/value accrual, whale dilution, P2P volume, OTC absorption), and still wants a short-term reset. Latest July 1 CARDS reply reinforced the same discipline: much is priced in and new catalyst/liquidity is needed. A separate robotics reply shows him checking whether a trade is really China-equity beta rather than the headline robotics narrative. Latest July 1 Derive update keeps DRV active with a measurable weekly-volume/product-catalyst framework: mid-July volume acceleration, Derive v3, 0DTE, and retail UX are the variables to watch. Latest July 17 evidence extends the dashboard/process layer into a DeFi-rotation watch and tests whether a DeepSeek-led AI bear case would spill into healthcare and financials rather than remain sector-specific. July 19 adds a two-sided ownership-coin thesis: renewed MetaDAO interest, a disclosed CREDB position, an author-reported Credible Finance revenue run-rate, and explicit liquidity/prior-backer-demand caveats.",
+    "period_end": "2026-07-20",
+    "profile_updated_at": "2026-07-20T08:20:26Z",
+    "taste_summary": "Observed X/Twitter evidence shows a short-horizon trader focused on low-float/FDV-style setups, hedging, rotation, options, and relative-value framing between crypto and equities. Interpretation confidence is medium because the scan found several original posts but few substantive replies. Latest June 24 CARDS/Collector Crypt post adds a more fundamental project-analysis mode: he can like an illiquid token setup while still requiring tokenholder accrual proof, better liquidity/volume, and cleaner technical support before chasing. Later June 24 follow-ups add a relative AI-token vehicle filter: fade crowded VVV/news-pump behavior, watch whether POD has real substance, and prefer GRASS as a near-term AI/data-token trade into a July catalyst. Latest June 27 evidence extends the GRASS/POD AI-token vehicle filter: he compared GRASS with XPL and framed GRASS as a surprise-heavy July-call/earnings-style catalyst while XPL depends more on locked-supply tracking. June 28 reply-level evidence extends the Derive/options thesis: he defended DRV as fair/slightly undervalued through options-volume growth, real usage, and higher buyback share, while stressing small initial sizing and volume-confirmed scale-up. Latest June 28 CARDS update shifts the near-term read toward reset/risk management: he still tracks Collector Crypt fundamentals, but says the trend needs time/price/volatility to transfer supply to stronger hands and explicitly prioritizes mental health over holding large losses. Latest June 29 CARDS update keeps Collector Crypt active but not chaseable: he argues AI-slop bearish takes are late/low-quality, repeats the real diligence variables (gacha growth, buybacks/value accrual, whale dilution, P2P volume, OTC absorption), and still wants a short-term reset. Latest July 1 CARDS reply reinforced the same discipline: much is priced in and new catalyst/liquidity is needed. A separate robotics reply shows him checking whether a trade is really China-equity beta rather than the headline robotics narrative. Latest July 1 Derive update keeps DRV active with a measurable weekly-volume/product-catalyst framework: mid-July volume acceleration, Derive v3, 0DTE, and retail UX are the variables to watch. Latest July 17 evidence extends the dashboard/process layer into a DeFi-rotation watch and tests whether a DeepSeek-led AI bear case would spill into healthcare and financials rather than remain sector-specific. July 19 adds a two-sided ownership-coin thesis: renewed MetaDAO interest, a disclosed CREDB position, an author-reported Credible Finance revenue run-rate, and explicit liquidity/prior-backer-demand caveats. July 20 follow-up keeps GRASS inside the ownership-coin thesis while marking the recent holder call as a weak catalyst because, in his assessment, it lacked revenue guidance, token updates, and a marketing push.",
     "likes": [
       {
         "theme": "Low-float speculative setups with clear leaders",
@@ -72,9 +72,10 @@
       },
       {
         "theme": "Revenue-backed ownership coins with explicit liquidity diligence",
-        "summary": "Renewed interest in MetaDAO’s equity-token model and disclosed holding CREDB/Credible Finance, while explicitly treating fragmented liquidity, meme competition, and weak prior-backer demand as the anti-thesis. The cited $3.5M run-rate and wallet statistic are author-reported.",
+        "summary": "Renewed interest in MetaDAO’s equity-token model and disclosed holding CREDB/Credible Finance, while explicitly treating fragmented liquidity, meme competition, and weak prior-backer demand as the anti-thesis. The cited $3.5M run-rate and wallet statistic are author-reported. July 20 follow-up placed GRASS in the same ownership-coin framework but treated its recent holder call as a weak catalyst because he saw no revenue projection, token update, or marketing push.",
         "evidence_urls": [
-          "https://x.com/coin_casanova/status/2078819395200262530"
+          "https://x.com/coin_casanova/status/2078819395200262530",
+          "https://x.com/coin_casanova/status/2079061449734005179"
         ],
         "confidence": "medium-high"
       }
@@ -173,11 +174,12 @@
       {
         "name": "GRASS",
         "handle": "getgrass_io",
-        "stance": "positive/watchlist",
-        "summary": "Previously named GRASS as preferred AI-token vehicle into a possible July catalyst; June 27 follow-up compares GRASS with XPL and frames the GRASS call as an earnings-like surprise catalyst where outcome uncertainty is the core trade.",
+        "stance": "positive framework / disappointed with latest call",
+        "summary": "Previously named GRASS as preferred AI-token vehicle into a possible July catalyst; June 27 follow-up compared GRASS with XPL and framed the call as an earnings-like surprise catalyst. July 20 post-call reply said GRASS still fits the ownership-coin framework but judged the call negatively because he saw no revenue projection, token-related update, or marketing push.",
         "evidence_urls": [
           "https://x.com/coin_casanova/status/2069734548959793603",
-          "https://x.com/coin_casanova/status/2070696084243136646"
+          "https://x.com/coin_casanova/status/2070696084243136646",
+          "https://x.com/coin_casanova/status/2079061449734005179"
         ]
       },
       {
@@ -235,7 +237,8 @@
       "Track whether coin_casanova keeps using CARDS updates to separate low-quality AI-generated criticism from real tokenholder-accrual/liquidity diligence, or whether attention fades after the reset.",
       "Track whether coin_casanova's robotics/China-equity beta question becomes a repeated filter for physical-AI trades or remains one reply.",
       "Track whether the July 17 DeFi-rotation watch becomes a named protocol/basket trade or remains a dashboard-level question.",
-      "Track whether coin_casanova updates CREDB with verifiable revenue, holder-distribution, and liquidity evidence after disclosing a position."
+      "Track whether coin_casanova updates CREDB with verifiable revenue, holder-distribution, and liquidity evidence after disclosing a position.",
+      "Track whether GRASS later supplies the revenue guidance, token updates, or marketing push that coin_casanova said were missing from the recent holder call."
     ],
     "evidence_urls": [
       "https://x.com/coin_casanova/status/2065438838546477385",
@@ -261,7 +264,8 @@
       "https://x.com/coin_casanova/status/2072183830547677679",
       "https://x.com/coin_casanova/status/2078106679787606204",
       "https://x.com/coin_casanova/status/2078121890623914427",
-      "https://x.com/coin_casanova/status/2078819395200262530"
+      "https://x.com/coin_casanova/status/2078819395200262530",
+      "https://x.com/coin_casanova/status/2079061449734005179"
     ]
   },
   {

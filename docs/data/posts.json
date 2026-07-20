@@ -7138,5 +7138,26 @@
       "https://x.com/AustinBarack/status/2078249224987173082",
       "https://x.com/JonShapeShift/status/2078163793901940826"
     ]
+  },
+  {
+    "date": "2026-07-20",
+    "handle": "coin_casanova",
+    "type": "reply/grass_ownership_coin_fit_and_holder_call_critique",
+    "url": "https://x.com/coin_casanova/status/2079061449734005179",
+    "summary": "Said GRASS fits the ownership-coin framework, while criticizing the recent holder call for having no revenue projection, token-related update, or marketing push. The call-quality judgment and claimed omissions are coin_casanova’s source-close assessment rather than independently verified findings.",
+    "entities": [
+      "GRASS",
+      "ownership coins",
+      "holder call",
+      "revenue projections",
+      "token updates",
+      "marketing"
+    ],
+    "why_logged": "Adds a dated post-call update to his earlier GRASS catalyst thesis and separates long-term ownership-coin fit from disappointment with the near-term disclosure/catalyst quality.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/chamathsintern/status/2078879675309264996",
+      "https://x.com/coin_casanova/status/2078819395200262530"
+    ]
   }
 ]

@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
-  "period_end": "2026-07-19",
-  "profile_updated_at": "2026-07-19T23:29:34Z",
+  "period_end": "2026-07-20",
+  "profile_updated_at": "2026-07-20T08:20:26Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -1709,15 +1709,18 @@
         "post-launch buyer structure",
         "Credible Finance / CREDB",
         "revenue-generating ownership coins",
-        "equity x token"
+        "equity x token",
+        "GRASS as ownership coin",
+        "GRASS holder-call disclosure quality"
       ],
-      "summary": "July 5 kelxyz_ evidence used MetaDAO as an aspirational mechanism for crowdsourced capital ownership of employee-owned diamond/rare-gemstone mines. Airtightfish adds a more practical mechanism-design layer: after earlier valuation and adverse-selection diligence, his July 14 replies said guaranteed fund allocations can disadvantage his own entry while still helping founders, then used $LASO's fully filled/unlocked participants to explain a weak immediate open-market buyer base. This is light, mixed-purpose evidence rather than broad MetaDAO consensus. July 19 coin_casanova adds an investable/valuation angle: he renewed interest in MetaDAO, disclosed holding CREDB/Credible Finance, cited an unverified revenue run-rate, and explicitly documented fragmented-liquidity and prior-backer-demand risks.",
+      "summary": "July 5 kelxyz_ evidence used MetaDAO as an aspirational mechanism for crowdsourced capital ownership of employee-owned diamond/rare-gemstone mines. Airtightfish adds a more practical mechanism-design layer: after earlier valuation and adverse-selection diligence, his July 14 replies said guaranteed fund allocations can disadvantage his own entry while still helping founders, then used $LASO's fully filled/unlocked participants to explain a weak immediate open-market buyer base. This is light, mixed-purpose evidence rather than broad MetaDAO consensus. July 19 coin_casanova adds an investable/valuation angle: he renewed interest in MetaDAO, disclosed holding CREDB/Credible Finance, cited an unverified revenue run-rate, and explicitly documented fragmented-liquidity and prior-backer-demand risks. July 20 follow-up broadened his ownership-coin framing to GRASS while separating long-term fit from a disappointing holder call; the claimed lack of revenue guidance, token updates, and marketing is his assessment rather than independently verified here.",
       "evidence_urls": [
         "https://x.com/kelxyz_/status/2073849126379196842",
         "https://x.com/airtightfish/status/2074522131338080694",
         "https://x.com/airtightfish/status/2076848785083548068",
         "https://x.com/airtightfish/status/2076868030156648483",
-        "https://x.com/coin_casanova/status/2078819395200262530"
+        "https://x.com/coin_casanova/status/2078819395200262530",
+        "https://x.com/coin_casanova/status/2079061449734005179"
       ],
       "momentum": "rising",
       "confidence": "medium",
@@ -1727,6 +1730,12 @@
           "date": "2026-07-19",
           "url": "https://x.com/coin_casanova/status/2078819395200262530",
           "summary": "Disclosed a CREDB position and framed Credible Finance as the strongest current ownership-coin test, while listing liquidity and prior-backer-demand caveats."
+        },
+        {
+          "account": "coin_casanova",
+          "date": "2026-07-20",
+          "url": "https://x.com/coin_casanova/status/2079061449734005179",
+          "summary": "Kept GRASS inside the ownership-coin framework but called the recent holder call weak for lacking revenue guidance, token updates, and a marketing push; all three omissions are the author’s assessment."
         }
       ]
     },

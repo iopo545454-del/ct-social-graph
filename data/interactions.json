@@ -1,5 +1,20 @@
 [
   {
+    "from": "coin_casanova",
+    "to": "chamathsintern",
+    "to_kind": "individual",
+    "type": "reply/grass_ownership_coin_fit_and_holder_call_critique",
+    "date": "2026-07-20",
+    "url": "https://x.com/coin_casanova/status/2079061449734005179",
+    "summary": "Clarified that GRASS still fits his ownership-coin framework, but judged the recent holder call negatively because it supplied no revenue projection, token-related update, or marketing push. These are coin_casanova’s assessments of the call, not independently verified facts.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/chamathsintern/status/2078879675309264996",
+      "https://x.com/coin_casanova/status/2078819395200262530"
+    ]
+  },
+  {
     "from": "AustinBarack",
     "to": "JonShapeShift",
     "to_kind": "individual",
