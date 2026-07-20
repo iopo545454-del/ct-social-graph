@@ -210,7 +210,7 @@
     "kind": "project",
     "status": "candidate",
     "source": "CryptoTomYT and MoneyPrinter0x Robinhood-chain meme/ratio posts",
-    "reason": "Both CryptoTomYT and MoneyPrinter0x highlighted CASHCAT as an early Robinhood-chain meme candidate. July 10 MoneyPrinter0x follow-ups added breadth and then a heavy-ask-side/weekend-risk warning; his July 11 quote said that ask-side / single-sided liquidity had since thinned significantly. Later July 11 replies explicitly questioned historical skew and Uniswap v3 tick effects and said the full onchain history was under review. This remains high-risk market-structure attention rather than a durable project thesis, so keep as candidate only. July 15 follow-up materially weakened the live read: MoneyPrinter0x said he had round-tripped hard and would derisk if strength did not return within 24-36 hours, then potentially rebuild through a longer-term TWAP.",
+    "reason": "Both CryptoTomYT and MoneyPrinter0x highlighted CASHCAT as an early Robinhood-chain meme candidate. July 10 MoneyPrinter0x follow-ups added breadth and then a heavy-ask-side/weekend-risk warning; his July 11 quote said that ask-side / single-sided liquidity had since thinned significantly. Later July 11 replies explicitly questioned historical skew and Uniswap v3 tick effects and said the full onchain history was under review. This remains high-risk market-structure attention rather than a durable project thesis, so keep as candidate only. After a July 15 conditional-derisk warning, MoneyPrinter0x disclosed adding again on July 20 and linked the wider basket to Robinhood’s onchain ecosystem push; this reactivates the setup without improving project-quality confidence.",
     "evidence_urls": [
       "https://x.com/CryptoTomYT/status/2074746297832353843",
       "https://x.com/MoneyPrinter0x/status/2074808549948162442",
@@ -222,7 +222,9 @@
       "https://x.com/MoneyPrinter0x/status/2075986978940796965",
       "https://x.com/MoneyPrinter0x/status/2076014661745738095",
       "https://x.com/MoneyPrinter0x/status/2076028506610586030",
-      "https://x.com/MoneyPrinter0x/status/2077478725650989225"
+      "https://x.com/MoneyPrinter0x/status/2077478725650989225",
+      "https://x.com/MoneyPrinter0x/status/2079196288168624478",
+      "https://x.com/MoneyPrinter0x/status/2079208787567935941"
     ],
     "first_seen": "2026-07-08",
     "confidence": "low-medium"

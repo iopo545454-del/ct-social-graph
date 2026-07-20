@@ -1,5 +1,50 @@
 [
   {
+    "from": "MoneyPrinter0x",
+    "to": "playerwunza",
+    "to_kind": "individual",
+    "type": "quote/robinhood_chain_lowcap_opportunity_and_disclosure_boundary",
+    "date": "2026-07-20",
+    "url": "https://x.com/MoneyPrinter0x/status/2079208787567935941",
+    "summary": "Quoted a question about other Robinhood Chain positions and said he was buying several onchain plays but would not disclose the smallest names publicly because their market caps were too low; framed Robinhood’s ecosystem investment and push as the underlying opportunity. This is MoneyPrinter0x’s speculative view.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/playerwunza/status/2079197744023908554",
+      "https://x.com/MoneyPrinter0x/status/2079208011055370570"
+    ]
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "XtineFang",
+    "to_kind": "individual",
+    "type": "reply/spcx_conditional_unlock_and_event_confluence",
+    "date": "2026-07-20",
+    "url": "https://x.com/MoneyPrinter0x/status/2079199413038362865",
+    "summary": "Explained that his SPCX exposure centered on a roughly 10% conditional tranche unlock above a stated price/time threshold, which he believed had not yet been priced, alongside earnings, sentiment, and FOMC catalysts. The unlock terms and expected value were not independently verified in this scan.",
+    "quality": "medium-high",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/XtineFang/status/2079196163790733408",
+      "https://x.com/MoneyPrinter0x/status/2079186186074280123"
+    ]
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "SBluelink",
+    "to_kind": "individual",
+    "type": "reply/korea_capex_as_lagging_us_capex_beta",
+    "date": "2026-07-20",
+    "url": "https://x.com/MoneyPrinter0x/status/2079188960698564818",
+    "summary": "Answered a Korea-capex question by treating Korean names as amplified, lagging beta to U.S. capex and saying he preferred the U.S. alpha exposures before rotating into laggards.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/SBluelink/status/2079188270441795981",
+      "https://x.com/MoneyPrinter0x/status/2079186186074280123"
+    ]
+  },
+  {
     "from": "coin_casanova",
     "to": "chamathsintern",
     "to_kind": "individual",

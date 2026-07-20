@@ -1,10 +1,59 @@
 [
   {
     "date": "2026-07-20",
+    "handle": "AustinBarack",
+    "type": "authored_post/grass_h2_data_demand_and_lcr_setup",
+    "url": "https://x.com/AustinBarack/status/2079247953189814689",
+    "summary": "Highlighted a higher-high/higher-low GRASS daily chart, an upcoming LCR release, and expected second-half seasonality in AI-data purchases as a constructive breakout setup. The chart pattern is visible in the attached Bybit screenshot; the catalyst and demand outlook are AustinBarack’s thesis, not independently verified forecasts.",
+    "entities": [
+      "GRASS",
+      "LCR",
+      "AI data purchases",
+      "H2 seasonality"
+    ],
+    "why_logged": "Fresh continuation of his repeated GRASS value-accrual thesis, now linking the earlier holder-call fundamentals to a named product release, seasonal demand, and current chart structure.",
+    "confidence": "medium-high"
+  },
+  {
+    "date": "2026-07-20",
+    "handle": "MoneyPrinter0x",
+    "type": "self_quote/cashcat_position_rebuild_and_robinhood_chain_breadth",
+    "url": "https://x.com/MoneyPrinter0x/status/2079196288168624478",
+    "summary": "Disclosed adding again to CASHCAT after previously tripling the position around a 0.06 average. A related Robinhood Chain reply/quote said he was also buying several undisclosed very-low-market-cap plays because he expects Robinhood’s ecosystem investment and distribution push to remain a strong tailwind. This is speculative positioning and author opinion, not project-quality evidence.",
+    "entities": [
+      "CASHCAT",
+      "Robinhood Chain",
+      "low-cap onchain assets",
+      "Robinhood distribution"
+    ],
+    "why_logged": "Materially updates the July 15 conditional-derisk read: CASHCAT and the wider Robinhood Chain basket are active again, while the author keeps the smallest names undisclosed.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2079208787567935941",
+      "https://x.com/playerwunza/status/2079197744023908554"
+    ]
+  },
+  {
+    "date": "2026-07-20",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/systematized_trading_cockpit",
+    "url": "https://x.com/MoneyPrinter0x/status/2079212989308342421",
+    "summary": "Argued that traders often talk about reverting to process without actually systematizing it, and suggested a personal trading cockpit/dashboard as the minimum practical implementation.",
+    "entities": [
+      "trading process",
+      "systematization",
+      "trading cockpit",
+      "decision dashboard"
+    ],
+    "why_logged": "Direct process evidence connecting his frequent scenario maps, position-management rules, and post-trade reviews to an explicit systematization preference.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-07-20",
     "handle": "MoneyPrinter0x",
     "type": "authored_post/earnings_fomc_capex_positioning_map",
     "url": "https://x.com/MoneyPrinter0x/status/2079186186074280123",
-    "summary": "Published a dated near-term equities map around Google and Apple earnings, a possible weekend geopolitical flush, the CXMT IPO, and FOMC communication, then disclosed staged bids in MU, INTC, HOOD, NVDA, and SPCX. Follow-ups said potential CXMT-driven selling of U.S. capex names may already have occurred and emphasized multiple overlapping catalysts. This is MoneyPrinter0x’s tactical scenario and positioning, not a verified forecast.",
+    "summary": "Published a dated near-term equities map around Google and Apple earnings, a possible weekend geopolitical flush, the CXMT IPO, and FOMC communication, then disclosed staged bids in MU, INTC, HOOD, NVDA, and SPCX. Follow-ups treated Korean capex as lagging beta to U.S. capex, specified an SPCX conditional-unlock setup, and disclosed an INTC fill at 98 intended to be held through Apple earnings and post-FOMC. This is MoneyPrinter0x’s tactical scenario and positioning, not a verified forecast.",
     "entities": [
       "MU",
       "INTC",
@@ -21,7 +70,10 @@
     "confidence": "high",
     "related_urls": [
       "https://x.com/MoneyPrinter0x/status/2079187685516951760",
-      "https://x.com/MoneyPrinter0x/status/2079187930262970671"
+      "https://x.com/MoneyPrinter0x/status/2079187930262970671",
+      "https://x.com/MoneyPrinter0x/status/2079188960698564818",
+      "https://x.com/MoneyPrinter0x/status/2079199413038362865",
+      "https://x.com/MoneyPrinter0x/status/2079225246046122289"
     ]
   },
   {
@@ -52,7 +104,8 @@
       "https://x.com/0xGeeGee/status/2079154002143674764",
       "https://x.com/0xGeeGee/status/2079154005012590627",
       "https://x.com/0xGeeGee/status/2079154007554326660",
-      "https://x.com/0xGeeGee/status/2079154009601163364"
+      "https://x.com/0xGeeGee/status/2079154009601163364",
+      "https://x.com/0xGeeGee/status/2079204216393121822"
     ]
   },
   {
