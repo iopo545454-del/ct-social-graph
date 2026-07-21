@@ -7405,5 +7405,63 @@
     ],
     "why_logged": "Directly extends the account's recent cockpit/dashboard post into an explicit systems-over-luck trading philosophy.",
     "confidence": "high"
+  },
+  {
+    "date": "2026-07-21",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/volatility_normalized_invalidation_framework",
+    "url": "https://x.com/MoneyPrinter0x/status/2079600768852938762",
+    "summary": "Outlined a reusable framework for directional discretionary equity bets: estimate an asset's expected volatility, multiply it into a normalized initial invalidation, and optionally use the volatility unit as a trailing stop updated continuously or at set intervals. He explicitly separated this equity framework from crypto and market-neutral books and said regime filters and other edge should be layered only after the invariant risk rules.",
+    "entities": [
+      "expected volatility",
+      "normalized invalidation",
+      "trailing stops",
+      "directional equities",
+      "systematic risk management"
+    ],
+    "why_logged": "Adds concrete implementation detail to the account's repeated discretionary-to-systematic trading-process thesis.",
+    "confidence": "high"
+  },
+  {
+    "date": "2026-07-21",
+    "handle": "airtightfish",
+    "type": "reply/agentic_trading_as_alpha_tooling",
+    "url": "https://x.com/airtightfish/status/2079606718393098538",
+    "summary": "Argued that agentic trading is better understood as enabling sophisticated tooling that helps users find alpha, rather than an agent directly supplying execution or alpha. Called Claude Code probably the best current agentic-trading tool.",
+    "entities": [
+      "agentic trading",
+      "Claude Code",
+      "alpha research tooling",
+      "trading workflows"
+    ],
+    "why_logged": "A clear, source-close AI-tool preference and practical framing of where agents fit in trading workflows.",
+    "confidence": "high",
+    "related_urls": [
+      "https://x.com/lesabrefomo/status/2079601715570180388"
+    ]
+  },
+  {
+    "date": "2026-07-21",
+    "handle": "MoneyPrinter0x",
+    "type": "self_quote/earnings_fomc_position_update_and_trailing_stop",
+    "url": "https://x.com/MoneyPrinter0x/status/2079607499402199389",
+    "summary": "Updated the MU, INTC, HOOD, NVDA, and SPCX basket from his July 20 catalyst map. Follow-ups said he planned to hold through FOMC and Apple earnings despite accepting possible weekend-flush risk, while using a trailing stop to secure P&L if the thesis is invalidated. Attached price snapshots showed favorable moves in four names, but those point-in-time levels are not treated as verified outcomes here.",
+    "entities": [
+      "MU",
+      "INTC",
+      "HOOD",
+      "NVDA",
+      "SPCX",
+      "FOMC",
+      "Apple earnings",
+      "trailing stop"
+    ],
+    "why_logged": "Supplies a dated follow-through and explicit hold/invalidation rule for the previously logged earnings/FOMC basket.",
+    "confidence": "high",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2079608590172848573",
+      "https://x.com/MoneyPrinter0x/status/2079609690431037722",
+      "https://x.com/MoneyPrinter0x/status/2079186186074280123"
+    ]
   }
 ]

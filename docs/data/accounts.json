@@ -215,5 +215,27 @@
       "https://x.com/kelxyz_/status/2079274612660093423",
       "https://x.com/chamath/status/2078881723555647642"
     ]
+  },
+  {
+    "handle": "aajxbt",
+    "tier": 2,
+    "kind": "individual",
+    "status": "tracked",
+    "reason": "Repeated explicit airtightfish respect signals: first said never fade an Anders article, then called Anders his key opinion leader in a direct reply.",
+    "evidence_urls": [
+      "https://x.com/airtightfish/status/2068003676124258651",
+      "https://x.com/airtightfish/status/2079663043466686704"
+    ]
+  },
+  {
+    "handle": "lesabrefomo",
+    "tier": 2,
+    "kind": "individual",
+    "status": "tracked",
+    "reason": "Repeated substantive airtightfish interactions across decentralized-AI routing/marketplace design and agentic-trading tooling.",
+    "evidence_urls": [
+      "https://x.com/i/status/2066708058038829319",
+      "https://x.com/airtightfish/status/2079606718393098538"
+    ]
   }
 ]

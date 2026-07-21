@@ -835,14 +835,15 @@
   {
     "handle": "lesabrefomo",
     "kind": "individual",
-    "status": "candidate",
-    "source": "airtightfish decentralized-AI reply thread",
-    "reason": "airtightfish engaged in a substantive OpenRouter/Fusion API thread from lesabrefomo involving Iota, Pluralis, inference, verification, and marketplace layers; single thread only, so candidate.",
+    "status": "promoted_to_tier2",
+    "source": "repeated airtightfish AI/tooling reply threads",
+    "reason": "Promoted after a second substantive airtightfish interaction: an earlier OpenRouter/Fusion API thread on decentralized training, inference, verification, and marketplaces, followed by a July 21 agentic-trading tooling counterframe.",
     "evidence_urls": [
-      "https://x.com/i/status/2066708058038829319"
+      "https://x.com/i/status/2066708058038829319",
+      "https://x.com/airtightfish/status/2079606718393098538"
     ],
     "first_seen": "2026-06-16",
-    "confidence": "low"
+    "confidence": "medium"
   },
   {
     "handle": "iota",
@@ -987,14 +988,15 @@
   {
     "handle": "aajxbt",
     "kind": "individual",
-    "status": "candidate",
-    "source": "airtightfish endorsement of Anders Solana article",
-    "reason": "Airtightfish called Anders' Solana tokenization/smart-contract thread a good read and said never fade an Anders article. Terse but clear respect signal; needs repeated/substantive interaction before Tier 2.",
+    "status": "promoted_to_tier2",
+    "source": "repeated airtightfish respect signals toward Anders",
+    "reason": "Promoted after a second explicit respect signal: airtightfish first said never to fade an Anders article, then called Anders his key opinion leader in a direct reply. The latest parent post was terse, so track the relationship without treating its ticker call as substantive project evidence.",
     "evidence_urls": [
-      "https://x.com/airtightfish/status/2068003676124258651"
+      "https://x.com/airtightfish/status/2068003676124258651",
+      "https://x.com/airtightfish/status/2079663043466686704"
     ],
     "first_seen": "2026-06-20",
-    "confidence": "low"
+    "confidence": "medium"
   },
   {
     "handle": "AccountableData",

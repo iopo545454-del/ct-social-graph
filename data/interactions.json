@@ -3009,5 +3009,34 @@
     "related_urls": [
       "https://x.com/Bitcoineo/status/2079546031696429294"
     ]
+  },
+  {
+    "from": "airtightfish",
+    "to": "lesabrefomo",
+    "to_kind": "individual",
+    "type": "reply/agentic_trading_tooling_counterframe",
+    "date": "2026-07-21",
+    "url": "https://x.com/airtightfish/status/2079606718393098538",
+    "summary": "Answered lesabrefomo's request for the agentic-trading bull case by reframing agents as tooling that helps traders discover alpha rather than directly providing execution or alpha, and named Claude Code as the strongest current example.",
+    "quality": "high",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/lesabrefomo/status/2079601715570180388"
+    ]
+  },
+  {
+    "from": "airtightfish",
+    "to": "aajxbt",
+    "to_kind": "individual",
+    "type": "reply/repeated_explicit_respect_signal",
+    "date": "2026-07-21",
+    "url": "https://x.com/airtightfish/status/2079663043466686704",
+    "summary": "Called Anders (@aajxbt) his key opinion leader in a direct reply. The parent was a terse JTX/TUNG position call, so the content signal is low-context, but this is a second explicit respect signal after airtightfish previously said never to fade an Anders article.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/aajxbt/status/2079645909751611502",
+      "https://x.com/airtightfish/status/2068003676124258651"
+    ]
   }
 ]
