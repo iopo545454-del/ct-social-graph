@@ -2980,5 +2980,20 @@
       "https://x.com/CryptoTomYT/status/2078183478168858817",
       "https://x.com/rbthreek/status/2078197402045915369"
     ]
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "0xiluminado",
+    "to_kind": "individual",
+    "type": "reply/spcx_relative_weakness_and_conditional_unlock_optionality",
+    "date": "2026-07-21",
+    "url": "https://x.com/MoneyPrinter0x/status/2079510683734184376",
+    "summary": "Answered an SPCX-entry question by calling it the expected weakest performer while retaining exposure in case an Elon-driven positive surprise coincides with the coming 10% conditional-unlock window. This repeats his prior unlock thesis without adding new mechanism detail.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/0xiluminado/status/2079509890041589787",
+      "https://x.com/MoneyPrinter0x/status/2079199413038362865"
+    ]
   }
 ]
