@@ -1,5 +1,18 @@
 [
   {
+    "handle": "Bitcoineo",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "AustinBarack VVV staking-and-token-flow debate",
+    "reason": "AustinBarack gave a substantive counterargument to Bitcoineo's bearish VVV flow model. One thoughtful disagreement edge only, so keep as a low-confidence candidate rather than Tier 2.",
+    "evidence_urls": [
+      "https://x.com/AustinBarack/status/2079590737591640179",
+      "https://x.com/Bitcoineo/status/2079546031696429294"
+    ],
+    "first_seen": "2026-07-21",
+    "confidence": "low-medium"
+  },
+  {
     "handle": "Saypien",
     "kind": "individual",
     "status": "candidate",

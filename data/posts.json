@@ -7350,5 +7350,60 @@
       "https://x.com/chamathsintern/status/2078879675309264996",
       "https://x.com/coin_casanova/status/2078819395200262530"
     ]
+  },
+  {
+    "date": "2026-07-21",
+    "handle": "coin_casanova",
+    "type": "authored_post/robinhood_stock_token_composability_thesis",
+    "url": "https://x.com/coin_casanova/status/2079581071663058990",
+    "summary": "Framed stock tokens as an emerging onchain asset class across Ondo, xStocks, and Robinhood, while favoring Robinhood's implementation for trading, lending, experimentation, and composability. The attached Robinhood material describes the tokens as ERC-20 debt securities that provide economic exposure without legal or beneficial rights in the underlying issuer; protocol leadership remains unresolved in his view.",
+    "entities": [
+      "Robinhood Chain",
+      "Robinhood Stock Tokens",
+      "Ondo",
+      "xStocks",
+      "tokenized equities",
+      "ERC-20",
+      "lending",
+      "onchain composability"
+    ],
+    "why_logged": "Adds a named distribution and product-design preference to the network's broader tokenized-asset thesis while preserving the issuer-claim and no-protocol-winner caveats.",
+    "confidence": "medium-high"
+  },
+  {
+    "date": "2026-07-21",
+    "handle": "AustinBarack",
+    "type": "reply/vvv_flow_countercase_and_staking_offset",
+    "url": "https://x.com/AustinBarack/status/2079590737591640179",
+    "summary": "Countered a bearish VVV flow model by arguing it assumes all team and inflation rewards are sold, omits incremental buyers, and treats unstaking unlocks without offsetting new staking. He cited an author-reported $13M / 1M VVV staked over two weeks and argued that fewer short-term sellers plus new burns and products favor net buying; the flow figures and directional conclusion were not independently verified.",
+    "entities": [
+      "Venice",
+      "VVV",
+      "staking flows",
+      "inflation rewards",
+      "unstaking queue",
+      "programmatic burns",
+      "token supply"
+    ],
+    "why_logged": "Keeps the pro- and anti-VVV flow cases close to the source and adds a concrete staking-offset argument to AustinBarack's repeated value-capture thesis.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/Bitcoineo/status/2079546031696429294"
+    ]
+  },
+  {
+    "date": "2026-07-21",
+    "handle": "MoneyPrinter0x",
+    "type": "authored_post/systematize_discretionary_trading",
+    "url": "https://x.com/MoneyPrinter0x/status/2079591844124746003",
+    "summary": "Argued that unsystematic trading leaves a trader one bad play from ruin and prescribed converting discretionary ideas into repeatable systems as the main process priority for the cycle. This is trading-process advice rather than an asset-specific thesis.",
+    "entities": [
+      "systematic trading",
+      "discretionary ideas",
+      "risk of ruin",
+      "trading process"
+    ],
+    "why_logged": "Directly extends the account's recent cockpit/dashboard post into an explicit systems-over-luck trading philosophy.",
+    "confidence": "high"
   }
 ]
