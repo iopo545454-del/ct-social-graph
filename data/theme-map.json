@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
-  "period_end": "2026-07-20",
-  "profile_updated_at": "2026-07-20T22:03:04Z",
+  "period_end": "2026-07-21",
+  "profile_updated_at": "2026-07-21T06:55:33Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -1582,9 +1582,11 @@
         "CASHCAT ask-side liquidity thinning",
         "Uniswap v3 tick-level liquidity caveat",
         "CASHCAT historical LP/skew review",
-        "CASHCAT conditional derisk / TWAP"
+        "CASHCAT conditional derisk / TWAP",
+        "CASHCAT early-wallet spot-supply overhang",
+        "CASHCAT spot-over-perps expression"
       ],
-      "summary": "MoneyPrinter0x now has repeated memecoin/onchain-liquidity evidence: first he called blknoiz06's long memecoin thesis genuinely sharp, then on July 3 argued that z's coin reaching $1B+ may be the ecosystem's best shot at a PEPE-like onchain revival. Keep this as market-structure/onchain-liquidity attention, not a broad memecoin basket endorsement. Late July 3 update strengthens this bucket: MoneyPrinter0x defended ANSEM/z's coin as a pragmatic response to hidden private bundles and anti-retail tooling, arguing public/social-capital-backed bundles may be the best available onchain-liquidity revival mechanism despite not matching old community-coin ideals. Follow-up replies preserve the same read while adding coordinated promoter labor and adversarial protocol design as constraints. July 4 update adds backlash/ethics context: after ANSEM/z coin moved sharply, MoneyPrinter0x said he would stop talking about it out of respect for community pushback, while the wealth-effect read remained visible. New July 4 reply adds no-compensation/no-price-prediction disclosure while keeping the PEPE-like wealth-effect/onchain-liquidity argument visible. July 5 MoneyPrinter0x evidence shifts from the ANSEM/z-coin debate into broader onchain-market reactivation: he said onchain looked on fire and framed prior 2024–25 tech/meme winners as thesis/codebase-driven rather than random price calls. July 5 follow-up broadens the onchain-reactivation bucket from ANSEM/z-specific mechanics to leader-led beta selection: MoneyPrinter0x said he would rather bid the OG/leader than derivative betas when one alpha runner is driving the season, and separately criticized an Alon MM bot as rugger-like mechanics. July 8 adds a Robinhood-chain branch to the same onchain-liquidity bucket: CryptoTomYT wrote a distribution-led Robinhood Chain thesis naming CASHCAT/DIH, while MoneyPrinter0x framed CASHCAT with HOOD/COIN/BRETT ratio logic and explicit high-risk caveats. July 9 follow-up keeps the early-chain/onchain-liquidity window active: MoneyPrinter0x described new-chain launch weeks as unusually sweet, said there are plays everywhere while trying to hold back, then quickly caveated that distribution looked bad. Later July 9 MoneyPrinter0x quoted Robinhood Crypto’s first-week Chain update as source-close confirmation that Robinhood is prioritizing onchain this quarter. July 10 MoneyPrinter0x evidence sharpened the Robinhood Chain branch: he argued current activity is still mostly onchain-native and that the non-onchain-native Robinhood user wave has not hit yet; a later CASHCAT reply flagged heavy ask-side liquidity into the weekend. On July 11 he said the ask-side / single-sided pool had thinned significantly, reducing the observed overhang without confirming a bullish outcome. July 15 CASHCAT follow-up weakened the live setup: MoneyPrinter0x said he had round-tripped hard and would derisk without renewed strength in 24-36 hours, with any rebuild potentially spread through a longer-term TWAP.",
+      "summary": "MoneyPrinter0x now has repeated memecoin/onchain-liquidity evidence: first he called blknoiz06's long memecoin thesis genuinely sharp, then on July 3 argued that z's coin reaching $1B+ may be the ecosystem's best shot at a PEPE-like onchain revival. Keep this as market-structure/onchain-liquidity attention, not a broad memecoin basket endorsement. Late July 3 update strengthens this bucket: MoneyPrinter0x defended ANSEM/z's coin as a pragmatic response to hidden private bundles and anti-retail tooling, arguing public/social-capital-backed bundles may be the best available onchain-liquidity revival mechanism despite not matching old community-coin ideals. Follow-up replies preserve the same read while adding coordinated promoter labor and adversarial protocol design as constraints. July 4 update adds backlash/ethics context: after ANSEM/z coin moved sharply, MoneyPrinter0x said he would stop talking about it out of respect for community pushback, while the wealth-effect read remained visible. New July 4 reply adds no-compensation/no-price-prediction disclosure while keeping the PEPE-like wealth-effect/onchain-liquidity argument visible. July 5 MoneyPrinter0x evidence shifts from the ANSEM/z-coin debate into broader onchain-market reactivation: he said onchain looked on fire and framed prior 2024–25 tech/meme winners as thesis/codebase-driven rather than random price calls. July 5 follow-up broadens the onchain-reactivation bucket from ANSEM/z-specific mechanics to leader-led beta selection: MoneyPrinter0x said he would rather bid the OG/leader than derivative betas when one alpha runner is driving the season, and separately criticized an Alon MM bot as rugger-like mechanics. July 8 adds a Robinhood-chain branch to the same onchain-liquidity bucket: CryptoTomYT wrote a distribution-led Robinhood Chain thesis naming CASHCAT/DIH, while MoneyPrinter0x framed CASHCAT with HOOD/COIN/BRETT ratio logic and explicit high-risk caveats. July 9 follow-up keeps the early-chain/onchain-liquidity window active: MoneyPrinter0x described new-chain launch weeks as unusually sweet, said there are plays everywhere while trying to hold back, then quickly caveated that distribution looked bad. Later July 9 MoneyPrinter0x quoted Robinhood Crypto’s first-week Chain update as source-close confirmation that Robinhood is prioritizing onchain this quarter. July 10 MoneyPrinter0x evidence sharpened the Robinhood Chain branch: he argued current activity is still mostly onchain-native and that the non-onchain-native Robinhood user wave has not hit yet; a later CASHCAT reply flagged heavy ask-side liquidity into the weekend. On July 11 he said the ask-side / single-sided pool had thinned significantly, reducing the observed overhang without confirming a bullish outcome. July 15 CASHCAT follow-up weakened the live setup: MoneyPrinter0x said he had round-tripped hard and would derisk without renewed strength in 24-36 hours, with any rebuild potentially spread through a longer-term TWAP. July 21 screenshots then documented the rebuilt-position thesis: author-reported early-wallet spot selling was nearing exhaustion, OI was comparatively smaller, price was treated as lagging wallet/LP supply data, and spot was preferred to perps; all quantitative claims remain unverified.",
       "evidence_urls": [
         "https://x.com/MoneyPrinter0x/status/2072073125991497772",
         "https://x.com/MoneyPrinter0x/status/2073110339496058968",
@@ -1616,7 +1618,11 @@
         "https://x.com/MoneyPrinter0x/status/2075986978940796965",
         "https://x.com/MoneyPrinter0x/status/2076014661745738095",
         "https://x.com/MoneyPrinter0x/status/2076028506610586030",
-        "https://x.com/MoneyPrinter0x/status/2077478725650989225"
+        "https://x.com/MoneyPrinter0x/status/2077478725650989225",
+        "https://x.com/MoneyPrinter0x/status/2079440361852985433",
+        "https://x.com/MoneyPrinter0x/status/2079440465238360275",
+        "https://x.com/MoneyPrinter0x/status/2079440762803310873",
+        "https://x.com/MoneyPrinter0x/status/2079447369800983032"
       ],
       "momentum": "rising",
       "confidence": "medium",
@@ -1674,6 +1680,12 @@
           "date": "2026-07-15",
           "url": "https://x.com/MoneyPrinter0x/status/2077478725650989225",
           "summary": "CASHCAT position had round-tripped hard; absent renewed strength within 24-36 hours, planned derisking and possible slower TWAP re-entry."
+        },
+        {
+          "account": "MoneyPrinter0x",
+          "date": "2026-07-21",
+          "url": "https://x.com/MoneyPrinter0x/status/2079440361852985433",
+          "summary": "Posted the supply-overhang thesis behind the rebuilt CASHCAT position: screenshot-reported early-wallet spot selling versus smaller OI, claimed seller exhaustion, and an explicit spot-over-perps preference. Quantitative claims remain unverified."
         }
       ]
     },

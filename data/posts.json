@@ -1,5 +1,47 @@
 [
   {
+    "date": "2026-07-21",
+    "handle": "MoneyPrinter0x",
+    "type": "self_thread/cashcat_supply_overhang_and_spot_preference",
+    "url": "https://x.com/MoneyPrinter0x/status/2079440361852985433",
+    "summary": "Posted eight chat screenshots as the thesis behind his rebuilt CASHCAT position. He attributed the correction primarily to an author-reported roughly $28M of net spot selling in 48 hours by an early-wallet cohort, argued that this supply was nearly exhausted, compared it with roughly $12M of open interest, and concluded that spot was preferable to perps. All wallet, selling, OI, supply-equivalent, and counterfactual market-cap figures are author/screenshot-reported and were not independently verified.",
+    "entities": [
+      "CASHCAT",
+      "Robinhood Chain",
+      "spot supply",
+      "open interest",
+      "wallet distribution",
+      "liquidity-provider supply"
+    ],
+    "why_logged": "Adds the missing evidence layer behind the July 19-20 position rebuild: a supply-overhang thesis, explicit spot-over-perps expression, and a claim that price/TA lags wallet and LP data.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/MoneyPrinter0x/status/2079440465238360275",
+      "https://x.com/MoneyPrinter0x/status/2079440762803310873",
+      "https://x.com/MoneyPrinter0x/status/2079447369800983032",
+      "https://x.com/MoneyPrinter0x/status/2078859915494613001"
+    ]
+  },
+  {
+    "date": "2026-07-21",
+    "handle": "0xGeeGee",
+    "type": "self_quote/unnamed_uae_chain_position_exit",
+    "url": "https://x.com/0xGeeGee/status/2079430790631534804",
+    "summary": "Exited an unnamed Ethereum-contract project he had tracked since at least February/March as a UAE-narrative retail-chain trade. He cited persistent onchain silence, no visible public mentions, and the Middle East geopolitical backdrop as the reasons for abandoning the thesis. The contract identity was not discoverable from the X evidence, so the entry remains address-labeled rather than assigned a project name.",
+    "entities": [
+      "Ethereum",
+      "0x8b1484d57abbe239bb280661377363b03c89caea",
+      "UAE narrative",
+      "onchain activity",
+      "position exit"
+    ],
+    "why_logged": "A clear source-close invalidation and exit marker: narrative fit did not compensate for months of absent onchain and social traction.",
+    "confidence": "medium-high",
+    "related_urls": [
+      "https://x.com/0xGeeGee/status/2053130232757096669"
+    ]
+  },
+  {
     "date": "2026-07-20",
     "handle": "kelxyz_",
     "type": "quote/btc_survivorship_vs_levered_ai_complex",
