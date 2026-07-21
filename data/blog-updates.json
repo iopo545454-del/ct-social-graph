@@ -1,6 +1,6 @@
 {
-  "last_checked": "2026-07-20T19:32:26Z",
-  "new_count": 1,
+  "last_checked": "2026-07-21T19:38:38Z",
+  "new_count": 2,
   "sources": [
     {
       "name": "a16z crypto",
@@ -63,7 +63,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-20T19:32:22Z"
+      "checked_at": "2026-07-21T19:38:34Z"
     },
     {
       "name": "Multicoin Capital",
@@ -138,7 +138,7 @@
           "published": "Thu, 02 Oct 2025 00:00:00 GMT"
         }
       ],
-      "checked_at": "2026-07-20T19:32:23Z"
+      "checked_at": "2026-07-21T19:38:35Z"
     },
     {
       "name": "Pantera Blockchain Letter",
@@ -152,6 +152,11 @@
         "https://panteracapital.com/blockchain-letter/feed/"
       ],
       "items": [
+        {
+          "title": "Introducing The S&#038;P Pantera Digital Asset Index",
+          "url": "https://panteracapital.com/blockchain-letter/introducing-the-sp-pantera-digital-asset-index",
+          "published": "Tue, 21 Jul 2026 17:28:15 +0000"
+        },
         {
           "title": "The Always-On Economy",
           "url": "https://panteracapital.com/blockchain-letter/the-always-on-economy",
@@ -196,14 +201,9 @@
           "title": "The Great Onchain Migration",
           "url": "https://panteracapital.com/blockchain-letter/the-great-onchain-migration",
           "published": "Wed, 23 Jul 2025 14:45:11 +0000"
-        },
-        {
-          "title": "Pantera DAT Fund Closing",
-          "url": "https://panteracapital.com/blockchain-letter/pantera-dat-fund-closing",
-          "published": "Mon, 30 Jun 2025 14:48:37 +0000"
         }
       ],
-      "checked_at": "2026-07-20T19:32:24Z"
+      "checked_at": "2026-07-21T19:38:36Z"
     },
     {
       "name": "Paradigm",
@@ -276,7 +276,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-20T19:32:24Z"
+      "checked_at": "2026-07-21T19:38:36Z"
     },
     {
       "name": "Glassnode Research",
@@ -351,7 +351,7 @@
           "published": "Wed, 08 Jul 2026 15:05:33 GMT"
         }
       ],
-      "checked_at": "2026-07-20T19:32:24Z"
+      "checked_at": "2026-07-21T19:38:36Z"
     },
     {
       "name": "Delphi Digital",
@@ -374,7 +374,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-20T19:32:24Z"
+      "checked_at": "2026-07-21T19:38:37Z"
     },
     {
       "name": "Electric Capital",
@@ -386,7 +386,7 @@
       "error": null,
       "feed_urls": [],
       "items": [],
-      "checked_at": "2026-07-20T19:32:25Z"
+      "checked_at": "2026-07-21T19:38:37Z"
     },
     {
       "name": "Bankless",
@@ -454,12 +454,12 @@
           "published": null
         },
         {
-          "title": "News Ondo Unveils Perps DEX With Tokenized Stocks as Collateral Ondo just launched a perps platform where tokenized stocks can be used to ba",
-          "url": "https://www.bankless.com/read/news/ondo-unveils-perps-dex-with-tokenized-stocks-as-collateral",
+          "title": "Analysis DeFi's Big Robinhood Chain Winners Memes lit the fuse on Robinhood Chain, but DeFi's blue chips are also catching the upside as pic",
+          "url": "https://www.bankless.com/read/defis-big-robinhood-chain-winners",
           "published": null
         }
       ],
-      "checked_at": "2026-07-20T19:32:25Z"
+      "checked_at": "2026-07-21T19:38:38Z"
     },
     {
       "name": "Token Terminal",
@@ -532,7 +532,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-20T19:32:26Z"
+      "checked_at": "2026-07-21T19:38:38Z"
     }
   ],
   "articles": [
@@ -757,6 +757,16 @@
       "source_url": "https://multicoin.capital/blog/"
     },
     {
+      "id": "aa766af271b2",
+      "source": "Pantera Blockchain Letter",
+      "tier": 1,
+      "title": "Introducing The S&#038;P Pantera Digital Asset Index",
+      "url": "https://panteracapital.com/blockchain-letter/introducing-the-sp-pantera-digital-asset-index",
+      "published": "Tue, 21 Jul 2026 17:28:15 +0000",
+      "first_seen": "2026-07-21T19:38:38Z",
+      "source_url": "https://panteracapital.com/blockchain-letter/"
+    },
+    {
       "id": "9d25d7dfdddd",
       "source": "Pantera Blockchain Letter",
       "tier": 1,
@@ -843,16 +853,6 @@
       "title": "The Great Onchain Migration",
       "url": "https://panteracapital.com/blockchain-letter/the-great-onchain-migration",
       "published": "Wed, 23 Jul 2025 14:45:11 +0000",
-      "first_seen": "2026-06-14T20:08:30Z",
-      "source_url": "https://panteracapital.com/blockchain-letter/"
-    },
-    {
-      "id": "134883e9b534",
-      "source": "Pantera Blockchain Letter",
-      "tier": 1,
-      "title": "Pantera DAT Fund Closing",
-      "url": "https://panteracapital.com/blockchain-letter/pantera-dat-fund-closing",
-      "published": "Mon, 30 Jun 2025 14:48:37 +0000",
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://panteracapital.com/blockchain-letter/"
     },
@@ -1227,13 +1227,13 @@
       "source_url": "https://www.bankless.com/read"
     },
     {
-      "id": "484276dc7235",
+      "id": "19c1dced7c84",
       "source": "Bankless",
       "tier": 2,
-      "title": "News Ondo Unveils Perps DEX With Tokenized Stocks as Collateral Ondo just launched a perps platform where tokenized stocks can be used to ba",
-      "url": "https://www.bankless.com/read/news/ondo-unveils-perps-dex-with-tokenized-stocks-as-collateral",
+      "title": "Analysis DeFi's Big Robinhood Chain Winners Memes lit the fuse on Robinhood Chain, but DeFi's blue chips are also catching the upside as pic",
+      "url": "https://www.bankless.com/read/defis-big-robinhood-chain-winners",
       "published": null,
-      "first_seen": "2026-07-16T19:08:46Z",
+      "first_seen": "2026-07-21T19:38:38Z",
       "source_url": "https://www.bankless.com/read"
     },
     {
@@ -1355,6 +1355,26 @@
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "134883e9b534",
+      "source": "Pantera Blockchain Letter",
+      "tier": 1,
+      "title": "Pantera DAT Fund Closing",
+      "url": "https://panteracapital.com/blockchain-letter/pantera-dat-fund-closing",
+      "published": "Mon, 30 Jun 2025 14:48:37 +0000",
+      "first_seen": "2026-06-14T20:08:30Z",
+      "source_url": "https://panteracapital.com/blockchain-letter/"
+    },
+    {
+      "id": "484276dc7235",
+      "source": "Bankless",
+      "tier": 2,
+      "title": "News Ondo Unveils Perps DEX With Tokenized Stocks as Collateral Ondo just launched a perps platform where tokenized stocks can be used to ba",
+      "url": "https://www.bankless.com/read/news/ondo-unveils-perps-dex-with-tokenized-stocks-as-collateral",
+      "published": null,
+      "first_seen": "2026-07-16T19:08:46Z",
+      "source_url": "https://www.bankless.com/read"
     },
     {
       "id": "52848f71fa59",
