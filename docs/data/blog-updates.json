@@ -1,6 +1,6 @@
 {
-  "last_checked": "2026-07-21T19:38:38Z",
-  "new_count": 2,
+  "last_checked": "2026-07-22T19:44:50Z",
+  "new_count": 1,
   "sources": [
     {
       "name": "a16z crypto",
@@ -63,7 +63,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-21T19:38:34Z"
+      "checked_at": "2026-07-22T19:44:47Z"
     },
     {
       "name": "Multicoin Capital",
@@ -138,7 +138,7 @@
           "published": "Thu, 02 Oct 2025 00:00:00 GMT"
         }
       ],
-      "checked_at": "2026-07-21T19:38:35Z"
+      "checked_at": "2026-07-22T19:44:48Z"
     },
     {
       "name": "Pantera Blockchain Letter",
@@ -203,7 +203,7 @@
           "published": "Wed, 23 Jul 2025 14:45:11 +0000"
         }
       ],
-      "checked_at": "2026-07-21T19:38:36Z"
+      "checked_at": "2026-07-22T19:44:49Z"
     },
     {
       "name": "Paradigm",
@@ -276,7 +276,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-21T19:38:36Z"
+      "checked_at": "2026-07-22T19:44:49Z"
     },
     {
       "name": "Glassnode Research",
@@ -290,6 +290,11 @@
         "https://research.glassnode.com/rss/"
       ],
       "items": [
+        {
+          "title": "Optimism Meets Overhead",
+          "url": "https://research.glassnode.com/the-week-onchain-week-29-2026",
+          "published": "Wed, 22 Jul 2026 16:00:20 GMT"
+        },
         {
           "title": "Green Shoots",
           "url": "https://research.glassnode.com/the-week-onchain-week-28-2026",
@@ -344,14 +349,9 @@
           "title": "The Altcoin Vector #62",
           "url": "https://research.glassnode.com/the-altcoin-vector-62",
           "published": "Thu, 09 Jul 2026 10:45:00 GMT"
-        },
-        {
-          "title": "Bottom Building in Progress",
-          "url": "https://research.glassnode.com/the-week-onchain-week-27-2026",
-          "published": "Wed, 08 Jul 2026 15:05:33 GMT"
         }
       ],
-      "checked_at": "2026-07-21T19:38:36Z"
+      "checked_at": "2026-07-22T19:44:49Z"
     },
     {
       "name": "Delphi Digital",
@@ -374,7 +374,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-21T19:38:37Z"
+      "checked_at": "2026-07-22T19:44:49Z"
     },
     {
       "name": "Electric Capital",
@@ -386,7 +386,7 @@
       "error": null,
       "feed_urls": [],
       "items": [],
-      "checked_at": "2026-07-21T19:38:37Z"
+      "checked_at": "2026-07-22T19:44:50Z"
     },
     {
       "name": "Bankless",
@@ -459,7 +459,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-21T19:38:38Z"
+      "checked_at": "2026-07-22T19:44:50Z"
     },
     {
       "name": "Token Terminal",
@@ -532,7 +532,7 @@
           "published": null
         }
       ],
-      "checked_at": "2026-07-21T19:38:38Z"
+      "checked_at": "2026-07-22T19:44:50Z"
     }
   ],
   "articles": [
@@ -977,6 +977,16 @@
       "source_url": "https://www.paradigm.xyz/writing"
     },
     {
+      "id": "f3f77cec748b",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "Optimism Meets Overhead",
+      "url": "https://research.glassnode.com/the-week-onchain-week-29-2026",
+      "published": "Wed, 22 Jul 2026 16:00:20 GMT",
+      "first_seen": "2026-07-22T19:44:50Z",
+      "source_url": "https://research.glassnode.com/"
+    },
+    {
       "id": "e97c2eb8df93",
       "source": "Glassnode Research",
       "tier": 1,
@@ -1084,16 +1094,6 @@
       "url": "https://research.glassnode.com/the-altcoin-vector-62",
       "published": "Thu, 09 Jul 2026 10:45:00 GMT",
       "first_seen": "2026-07-16T11:06:41Z",
-      "source_url": "https://research.glassnode.com/"
-    },
-    {
-      "id": "20c7d3e2f223",
-      "source": "Glassnode Research",
-      "tier": 1,
-      "title": "Bottom Building in Progress",
-      "url": "https://research.glassnode.com/the-week-onchain-week-27-2026",
-      "published": "Wed, 08 Jul 2026 15:05:33 GMT",
-      "first_seen": "2026-07-08T18:25:52Z",
       "source_url": "https://research.glassnode.com/"
     },
     {
@@ -1355,6 +1355,16 @@
       "published": null,
       "first_seen": "2026-06-14T20:08:30Z",
       "source_url": "https://tokenterminal.com/resources"
+    },
+    {
+      "id": "20c7d3e2f223",
+      "source": "Glassnode Research",
+      "tier": 1,
+      "title": "Bottom Building in Progress",
+      "url": "https://research.glassnode.com/the-week-onchain-week-27-2026",
+      "published": "Wed, 08 Jul 2026 15:05:33 GMT",
+      "first_seen": "2026-07-08T18:25:52Z",
+      "source_url": "https://research.glassnode.com/"
     },
     {
       "id": "134883e9b534",
