@@ -1241,6 +1241,8 @@
       "projects": [
         "Spark / stable farms",
         "Pendle / yield-bearing products",
+        "OpenPendle / Pendle-Morpho looping",
+        "Re / reUSD / USD3 / Jane",
         "Yearn / yvUSD",
         "senior capital distribution",
         "InfiniFi/STRC exposure concerns",
@@ -1248,7 +1250,7 @@
         "Ethena transparency dashboard",
         "USDT vs USDe collateral liquidity"
       ],
-      "summary": "GeeGee replies explicitly respect Tiza’s DeFi/yield work while distinguishing conservative stable-farm risk from selected 20-30% APY opportunities. Latest Pendle/yield-bearing-product comment refines the same filter: high yields may be risk compensation rather than “stablecoin” yield, and the problem is misrepresentation or users not analyzing structure. New adjacent GeeGee evidence analyzed InfiniFi/STRC via collateral haircuts, junior tranche absorption, and locked-capital mechanics; this is structured-risk analysis rather than a yield endorsement. Latest 0xGeeGee InfiniFi replies extend the risk-adjusted DeFi lens from yield products into structured-credit capital stacks: junior/senior tranche compensation and rebalancing matter more than headline yield/haircut alone. June 25 0xGeeGee reply extends this bucket into Yearn yvUSD distribution mechanics: current distribution may leave senior capital unexposed, but caution remains warranted when vault wrappers can touch InfiniFi/STRC-style risks. Latest GeeGee reply adds a source-quality/process note around Ethena/ENA: he agreed with a correction thread emphasizing public transparency-dashboard use and called out paid-thread/slop incentives, so keep it as DeFi diligence/credibility evidence rather than an Ethena token stance. July 14 GeeGee evidence adds a direct stablecoin collateral-liquidity comparison: in response to a post saying Ethena had only about 1% of strategy allocation in crypto basis trades, he said USDT now had less liquid collateral than USDe. Store this as his analytical risk read, not an independently verified collateral fact or an ENA endorsement.",
+      "summary": "GeeGee replies explicitly respect Tiza's DeFi/yield work while distinguishing conservative stable-farm risk from selected 20-30% APY opportunities. Pendle evidence first refined the same filter: high yields may be risk compensation rather than stablecoin yield, and the problem is misrepresentation or users not analyzing structure. July 22 OpenPendle evidence adds concrete selection criteria inside looping strategies: raw spread, genuine borrowing demand, directional exposure, and costs led him to prefer prior Re exposure over reUSD/USD3 loops while considering Jane; he also clarified that Pendle's native looping remains limited. Adjacent GeeGee evidence analyzed InfiniFi/STRC via collateral haircuts, junior tranche absorption, and locked-capital mechanics; this is structured-risk analysis rather than a yield endorsement. Later replies extended the lens into Yearn yvUSD distribution, Ethena dashboard diligence, and an unverified USDT-versus-USDe collateral-liquidity comparison.",
       "evidence_urls": [
         "https://x.com/0xGeeGee/status/2066154504417054981",
         "https://x.com/0xGeeGee/status/2066747956045435324",
@@ -1257,10 +1259,20 @@
         "https://x.com/0xGeeGee/status/2067910420296274243",
         "https://x.com/0xGeeGee/status/2070037247085170699",
         "https://x.com/0xGeeGee/status/2073578581632926160",
-        "https://x.com/0xGeeGee/status/2077165720379740383"
+        "https://x.com/0xGeeGee/status/2077165720379740383",
+        "https://x.com/0xGeeGee/status/2079806372313797082",
+        "https://x.com/0xGeeGee/status/2079844694025285837"
       ],
-      "momentum": "emerging",
-      "confidence": "medium"
+      "momentum": "active",
+      "confidence": "medium-high",
+      "examples": [
+        {
+          "account": "0xGeeGee",
+          "date": "2026-07-22",
+          "url": "https://x.com/0xGeeGee/status/2079806372313797082",
+          "summary": "Compared Pendle/Morpho loops by raw spread, directional exposure, and costs, preferring prior Re exposure over reUSD/USD3 and considering Jane."
+        }
+      ]
     },
     {
       "theme": "AI ROI and price/performance benchmarking",

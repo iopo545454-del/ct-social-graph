@@ -1,6 +1,29 @@
 [
   {
     "date": "2026-07-22",
+    "handle": "0xGeeGee",
+    "type": "quote/pendle_morpho_loop_raw_spread_and_directional_exposure",
+    "url": "https://x.com/0xGeeGee/status/2079806372313797082",
+    "summary": "Quoted OpenPendle's Pendle/Morpho looping update and said raw spread is a useful signal for genuine borrowing demand. He found the reUSD and USD3 loops less compelling than maximizing directional exposure through Re and said he was evaluating Jane similarly, while acknowledging costs and trade-offs. A later reply clarified that Pendle already supports native looping, but only for a limited set of markets.",
+    "entities": [
+      "Pendle",
+      "OpenPendle",
+      "Morpho",
+      "reUSD",
+      "USD3",
+      "Re",
+      "Jane",
+      "raw spread",
+      "DeFi looping"
+    ],
+    "why_logged": "Adds concrete strategy-selection criteria to GeeGee's DeFi-yield profile: raw spread and directional exposure matter more than headline looping availability.",
+    "confidence": "medium-high",
+    "related_urls": [
+      "https://x.com/0xGeeGee/status/2079844694025285837"
+    ]
+  },
+  {
+    "date": "2026-07-22",
     "handle": "airtightfish",
     "type": "authored_thread/crypto_industry_progress_vs_external_sentiment",
     "url": "https://x.com/airtightfish/status/2079768084265484783",
@@ -24,7 +47,7 @@
     "handle": "0xGeeGee",
     "type": "authored_post/openstock_brainco_hong_kong_ipo_interest",
     "url": "https://x.com/0xGeeGee/status/2079759319378358644",
-    "summary": "Directed followers to Openstock to express interest in BrainCo's Hong Kong IPO. The attached Openstock interface described BrainCo as a non-invasive brain-computer-interface company making EEG prosthetics, neurofeedback wearables, and classroom headsets, and displayed an approximately $1.3B reported target valuation marked unconfirmed. The company description and valuation are screenshot/platform claims and were not independently verified.",
+    "summary": "Directed followers to Openstock to express interest in BrainCo's Hong Kong IPO. The attached Openstock interface described BrainCo as a non-invasive brain-computer-interface company making EEG prosthetics, neurofeedback wearables, and classroom headsets, and displayed an approximately $1.3B reported target valuation marked unconfirmed. A follow-up clarified that BrainCo is not technically a direct Neuralink equivalent, although he expects IPO and media coverage to use that framing. The company description and valuation are screenshot/platform claims and were not independently verified.",
     "entities": [
       "Openstock",
       "BrainCo",
@@ -35,7 +58,10 @@
       "private-market access"
     ],
     "why_logged": "Adds a concrete private-market-access and AI/neurotech listing interest point to GeeGee's existing tokenized-brokerage and second-order AI exposure map.",
-    "confidence": "medium-high"
+    "confidence": "medium-high",
+    "related_urls": [
+      "https://x.com/0xGeeGee/status/2079811977241903612"
+    ]
   },
   {
     "date": "2026-07-21",

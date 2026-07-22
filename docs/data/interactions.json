@@ -1,6 +1,20 @@
 [
   {
     "from": "0xGeeGee",
+    "to": "OpenPendle",
+    "to_kind": "project",
+    "type": "quote/pendle_morpho_loop_strategy_filter",
+    "date": "2026-07-22",
+    "url": "https://x.com/0xGeeGee/status/2079806372313797082",
+    "summary": "Quoted OpenPendle's new Pendle/Morpho looping markets and used raw spread, directional exposure, and implementation costs to explain why reUSD/USD3 loops were less compelling to him than Re and possibly Jane. A later reply added that Pendle's native looping support remains limited in scope.",
+    "quality": "high",
+    "created_tier2_candidate": true,
+    "related_urls": [
+      "https://x.com/0xGeeGee/status/2079844694025285837"
+    ]
+  },
+  {
+    "from": "0xGeeGee",
     "to": "0xfoobar",
     "to_kind": "individual",
     "type": "reply/ai_code_simplification_and_code_debt",

@@ -1,5 +1,18 @@
 [
   {
+    "handle": "OpenPendle",
+    "kind": "project",
+    "status": "candidate",
+    "source": "0xGeeGee quote on Pendle/Morpho looping strategy",
+    "reason": "0xGeeGee used OpenPendle's looping-market update for a substantive strategy comparison across raw spread, directional exposure, and costs. One direct quote edge only, so keep as a project candidate rather than Tier 2.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2079806372313797082",
+      "https://x.com/0xGeeGee/status/2079844694025285837"
+    ],
+    "first_seen": "2026-07-22",
+    "confidence": "low-medium"
+  },
+  {
     "handle": "0xfoobar",
     "kind": "individual",
     "status": "candidate",
@@ -17,9 +30,10 @@
     "kind": "project",
     "status": "candidate",
     "source": "0xGeeGee BrainCo Hong Kong IPO-interest post",
-    "reason": "0xGeeGee directly sent followers to Openstock to express interest in BrainCo's Hong Kong IPO. One promotional/private-market-access evidence point only; platform terms and displayed company metrics were not independently verified.",
+    "reason": "0xGeeGee directly sent followers to Openstock to express interest in BrainCo's Hong Kong IPO, then clarified that BrainCo's technical approach differs from Neuralink despite likely media framing. One promotional/private-market-access evidence cluster only; platform terms and displayed company metrics were not independently verified.",
     "evidence_urls": [
-      "https://x.com/0xGeeGee/status/2079759319378358644"
+      "https://x.com/0xGeeGee/status/2079759319378358644",
+      "https://x.com/0xGeeGee/status/2079811977241903612"
     ],
     "first_seen": "2026-07-22",
     "confidence": "low-medium"
@@ -699,12 +713,13 @@
     "kind": "project",
     "status": "candidate",
     "source": "0xGeeGee RWA/open-credit thesis",
-    "reason": "Named as dominant open-credit/yield-bearing-assets player in a substantive RWA/tokenization thread; needs repeat evidence before Tier 2.",
+    "reason": "Repeated GeeGee evidence: initially named as the open-credit/yield-bearing-asset leader, then appeared in a substantive Pendle looping-strategy comparison. The latest mention evaluates integrated markets rather than expressing fresh MORPHO-token conviction, so retain as candidate.",
     "evidence_urls": [
-      "https://x.com/0xGeeGee/status/2066111310916694078"
+      "https://x.com/0xGeeGee/status/2066111310916694078",
+      "https://x.com/0xGeeGee/status/2079806372313797082"
     ],
     "first_seen": "2026-06-14",
-    "confidence": "medium"
+    "confidence": "medium-high"
   },
   {
     "handle": "Backpack",
