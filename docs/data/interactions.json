@@ -3095,5 +3095,19 @@
       "https://x.com/aajxbt/status/2079645909751611502",
       "https://x.com/airtightfish/status/2068003676124258651"
     ]
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "cryppimagic",
+    "to_kind": "individual",
+    "type": "reply/crypto_augments_rather_than_replaces_tradfi",
+    "date": "2026-07-22",
+    "url": "https://x.com/MoneyPrinter0x/status/2079997547079451006",
+    "summary": "Countered cryppimagic’s concern about volume moving to traditional futures/spot venues with the view that crypto is an augmenting financial layer, not a wholesale TradFi replacement. Concise but directly relevant to his broader programmable-assets thesis.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/cryppimagic/status/2079971741309210969"
+    ]
   }
 ]

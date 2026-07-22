@@ -1172,5 +1172,29 @@
     ],
     "first_seen": "2026-07-19",
     "confidence": "medium"
+  },
+  {
+    "handle": "tread_fi",
+    "kind": "project",
+    "status": "candidate",
+    "source": "coin_casanova agentic trading workflow post",
+    "reason": "coin_casanova said he is currently testing TreadFi as an aggregated CEX/DEX API execution layer in a thesis-first, agent-assisted workflow. One positive usage mention only, so keep as a candidate rather than Tier 2.",
+    "evidence_urls": [
+      "https://x.com/coin_casanova/status/2079947663051772322"
+    ],
+    "first_seen": "2026-07-22",
+    "confidence": "low-medium"
+  },
+  {
+    "handle": "openmarket_xyz",
+    "kind": "project",
+    "status": "candidate",
+    "source": "coin_casanova agentic trading workflow post",
+    "reason": "coin_casanova named OpenMarket as a premium derivatives-data application he expects to matter in an agent-assisted trading stack. One favorable tooling mention only, so keep as a candidate rather than Tier 2.",
+    "evidence_urls": [
+      "https://x.com/coin_casanova/status/2079947663051772322"
+    ],
+    "first_seen": "2026-07-22",
+    "confidence": "low"
   }
 ]

@@ -7547,5 +7547,46 @@
       "https://x.com/MoneyPrinter0x/status/2079609690431037722",
       "https://x.com/MoneyPrinter0x/status/2079186186074280123"
     ]
+  },
+  {
+    "date": "2026-07-22",
+    "handle": "coin_casanova",
+    "type": "authored_post/agent_assisted_trading_workflow_and_overtrading_guardrail",
+    "url": "https://x.com/coin_casanova/status/2079947663051772322",
+    "summary": "Said he is testing TreadFi as an aggregated CEX/DEX execution interface and expects agents to absorb more technical-analysis and risk-management work, leaving the trader to form the thesis. He named OpenMarket as a preferred derivatives-data layer and separately warned that excessive onchain trading can turn the process into casino-like overplaying. These are personal workflow preferences and future expectations, not product-performance verification.",
+    "entities": [
+      "TreadFi",
+      "OpenMarket",
+      "agentic trading",
+      "technical analysis",
+      "risk management",
+      "CEX/DEX execution",
+      "premium derivatives data",
+      "onchain overtrading"
+    ],
+    "why_logged": "Adds named tools and a clear thesis-first, agent-assisted workflow to coin_casanova’s existing dashboard/process evidence while keeping the nearby overtrading caveat visible.",
+    "confidence": "medium-high",
+    "related_urls": [
+      "https://x.com/coin_casanova/status/2079942272796561541"
+    ]
+  },
+  {
+    "date": "2026-07-22",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/crypto_as_tradfi_augmentation_not_replacement",
+    "url": "https://x.com/MoneyPrinter0x/status/2079997547079451006",
+    "summary": "Responded to concern that traditional futures and spot markets are draining crypto-native building incentives by saying crypto was meant to augment traditional finance rather than replace it. This is a concise architecture/market-role view, not a claim about current venue volumes.",
+    "entities": [
+      "crypto market structure",
+      "traditional finance",
+      "futures",
+      "spot markets",
+      "financial augmentation"
+    ],
+    "why_logged": "A direct, dated statement of how MoneyPrinter0x sees crypto fitting beside traditional markets, extending his programmable-assets and experimentation thesis.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/cryppimagic/status/2079971741309210969"
+    ]
   }
 ]
