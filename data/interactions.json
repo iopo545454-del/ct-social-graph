@@ -1,5 +1,20 @@
 [
   {
+    "from": "MoneyPrinter0x",
+    "to": "tayvano_",
+    "to_kind": "individual",
+    "type": "reply/self_quote_premature_abstraction_applied_to_ai_benchmark",
+    "date": "2026-07-22",
+    "url": "https://x.com/MoneyPrinter0x/status/2079879180037259687",
+    "summary": "Replied to tayvano_'s observation that engineers and AI systems can prefer clever, complex routes over direct solutions by resurfacing his July 7 essay on the cost of premature abstraction in agentic engineering. The new post itself contains only a link and the self-quoted essay, so the thematic connection comes from the visible thread context rather than explicit new commentary.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/tayvano_/status/2079720695135916276",
+      "https://x.com/MoneyPrinter0x/status/2074414813535748096"
+    ]
+  },
+  {
     "from": "0xGeeGee",
     "to": "OpenPendle",
     "to_kind": "project",

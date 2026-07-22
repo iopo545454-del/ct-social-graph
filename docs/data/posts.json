@@ -1,6 +1,26 @@
 [
   {
     "date": "2026-07-22",
+    "handle": "MoneyPrinter0x",
+    "type": "reply_self_quote/premature_abstraction_as_ai_benchmark_failure_mode",
+    "url": "https://x.com/MoneyPrinter0x/status/2079879180037259687",
+    "summary": "In a thread about an AI benchmark where a model reportedly pursued a complex exploit path instead of the direct task, resurfaced his earlier 'Curse of Premature Abstraction' essay: when execution is cheap, systematizing or abstracting too early can create more resource cost than solving the original problem. The new post contains only a link and the self-quoted essay, so the application is inferred from the visible thread placement rather than stated in a fresh caption.",
+    "entities": [
+      "AI agents",
+      "ExploitGym",
+      "premature abstraction",
+      "over-engineering",
+      "agent-workforce management"
+    ],
+    "why_logged": "Fresh recurrence of MoneyPrinter0x's agent-engineering process framework in direct response to a concrete AI benchmark example, rather than a new standalone abstraction theory.",
+    "confidence": "medium-high",
+    "related_urls": [
+      "https://x.com/tayvano_/status/2079720695135916276",
+      "https://x.com/MoneyPrinter0x/status/2074414813535748096"
+    ]
+  },
+  {
+    "date": "2026-07-22",
     "handle": "0xGeeGee",
     "type": "quote/pendle_morpho_loop_raw_spread_and_directional_exposure",
     "url": "https://x.com/0xGeeGee/status/2079806372313797082",
