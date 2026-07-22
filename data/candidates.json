@@ -1,5 +1,30 @@
 [
   {
+    "handle": "0xfoobar",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "0xGeeGee AI code-simplification/code-debt reply",
+    "reason": "0xGeeGee used 0xfoobar's net-deletion-code benchmark as the context for a concrete AI-coding process critique. One compact interaction edge only, so keep as a low-confidence candidate rather than Tier 2.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2079796517855215829",
+      "https://x.com/0xfoobar/status/2079768951920152663"
+    ],
+    "first_seen": "2026-07-22",
+    "confidence": "low"
+  },
+  {
+    "handle": "OpenstockInc",
+    "kind": "project",
+    "status": "candidate",
+    "source": "0xGeeGee BrainCo Hong Kong IPO-interest post",
+    "reason": "0xGeeGee directly sent followers to Openstock to express interest in BrainCo's Hong Kong IPO. One promotional/private-market-access evidence point only; platform terms and displayed company metrics were not independently verified.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2079759319378358644"
+    ],
+    "first_seen": "2026-07-22",
+    "confidence": "low-medium"
+  },
+  {
     "handle": "Bitcoineo",
     "kind": "individual",
     "status": "candidate",

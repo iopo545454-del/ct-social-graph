@@ -1,5 +1,33 @@
 [
   {
+    "from": "0xGeeGee",
+    "to": "0xfoobar",
+    "to_kind": "individual",
+    "type": "reply/ai_code_simplification_and_code_debt",
+    "date": "2026-07-22",
+    "url": "https://x.com/0xGeeGee/status/2079796517855215829",
+    "summary": "Replied to 0xfoobar's net-deletion-code benchmark for AI coding by showing a prompt to simplify code and address code debt alongside a visible diff of roughly +7,086/-1,429 lines. The image establishes the line counts but not the underlying code quality, so treat this as a compact process critique rather than proof of model failure.",
+    "quality": "medium",
+    "created_tier2_candidate": true,
+    "related_urls": [
+      "https://x.com/0xfoobar/status/2079768951920152663"
+    ]
+  },
+  {
+    "from": "airtightfish",
+    "to": "gumsays",
+    "to_kind": "individual",
+    "type": "reply/clarity_act_as_tokenized_asset_defi_tailwind",
+    "date": "2026-07-22",
+    "url": "https://x.com/airtightfish/status/2079757085915349150",
+    "summary": "Added possible near-term Clarity Act progress to gumsays' examples of Solana liquidity pools and tokenized-asset access. The policy timing is airtightfish's tentative expectation, not a verified legislative schedule.",
+    "quality": "medium",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/gumsays/status/2079671762858430939"
+    ]
+  },
+  {
     "from": "kelxyz_",
     "to": "Saypien",
     "to_kind": "individual",

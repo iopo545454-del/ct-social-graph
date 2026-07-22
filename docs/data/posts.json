@@ -1,5 +1,43 @@
 [
   {
+    "date": "2026-07-22",
+    "handle": "airtightfish",
+    "type": "authored_thread/crypto_industry_progress_vs_external_sentiment",
+    "url": "https://x.com/airtightfish/status/2079768084265484783",
+    "summary": "Said he had not been this optimistic about crypto in a long time and compared the current setup with 2023, when industry progress appeared stronger than outside sentiment. A self-reply explicitly separated this from memecoin price action and named regulatory clarity, open-source AI, next-generation DeFi, consumer traction, and trading culture as the drivers.",
+    "entities": [
+      "crypto industry",
+      "Clarity Act",
+      "open-source AI",
+      "next-generation DeFi",
+      "consumer traction",
+      "trading culture"
+    ],
+    "why_logged": "A clear account-level sentiment shift with a direct list of non-meme drivers, useful for tracking whether recent application and infrastructure evidence is becoming a broader cycle thesis.",
+    "confidence": "high",
+    "related_urls": [
+      "https://x.com/airtightfish/status/2079768086123561139"
+    ]
+  },
+  {
+    "date": "2026-07-22",
+    "handle": "0xGeeGee",
+    "type": "authored_post/openstock_brainco_hong_kong_ipo_interest",
+    "url": "https://x.com/0xGeeGee/status/2079759319378358644",
+    "summary": "Directed followers to Openstock to express interest in BrainCo's Hong Kong IPO. The attached Openstock interface described BrainCo as a non-invasive brain-computer-interface company making EEG prosthetics, neurofeedback wearables, and classroom headsets, and displayed an approximately $1.3B reported target valuation marked unconfirmed. The company description and valuation are screenshot/platform claims and were not independently verified.",
+    "entities": [
+      "Openstock",
+      "BrainCo",
+      "BRCO",
+      "Hong Kong IPO",
+      "brain-computer interfaces",
+      "neurotech",
+      "private-market access"
+    ],
+    "why_logged": "Adds a concrete private-market-access and AI/neurotech listing interest point to GeeGee's existing tokenized-brokerage and second-order AI exposure map.",
+    "confidence": "medium-high"
+  },
+  {
     "date": "2026-07-21",
     "handle": "MoneyPrinter0x",
     "type": "self_thread/cashcat_supply_overhang_and_spot_preference",
