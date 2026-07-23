@@ -1211,5 +1211,18 @@
     ],
     "first_seen": "2026-07-23",
     "confidence": "low"
+  },
+  {
+    "handle": "jonvolio",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "0xGeeGee model-selection workflow reply",
+    "reason": "0xGeeGee substantively engaged Jon's task-dependent model-selection point and added a planning/coordination caveat. One useful AI-workflow interaction only, so keep as a low-confidence candidate rather than Tier 2.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2080220223844868499",
+      "https://x.com/jonvolio/status/2080217998015504663"
+    ],
+    "first_seen": "2026-07-23",
+    "confidence": "low"
   }
 ]

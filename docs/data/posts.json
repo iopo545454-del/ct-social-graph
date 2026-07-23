@@ -7675,7 +7675,7 @@
     "handle": "0xGeeGee",
     "type": "authored_post/fable_sol_plan_execute_cleanup_workflow",
     "url": "https://x.com/0xGeeGee/status/2080214801918423436",
-    "summary": "Specified a three-stage AI workflow: Fable for planning, Sol for execution, then Fable again to clean up low-quality output. He added that encountering guardrails makes returning to Opus difficult, without supplying a task example or benchmark in this post.",
+    "summary": "Specified a three-stage AI workflow: Fable for planning, Sol for execution, then Fable again to clean up low-quality output. He added that encountering guardrails makes returning to Opus difficult. In a follow-up reply, he agreed lighter models can fit some projects but said downgrading is particularly poor for planning and coordination; neither post supplied a benchmark.",
     "entities": [
       "Fable",
       "Sol",
@@ -7686,7 +7686,11 @@
       "output refinement",
       "guardrails"
     ],
-    "why_logged": "Turns GeeGee's repeated hands-on Fable/Sol comparisons into a concrete division of labor for research and writing workflows.",
-    "confidence": "high"
+    "why_logged": "Turns GeeGee's repeated hands-on Fable/Sol comparisons into a concrete division of labor for research and writing workflows, with a source-close follow-up defining where model downgrades become costly.",
+    "confidence": "high",
+    "related_urls": [
+      "https://x.com/0xGeeGee/status/2080220223844868499",
+      "https://x.com/jonvolio/status/2080217998015504663"
+    ]
   }
 ]

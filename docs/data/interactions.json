@@ -3140,5 +3140,20 @@
       "https://x.com/MoneyPrinter0x/status/2078859915494613001",
       "https://x.com/MoneyPrinter0x/status/2079440361852985433"
     ]
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "jonvolio",
+    "to_kind": "individual",
+    "type": "reply/model_downgrade_planning_and_coordination_caveat",
+    "date": "2026-07-23",
+    "url": "https://x.com/0xGeeGee/status/2080220223844868499",
+    "summary": "Agreed that cheaper or lighter models can be adequate when matched to a project's needs and guided by a strong plan, but cautioned that downgrading is particularly weak for planning and coordination. This clarifies the task boundary behind his Fable-plan/Sol-execute workflow.",
+    "quality": "medium-high",
+    "created_tier2_candidate": true,
+    "related_urls": [
+      "https://x.com/jonvolio/status/2080217998015504663",
+      "https://x.com/0xGeeGee/status/2080214801918423436"
+    ]
   }
 ]

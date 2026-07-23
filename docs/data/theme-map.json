@@ -1,7 +1,7 @@
 {
   "period_start": "2026-05-14",
   "period_end": "2026-07-23",
-  "profile_updated_at": "2026-07-23T09:11:20Z",
+  "profile_updated_at": "2026-07-23T14:04:20Z",
   "themes": [
     {
       "theme": "Private AI / anonymized AI usage",
@@ -299,7 +299,8 @@
         "https://x.com/MoneyPrinter0x/status/2079879180037259687",
         "https://x.com/0xGeeGee/status/2080098820017533218",
         "https://x.com/0xGeeGee/status/2080098940922556703",
-        "https://x.com/0xGeeGee/status/2080214801918423436"
+        "https://x.com/0xGeeGee/status/2080214801918423436",
+        "https://x.com/0xGeeGee/status/2080220223844868499"
       ],
       "momentum": "rising",
       "confidence": "medium",
@@ -428,7 +429,7 @@
           "account": "0xGeeGee",
           "date": "2026-07-23",
           "url": "https://x.com/0xGeeGee/status/2080214801918423436",
-          "summary": "Specified a practical model division of labor: Fable plans, Sol executes, and Fable performs final cleanup; Opus is framed as difficult to return to after guardrail friction."
+          "summary": "Specified a practical model division of labor: Fable plans, Sol executes, and Fable performs final cleanup; Opus is framed as difficult to return to after guardrail friction. A follow-up said lighter models can fit some projects but are a poor downgrade for planning and coordination."
         }
       ]
     },
