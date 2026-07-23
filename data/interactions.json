@@ -3109,5 +3109,20 @@
     "related_urls": [
       "https://x.com/cryppimagic/status/2079971741309210969"
     ]
+  },
+  {
+    "from": "0xGeeGee",
+    "to": "gakonst",
+    "to_kind": "individual",
+    "type": "reply/ai_training_data_double_standard_and_legal_cost",
+    "date": "2026-07-23",
+    "url": "https://x.com/0xGeeGee/status/2080098940922556703",
+    "summary": "Responded to gakonst's critique of 'distillation attack' language after web-scrape pretraining by pointing to a reported $1.5B consequence that week. GeeGee's nearby post makes Anthropic's settlement the likely referent, but the reply itself leaves 'they' implicit and the legal claim was not independently verified.",
+    "quality": "medium",
+    "created_tier2_candidate": true,
+    "related_urls": [
+      "https://x.com/gakonst/status/2079963982698569739",
+      "https://x.com/0xGeeGee/status/2080098820017533218"
+    ]
   }
 ]

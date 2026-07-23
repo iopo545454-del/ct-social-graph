@@ -1196,5 +1196,18 @@
     ],
     "first_seen": "2026-07-22",
     "confidence": "low"
+  },
+  {
+    "handle": "gakonst",
+    "kind": "individual",
+    "status": "candidate",
+    "source": "0xGeeGee reply on AI training-data and distillation double standards",
+    "reason": "0xGeeGee used gakonst's substantive model-distillation/web-scraping argument to add legal-cost context around a reported Anthropic settlement. One concise interaction edge only, so keep as a low-confidence candidate rather than Tier 2.",
+    "evidence_urls": [
+      "https://x.com/0xGeeGee/status/2080098940922556703",
+      "https://x.com/gakonst/status/2079963982698569739"
+    ],
+    "first_seen": "2026-07-23",
+    "confidence": "low"
   }
 ]

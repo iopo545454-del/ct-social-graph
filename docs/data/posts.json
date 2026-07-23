@@ -7588,5 +7588,45 @@
     "related_urls": [
       "https://x.com/cryppimagic/status/2079971741309210969"
     ]
+  },
+  {
+    "date": "2026-07-23",
+    "handle": "0xGeeGee",
+    "type": "authored_post/anthropic_training_data_settlement_attention",
+    "url": "https://x.com/0xGeeGee/status/2080098820017533218",
+    "summary": "Noted limited discussion of Anthropic's settlement that week and suggested approval may already have been treated as expected. A nearby reply to gakonst connected the reported $1.5B consequence to the broader double-standard debate around scraped pretraining data and model distillation. The amount, approval status, and legal characterization are author/thread claims and were not independently verified in this scan.",
+    "entities": [
+      "Anthropic",
+      "AI training data",
+      "web scraping",
+      "model distillation",
+      "copyright settlement"
+    ],
+    "why_logged": "Adds a dated AI legal/economic consequence to 0xGeeGee's existing model-policy, proprietary-data, and vendor-risk evidence.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/0xGeeGee/status/2080098940922556703",
+      "https://x.com/gakonst/status/2079963982698569739"
+    ]
+  },
+  {
+    "date": "2026-07-23",
+    "handle": "0xGeeGee",
+    "type": "reply/ai_training_data_double_standard_and_legal_cost",
+    "url": "https://x.com/0xGeeGee/status/2080098940922556703",
+    "summary": "Replied to gakonst's objection to calling model copying a 'distillation attack' after broad web-scrape pretraining by pointing to a reported $1.5B consequence that week. A nearby authored post identifies Anthropic's settlement as the likely reference, but the reply itself says only 'they'; preserve that attribution uncertainty and treat the legal amount as unverified thread context.",
+    "entities": [
+      "Anthropic",
+      "distillation attacks",
+      "web-scrape pretraining",
+      "AI copyright",
+      "training-data economics"
+    ],
+    "why_logged": "A source-close reply linking AI training-data norms to concrete legal/economic exposure rather than abstract model-policy debate.",
+    "confidence": "medium",
+    "related_urls": [
+      "https://x.com/gakonst/status/2079963982698569739",
+      "https://x.com/0xGeeGee/status/2080098820017533218"
+    ]
   }
 ]
