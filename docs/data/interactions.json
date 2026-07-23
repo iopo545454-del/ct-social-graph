@@ -3124,5 +3124,21 @@
       "https://x.com/gakonst/status/2079963982698569739",
       "https://x.com/0xGeeGee/status/2080098820017533218"
     ]
+  },
+  {
+    "from": "MoneyPrinter0x",
+    "to": "HistoryWick69",
+    "to_kind": "individual",
+    "type": "reply/cashcat_likely_invalidation_and_chart_debt",
+    "date": "2026-07-23",
+    "url": "https://x.com/MoneyPrinter0x/status/2080202407485809094",
+    "summary": "Answered a direct CASHCAT invalidation question by saying the long thesis was likely nearing invalidation because the author-reported $28M spot-sell event had created heavy 'chart debt' that would require a painful hold to overcome. The wallet and selling figures were not independently verified.",
+    "quality": "medium-high",
+    "created_tier2_candidate": false,
+    "related_urls": [
+      "https://x.com/HistoryWick69/status/2080173664331301055",
+      "https://x.com/MoneyPrinter0x/status/2078859915494613001",
+      "https://x.com/MoneyPrinter0x/status/2079440361852985433"
+    ]
   }
 ]

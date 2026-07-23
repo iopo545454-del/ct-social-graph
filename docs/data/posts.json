@@ -7628,5 +7628,65 @@
       "https://x.com/gakonst/status/2079963982698569739",
       "https://x.com/0xGeeGee/status/2080098820017533218"
     ]
+  },
+  {
+    "date": "2026-07-23",
+    "handle": "0xGeeGee",
+    "type": "quote/telegram_zero_click_command_execution_warning",
+    "url": "https://x.com/0xGeeGee/status/2080205498562060428",
+    "summary": "Quoted Chaofan Shou's claim that Kimi K3 performed zero-click arbitrary command execution in Telegram Desktop and the iOS app and added a general warning to be careful with Telegram. The technical details, affected clients, and distance from full RCE come from the quoted source and were not independently verified in this scan.",
+    "entities": [
+      "Telegram Desktop",
+      "Telegram iOS",
+      "Kimi K3",
+      "zero-click command execution",
+      "application security"
+    ],
+    "why_logged": "A fresh security-risk marker adjacent to GeeGee's AI tooling and proprietary-data diligence, kept low-confidence because his own comment was brief and the exploit claim comes from the quoted researcher.",
+    "confidence": "low-medium",
+    "related_urls": [
+      "https://x.com/Fried_rice/status/2080200610985689222"
+    ]
+  },
+  {
+    "date": "2026-07-23",
+    "handle": "MoneyPrinter0x",
+    "type": "reply/cashcat_likely_invalidation_and_chart_debt",
+    "url": "https://x.com/MoneyPrinter0x/status/2080202407485809094",
+    "summary": "Said his CASHCAT long thesis was likely nearing invalidation because the author-reported $28M net spot sell that drove the correction had left too much 'chart debt' to overcome without a painful hold. The $28M figure and its wallet attribution remain screenshot/author claims rather than independently verified onchain data.",
+    "entities": [
+      "CASHCAT",
+      "Robinhood Chain",
+      "position invalidation",
+      "spot selling",
+      "supply overhang",
+      "chart debt"
+    ],
+    "why_logged": "A material reversal in the active CASHCAT tape: the same supply event previously used to justify rebuilding the position is now treated as a likely near-term invalidation burden.",
+    "confidence": "medium-high",
+    "related_urls": [
+      "https://x.com/HistoryWick69/status/2080173664331301055",
+      "https://x.com/MoneyPrinter0x/status/2078859915494613001",
+      "https://x.com/MoneyPrinter0x/status/2079440361852985433"
+    ]
+  },
+  {
+    "date": "2026-07-23",
+    "handle": "0xGeeGee",
+    "type": "authored_post/fable_sol_plan_execute_cleanup_workflow",
+    "url": "https://x.com/0xGeeGee/status/2080214801918423436",
+    "summary": "Specified a three-stage AI workflow: Fable for planning, Sol for execution, then Fable again to clean up low-quality output. He added that encountering guardrails makes returning to Opus difficult, without supplying a task example or benchmark in this post.",
+    "entities": [
+      "Fable",
+      "Sol",
+      "Opus",
+      "multi-model workflow",
+      "planning",
+      "execution",
+      "output refinement",
+      "guardrails"
+    ],
+    "why_logged": "Turns GeeGee's repeated hands-on Fable/Sol comparisons into a concrete division of labor for research and writing workflows.",
+    "confidence": "high"
   }
 ]
